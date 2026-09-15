@@ -44,16 +44,16 @@ uid=0(root) gid=0(root) groups=0(root)
 
 ### `sbd`
 
-官方给出的调用示例：`sbd -l -p 4444 -e bash -v -n`
+> 官方示例调用：`sbd -l -p 4444 -e bash -v -n`
 
 ```text
 root@kali:~# sbd -l -p 4444 -e bash -v -n
 listening on port 4444
 ```
 
-### `sbd（示例）`
+### `sbd 192.168.1.202 4444`
 
-官方给出的调用示例：`sbd 192.168.1.202 4444`
+> 官方示例调用：`sbd 192.168.1.202 4444`
 
 ```text
 root@kali:~# sbd 192.168.1.202 4444
@@ -61,9 +61,9 @@ id
 uid=0(root) gid=0(root) groups=0(root)
 ```
 
-### `sbd（示例）`
+### `sbd -h`
 
-官方给出的调用示例：`sbd -h`
+> 官方示例调用：`sbd -h`
 
 ```text
 root@kali:~# sbd -h

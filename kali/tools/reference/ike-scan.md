@@ -37,7 +37,7 @@ man ike-scan         # 查看手册
 
 ### `ike-scan`
 
-官方给出的调用示例：`ike-scan -h`
+> 官方示例调用：`ike-scan -h`
 
 ```text
 root@kali:~# ike-scan -h
@@ -264,7 +264,7 @@ Options:
 
 ### `psk-crack`
 
-官方给出的调用示例：`psk-crack -h`
+> 官方示例调用：`psk-crack -h`
 
 ```text
 root@kali:~# psk-crack -h

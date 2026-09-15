@@ -37,7 +37,7 @@ man sparrow-wifi         # 查看手册
 
 ### `sparrowwifiagent`
 
-官方给出的调用示例：`sparrowwifiagent -h`
+> 官方示例调用：`sparrowwifiagent -h`
 
 ```text
 root@kali:~# sparrowwifiagent -h

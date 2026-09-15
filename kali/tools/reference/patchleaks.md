@@ -37,7 +37,7 @@ man patchleaks         # 查看手册
 
 ### `PatchLeaks`
 
-官方给出的调用示例：`PatchLeaks -h`
+> 官方示例调用：`PatchLeaks -h`
 
 ```text
 root@kali:~# PatchLeaks -h
@@ -56,7 +56,7 @@ Usage of PatchLeaks:
 
 ### `patchleaks`
 
-官方给出的调用示例：`patchleaks -h`
+> 官方示例调用：`patchleaks -h`
 
 ```text
 root@kali:~# patchleaks -h

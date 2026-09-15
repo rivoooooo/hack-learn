@@ -65,7 +65,7 @@ root@kali:~# sslyze --regular www.example.com
 
 ### `sslyze`
 
-官方给出的调用示例：`sslyze --regular www.example.com`
+> 官方示例调用：`sslyze --regular www.example.com`
 
 ```text
 root@kali:~# sslyze --regular www.example.com
@@ -87,9 +87,9 @@ root@kali:~# sslyze --regular www.example.com
       Validation w/ Mozilla's CA Store:  Certificate is Trusted
 ```
 
-### `sslyze（示例）`
+### `sslyze -h`
 
-官方给出的调用示例：`sslyze -h`
+> 官方示例调用：`sslyze -h`
 
 ```text
 root@kali:~# sslyze -h

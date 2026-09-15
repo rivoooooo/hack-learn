@@ -37,7 +37,7 @@ man expect         # 查看手册
 
 ### `autoexpect`
 
-官方给出的调用示例：`autoexpect -h`
+> 官方示例调用：`autoexpect -h`
 
 ```text
 root@kali:~# autoexpect -h
@@ -47,7 +47,7 @@ autoexpect done, file is script.exp
 
 ### `autopasswd`
 
-官方给出的调用示例：`autopasswd -h`
+> 官方示例调用：`autopasswd -h`
 
 ```text
 root@kali:~# autopasswd -h
@@ -78,7 +78,7 @@ Options:
 
 ### `cryptdir`
 
-官方给出的调用示例：`cryptdir -h`
+> 官方示例调用：`cryptdir -h`
 
 ```text
 root@kali:~# cryptdir -h
@@ -87,7 +87,7 @@ This example requires the mcrypt package.
 
 ### `decryptdir`
 
-官方给出的调用示例：`decryptdir -h`
+> 官方示例调用：`decryptdir -h`
 
 ```text
 root@kali:~# decryptdir -h
@@ -96,7 +96,7 @@ This example requires the mcrypt package.
 
 ### `dislocate`
 
-官方给出的调用示例：`dislocate -h`
+> 官方示例调用：`dislocate -h`
 
 ```text
 root@kali:~# dislocate -h
@@ -119,7 +119,7 @@ bad flag "-h": must be -console, -ignore, -leaveopen, -noecho, -nottycopy, -nott
 
 ### `expect`
 
-官方给出的调用示例：`expect -h`
+> 官方示例调用：`expect -h`
 
 ```text
 root@kali:~# expect -h
@@ -129,7 +129,7 @@ usage: expect [-div] [-c cmds] [[-f] cmdfile] [args]
 
 ### `expect8.6`
 
-官方给出的调用示例：`expect8.6 -h`
+> 官方示例调用：`expect8.6 -h`
 
 ```text
 root@kali:~# expect8.6 -h
@@ -139,7 +139,7 @@ usage: expect [-div] [-c cmds] [[-f] cmdfile] [args]
 
 ### `expect9.0`
 
-官方给出的调用示例：`expect9.0 -h`
+> 官方示例调用：`expect9.0 -h`
 
 ```text
 root@kali:~# expect9.0 -h
@@ -149,7 +149,7 @@ usage: expect [-div] [-c cmds] [[-f] cmdfile] [args]
 
 ### `expect_autoexpect`
 
-官方给出的调用示例：`expect_autoexpect -h`
+> 官方示例调用：`expect_autoexpect -h`
 
 ```text
 root@kali:~# expect_autoexpect -h
@@ -159,7 +159,7 @@ autoexpect done, file is script.exp
 
 ### `expect_autopasswd`
 
-官方给出的调用示例：`expect_autopasswd -h`
+> 官方示例调用：`expect_autopasswd -h`
 
 ```text
 root@kali:~# expect_autopasswd -h

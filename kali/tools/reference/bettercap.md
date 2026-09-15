@@ -147,9 +147,9 @@ Modules
 ↑ 0 B / ↓ 3.2 MB / 11354 pkts / 0 errs
 ```
 
-### `bettercap（示例）`
+### `bettercap -h`
 
-官方给出的调用示例：`bettercap -h`
+> 官方示例调用：`bettercap -h`
 
 ```text
 root@kali:~# bettercap -h

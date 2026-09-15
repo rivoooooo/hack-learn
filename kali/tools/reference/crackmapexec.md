@@ -37,7 +37,7 @@ man crackmapexec         # 查看手册
 
 ### `cmedb`
 
-官方给出的调用示例：`cmedb -h`
+> 官方示例调用：`cmedb -h`
 
 ```text
 root@kali:~# cmedb -h
@@ -46,7 +46,7 @@ root@kali:~# cmedb -h
 
 ### `crackmapexec`
 
-官方给出的调用示例：`crackmapexec -h`
+> 官方示例调用：`crackmapexec -h`
 
 ```text
 root@kali:~# crackmapexec -h

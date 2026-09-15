@@ -123,7 +123,7 @@ CISCO.COM
 
 ### `recon-cli`
 
-官方给出的调用示例：`recon-cli -h`
+> 官方示例调用：`recon-cli -h`
 
 ```text
 root@kali:~# recon-cli -h
@@ -154,9 +154,9 @@ options:
   --analytics       enable analytics reporting. Send analytics to google
 ```
 
-### `recon-ng（示例）`
+### `recon-ng -h`
 
-官方给出的调用示例：`recon-ng -h`
+> 官方示例调用：`recon-ng -h`
 
 ```text
 root@kali:~# recon-ng -h
@@ -180,7 +180,7 @@ options:
 
 ### `recon-web`
 
-官方给出的调用示例：`recon-web -h`
+> 官方示例调用：`recon-web -h`
 
 ```text
 root@kali:~# recon-web -h

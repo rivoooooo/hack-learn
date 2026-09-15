@@ -37,7 +37,7 @@ man havoc         # 查看手册
 
 ### `havoc`
 
-官方给出的调用示例：`havoc -h`
+> 官方示例调用：`havoc -h`
 
 ```text
 root@kali:~# havoc -h

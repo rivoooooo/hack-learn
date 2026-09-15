@@ -37,7 +37,7 @@ man iodine         # 查看手册
 
 ### `iodine`
 
-官方给出的调用示例：`iodine -h`
+> 官方示例调用：`iodine -h`
 
 ```text
 root@kali:~# iodine -h
@@ -68,7 +68,7 @@ topdomain is the FQDN that is delegated to the tunnel endpoint.
 
 ### `iodine-client-start`
 
-官方给出的调用示例：`iodine-client-start -h`
+> 官方示例调用：`iodine-client-start -h`
 
 ```text
 root@kali:~# iodine-client-start -h
@@ -136,7 +136,7 @@ continue_on_error
 
 ### `iodined`
 
-官方给出的调用示例：`iodined -h`
+> 官方示例调用：`iodined -h`
 
 ```text
 root@kali:~# iodined -h

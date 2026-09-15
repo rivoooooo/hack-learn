@@ -37,7 +37,7 @@ man peass         # 查看手册
 
 ### `linpeas`
 
-官方给出的调用示例：`linpeas -h`
+> 官方示例调用：`linpeas -h`
 
 ```text
 root@kali:~# linpeas -h
@@ -56,7 +56,7 @@ root@kali:~# linpeas -h
 
 ### `peass`
 
-官方给出的调用示例：`peass -h`
+> 官方示例调用：`peass -h`
 
 ```text
 root@kali:~# peass -h
@@ -85,7 +85,7 @@ root@kali:~# peass -h
 
 ### `winpeas`
 
-官方给出的调用示例：`winpeas -h`
+> 官方示例调用：`winpeas -h`
 
 ```text
 root@kali:~# winpeas -h

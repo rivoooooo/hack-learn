@@ -36,7 +36,7 @@ man kali-defaults         # 查看手册
 
 ### `kali-deprecated`
 
-官方给出的调用示例：`kali-deprecated -h`
+> 官方示例调用：`kali-deprecated -h`
 
 ```text
 root@kali:~# kali-deprecated -h
@@ -45,7 +45,7 @@ root@kali:~# kali-deprecated -h
 
 ### `kali-service-start`
 
-官方给出的调用示例：`kali-service-start -h`
+> 官方示例调用：`kali-service-start -h`
 
 ```text
 root@kali:~# kali-service-start -h
@@ -272,7 +272,7 @@ Options:
 
 ### `kali-service-stop`
 
-官方给出的调用示例：`kali-service-stop -h`
+> 官方示例调用：`kali-service-stop -h`
 
 ```text
 root@kali:~# kali-service-stop -h
@@ -499,7 +499,7 @@ Options:
 
 ### `kali-setup`
 
-官方给出的调用示例：`kali-setup -h`
+> 官方示例调用：`kali-setup -h`
 
 ```text
 root@kali:~# kali-setup -h

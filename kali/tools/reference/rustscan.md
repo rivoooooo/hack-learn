@@ -37,7 +37,7 @@ man rustscan         # 查看手册
 
 ### `rustscan`
 
-官方给出的调用示例：`rustscan -h`
+> 官方示例调用：`rustscan -h`
 
 ```text
 root@kali:~# rustscan -h

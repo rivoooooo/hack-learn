@@ -37,7 +37,7 @@ man gospider         # 查看手册
 
 ### `gospider`
 
-官方给出的调用示例：`gospider -h`
+> 官方示例调用：`gospider -h`
 
 ```text
 root@kali:~# gospider -h

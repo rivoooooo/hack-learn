@@ -37,7 +37,7 @@ man siparmyknife         # 查看手册
 
 ### `siparmyknife`
 
-官方给出的调用示例：`siparmyknife --help`
+> 官方示例调用：`siparmyknife --help`
 
 ```text
 root@kali:~# siparmyknife --help

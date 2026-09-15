@@ -37,7 +37,7 @@ man zim         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man zim`
+> 官方示例调用：`man zim`
 
 ```text
 root@kali:~# man zim

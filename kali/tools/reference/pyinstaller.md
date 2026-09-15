@@ -37,7 +37,7 @@ man pyinstaller         # 查看手册
 
 ### `pyi-archive_viewer`
 
-官方给出的调用示例：`pyi-archive_viewer -h`
+> 官方示例调用：`pyi-archive_viewer -h`
 
 ```text
 root@kali:~# pyi-archive_viewer -h
@@ -59,7 +59,7 @@ options:
 
 ### `pyi-bindepend`
 
-官方给出的调用示例：`pyi-bindepend -h`
+> 官方示例调用：`pyi-bindepend -h`
 
 ```text
 root@kali:~# pyi-bindepend -h
@@ -79,7 +79,7 @@ options:
 
 ### `pyi-grab_version`
 
-官方给出的调用示例：`pyi-grab_version -h`
+> 官方示例调用：`pyi-grab_version -h`
 
 ```text
 root@kali:~# pyi-grab_version -h
@@ -95,7 +95,7 @@ version resource on any of the executable targets in a PyInstaller .spec file.
 
 ### `pyi-makespec`
 
-官方给出的调用示例：`pyi-makespec -h`
+> 官方示例调用：`pyi-makespec -h`
 
 ```text
 root@kali:~# pyi-makespec -h
@@ -322,7 +322,7 @@ macOS specific options:
 
 ### `pyi-set_version`
 
-官方给出的调用示例：`pyi-set_version -h`
+> 官方示例调用：`pyi-set_version -h`
 
 ```text
 root@kali:~# pyi-set_version -h
@@ -336,7 +336,7 @@ options:
 
 ### `pyinstaller`
 
-官方给出的调用示例：`pyinstaller -h`
+> 官方示例调用：`pyinstaller -h`
 
 ```text
 root@kali:~# pyinstaller -h

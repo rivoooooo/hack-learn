@@ -37,7 +37,7 @@ man xclip         # 查看手册
 
 ### `xclip`
 
-官方给出的调用示例：`xclip -h`
+> 官方示例调用：`xclip -h`
 
 ```text
 root@kali:~# xclip -h
@@ -65,7 +65,7 @@ Report bugs to <
 
 ### `xclip-copyfile`
 
-官方给出的调用示例：`xclip-copyfile --help`
+> 官方示例调用：`xclip-copyfile --help`
 
 ```text
 root@kali:~# xclip-copyfile --help
@@ -77,7 +77,7 @@ tar: Error is not recoverable: exiting now
 
 ### `xclip-cutfile`
 
-官方给出的调用示例：`xclip-cutfile --help`
+> 官方示例调用：`xclip-cutfile --help`
 
 ```text
 root@kali:~# xclip-cutfile --help
@@ -89,7 +89,7 @@ tar: Error is not recoverable: exiting now
 
 ### `xclip-pastefile`
 
-官方给出的调用示例：`xclip-pastefile -h`
+> 官方示例调用：`xclip-pastefile -h`
 
 ```text
 root@kali:~# xclip-pastefile -h

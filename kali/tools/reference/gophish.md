@@ -37,7 +37,7 @@ man gophish         # 查看手册
 
 ### `gophish`
 
-官方给出的调用示例：`gophish -h`
+> 官方示例调用：`gophish -h`
 
 ```text
 root@kali:~# gophish -h
@@ -50,7 +50,7 @@ root@kali:~# gophish -h
 
 ### `gophish-start`
 
-官方给出的调用示例：`gophish-start -h`
+> 官方示例调用：`gophish-start -h`
 
 ```text
 root@kali:~# gophish-start -h
@@ -68,7 +68,7 @@ root@kali:~# gophish-start -h
 
 ### `gophish-stop`
 
-官方给出的调用示例：`gophish-stop -h`
+> 官方示例调用：`gophish-stop -h`
 
 ```text
 root@kali:~# gophish-stop -h

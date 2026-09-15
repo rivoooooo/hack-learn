@@ -43,7 +43,7 @@ Starting Dictionary Attack (<space> for stats, Q for quit) ...
 
 ### `sidguess`
 
-官方给出的调用示例：`sidguess -i 192.168.1.205 -d /usr/share/wordlists/metasploit/unix_users.txt`
+> 官方示例调用：`sidguess -i 192.168.1.205 -d /usr/share/wordlists/metasploit/unix_users.txt`
 
 ```text
 root@kali:~# sidguess -i 192.168.1.205 -d /usr/share/wordlists/metasploit/unix_users.txt
@@ -53,9 +53,9 @@ SIDGuesser v1.0.5 by
 Starting Dictionary Attack (<space> for stats, Q for quit) ...
 ```
 
-### `sidguess（示例）`
+### `sidguess -h`
 
-官方给出的调用示例：`sidguess -h`
+> 官方示例调用：`sidguess -h`
 
 ```text
 root@kali:~# sidguess -h

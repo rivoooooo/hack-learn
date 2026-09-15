@@ -37,7 +37,7 @@ man cilium-cli         # 查看手册
 
 ### `cilium`
 
-官方给出的调用示例：`cilium -h`
+> 官方示例调用：`cilium -h`
 
 ```text
 root@kali:~# cilium -h

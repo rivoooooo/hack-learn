@@ -36,7 +36,7 @@ man ligolo-ng-common-binaries         # 查看手册
 
 ### `ligolo-ng-common-binaries`
 
-官方给出的调用示例：`ligolo-ng-common-binaries -h`
+> 官方示例调用：`ligolo-ng-common-binaries -h`
 
 ```text
 root@kali:~# ligolo-ng-common-binaries -h

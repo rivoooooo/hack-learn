@@ -64,7 +64,7 @@ Creation Time: 2014-05-16 11:15:55
 
 ### `dumpzilla`
 
-官方给出的调用示例：`dumpzilla '/root/.mozilla/firefox/k780shir.default/' --All`
+> 官方示例调用：`dumpzilla '/root/.mozilla/firefox/k780shir.default/' --All`
 
 ```text
 root@kali:~# dumpzilla '/root/.mozilla/firefox/k780shir.default/' --All
@@ -91,9 +91,9 @@ Last acess: 2014-05-16 11:15:55
 Creation Time: 2014-05-16 11:15:55
 ```
 
-### `dumpzilla（示例）`
+### `dumpzilla -h`
 
-官方给出的调用示例：`dumpzilla -h`
+> 官方示例调用：`dumpzilla -h`
 
 ```text
 root@kali:~# dumpzilla -h

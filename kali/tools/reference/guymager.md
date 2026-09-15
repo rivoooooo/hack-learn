@@ -37,7 +37,7 @@ guymager
 
 ### `man`
 
-官方给出的调用示例：`man guymager`
+> 官方示例调用：`man guymager`
 
 ```text
 root@kali:~# man guymager

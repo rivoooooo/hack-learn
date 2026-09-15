@@ -37,7 +37,7 @@ man sploitscan         # 查看手册
 
 ### `sploitscan`
 
-官方给出的调用示例：`sploitscan -h`
+> 官方示例调用：`sploitscan -h`
 
 ```text
 root@kali:~# sploitscan -h

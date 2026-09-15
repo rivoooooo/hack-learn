@@ -37,7 +37,7 @@ man hoaxshell         # 查看手册
 
 ### `hoaxshell`
 
-官方给出的调用示例：`hoaxshell -h`
+> 官方示例调用：`hoaxshell -h`
 
 ```text
 root@kali:~# hoaxshell -h

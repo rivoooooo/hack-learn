@@ -37,7 +37,7 @@ man rsakeyfind         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man rsakeyfind`
+> 官方示例调用：`man rsakeyfind`
 
 ```text
 root@kali:~# man rsakeyfind

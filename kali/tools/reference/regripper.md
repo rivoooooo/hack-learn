@@ -37,7 +37,7 @@ regripper
 
 ### `regripper`
 
-官方给出的调用示例：`regripper -h`
+> 官方示例调用：`regripper -h`
 
 ```text
 root@kali:~# regripper -h

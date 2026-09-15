@@ -37,7 +37,7 @@ man subjack         # 查看手册
 
 ### `subjack`
 
-官方给出的调用示例：`subjack -h`
+> 官方示例调用：`subjack -h`
 
 ```text
 root@kali:~# subjack -h

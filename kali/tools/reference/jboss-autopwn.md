@@ -42,7 +42,7 @@ root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
 
 ### `jboss-linux`
 
-官方给出的调用示例：`jboss-linux 192.168.1.200 8080 2> /dev/null`
+> 官方示例调用：`jboss-linux 192.168.1.200 8080 2> /dev/null`
 
 ```text
 root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
@@ -54,23 +54,9 @@ root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
  /dev/null):
 ```
 
-### `jboss-linux（示例）`
+### `jboss-linux 192.168.1.200 8080 2> /dev/null`
 
-官方给出的调用示例：`jboss-linux 192.168.1.200 8080 2> /dev/null`
-
-```text
-root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
-[x] Retrieving cookie
-[x] Now creating BSH script...
-[!] Cound not create BSH script..
-[x] Now deploying .war file:
-">
- /dev/null):
-```
-
-### `jboss-linux（示例）`
-
-官方给出的调用示例：`jboss-linux 192.168.1.200 8080 2> /dev/null`
+> 官方示例调用：`jboss-linux 192.168.1.200 8080 2> /dev/null`
 
 ```text
 root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
@@ -82,9 +68,23 @@ root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
  /dev/null):
 ```
 
-### `jboss-linux（示例）`
+### `jboss-linux 192.168.1.200 8080 2> /dev/null`
 
-官方给出的调用示例：`jboss-linux 192.168.1.200 8080 2> /dev/null`
+> 官方示例调用：`jboss-linux 192.168.1.200 8080 2> /dev/null`
+
+```text
+root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
+[x] Retrieving cookie
+[x] Now creating BSH script...
+[!] Cound not create BSH script..
+[x] Now deploying .war file:
+">
+ /dev/null):
+```
+
+### `jboss-linux 192.168.1.200 8080 2> /dev/null`
+
+> 官方示例调用：`jboss-linux 192.168.1.200 8080 2> /dev/null`
 
 ```text
 root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
@@ -125,9 +125,9 @@ Partnerships
 Contact Us
 ```
 
-### `jboss-linux（示例）`
+### `jboss-linux 192.168.1.200 8080 2> /dev/null`
 
-官方给出的调用示例：`jboss-linux 192.168.1.200 8080 2> /dev/null`
+> 官方示例调用：`jboss-linux 192.168.1.200 8080 2> /dev/null`
 
 ```text
 root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
@@ -137,9 +137,9 @@ root@kali:~# jboss-linux 192.168.1.200 8080 2> /dev/null
 [x] Now deploying .war file:
 ```
 
-### `jboss-linux（示例）`
+### `jboss-linux -h`
 
-官方给出的调用示例：`jboss-linux -h`
+> 官方示例调用：`jboss-linux -h`
 
 ```text
 root@kali:~# jboss-linux -h
@@ -231,7 +231,7 @@ hyphens in port names must be backslash escaped (e.g. 'ftp\-data').
 
 ### `jboss-win`
 
-官方给出的调用示例：`jboss-win -h`
+> 官方示例调用：`jboss-win -h`
 
 ```text
 root@kali:~# jboss-win -h

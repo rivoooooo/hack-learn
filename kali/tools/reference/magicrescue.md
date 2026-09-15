@@ -37,7 +37,7 @@ man magicrescue         # 查看手册
 
 ### `dupemap`
 
-官方给出的调用示例：`dupemap -h`
+> 官方示例调用：`dupemap -h`
 
 ```text
 root@kali:~# dupemap -h
@@ -52,7 +52,7 @@ Options:
 
 ### `magicrescue`
 
-官方给出的调用示例：`magicrescue -h`
+> 官方示例调用：`magicrescue -h`
 
 ```text
 root@kali:~# magicrescue -h
@@ -68,7 +68,7 @@ Usage: magicrescue [-I FILE] [-M MODE] [-O [+-=][0x]OFFSET] [-b BLOCKSIZE]
 
 ### `magicsort`
 
-官方给出的调用示例：`magicsort -h`
+> 官方示例调用：`magicsort -h`
 
 ```text
 root@kali:~# magicsort -h

@@ -37,7 +37,7 @@ man gdisk         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man cgdisk`
+> 官方示例调用：`man cgdisk`
 
 ```text
 root@kali:~# man cgdisk
@@ -262,9 +262,9 @@ BUGS
             (The limit of 128 partitions was chosen because that number  equals
 ```
 
-### `man（示例）`
+### `man fixparts`
 
-官方给出的调用示例：`man fixparts`
+> 官方示例调用：`man fixparts`
 
 ```text
 root@kali:~# man fixparts
@@ -467,7 +467,7 @@ Roderick W. Smith                    1.0.10                         FIXPARTS(8)
 
 ### `gdisk`
 
-官方给出的调用示例：`gdisk -h`
+> 官方示例调用：`gdisk -h`
 
 ```text
 root@kali:~# gdisk -h
@@ -476,7 +476,7 @@ GPT fdisk (gdisk) version 1.0.10
 
 ### `sgdisk`
 
-官方给出的调用示例：`sgdisk --help`
+> 官方示例调用：`sgdisk --help`
 
 ```text
 root@kali:~# sgdisk --help

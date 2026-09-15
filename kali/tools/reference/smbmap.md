@@ -47,7 +47,7 @@ root@kali:~# smbmap -u victim -p s3cr3t -H 192.168.86.61
 
 ### `smbmap`
 
-官方给出的调用示例：`smbmap -u victim -p s3cr3t -H 192.168.86.61`
+> 官方示例调用：`smbmap -u victim -p s3cr3t -H 192.168.86.61`
 
 ```text
 root@kali:~# smbmap -u victim -p s3cr3t -H 192.168.86.61
@@ -62,9 +62,9 @@ root@kali:~# smbmap -u victim -p s3cr3t -H 192.168.86.61
     Users                                               READ ONLY
 ```
 
-### `smbmap（示例）`
+### `smbmap -h`
 
-官方给出的调用示例：`smbmap -h`
+> 官方示例调用：`smbmap -h`
 
 ```text
 root@kali:~# smbmap -h

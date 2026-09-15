@@ -50,7 +50,7 @@ root@kali:~# sfuzz -S 192.168.1.1 -p 10443 -T -f /usr/share/sfuzz/sfuzz-sample/b
 
 ### `sfuzz`
 
-官方给出的调用示例：`sfuzz -S 192.168.1.1 -p 10443 -T -f /usr/share/sfuzz/sfuzz-sample/basic.http`
+> 官方示例调用：`sfuzz -S 192.168.1.1 -p 10443 -T -f /usr/share/sfuzz/sfuzz-sample/basic.http`
 
 ```text
 root@kali:~# sfuzz -S 192.168.1.1 -p 10443 -T -f /usr/share/sfuzz/sfuzz-sample/basic.http
@@ -70,7 +70,7 @@ root@kali:~# sfuzz -S 192.168.1.1 -p 10443 -T -f /usr/share/sfuzz/sfuzz-sample/b
 
 ### `sfo`
 
-官方给出的调用示例：`sfo -h`
+> 官方示例调用：`sfo -h`
 
 ```text
 root@kali:~# sfo -h
@@ -191,9 +191,9 @@ root@kali:~# sfo -h
 [SFUZZ-ORACLE] attached [68053
 ```
 
-### `sfuzz（示例）`
+### `sfuzz -h`
 
-官方给出的调用示例：`sfuzz -h`
+> 官方示例调用：`sfuzz -h`
 
 ```text
 root@kali:~# sfuzz -h

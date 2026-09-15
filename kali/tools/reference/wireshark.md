@@ -37,7 +37,7 @@ man libwireshark-data         # 查看手册
 
 ### `tshark`
 
-官方给出的调用示例：`tshark -f "tcp port 80" -i eth0`
+> 官方示例调用：`tshark -f "tcp port 80" -i eth0`
 
 ```text
 root@kali:~# tshark -f "tcp port 80" -i eth0
@@ -45,7 +45,7 @@ root@kali:~# tshark -f "tcp port 80" -i eth0
 
 ### `strato`
 
-官方给出的调用示例：`strato -h`
+> 官方示例调用：`strato -h`
 
 ```text
 root@kali:~# strato -h
@@ -184,7 +184,7 @@ Note that this can make your system less secure!
 
 ### `stratoshark`
 
-官方给出的调用示例：`stratoshark -h`
+> 官方示例调用：`stratoshark -h`
 
 ```text
 root@kali:~# stratoshark -h
@@ -289,9 +289,9 @@ Miscellaneous:
   --fullscreen             start Stratoshark in full screen
 ```
 
-### `tshark（示例）`
+### `tshark -h`
 
-官方给出的调用示例：`tshark -h`
+> 官方示例调用：`tshark -h`
 
 ```text
 root@kali:~# tshark -h
@@ -467,7 +467,7 @@ Note that this can make your system less secure!
 
 ### `wireshark`
 
-官方给出的调用示例：`wireshark -h`
+> 官方示例调用：`wireshark -h`
 
 ```text
 root@kali:~# wireshark -h
@@ -581,7 +581,7 @@ Miscellaneous:
 
 ### `capinfos`
 
-官方给出的调用示例：`capinfos -h`
+> 官方示例调用：`capinfos -h`
 
 ```text
 root@kali:~# capinfos -h
@@ -644,7 +644,7 @@ output format.
 
 ### `captype`
 
-官方给出的调用示例：`captype -h`
+> 官方示例调用：`captype -h`
 
 ```text
 root@kali:~# captype -h
@@ -659,7 +659,7 @@ Miscellaneous:
 
 ### `dumpcap`
 
-官方给出的调用示例：`dumpcap -h`
+> 官方示例调用：`dumpcap -h`
 
 ```text
 root@kali:~# dumpcap -h
@@ -757,7 +757,7 @@ Use Ctrl-C to stop capturing at any time.
 
 ### `editcap`
 
-官方给出的调用示例：`editcap -h`
+> 官方示例调用：`editcap -h`
 
 ```text
 root@kali:~# editcap -h
@@ -891,7 +891,7 @@ Miscellaneous:
 
 ### `mergecap`
 
-官方给出的调用示例：`mergecap -h`
+> 官方示例调用：`mergecap -h`
 
 ```text
 root@kali:~# mergecap -h

@@ -37,7 +37,7 @@ man sherlock         # 查看手册
 
 ### `sherlock`
 
-官方给出的调用示例：`sherlock -h`
+> 官方示例调用：`sherlock -h`
 
 ```text
 root@kali:~# sherlock -h

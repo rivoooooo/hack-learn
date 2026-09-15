@@ -37,7 +37,7 @@ man unicorn-magic         # 查看手册
 
 ### `unicorn-magic`
 
-官方给出的调用示例：`unicorn-magic --help`
+> 官方示例调用：`unicorn-magic --help`
 
 ```text
 root@kali:~# unicorn-magic --help

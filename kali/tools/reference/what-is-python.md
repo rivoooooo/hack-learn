@@ -35,7 +35,7 @@ man python-dev-is-python3         # 查看手册
 
 ### `pdb`
 
-官方给出的调用示例：`pdb -h`
+> 官方示例调用：`pdb -h`
 
 ```text
 root@kali:~# pdb -h
@@ -58,7 +58,7 @@ options:
 
 ### `python-config`
 
-官方给出的调用示例：`python-config --help`
+> 官方示例调用：`python-config --help`
 
 ```text
 root@kali:~# python-config --help
@@ -67,7 +67,7 @@ Usage: /usr/bin/python-config --prefix|--exec-prefix|--includes|--libs|--cflags|
 
 ### `pydoc`
 
-官方给出的调用示例：`pydoc -h`
+> 官方示例调用：`pydoc -h`
 
 ```text
 root@kali:~# pydoc -h
@@ -98,7 +98,7 @@ pydoc -w <name> ...
 
 ### `python`
 
-官方给出的调用示例：`python -h`
+> 官方示例调用：`python -h`
 
 ```text
 root@kali:~# python -h

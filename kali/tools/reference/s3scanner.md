@@ -37,7 +37,7 @@ man s3scanner         # 查看手册
 
 ### `s3scanner`
 
-官方给出的调用示例：`s3scanner -h`
+> 官方示例调用：`s3scanner -h`
 
 ```text
 root@kali:~# s3scanner -h

@@ -37,7 +37,7 @@ man ivre         # 查看手册
 
 ### `ivre`
 
-官方给出的调用示例：`ivre -h`
+> 官方示例调用：`ivre -h`
 
 ```text
 root@kali:~# ivre -h

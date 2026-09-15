@@ -41,7 +41,7 @@ root@kali:~# inspy --techspy /usr/share/inspy/wordlists/tech-list-small.txt cisc
 
 ### `inspy`
 
-官方给出的调用示例：`inspy --empspy /usr/share/inspy/wordlists/title-list-large.txt google`
+> 官方示例调用：`inspy --empspy /usr/share/inspy/wordlists/title-list-large.txt google`
 
 ```text
 root@kali:~# inspy --empspy /usr/share/inspy/wordlists/title-list-large.txt google
@@ -54,17 +54,17 @@ cisco
 ).
 ```
 
-### `inspy（示例）`
+### `inspy --techspy /usr/share/inspy/wordlists/tech-list-smal…`
 
-官方给出的调用示例：`inspy --techspy /usr/share/inspy/wordlists/tech-list-small.txt cisco`
+> 官方示例调用：`inspy --techspy /usr/share/inspy/wordlists/tech-list-small.txt cisco`
 
 ```text
 root@kali:~# inspy --techspy /usr/share/inspy/wordlists/tech-list-small.txt cisco
 ```
 
-### `inspy（示例）`
+### `inspy -h`
 
-官方给出的调用示例：`inspy -h`
+> 官方示例调用：`inspy -h`
 
 ```text
 root@kali:~# inspy -h

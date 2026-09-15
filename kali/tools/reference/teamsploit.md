@@ -37,7 +37,7 @@ man teamsploit         # 查看手册
 
 ### `teamsploit`
 
-官方给出的调用示例：`teamsploit -h`
+> 官方示例调用：`teamsploit -h`
 
 ```text
 root@kali:~# teamsploit -h

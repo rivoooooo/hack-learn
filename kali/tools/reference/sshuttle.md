@@ -36,7 +36,7 @@ man sshuttle         # 查看手册
 
 ### `sshuttle`
 
-官方给出的调用示例：`sshuttle -h`
+> 官方示例调用：`sshuttle -h`
 
 ```text
 root@kali:~# sshuttle -h

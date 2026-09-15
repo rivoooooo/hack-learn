@@ -37,7 +37,7 @@ man wordlistraider         # 查看手册
 
 ### `wordlistraider`
 
-官方给出的调用示例：`wordlistraider -h`
+> 官方示例调用：`wordlistraider -h`
 
 ```text
 root@kali:~# wordlistraider -h

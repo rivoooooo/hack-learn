@@ -37,7 +37,7 @@ man spiderfoot         # 查看手册
 
 ### `spiderfoot`
 
-官方给出的调用示例：`spiderfoot -h`
+> 官方示例调用：`spiderfoot -h`
 
 ```text
 root@kali:~# spiderfoot -h
@@ -83,7 +83,7 @@ options:
 
 ### `spiderfoot-cli`
 
-官方给出的调用示例：`spiderfoot-cli -h`
+> 官方示例调用：`spiderfoot-cli -h`
 
 ```text
 root@kali:~# spiderfoot-cli -h

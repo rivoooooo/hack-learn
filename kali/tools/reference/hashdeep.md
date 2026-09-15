@@ -37,7 +37,7 @@ man hashdeep         # 查看手册
 
 ### `hashdeep`
 
-官方给出的调用示例：`hashdeep -h`
+> 官方示例调用：`hashdeep -h`
 
 ```text
 root@kali:~# hashdeep -h
@@ -67,7 +67,7 @@ $ hashdeep [OPTION]... [FILES]...
 
 ### `md5deep`
 
-官方给出的调用示例：`md5deep -h`
+> 官方示例调用：`md5deep -h`
 
 ```text
 root@kali:~# md5deep -h
@@ -97,7 +97,7 @@ See the man page or README.txt file or use -hh for the full list of options
 
 ### `sha1deep`
 
-官方给出的调用示例：`sha1deep -h`
+> 官方示例调用：`sha1deep -h`
 
 ```text
 root@kali:~# sha1deep -h
@@ -127,7 +127,7 @@ See the man page or README.txt file or use -hh for the full list of options
 
 ### `sha256deep`
 
-官方给出的调用示例：`sha256deep -h`
+> 官方示例调用：`sha256deep -h`
 
 ```text
 root@kali:~# sha256deep -h
@@ -157,7 +157,7 @@ See the man page or README.txt file or use -hh for the full list of options
 
 ### `tigerdeep`
 
-官方给出的调用示例：`tigerdeep -h`
+> 官方示例调用：`tigerdeep -h`
 
 ```text
 root@kali:~# tigerdeep -h
@@ -187,7 +187,7 @@ See the man page or README.txt file or use -hh for the full list of options
 
 ### `whirlpooldeep`
 
-官方给出的调用示例：`whirlpooldeep -h`
+> 官方示例调用：`whirlpooldeep -h`
 
 ```text
 root@kali:~# whirlpooldeep -h

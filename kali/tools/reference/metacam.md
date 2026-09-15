@@ -37,7 +37,7 @@ man metacam         # 查看手册
 
 ### `metacam`
 
-官方给出的调用示例：`metacam -h`
+> 官方示例调用：`metacam -h`
 
 ```text
 root@kali:~# metacam -h

@@ -37,7 +37,7 @@ man net-tools         # 查看手册
 
 ### `arp`
 
-官方给出的调用示例：`arp -h`
+> 官方示例调用：`arp -h`
 
 ```text
 root@kali:~# arp -h
@@ -63,7 +63,7 @@ Usage:
 
 ### `ifconfig`
 
-官方给出的调用示例：`ifconfig -h`
+> 官方示例调用：`ifconfig -h`
 
 ```text
 root@kali:~# ifconfig -h
@@ -90,7 +90,7 @@ Usage:
 
 ### `ipmaddr`
 
-官方给出的调用示例：`ipmaddr -h`
+> 官方示例调用：`ipmaddr -h`
 
 ```text
 root@kali:~# ipmaddr -h
@@ -101,7 +101,7 @@ Usage: ipmaddr [ add | del ] MULTIADDR dev STRING
 
 ### `iptunnel`
 
-官方给出的调用示例：`iptunnel -h`
+> 官方示例调用：`iptunnel -h`
 
 ```text
 root@kali:~# iptunnel -h
@@ -119,7 +119,7 @@ Where: NAME := STRING
 
 ### `mii-tool`
 
-官方给出的调用示例：`mii-tool -h`
+> 官方示例调用：`mii-tool -h`
 
 ```text
 root@kali:~# mii-tool -h
@@ -142,7 +142,7 @@ media: 1000baseTx-HD, 1000baseTx-FD,
 
 ### `nameif`
 
-官方给出的调用示例：`nameif -h`
+> 官方示例调用：`nameif -h`
 
 ```text
 root@kali:~# nameif -h
@@ -151,7 +151,7 @@ usage: nameif [-c configurationfile] [-s] {ifname macaddress}
 
 ### `netstat`
 
-官方给出的调用示例：`netstat -h`
+> 官方示例调用：`netstat -h`
 
 ```text
 root@kali:~# netstat -h
@@ -187,7 +187,7 @@ usage: netstat [-vWeenNcCF] [<Af>] -r         netstat {-V|--version|-h|--help}
 
 ### `plipconfig`
 
-官方给出的调用示例：`plipconfig -h`
+> 官方示例调用：`plipconfig -h`
 
 ```text
 root@kali:~# plipconfig -h
@@ -198,7 +198,7 @@ Usage: plipconfig interface [nibble NN] [trigger NN]
 
 ### `rarp`
 
-官方给出的调用示例：`rarp -h`
+> 官方示例调用：`rarp -h`
 
 ```text
 root@kali:~# rarp -h
@@ -213,7 +213,7 @@ Usage: rarp -a                               list entries in cache.
 
 ### `route`
 
-官方给出的调用示例：`route -h`
+> 官方示例调用：`route -h`
 
 ```text
 root@kali:~# route -h

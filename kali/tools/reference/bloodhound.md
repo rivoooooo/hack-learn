@@ -45,7 +45,7 @@ This will initialize the necessary services and configurations.
 
 ### `bloodhound`
 
-官方给出的调用示例：`bloodhound -h`
+> 官方示例调用：`bloodhound -h`
 
 ```text
 root@kali:~# bloodhound -h
@@ -58,7 +58,7 @@ root@kali:~# bloodhound -h
 
 ### `bloodhound-setup`
 
-官方给出的调用示例：`bloodhound-setup -h`
+> 官方示例调用：`bloodhound-setup -h`
 
 ```text
 root@kali:~# bloodhound-setup -h
@@ -70,7 +70,7 @@ User _bloodhound already exists in PostgreSQL
 
 ### `bloodhound-start`
 
-官方给出的调用示例：`bloodhound-start -h`
+> 官方示例调用：`bloodhound-start -h`
 
 ```text
 root@kali:~# bloodhound-start -h
@@ -80,7 +80,7 @@ Please run bloodhound-setup first
 
 ### `bloodhound-stop`
 
-官方给出的调用示例：`bloodhound-stop -h`
+> 官方示例调用：`bloodhound-stop -h`
 
 ```text
 root@kali:~# bloodhound-stop -h

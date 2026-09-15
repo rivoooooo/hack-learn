@@ -37,7 +37,7 @@ man xsrfprobe         # 查看手册
 
 ### `xsrfprobe`
 
-官方给出的调用示例：`xsrfprobe -h`
+> 官方示例调用：`xsrfprobe -h`
 
 ```text
 root@kali:~# xsrfprobe -h

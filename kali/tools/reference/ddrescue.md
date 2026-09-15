@@ -50,7 +50,7 @@ dd_rescue: (info): ipos:      1767.0k, opos:      1767.0k, xferd:      1767.0k
 
 ### `dd_rescue`
 
-官方给出的调用示例：`dd_rescue -s 100 /var/log/messages -S 0 /tmp/ddrescue-out`
+> 官方示例调用：`dd_rescue -s 100 /var/log/messages -S 0 /tmp/ddrescue-out`
 
 ```text
 root@kali:~# dd_rescue -s 100 /var/log/messages -S 0 /tmp/ddrescue-out
@@ -68,9 +68,9 @@ dd_rescue: (info): ipos:      1767.0k, opos:      1767.0k, xferd:      1767.0k
              >.......................-................-< 100%  ETA:  0:00:00
 ```
 
-### `dd_rescue（示例）`
+### `dd_rescue -h`
 
-官方给出的调用示例：`dd_rescue -h`
+> 官方示例调用：`dd_rescue -h`
 
 ```text
 root@kali:~# dd_rescue -h

@@ -37,7 +37,7 @@ man dirsearch         # 查看手册
 
 ### `dirsearch`
 
-官方给出的调用示例：`dirsearch -h`
+> 官方示例调用：`dirsearch -h`
 
 ```text
 root@kali:~# dirsearch -h

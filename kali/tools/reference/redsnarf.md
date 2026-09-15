@@ -37,7 +37,7 @@ man redsnarf         # 查看手册
 
 ### `redsnarf`
 
-官方给出的调用示例：`redsnarf -h`
+> 官方示例调用：`redsnarf -h`
 
 ```text
 root@kali:~# redsnarf -h

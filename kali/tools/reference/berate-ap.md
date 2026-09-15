@@ -37,7 +37,7 @@ man berate-ap         # 查看手册
 
 ### `berate_ap`
 
-官方给出的调用示例：`berate_ap -h`
+> 官方示例调用：`berate_ap -h`
 
 ```text
 root@kali:~# berate_ap -h

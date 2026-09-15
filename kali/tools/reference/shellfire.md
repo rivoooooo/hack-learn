@@ -37,7 +37,7 @@ man shellfire         # 查看手册
 
 ### `shellfire`
 
-官方给出的调用示例：`shellfire -h`
+> 官方示例调用：`shellfire -h`
 
 ```text
 root@kali:~# shellfire -h

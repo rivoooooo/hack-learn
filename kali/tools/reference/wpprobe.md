@@ -37,7 +37,7 @@ man wpprobe         # 查看手册
 
 ### `wpprobe`
 
-官方给出的调用示例：`wpprobe -h`
+> 官方示例调用：`wpprobe -h`
 
 ```text
 root@kali:~# wpprobe -h

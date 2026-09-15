@@ -37,7 +37,7 @@ man golang-k8s-sigs-kustomize-dev         # 查看手册
 
 ### `kustomize`
 
-官方给出的调用示例：`kustomize -h`
+> 官方示例调用：`kustomize -h`
 
 ```text
 root@kali:~# kustomize -h

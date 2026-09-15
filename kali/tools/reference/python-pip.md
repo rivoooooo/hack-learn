@@ -37,7 +37,7 @@ man python3-pip         # 查看手册
 
 ### `pip`
 
-官方给出的调用示例：`pip -h`
+> 官方示例调用：`pip -h`
 
 ```text
 root@kali:~# pip -h
@@ -122,7 +122,7 @@ General Options:
 
 ### `pip3`
 
-官方给出的调用示例：`pip3 -h`
+> 官方示例调用：`pip3 -h`
 
 ```text
 root@kali:~# pip3 -h

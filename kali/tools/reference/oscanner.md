@@ -43,7 +43,7 @@ Oracle Scanner 1.0.6 by patrik@cqure.net
 
 ### `oscanner`
 
-官方给出的调用示例：`oscanner -s 192.168.1.15 -P 1040`
+> 官方示例调用：`oscanner -s 192.168.1.15 -P 1040`
 
 ```text
 root@kali:~# oscanner -s 192.168.1.15 -P 1040
@@ -55,9 +55,9 @@ Oracle Scanner 1.0.6 by
 [-] Loading services/sids from service file
 ```
 
-### `oscanner（示例）`
+### `oscanner -h`
 
-官方给出的调用示例：`oscanner -h`
+> 官方示例调用：`oscanner -h`
 
 ```text
 root@kali:~# oscanner -h

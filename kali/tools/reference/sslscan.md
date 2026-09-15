@@ -37,7 +37,7 @@ man sslscan         # 查看手册
 
 ### `sslscan`
 
-官方给出的调用示例：`sslscan -h`
+> 官方示例调用：`sslscan -h`
 
 ```text
 root@kali:~# sslscan -h

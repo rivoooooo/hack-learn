@@ -37,7 +37,7 @@ man gr-osmosdr         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man osmocom_fft`
+> 官方示例调用：`man osmocom_fft`
 
 ```text
 root@kali:~# man osmocom_fft
@@ -214,7 +214,7 @@ OSMOCOM                           October 2013                   osmocom_fft(1)
 
 ### `osmocom_siggen_nogui`
 
-官方给出的调用示例：`osmocom_siggen_nogui -h`
+> 官方示例调用：`osmocom_siggen_nogui -h`
 
 ```text
 root@kali:~# osmocom_siggen_nogui -h

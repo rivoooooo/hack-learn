@@ -61,7 +61,7 @@ http://www.bing.com/widget/render 200 OK
 
 ### `parsero`
 
-官方给出的调用示例：`parsero -u www.bing.com -sb`
+> 官方示例调用：`parsero -u www.bing.com -sb`
 
 ```text
 root@kali:~# parsero -u www.bing.com -sb
@@ -88,9 +88,9 @@ http://www.bing.com/shenghuo 301 Moved Permanently
 http://www.bing.com/widget/render 200 OK
 ```
 
-### `parsero（示例）`
+### `parsero -h`
 
-官方给出的调用示例：`parsero -h`
+> 官方示例调用：`parsero -h`
 
 ```text
 root@kali:~# parsero -h

@@ -38,7 +38,7 @@ root@kali:~# mitmproxy -p 2139
 
 ### `mitmproxy`
 
-官方给出的调用示例：`mitmproxy -p 2139`
+> 官方示例调用：`mitmproxy -p 2139`
 
 ```text
 root@kali:~# mitmproxy -p 2139
@@ -46,7 +46,7 @@ root@kali:~# mitmproxy -p 2139
 
 ### `mitmdump`
 
-官方给出的调用示例：`mitmdump -h`
+> 官方示例调用：`mitmdump -h`
 
 ```text
 root@kali:~# mitmdump -h
@@ -236,9 +236,9 @@ Modify Headers:
                         header-name headers. May be passed multiple times.
 ```
 
-### `mitmproxy（示例）`
+### `mitmproxy -h`
 
-官方给出的调用示例：`mitmproxy -h`
+> 官方示例调用：`mitmproxy -h`
 
 ```text
 root@kali:~# mitmproxy -h
@@ -429,7 +429,7 @@ Filters:
 
 ### `mitmweb`
 
-官方给出的调用示例：`mitmweb -h`
+> 官方示例调用：`mitmweb -h`
 
 ```text
 root@kali:~# mitmweb -h

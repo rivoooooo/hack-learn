@@ -37,7 +37,7 @@ man odat         # 查看手册
 
 ### `odat`
 
-官方给出的调用示例：`odat -h`
+> 官方示例调用：`odat -h`
 
 ```text
 root@kali:~# odat -h

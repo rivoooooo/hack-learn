@@ -80,7 +80,7 @@ TCP open               https[  443]     from 192.168.0.102  ttl 128
 TCP open        microsoft-ds[  445]     from 192.168.0.102  ttl 128
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -104,7 +104,7 @@ TCP open               https[  443]     from 192.168.0.102  ttl 128
 TCP open        microsoft-ds[  445]     from 192.168.0.102  ttl 128
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -128,7 +128,7 @@ TCP open               https[  443]     from 192.168.0.102  ttl 128
 TCP open        microsoft-ds[  445]     from 192.168.0.102  ttl 128
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -167,7 +167,7 @@ Contact Us
 
 ### `unicornscan`
 
-官方给出的调用示例：`unicornscan -mTsf -Iv -r 1000 192.168.0.102:a`
+> 官方示例调用：`unicornscan -mTsf -Iv -r 1000 192.168.0.102:a`
 
 ```text
 root@kali:~# unicornscan -mTsf -Iv -r 1000 192.168.0.102:a
@@ -193,7 +193,7 @@ TCP open               https[  443]     from 192.168.0.102  ttl 128
 TCP open        microsoft-ds[  445]     from 192.168.0.102  ttl 128
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -201,7 +201,7 @@ root@kali:~#
 
 ### `fantaip`
 
-官方给出的调用示例：`fantaip -h`
+> 官方示例调用：`fantaip -h`
 
 ```text
 root@kali:~# fantaip -h
@@ -218,7 +218,7 @@ Example: fantaip -i eth0 192.168.1.7
 
 ### `unibrow`
 
-官方给出的调用示例：`unibrow --help`
+> 官方示例调用：`unibrow --help`
 
 ```text
 root@kali:~# unibrow --help
@@ -232,9 +232,9 @@ Usage: unibrow:
 pcap filter expression follows options, like unibrow -o new.conf -i file.pcap port 500 and udp
 ```
 
-### `unicornscan（示例）`
+### `unicornscan -h`
 
-官方给出的调用示例：`unicornscan -h`
+> 官方示例调用：`unicornscan -h`
 
 ```text
 root@kali:~# unicornscan -h
@@ -289,7 +289,7 @@ example: unicornscan -i eth1 -Ir 160 -E 192.168.1.0/24:1-4000 gateway:a
 
 ### `us`
 
-官方给出的调用示例：`us -h`
+> 官方示例调用：`us -h`
 
 ```text
 root@kali:~# us -h

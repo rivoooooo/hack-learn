@@ -44,7 +44,7 @@ Max requests (5) completed, index: 5
 
 ### `doona`
 
-官方给出的调用示例：`doona -m HTTP -t 192.168.1.15 -M 5`
+> 官方示例调用：`doona -m HTTP -t 192.168.1.15 -M 5`
 
 ```text
 root@kali:~# doona -m HTTP -t 192.168.1.15 -M 5
@@ -54,9 +54,9 @@ root@kali:~# doona -m HTTP -t 192.168.1.15 -M 5
 Max requests (5) completed, index: 5
 ```
 
-### `doona（示例）`
+### `doona -h`
 
-官方给出的调用示例：`doona -h`
+> 官方示例调用：`doona -h`
 
 ```text
 root@kali:~# doona -h

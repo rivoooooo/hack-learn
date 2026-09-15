@@ -48,7 +48,7 @@ Scan a subnet, specifying the interface to use and a custom source MAC address:
 
 ### `arp-scan`
 
-官方给出的调用示例：`arp-scan -l`
+> 官方示例调用：`arp-scan -l`
 
 ```text
 root@kali:~# arp-scan -l
@@ -62,9 +62,9 @@ Ending arp-scan 1.9: 256 hosts scanned in 2.327 seconds (110.01 hosts/sec). 3 re
 Scan a subnet, specifying the interface to use and a custom source MAC address:
 ```
 
-### `arp-scan（示例）`
+### `arp-scan -I eth0 --srcaddr=DE:AD:BE:EF:CA:FE 192.168.86.0/24`
 
-官方给出的调用示例：`arp-scan -I eth0 --srcaddr=DE:AD:BE:EF:CA:FE 192.168.86.0/24`
+> 官方示例调用：`arp-scan -I eth0 --srcaddr=DE:AD:BE:EF:CA:FE 192.168.86.0/24`
 
 ```text
 root@kali:~# arp-scan -I eth0 --srcaddr=DE:AD:BE:EF:CA:FE 192.168.86.0/24
@@ -80,7 +80,7 @@ Starting arp-scan 1.9 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/
 
 ### `arp-fingerprint`
 
-官方给出的调用示例：`arp-fingerprint -h`
+> 官方示例调用：`arp-fingerprint -h`
 
 ```text
 root@kali:~# arp-fingerprint -h
@@ -93,9 +93,9 @@ Fingerprint the target system using arp-scan.
 	-l Fingerprint all targets in the local net.
 ```
 
-### `arp-scan（示例）`
+### `arp-scan -h`
 
-官方给出的调用示例：`arp-scan -h`
+> 官方示例调用：`arp-scan -h`
 
 ```text
 root@kali:~# arp-scan -h
@@ -312,7 +312,7 @@ See the arp-scan homepage at https://github.com/royhills/arp-scan
 
 ### `get-oui`
 
-官方给出的调用示例：`get-oui --help`
+> 官方示例调用：`get-oui --help`
 
 ```text
 root@kali:~# get-oui --help

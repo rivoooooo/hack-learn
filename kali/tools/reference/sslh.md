@@ -37,7 +37,7 @@ man sslh         # 查看手册
 
 ### `sslh`
 
-官方给出的调用示例：`sslh -h`
+> 官方示例调用：`sslh -h`
 
 ```text
 root@kali:~# sslh -h
@@ -88,7 +88,7 @@ sslhcfg: invalid option "-h"
 
 ### `sslh-ev`
 
-官方给出的调用示例：`sslh-ev -h`
+> 官方示例调用：`sslh-ev -h`
 
 ```text
 root@kali:~# sslh-ev -h
@@ -139,7 +139,7 @@ sslhcfg: invalid option "-h"
 
 ### `sslh-select`
 
-官方给出的调用示例：`sslh-select -h`
+> 官方示例调用：`sslh-select -h`
 
 ```text
 root@kali:~# sslh-select -h

@@ -37,7 +37,7 @@ man code-oss         # 查看手册
 
 ### `code`
 
-官方给出的调用示例：`code -h`
+> 官方示例调用：`code -h`
 
 ```text
 root@kali:~# code -h
@@ -50,7 +50,7 @@ root@kali:~# code -h
 
 ### `vscode`
 
-官方给出的调用示例：`vscode -h`
+> 官方示例调用：`vscode -h`
 
 ```text
 root@kali:~# vscode -h

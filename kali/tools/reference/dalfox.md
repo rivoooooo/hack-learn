@@ -37,7 +37,7 @@ man dalfox         # 查看手册
 
 ### `dalfox`
 
-官方给出的调用示例：`dalfox -h`
+> 官方示例调用：`dalfox -h`
 
 ```text
 root@kali:~# dalfox -h

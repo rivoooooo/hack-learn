@@ -37,7 +37,7 @@ man glibc-doc         # 查看手册
 
 ### `getconf`
 
-官方给出的调用示例：`getconf --help`
+> 官方示例调用：`getconf --help`
 
 ```text
 root@kali:~# getconf --help
@@ -52,7 +52,7 @@ For bug reporting instructions, please see:
 
 ### `getent`
 
-官方给出的调用示例：`getent --help`
+> 官方示例调用：`getent --help`
 
 ```text
 root@kali:~# getent --help
@@ -76,7 +76,7 @@ For bug reporting instructions, please see:
 
 ### `iconv`
 
-官方给出的调用示例：`iconv --help`
+> 官方示例调用：`iconv --help`
 
 ```text
 root@kali:~# iconv --help
@@ -103,7 +103,7 @@ For bug reporting instructions, please see:
 
 ### `iconvconfig`
 
-官方给出的调用示例：`iconvconfig --help`
+> 官方示例调用：`iconvconfig --help`
 
 ```text
 root@kali:~# iconvconfig --help
@@ -125,7 +125,7 @@ For bug reporting instructions, please see:
 
 ### `ld.so`
 
-官方给出的调用示例：`ld.so --help`
+> 官方示例调用：`ld.so --help`
 
 ```text
 root@kali:~# ld.so --help
@@ -174,7 +174,7 @@ Subdirectories of glibc-hwcaps directories, in priority order:
 
 ### `ldconfig`
 
-官方给出的调用示例：`ldconfig --help`
+> 官方示例调用：`ldconfig --help`
 
 ```text
 root@kali:~# ldconfig --help
@@ -203,7 +203,7 @@ For bug reporting instructions, please see:
 
 ### `ldd`
 
-官方给出的调用示例：`ldd --help`
+> 官方示例调用：`ldd --help`
 
 ```text
 root@kali:~# ldd --help
@@ -220,7 +220,7 @@ For bug reporting instructions, please see:
 
 ### `locale`
 
-官方给出的调用示例：`locale --help`
+> 官方示例调用：`locale --help`
 
 ```text
 root@kali:~# locale --help
@@ -243,7 +243,7 @@ For bug reporting instructions, please see:
 
 ### `localedef`
 
-官方给出的调用示例：`localedef --help`
+> 官方示例调用：`localedef --help`
 
 ```text
 root@kali:~# localedef --help
@@ -291,7 +291,7 @@ For bug reporting instructions, please see:
 
 ### `pldd`
 
-官方给出的调用示例：`pldd --help`
+> 官方示例调用：`pldd --help`
 
 ```text
 root@kali:~# pldd --help

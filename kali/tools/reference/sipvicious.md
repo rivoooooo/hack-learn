@@ -43,7 +43,7 @@ INFO:DrinkOrSip:Looks like we received a SIP request from 192.168.1.202:5060
 
 ### `svmap`
 
-官方给出的调用示例：`svmap 192.168.1.0/24 -v`
+> 官方示例调用：`svmap 192.168.1.0/24 -v`
 
 ```text
 root@kali:~# svmap 192.168.1.0/24 -v
@@ -56,7 +56,7 @@ INFO:DrinkOrSip:Looks like we received a SIP request from 192.168.1.202:5060
 
 ### `svcrack`
 
-官方给出的调用示例：`svcrack -h`
+> 官方示例调用：`svcrack -h`
 
 ```text
 root@kali:~# svcrack -h
@@ -135,7 +135,7 @@ Options:
 
 ### `svcrash`
 
-官方给出的调用示例：`svcrash -h`
+> 官方示例调用：`svcrash -h`
 
 ```text
 root@kali:~# svcrash -h
@@ -150,9 +150,9 @@ Options:
   -b               bruteforce the attacker's port
 ```
 
-### `svmap（示例）`
+### `svmap -h`
 
-官方给出的调用示例：`svmap -h`
+> 官方示例调用：`svmap -h`
 
 ```text
 root@kali:~# svmap -h
@@ -219,7 +219,7 @@ Options:
 
 ### `svreport`
 
-官方给出的调用示例：`svreport -h`
+> 官方示例调用：`svreport -h`
 
 ```text
 root@kali:~# svreport -h
@@ -256,7 +256,7 @@ Options:
 
 ### `svwar`
 
-官方给出的调用示例：`svwar -h`
+> 官方示例调用：`svwar -h`
 
 ```text
 root@kali:~# svwar -h

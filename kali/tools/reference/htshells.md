@@ -37,7 +37,7 @@ man htshells         # 查看手册
 
 ### `htshells`
 
-官方给出的调用示例：`htshells -h`
+> 官方示例调用：`htshells -h`
 
 ```text
 root@kali:~# htshells -h

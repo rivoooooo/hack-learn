@@ -37,7 +37,7 @@ man donut         # 查看手册
 
 ### `donut`
 
-官方给出的调用示例：`donut -h`
+> 官方示例调用：`donut -h`
 
 ```text
 root@kali:~# donut -h

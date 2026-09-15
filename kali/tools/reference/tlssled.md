@@ -61,7 +61,7 @@ root@kali:~# tlssled 192.168.1.1 443
 
 ### `tlssled`
 
-官方给出的调用示例：`tlssled 192.168.1.1 443`
+> 官方示例调用：`tlssled 192.168.1.1 443`
 
 ```text
 root@kali:~# tlssled 192.168.1.1 443
@@ -84,9 +84,9 @@ root@kali:~# tlssled 192.168.1.1 443
     [-] Testing for the NULL cipher ...
 ```
 
-### `tlssled（示例）`
+### `tlssled -h`
 
-官方给出的调用示例：`tlssled -h`
+> 官方示例调用：`tlssled -h`
 
 ```text
 root@kali:~# tlssled -h

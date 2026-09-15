@@ -37,7 +37,7 @@ man libpe-dev         # 查看手册
 
 ### `ofs2rva`
 
-官方给出的调用示例：`ofs2rva -h`
+> 官方示例调用：`ofs2rva -h`
 
 ```text
 root@kali:~# ofs2rva -h
@@ -51,7 +51,7 @@ Options:
 
 ### `pedis`
 
-官方给出的调用示例：`pedis --help`
+> 官方示例调用：`pedis --help`
 
 ```text
 root@kali:~# pedis --help
@@ -74,7 +74,7 @@ Options:
 
 ### `pehash`
 
-官方给出的调用示例：`pehash --help`
+> 官方示例调用：`pehash --help`
 
 ```text
 root@kali:~# pehash --help
@@ -94,7 +94,7 @@ Options:
 
 ### `peldd`
 
-官方给出的调用示例：`peldd --help`
+> 官方示例调用：`peldd --help`
 
 ```text
 root@kali:~# peldd --help
@@ -109,7 +109,7 @@ Options:
 
 ### `pepack`
 
-官方给出的调用示例：`pepack --help`
+> 官方示例调用：`pepack --help`
 
 ```text
 root@kali:~# pepack --help
@@ -125,7 +125,7 @@ Options:
 
 ### `peres`
 
-官方给出的调用示例：`peres -h`
+> 官方示例调用：`peres -h`
 
 ```text
 root@kali:~# peres -h
@@ -147,7 +147,7 @@ Options:
 
 ### `pescan`
 
-官方给出的调用示例：`pescan --help`
+> 官方示例调用：`pescan --help`
 
 ```text
 root@kali:~# pescan --help
@@ -163,7 +163,7 @@ Options:
 
 ### `pesec`
 
-官方给出的调用示例：`pesec --help`
+> 官方示例调用：`pesec --help`
 
 ```text
 root@kali:~# pesec --help
@@ -180,7 +180,7 @@ Options:
 
 ### `pestr`
 
-官方给出的调用示例：`pestr --help`
+> 官方示例调用：`pestr --help`
 
 ```text
 root@kali:~# pestr --help
@@ -197,7 +197,7 @@ Options:
 
 ### `readpe`
 
-官方给出的调用示例：`readpe --help`
+> 官方示例调用：`readpe --help`
 
 ```text
 root@kali:~# readpe --help

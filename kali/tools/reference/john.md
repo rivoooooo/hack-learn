@@ -72,7 +72,7 @@ unshadowed.txt
 
 ### `john`
 
-官方给出的调用示例：`john --wordlist=/usr/share/john/password.lst --rules unshadowed.txt`
+> 官方示例调用：`john --wordlist=/usr/share/john/password.lst --rules unshadowed.txt`
 
 ```text
 root@kali:~# john --wordlist=/usr/share/john/password.lst --rules unshadowed.txt
@@ -130,9 +130,9 @@ uniques.txt
 ):
 ```
 
-### `unique（示例）`
+### `unique -v -inp=allwords.txt uniques.txt`
 
-官方给出的调用示例：`unique -v -inp=allwords.txt uniques.txt`
+> 官方示例调用：`unique -v -inp=allwords.txt uniques.txt`
 
 ```text
 root@kali:~# unique -v -inp=allwords.txt uniques.txt
@@ -141,7 +141,7 @@ Total lines read 6089 Unique lines written 5083
 
 ### `man`
 
-官方给出的调用示例：`man SIPdump`
+> 官方示例调用：`man SIPdump`
 
 ```text
 root@kali:~# man SIPdump
@@ -199,7 +199,7 @@ base64conv
 
 ### `base64conv`
 
-官方给出的调用示例：`base64conv -h`
+> 官方示例调用：`base64conv -h`
 
 ```text
 root@kali:~# base64conv -h
@@ -232,7 +232,7 @@ bitlocker2john
 
 ### `bitlocker2john`
 
-官方给出的调用示例：`bitlocker2john -h`
+> 官方示例调用：`bitlocker2john -h`
 
 ```text
 root@kali:~# bitlocker2john -h
@@ -245,7 +245,7 @@ calc_stat
 
 ### `calc_stat`
 
-官方给出的调用示例：`calc_stat -h`
+> 官方示例调用：`calc_stat -h`
 
 ```text
 root@kali:~# calc_stat -h
@@ -256,7 +256,7 @@ cprepair
 
 ### `cprepair`
 
-官方给出的调用示例：`cprepair -h`
+> 官方示例调用：`cprepair -h`
 
 ```text
 root@kali:~# cprepair -h
@@ -283,7 +283,7 @@ eapmd5tojohn
 
 ### `eapmd5tojohn`
 
-官方给出的调用示例：`eapmd5tojohn -h`
+> 官方示例调用：`eapmd5tojohn -h`
 
 ```text
 root@kali:~# eapmd5tojohn -h

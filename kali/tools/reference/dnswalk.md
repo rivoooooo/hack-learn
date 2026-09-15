@@ -42,25 +42,25 @@ Checking example.com.
 
 ### `dnswalk`
 
-官方给出的调用示例：`dnswalk example.com.`
+> 官方示例调用：`dnswalk example.com.`
 
 ```text
 root@kali:~# dnswalk example.com.
 Checking example.com.
 ```
 
-### `dnswalk（示例）`
+### `dnswalk -r -d example.com.`
 
-官方给出的调用示例：`dnswalk -r -d example.com.`
+> 官方示例调用：`dnswalk -r -d example.com.`
 
 ```text
 root@kali:~# dnswalk -r -d example.com.
 Checking example.com.
 ```
 
-### `dnswalk（示例）`
+### `dnswalk --help`
 
-官方给出的调用示例：`dnswalk --help`
+> 官方示例调用：`dnswalk --help`
 
 ```text
 root@kali:~# dnswalk --help

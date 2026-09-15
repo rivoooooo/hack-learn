@@ -37,7 +37,7 @@ man bpf-linker         # 查看手册
 
 ### `bpf-linker`
 
-官方给出的调用示例：`bpf-linker -h`
+> 官方示例调用：`bpf-linker -h`
 
 ```text
 root@kali:~# bpf-linker -h

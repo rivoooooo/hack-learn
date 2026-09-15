@@ -37,7 +37,7 @@ man spraykatz         # 查看手册
 
 ### `spraykatz`
 
-官方给出的调用示例：`spraykatz -h`
+> 官方示例调用：`spraykatz -h`
 
 ```text
 root@kali:~# spraykatz -h

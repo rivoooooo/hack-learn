@@ -39,16 +39,16 @@ device name: ares
 
 ### `bluesnarfer`
 
-官方给出的调用示例：`bluesnarfer -b 20:C9:D0:43:4B:D8 -i`
+> 官方示例调用：`bluesnarfer -b 20:C9:D0:43:4B:D8 -i`
 
 ```text
 root@kali:~# bluesnarfer -b 20:C9:D0:43:4B:D8 -i
 device name: ares
 ```
 
-### `bluesnarfer（示例）`
+### `bluesnarfer --help`
 
-官方给出的调用示例：`bluesnarfer --help`
+> 官方示例调用：`bluesnarfer --help`
 
 ```text
 root@kali:~# bluesnarfer --help

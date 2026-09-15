@@ -37,7 +37,7 @@ man sara         # 查看手册
 
 ### `sara`
 
-官方给出的调用示例：`sara -h`
+> 官方示例调用：`sara -h`
 
 ```text
 root@kali:~# sara -h

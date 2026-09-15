@@ -37,7 +37,7 @@ man tcpick         # 查看手册
 
 ### `tcpick`
 
-官方给出的调用示例：`tcpick --help`
+> 官方示例调用：`tcpick --help`
 
 ```text
 root@kali:~# tcpick --help

@@ -37,7 +37,7 @@ man tailscale         # 查看手册
 
 ### `tailscale`
 
-官方给出的调用示例：`tailscale -h`
+> 官方示例调用：`tailscale -h`
 
 ```text
 root@kali:~# tailscale -h
@@ -87,7 +87,7 @@ FLAGS
 
 ### `tailscaled`
 
-官方给出的调用示例：`tailscaled -h`
+> 官方示例调用：`tailscaled -h`
 
 ```text
 root@kali:~# tailscaled -h

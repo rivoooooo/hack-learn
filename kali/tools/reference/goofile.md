@@ -68,7 +68,7 @@ docs.kali.org/pdf/articles/kali-linux-live-usb-install-en.pdf
 
 ### `goofile`
 
-官方给出的调用示例：`goofile -d kali.org -f pdf`
+> 官方示例调用：`goofile -d kali.org -f pdf`
 
 ```text
 root@kali:~# goofile -d kali.org -f pdf
@@ -99,9 +99,9 @@ docs.kali.org/pdf/articles/kali-linux-live-usb-install-en.pdf
 ====================
 ```
 
-### `goofile（示例）`
+### `goofile -h`
 
-官方给出的调用示例：`goofile -h`
+> 官方示例调用：`goofile -h`
 
 ```text
 root@kali:~# goofile -h

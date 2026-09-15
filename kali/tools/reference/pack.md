@@ -113,7 +113,7 @@ Generate Hashcat masks with a length of 8 (–length=8) and containing at least 
 
 ### `statsgen`
 
-官方给出的调用示例：`statsgen --minlength=10 --maxlength=10 rockyou.txt`
+> 官方示例调用：`statsgen --minlength=10 --maxlength=10 rockyou.txt`
 
 ```text
 root@kali:~# statsgen --minlength=10 --maxlength=10 rockyou.txt
@@ -197,7 +197,7 @@ Generate Hashcat masks with a length of 8 (
 
 ### `policygen`
 
-官方给出的调用示例：`policygen --length=8 --minupper 1 --mindigit 1 -o complexity.hcmask`
+> 官方示例调用：`policygen --length=8 --minupper 1 --mindigit 1 -o complexity.hcmask`
 
 ```text
 root@kali:~# policygen --length=8 --minupper 1 --mindigit 1 -o complexity.hcmask
@@ -211,7 +211,7 @@ root@kali:~# policygen --length=8 --minupper 1 --mindigit 1 -o complexity.hcmask
 
 ### `head`
 
-官方给出的调用示例：`head complexity.hcmask`
+> 官方示例调用：`head complexity.hcmask`
 
 ```text
 root@kali:~# head complexity.hcmask
@@ -229,7 +229,7 @@ root@kali:~# head complexity.hcmask
 
 ### `dictstat`
 
-官方给出的调用示例：`dictstat -h`
+> 官方示例调用：`dictstat -h`
 
 ```text
 root@kali:~# dictstat -h
@@ -242,7 +242,7 @@ root@kali:~# dictstat -h
 
 ### `jpackage`
 
-官方给出的调用示例：`jpackage -h`
+> 官方示例调用：`jpackage -h`
 
 ```text
 root@kali:~# jpackage -h
@@ -440,7 +440,7 @@ Platform dependent options for creating the application package:
 
 ### `maskgen`
 
-官方给出的调用示例：`maskgen -h`
+> 官方示例调用：`maskgen -h`
 
 ```text
 root@kali:~# maskgen -h
@@ -480,7 +480,7 @@ Options:
 
 ### `pack200`
 
-官方给出的调用示例：`pack200 -h`
+> 官方示例调用：`pack200 -h`
 
 ```text
 root@kali:~# pack200 -h
@@ -531,9 +531,9 @@ Exit Status:
 Warning: The pack200 tool is deprecated, and is planned for removal in a future JDK release.
 ```
 
-### `policygen（示例）`
+### `policygen -h`
 
-官方给出的调用示例：`policygen -h`
+> 官方示例调用：`policygen -h`
 
 ```text
 root@kali:~# policygen -h
@@ -565,7 +565,7 @@ Options:
 
 ### `rulegen`
 
-官方给出的调用示例：`rulegen -h`
+> 官方示例调用：`rulegen -h`
 
 ```text
 root@kali:~# rulegen -h
@@ -603,9 +603,9 @@ Options:
     --hashcat           Test generated rules with hashcat-cli
 ```
 
-### `statsgen（示例）`
+### `statsgen -h`
 
-官方给出的调用示例：`statsgen -h`
+> 官方示例调用：`statsgen -h`
 
 ```text
 root@kali:~# statsgen -h

@@ -37,7 +37,7 @@ man rkhunter         # 查看手册
 
 ### `rkhunter`
 
-官方给出的调用示例：`rkhunter -h`
+> 官方示例调用：`rkhunter -h`
 
 ```text
 root@kali:~# rkhunter -h

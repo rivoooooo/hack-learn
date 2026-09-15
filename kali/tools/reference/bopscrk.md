@@ -37,7 +37,7 @@ man bopscrk         # 查看手册
 
 ### `bopscrk`
 
-官方给出的调用示例：`bopscrk -h`
+> 官方示例调用：`bopscrk -h`
 
 ```text
 root@kali:~# bopscrk -h

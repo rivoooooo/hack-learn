@@ -37,7 +37,7 @@ man emailharvester         # 查看手册
 
 ### `emailharvester`
 
-官方给出的调用示例：`emailharvester -h`
+> 官方示例调用：`emailharvester -h`
 
 ```text
 root@kali:~# emailharvester -h

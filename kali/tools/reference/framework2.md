@@ -37,7 +37,7 @@ man framework2         # 查看手册
 
 ### `framework2`
 
-官方给出的调用示例：`framework2 -h`
+> 官方示例调用：`framework2 -h`
 
 ```text
 root@kali:~# framework2 -h

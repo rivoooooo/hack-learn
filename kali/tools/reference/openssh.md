@@ -37,7 +37,7 @@ man openssh-client         # 查看手册
 
 ### `scp`
 
-官方给出的调用示例：`scp -h`
+> 官方示例调用：`scp -h`
 
 ```text
 root@kali:~# scp -h
@@ -47,9 +47,9 @@ usage: scp [-346ABCOpqRrsTv] [-c cipher] [-D sftp_server_path] [-F ssh_config]
            [-P port] [-S program] [-X sftp_option] source ... target
 ```
 
-### `scp（示例）`
+### `scp -h`
 
-官方给出的调用示例：`scp -h`
+> 官方示例调用：`scp -h`
 
 ```text
 root@kali:~# scp -h
@@ -61,7 +61,7 @@ usage: scp [-346ABCOpqRrsTv] [-c cipher] [-D sftp_server_path] [-F ssh_config]
 
 ### `sftp`
 
-官方给出的调用示例：`sftp --help`
+> 官方示例调用：`sftp --help`
 
 ```text
 root@kali:~# sftp --help
@@ -73,9 +73,9 @@ usage: sftp [-46AaCfNpqrv] [-B buffer_size] [-b batchfile] [-c cipher]
           [-X sftp_option] destination
 ```
 
-### `sftp（示例）`
+### `sftp --help`
 
-官方给出的调用示例：`sftp --help`
+> 官方示例调用：`sftp --help`
 
 ```text
 root@kali:~# sftp --help
@@ -89,7 +89,7 @@ usage: sftp [-46AaCfNpqrv] [-B buffer_size] [-b batchfile] [-c cipher]
 
 ### `ssh`
 
-官方给出的调用示例：`ssh -h`
+> 官方示例调用：`ssh -h`
 
 ```text
 root@kali:~# ssh -h
@@ -104,9 +104,9 @@ usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
        ssh [-Q query_option]
 ```
 
-### `ssh（示例）`
+### `ssh -h`
 
-官方给出的调用示例：`ssh -h`
+> 官方示例调用：`ssh -h`
 
 ```text
 root@kali:~# ssh -h
@@ -123,7 +123,7 @@ usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address]
 
 ### `ssh-add`
 
-官方给出的调用示例：`ssh-add -h`
+> 官方示例调用：`ssh-add -h`
 
 ```text
 root@kali:~# ssh-add -h
@@ -136,9 +136,9 @@ usage: ssh-add [-CcDdKkLlqvXx] [-E fingerprint_hash] [-H hostkey_file]
        ssh-add -T pubkey ...
 ```
 
-### `ssh-add（示例）`
+### `ssh-add -h`
 
-官方给出的调用示例：`ssh-add -h`
+> 官方示例调用：`ssh-add -h`
 
 ```text
 root@kali:~# ssh-add -h
@@ -153,7 +153,7 @@ usage: ssh-add [-CcDdKkLlqvXx] [-E fingerprint_hash] [-H hostkey_file]
 
 ### `ssh-agent`
 
-官方给出的调用示例：`ssh-agent -h`
+> 官方示例调用：`ssh-agent -h`
 
 ```text
 root@kali:~# ssh-agent -h
@@ -167,9 +167,9 @@ usage: ssh-agent [-c | -s] [-DdTU] [-a bind_address] [-E fingerprint_hash]
        ssh-agent -V
 ```
 
-### `ssh-agent（示例）`
+### `ssh-agent -h`
 
-官方给出的调用示例：`ssh-agent -h`
+> 官方示例调用：`ssh-agent -h`
 
 ```text
 root@kali:~# ssh-agent -h

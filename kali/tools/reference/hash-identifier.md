@@ -169,9 +169,9 @@ Least Possible Hashs:
    -------------------------------------------------------------------------
 ```
 
-### `hash-identifier（示例）`
+### `hash-identifier -h`
 
-官方给出的调用示例：`hash-identifier -h`
+> 官方示例调用：`hash-identifier -h`
 
 ```text
 root@kali:~# hash-identifier -h

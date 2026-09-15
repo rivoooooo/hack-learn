@@ -37,7 +37,7 @@ man apache2         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man a2disconf`
+> 官方示例调用：`man a2disconf`
 
 ```text
 root@kali:~# man a2disconf
@@ -118,9 +118,9 @@ AUTHOR
                                 14 February 2012                    A2ENCONF(8)
 ```
 
-### `man（示例）`
+### `man a2dismod`
 
-官方给出的调用示例：`man a2dismod`
+> 官方示例调用：`man a2dismod`
 
 ```text
 root@kali:~# man a2dismod
@@ -199,9 +199,9 @@ AUTHOR
                                 12 October 2006                      A2ENMOD(8)
 ```
 
-### `man（示例）`
+### `man a2dissite`
 
-官方给出的调用示例：`man a2dissite`
+> 官方示例调用：`man a2dissite`
 
 ```text
 root@kali:~# man a2dissite
@@ -279,9 +279,9 @@ AUTHOR
                                   8 June 2007                       A2ENSITE(8)
 ```
 
-### `man（示例）`
+### `man a2enconf`
 
-官方给出的调用示例：`man a2enconf`
+> 官方示例调用：`man a2enconf`
 
 ```text
 root@kali:~# man a2enconf
@@ -362,9 +362,9 @@ AUTHOR
                                 14 February 2012                    A2ENCONF(8)
 ```
 
-### `man（示例）`
+### `man a2enmod`
 
-官方给出的调用示例：`man a2enmod`
+> 官方示例调用：`man a2enmod`
 
 ```text
 root@kali:~# man a2enmod
@@ -443,9 +443,9 @@ AUTHOR
                                 12 October 2006                      A2ENMOD(8)
 ```
 
-### `man（示例）`
+### `man a2ensite`
 
-官方给出的调用示例：`man a2ensite`
+> 官方示例调用：`man a2ensite`
 
 ```text
 root@kali:~# man a2ensite
@@ -525,7 +525,7 @@ AUTHOR
 
 ### `a2query`
 
-官方给出的调用示例：`a2query --help`
+> 官方示例调用：`a2query --help`
 
 ```text
 root@kali:~# a2query --help
@@ -545,7 +545,7 @@ For more details run
 
 ### `apache2ctl`
 
-官方给出的调用示例：`apache2ctl -h`
+> 官方示例调用：`apache2ctl -h`
 
 ```text
 root@kali:~# apache2ctl -h
@@ -579,7 +579,7 @@ Options:
 
 ### `apachectl`
 
-官方给出的调用示例：`apachectl -h`
+> 官方示例调用：`apachectl -h`
 
 ```text
 root@kali:~# apachectl -h
@@ -613,7 +613,7 @@ Options:
 
 ### `apache2`
 
-官方给出的调用示例：`apache2 -h`
+> 官方示例调用：`apache2 -h`
 
 ```text
 root@kali:~# apache2 -h

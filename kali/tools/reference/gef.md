@@ -37,7 +37,7 @@ man gef         # 查看手册
 
 ### `gef`
 
-官方给出的调用示例：`gef -h`
+> 官方示例调用：`gef -h`
 
 ```text
 root@kali:~# gef -h

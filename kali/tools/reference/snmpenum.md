@@ -37,7 +37,7 @@ man snmpenum         # 查看手册
 
 ### `snmpenum`
 
-官方给出的调用示例：`snmpenum -h`
+> 官方示例调用：`snmpenum -h`
 
 ```text
 root@kali:~# snmpenum -h

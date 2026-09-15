@@ -37,7 +37,7 @@ man recordmydesktop         # 查看手册
 
 ### `recordmydesktop`
 
-官方给出的调用示例：`recordmydesktop -h`
+> 官方示例调用：`recordmydesktop -h`
 
 ```text
 root@kali:~# recordmydesktop -h

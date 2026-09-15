@@ -37,7 +37,7 @@ man stunnel         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man stunnel`
+> 官方示例调用：`man stunnel`
 
 ```text
 root@kali:~# man stunnel
@@ -264,7 +264,7 @@ CONFIGURATION FILE
 
 ### `stunnel3`
 
-官方给出的调用示例：`stunnel3 --help`
+> 官方示例调用：`stunnel3 --help`
 
 ```text
 root@kali:~# stunnel3 --help
@@ -287,9 +287,9 @@ Space is not required between options and their arguments.
 [!] Configuration failed
 ```
 
-### `man（示例）`
+### `man stunnel4`
 
-官方给出的调用示例：`man stunnel4`
+> 官方示例调用：`man stunnel4`
 
 ```text
 root@kali:~# man stunnel4

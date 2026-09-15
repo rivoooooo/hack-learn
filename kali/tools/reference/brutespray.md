@@ -87,7 +87,7 @@ Interactive mode, brute forcing the FTP service only.
 
 ### `brutespray`
 
-官方给出的调用示例：`brutespray --file nas.gnmap -U /usr/share/wordlists/metasploit/unix_users.txt -P /usr/share/wordlists/metasploit/password.lst --threads 3 --hosts 1`
+> 官方示例调用：`brutespray --file nas.gnmap -U /usr/share/wordlists/metasploit/unix_users.txt -P /usr/share/wordlists/metasploit/password.lst --threads 3 --hosts 1`
 
 ```text
 root@kali:~# brutespray --file nas.gnmap -U /usr/share/wordlists/metasploit/unix_users.txt -P /usr/share/wordlists/metasploit/password.lst --threads 3 --hosts 1
@@ -135,9 +135,9 @@ ACCOUNT CHECK: [mysql] Host: 192.168.86.4 (1 of 1, 0 complete) User: 4Dgifts (1 
 Interactive mode, brute forcing the FTP service only.
 ```
 
-### `brutespray（示例）`
+### `brutespray -i -f nas.gnmap`
 
-官方给出的调用示例：`brutespray -i -f nas.gnmap`
+> 官方示例调用：`brutespray -i -f nas.gnmap`
 
 ```text
 root@kali:~# brutespray -i -f nas.gnmap
@@ -191,9 +191,9 @@ Starting to brute, please make sure to use the right amount of threads(-t) and p
 Brute-Forcing...
 ```
 
-### `brutespray（示例）`
+### `brutespray -h`
 
-官方给出的调用示例：`brutespray -h`
+> 官方示例调用：`brutespray -h`
 
 ```text
 root@kali:~# brutespray -h

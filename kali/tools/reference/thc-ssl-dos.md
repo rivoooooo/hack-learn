@@ -61,7 +61,7 @@ Handshakes 496 [131.23 h/s], 54 Conn, 0 Err
 
 ### `thc-ssl-dos`
 
-官方给出的调用示例：`thc-ssl-dos -l 100 192.168.1.208 443 --accept`
+> 官方示例调用：`thc-ssl-dos -l 100 192.168.1.208 443 --accept`
 
 ```text
 root@kali:~# thc-ssl-dos -l 100 192.168.1.208 443 --accept
@@ -87,9 +87,9 @@ Handshakes 365 [104.93 h/s], 47 Conn, 0 Err
 Handshakes 496 [131.23 h/s], 54 Conn, 0 Err
 ```
 
-### `thc-ssl-dos（示例）`
+### `thc-ssl-dos -h`
 
-官方给出的调用示例：`thc-ssl-dos -h`
+> 官方示例调用：`thc-ssl-dos -h`
 
 ```text
 root@kali:~# thc-ssl-dos -h

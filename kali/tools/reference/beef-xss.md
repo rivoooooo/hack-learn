@@ -60,9 +60,9 @@ Nov 24 18:44:53 kali systemd[1]: Started LSB: BeEF.
 [*] Opening Web UI (http://127.0.0.1:3000/ui/panel) in: 5... 4... 3... 2... 1...
 ```
 
-### `beef-xss（示例）`
+### `beef-xss -h`
 
-官方给出的调用示例：`beef-xss -h`
+> 官方示例调用：`beef-xss -h`
 
 ```text
 root@kali:~# beef-xss -h
@@ -75,7 +75,7 @@ root@kali:~# beef-xss -h
 
 ### `beef-xss-start`
 
-官方给出的调用示例：`beef-xss-start -h`
+> 官方示例调用：`beef-xss-start -h`
 
 ```text
 root@kali:~# beef-xss-start -h
@@ -86,7 +86,7 @@ root@kali:~# beef-xss-start -h
 
 ### `beef-xss-stop`
 
-官方给出的调用示例：`beef-xss-stop -h`
+> 官方示例调用：`beef-xss-stop -h`
 
 ```text
 root@kali:~# beef-xss-stop -h

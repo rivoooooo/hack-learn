@@ -36,7 +36,7 @@ man openvpn         # 查看手册
 
 ### `openvpn`
 
-官方给出的调用示例：`openvpn --help`
+> 官方示例调用：`openvpn --help`
 
 ```text
 root@kali:~# openvpn --help

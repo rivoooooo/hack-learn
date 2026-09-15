@@ -37,7 +37,7 @@ man powercat         # 查看手册
 
 ### `powercat`
 
-官方给出的调用示例：`powercat -h`
+> 官方示例调用：`powercat -h`
 
 ```text
 root@kali:~# powercat -h

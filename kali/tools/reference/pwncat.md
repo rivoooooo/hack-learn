@@ -37,7 +37,7 @@ man pwncat         # 查看手册
 
 ### `pwncat`
 
-官方给出的调用示例：`pwncat -h`
+> 官方示例调用：`pwncat -h`
 
 ```text
 root@kali:~# pwncat -h

@@ -75,7 +75,7 @@ Search for a given email address.
 
 ### `usufy.py`
 
-官方给出的调用示例：`usufy.py -n kalilinux`
+> 官方示例调用：`usufy.py -n kalilinux`
 
 ```text
 root@kali:~# usufy.py -n kalilinux
@@ -108,7 +108,7 @@ Search for a given email address.
 
 ### `mailfy.py`
 
-官方给出的调用示例：`mailfy.py -n ltorvalds`
+> 官方示例调用：`mailfy.py -n ltorvalds`
 
 ```text
 root@kali:~# mailfy.py -n ltorvalds
@@ -174,7 +174,7 @@ Note that otherwise, we won't know about it!
 
 ### `alias_generator`
 
-官方给出的调用示例：`alias_generator -h`
+> 官方示例调用：`alias_generator -h`
 
 ```text
 root@kali:~# alias_generator -h
@@ -216,7 +216,7 @@ About arguments:
 
 ### `alias_generator.py`
 
-官方给出的调用示例：`alias_generator.py -h`
+> 官方示例调用：`alias_generator.py -h`
 
 ```text
 root@kali:~# alias_generator.py -h
@@ -258,7 +258,7 @@ About arguments:
 
 ### `checkfy`
 
-官方给出的调用示例：`checkfy -h`
+> 官方示例调用：`checkfy -h`
 
 ```text
 root@kali:~# checkfy -h
@@ -298,7 +298,7 @@ follow us on Twitter in <http://twitter.com/i3visio>.
 
 ### `checkfy.py`
 
-官方给出的调用示例：`checkfy.py -h`
+> 官方示例调用：`checkfy.py -h`
 
 ```text
 root@kali:~# checkfy.py -h
@@ -338,7 +338,7 @@ follow us on Twitter in <http://twitter.com/i3visio>.
 
 ### `domainfy`
 
-官方给出的调用示例：`domainfy -h`
+> 官方示例调用：`domainfy -h`
 
 ```text
 root@kali:~# domainfy -h
@@ -394,7 +394,7 @@ follow us on Twitter in <http://twitter.com/i3visio>.
 
 ### `domainfy.py`
 
-官方给出的调用示例：`domainfy.py -h`
+> 官方示例调用：`domainfy.py -h`
 
 ```text
 root@kali:~# domainfy.py -h
@@ -450,7 +450,7 @@ follow us on Twitter in <http://twitter.com/i3visio>.
 
 ### `mailfy`
 
-官方给出的调用示例：`mailfy -h`
+> 官方示例调用：`mailfy -h`
 
 ```text
 root@kali:~# mailfy -h
@@ -513,9 +513,9 @@ Check the README.md file for further details on the usage of this program or
 follow us on Twitter in <http://twitter.com/i3visio>.
 ```
 
-### `mailfy.py（示例）`
+### `mailfy.py -h`
 
-官方给出的调用示例：`mailfy.py -h`
+> 官方示例调用：`mailfy.py -h`
 
 ```text
 root@kali:~# mailfy.py -h

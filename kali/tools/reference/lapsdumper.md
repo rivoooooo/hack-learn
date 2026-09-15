@@ -37,7 +37,7 @@ man lapsdumper         # 查看手册
 
 ### `lapsdumper`
 
-官方给出的调用示例：`lapsdumper -h`
+> 官方示例调用：`lapsdumper -h`
 
 ```text
 root@kali:~# lapsdumper -h

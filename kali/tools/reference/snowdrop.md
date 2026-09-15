@@ -37,7 +37,7 @@ man snowdrop         # 查看手册
 
 ### `sd-c`
 
-官方给出的调用示例：`sd-c -h`
+> 官方示例调用：`sd-c -h`
 
 ```text
 root@kali:~# sd-c -h
@@ -61,7 +61,7 @@ for providing public documentation of watermarked document abuse.
 
 ### `sd-eng`
 
-官方给出的调用示例：`sd-eng -h`
+> 官方示例调用：`sd-eng -h`
 
 ```text
 root@kali:~# sd-eng -h
@@ -88,7 +88,7 @@ to keep the copy of used alternative file for further reference.
 
 ### `sd-engf`
 
-官方给出的调用示例：`sd-engf -h`
+> 官方示例调用：`sd-engf -h`
 
 ```text
 root@kali:~# sd-engf -h

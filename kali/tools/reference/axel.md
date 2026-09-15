@@ -37,7 +37,7 @@ man axel         # 查看手册
 
 ### `axel`
 
-官方给出的调用示例：`axel -h`
+> 官方示例调用：`axel -h`
 
 ```text
 root@kali:~# axel -h

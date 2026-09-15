@@ -37,7 +37,7 @@ man google-nexus-tools         # 查看手册
 
 ### `nexus-adb`
 
-官方给出的调用示例：`nexus-adb -h`
+> 官方示例调用：`nexus-adb -h`
 
 ```text
 root@kali:~# nexus-adb -h
@@ -158,7 +158,7 @@ environmental variables:
 
 ### `nexus-fastboot`
 
-官方给出的调用示例：`nexus-fastboot -h`
+> 官方示例调用：`nexus-fastboot -h`
 
 ```text
 root@kali:~# nexus-fastboot -h

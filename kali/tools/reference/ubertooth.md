@@ -37,7 +37,7 @@ man libubertooth-dev         # 查看手册
 
 ### `ubertooth-afh`
 
-官方给出的调用示例：`ubertooth-afh -h`
+> 官方示例调用：`ubertooth-afh -h`
 
 ```text
 root@kali:~# ubertooth-afh -h
@@ -58,7 +58,7 @@ Other options
 
 ### `ubertooth-btle`
 
-官方给出的调用示例：`ubertooth-btle -h`
+> 官方示例调用：`ubertooth-btle -h`
 
 ```text
 root@kali:~# ubertooth-btle -h
@@ -91,7 +91,7 @@ In get/set mode no capture occurs.
 
 ### `ubertooth-debug`
 
-官方给出的调用示例：`ubertooth-debug -h`
+> 官方示例调用：`ubertooth-debug -h`
 
 ```text
 root@kali:~# ubertooth-debug -h
@@ -106,7 +106,7 @@ Usage:
 
 ### `ubertooth-dfu`
 
-官方给出的调用示例：`ubertooth-dfu -h`
+> 官方示例调用：`ubertooth-dfu -h`
 
 ```text
 root@kali:~# ubertooth-dfu -h
@@ -124,7 +124,7 @@ Miscellaneous:
 
 ### `ubertooth-ducky`
 
-官方给出的调用示例：`ubertooth-ducky -h`
+> 官方示例调用：`ubertooth-ducky -h`
 
 ```text
 root@kali:~# ubertooth-ducky -h
@@ -141,7 +141,7 @@ https://github.com/mikeryan/uberducky
 
 ### `ubertooth-dump`
 
-官方给出的调用示例：`ubertooth-dump -h`
+> 官方示例调用：`ubertooth-dump -h`
 
 ```text
 root@kali:~# ubertooth-dump -h
@@ -159,7 +159,7 @@ run it from a terminal without redirecting the output.
 
 ### `ubertooth-ego`
 
-官方给出的调用示例：`ubertooth-ego -h`
+> 官方示例调用：`ubertooth-ego -h`
 
 ```text
 root@kali:~# ubertooth-ego -h
@@ -178,7 +178,7 @@ Usage:
 
 ### `ubertooth-follow`
 
-官方给出的调用示例：`ubertooth-follow -h`
+> 官方示例调用：`ubertooth-follow -h`
 
 ```text
 root@kali:~# ubertooth-follow -h
@@ -200,7 +200,7 @@ LAP and UAP are both required, if not given they are read from the local device,
 
 ### `ubertooth-rx`
 
-官方给出的调用示例：`ubertooth-rx -h`
+> 官方示例调用：`ubertooth-rx -h`
 
 ```text
 root@kali:~# ubertooth-rx -h
@@ -230,7 +230,7 @@ Miscellaneous:
 
 ### `ubertooth-scan`
 
-官方给出的调用示例：`ubertooth-scan -h`
+> 官方示例调用：`ubertooth-scan -h`
 
 ```text
 root@kali:~# ubertooth-scan -h

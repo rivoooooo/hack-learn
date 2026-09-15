@@ -37,7 +37,7 @@ man golang-github-ne0nd0g-merlin-dev         # 查看手册
 
 ### `merlinserver`
 
-官方给出的调用示例：`merlinserver -h`
+> 官方示例调用：`merlinserver -h`
 
 ```text
 root@kali:~# merlinserver -h

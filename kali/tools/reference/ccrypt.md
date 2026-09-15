@@ -37,7 +37,7 @@ man ccrypt         # 查看手册
 
 ### `ccat`
 
-官方给出的调用示例：`ccat -h`
+> 官方示例调用：`ccat -h`
 
 ```text
 root@kali:~# ccat -h
@@ -81,7 +81,7 @@ Options:
 
 ### `ccdecrypt`
 
-官方给出的调用示例：`ccdecrypt -h`
+> 官方示例调用：`ccdecrypt -h`
 
 ```text
 root@kali:~# ccdecrypt -h
@@ -125,7 +125,7 @@ Options:
 
 ### `ccencrypt`
 
-官方给出的调用示例：`ccencrypt -h`
+> 官方示例调用：`ccencrypt -h`
 
 ```text
 root@kali:~# ccencrypt -h
@@ -169,7 +169,7 @@ Options:
 
 ### `ccguess`
 
-官方给出的调用示例：`ccguess -h`
+> 官方示例调用：`ccguess -h`
 
 ```text
 root@kali:~# ccguess -h
@@ -190,7 +190,7 @@ Arguments:
 
 ### `ccrypt`
 
-官方给出的调用示例：`ccrypt -h`
+> 官方示例调用：`ccrypt -h`
 
 ```text
 root@kali:~# ccrypt -h

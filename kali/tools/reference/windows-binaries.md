@@ -37,7 +37,7 @@ man windows-binaries         # 查看手册
 
 ### `windows-binaries`
 
-官方给出的调用示例：`windows-binaries -h`
+> 官方示例调用：`windows-binaries -h`
 
 ```text
 root@kali:~# windows-binaries -h
@@ -67,7 +67,7 @@ root@kali:~# windows-binaries -h
 
 ### `windows-resources`
 
-官方给出的调用示例：`windows-resources -h`
+> 官方示例调用：`windows-resources -h`
 
 ```text
 root@kali:~# windows-resources -h

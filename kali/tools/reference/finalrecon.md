@@ -37,7 +37,7 @@ man finalrecon         # 查看手册
 
 ### `finalrecon`
 
-官方给出的调用示例：`finalrecon -h`
+> 官方示例调用：`finalrecon -h`
 
 ```text
 root@kali:~# finalrecon -h

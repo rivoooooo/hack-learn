@@ -37,7 +37,7 @@ man apple-bleee         # 查看手册
 
 ### `apple-bleee`
 
-官方给出的调用示例：`apple-bleee -h`
+> 官方示例调用：`apple-bleee -h`
 
 ```text
 root@kali:~# apple-bleee -h

@@ -37,7 +37,7 @@ man kali-tweaks         # 查看手册
 
 ### `kali-tweaks`
 
-官方给出的调用示例：`kali-tweaks -h`
+> 官方示例调用：`kali-tweaks -h`
 
 ```text
 root@kali:~# kali-tweaks -h

@@ -95,7 +95,7 @@ Total email features found: 899
 
 ### `bulk_extractor`
 
-官方给出的调用示例：`bulk_extractor -o bulk-out xp-laptop-2005-07-04-1430.img`
+> 官方示例调用：`bulk_extractor -o bulk-out xp-laptop-2005-07-04-1430.img`
 
 ```text
 root@kali:~# bulk_extractor -o bulk-out xp-laptop-2005-07-04-1430.img
@@ -152,9 +152,9 @@ Overall performance: 1.418 MBytes/sec.
 Total email features found: 899
 ```
 
-### `bulk_extractor（示例）`
+### `bulk_extractor -h`
 
-官方给出的调用示例：`bulk_extractor -h`
+> 官方示例调用：`bulk_extractor -h`
 
 ```text
 root@kali:~# bulk_extractor -h

@@ -78,7 +78,7 @@ Password length (length ordered)
 
 ### `pipal`
 
-官方给出的调用示例：`pipal -t 5 /usr/share/wordlists/nmap.lst`
+> 官方示例调用：`pipal -t 5 /usr/share/wordlists/nmap.lst`
 
 ```text
 root@kali:~# pipal -t 5 /usr/share/wordlists/nmap.lst
@@ -119,9 +119,9 @@ Password length (length ordered)
 88 = 1 (0.02%)
 ```
 
-### `pipal（示例）`
+### `pipal -h`
 
-官方给出的调用示例：`pipal -h`
+> 官方示例调用：`pipal -h`
 
 ```text
 root@kali:~# pipal -h

@@ -46,7 +46,7 @@ Discovered open port 80/tcp on 192.168.1.230
 
 ### `masscan`
 
-官方给出的调用示例：`masscan -p22,80,445 192.168.1.0/24`
+> 官方示例调用：`masscan -p22,80,445 192.168.1.0/24`
 
 ```text
 root@kali:~# masscan -p22,80,445 192.168.1.0/24
@@ -59,9 +59,9 @@ Discovered open port 445/tcp on 192.168.1.220
 Discovered open port 80/tcp on 192.168.1.230
 ```
 
-### `masscan（示例）`
+### `masscan --help`
 
-官方给出的调用示例：`masscan --help`
+> 官方示例调用：`masscan --help`
 
 ```text
 root@kali:~# masscan --help

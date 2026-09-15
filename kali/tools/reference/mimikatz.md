@@ -37,7 +37,7 @@ man mimikatz         # 查看手册
 
 ### `mimikatz`
 
-官方给出的调用示例：`mimikatz -h`
+> 官方示例调用：`mimikatz -h`
 
 ```text
 root@kali:~# mimikatz -h

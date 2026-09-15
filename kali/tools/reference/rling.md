@@ -37,7 +37,7 @@ man rling         # 查看手册
 
 ### `getpass`
 
-官方给出的调用示例：`getpass -h`
+> 官方示例调用：`getpass -h`
 
 ```text
 root@kali:~# getpass -h
@@ -60,7 +60,7 @@ Default excluded extensions:
 
 ### `rling`
 
-官方给出的调用示例：`rling --help`
+> 官方示例调用：`rling --help`
 
 ```text
 root@kali:~# rling --help
@@ -94,7 +94,7 @@ Total runtime 0.0002 seconds
 
 ### `splitlen`
 
-官方给出的调用示例：`splitlen -h`
+> 官方示例调用：`splitlen -h`
 
 ```text
 root@kali:~# splitlen -h

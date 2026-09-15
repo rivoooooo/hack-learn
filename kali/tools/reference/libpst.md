@@ -37,7 +37,7 @@ man libpst-dev         # 查看手册
 
 ### `lspst`
 
-官方给出的调用示例：`lspst -h`
+> 官方示例调用：`lspst -h`
 
 ```text
 root@kali:~# lspst -h
@@ -54,7 +54,7 @@ OPTIONS:
 
 ### `pst2dii`
 
-官方给出的调用示例：`pst2dii -h`
+> 官方示例调用：`pst2dii -h`
 
 ```text
 root@kali:~# pst2dii -h
@@ -75,7 +75,7 @@ OPTIONS:
 
 ### `pst2ldif`
 
-官方给出的调用示例：`pst2ldif -h`
+> 官方示例调用：`pst2ldif -h`
 
 ```text
 root@kali:~# pst2ldif -h
@@ -94,7 +94,7 @@ OPTIONS:
 
 ### `readpst`
 
-官方给出的调用示例：`readpst -h`
+> 官方示例调用：`readpst -h`
 
 ```text
 root@kali:~# readpst -h

@@ -37,7 +37,7 @@ man oletools         # 查看手册
 
 ### `ftguess`
 
-官方给出的调用示例：`ftguess -h`
+> 官方示例调用：`ftguess -h`
 
 ```text
 root@kali:~# ftguess -h
@@ -62,7 +62,7 @@ Options:
 
 ### `mraptor`
 
-官方给出的调用示例：`mraptor -h`
+> 官方示例调用：`mraptor -h`
 
 ```text
 root@kali:~# mraptor -h
@@ -85,7 +85,7 @@ Options:
 
 ### `msodde`
 
-官方给出的调用示例：`msodde -h`
+> 官方示例调用：`msodde -h`
 
 ```text
 root@kali:~# msodde -h
@@ -116,7 +116,7 @@ Filter which OpenXML field commands are returned:
 
 ### `oledir`
 
-官方给出的调用示例：`oledir -h`
+> 官方示例调用：`oledir -h`
 
 ```text
 root@kali:~# oledir -h
@@ -135,7 +135,7 @@ Options:
 
 ### `olefile`
 
-官方给出的调用示例：`olefile -h`
+> 官方示例调用：`olefile -h`
 
 ```text
 root@kali:~# olefile -h
@@ -153,7 +153,7 @@ Options:
 
 ### `oleid`
 
-官方给出的调用示例：`oleid -h`
+> 官方示例调用：`oleid -h`
 
 ```text
 root@kali:~# oleid -h
@@ -177,7 +177,7 @@ options:
 
 ### `olemap`
 
-官方给出的调用示例：`olemap -h`
+> 官方示例调用：`olemap -h`
 
 ```text
 root@kali:~# olemap -h
@@ -200,7 +200,7 @@ Options:
 
 ### `olemeta`
 
-官方给出的调用示例：`olemeta -h`
+> 官方示例调用：`olemeta -h`
 
 ```text
 root@kali:~# olemeta -h
@@ -222,7 +222,7 @@ Options:
 
 ### `oleobj`
 
-官方给出的调用示例：`oleobj -h`
+> 官方示例调用：`oleobj -h`
 
 ```text
 root@kali:~# oleobj -h
@@ -254,7 +254,7 @@ options:
 
 ### `oletimes`
 
-官方给出的调用示例：`oletimes -h`
+> 官方示例调用：`oletimes -h`
 
 ```text
 root@kali:~# oletimes -h

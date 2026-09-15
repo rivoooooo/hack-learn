@@ -37,7 +37,7 @@ man steghide         # 查看手册
 
 ### `steghide`
 
-官方给出的调用示例：`steghide --help`
+> 官方示例调用：`steghide --help`
 
 ```text
 root@kali:~# steghide --help

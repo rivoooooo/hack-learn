@@ -113,7 +113,7 @@ root@kali:~#
 
 ### `joomscan`
 
-官方给出的调用示例：`joomscan -u http://localhost/`
+> 官方示例调用：`joomscan -u http://localhost/`
 
 ```text
 root@kali:~# joomscan -u http://localhost/
@@ -180,22 +180,22 @@ root@kali:~#
 
 ### `ls`
 
-官方给出的调用示例：`ls /usr/share/joomscan/reports/localhost/`
+> 官方示例调用：`ls /usr/share/joomscan/reports/localhost/`
 
 ```text
 root@kali:~# ls /usr/share/joomscan/reports/localhost/
 localhost_report_2018-3-19_at_8.37.58.html  localhost_report_2018-3-19_at_8.37.58.txt
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
 ```
 
-### `joomscan（示例）`
+### `joomscan -h`
 
-官方给出的调用示例：`joomscan -h`
+> 官方示例调用：`joomscan -h`
 
 ```text
 root@kali:~# joomscan -h

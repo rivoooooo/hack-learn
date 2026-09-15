@@ -37,7 +37,7 @@ man dumpsterdiver         # 查看手册
 
 ### `DumpsterDiver`
 
-官方给出的调用示例：`DumpsterDiver -h`
+> 官方示例调用：`DumpsterDiver -h`
 
 ```text
 root@kali:~# DumpsterDiver -h

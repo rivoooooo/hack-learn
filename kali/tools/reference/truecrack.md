@@ -37,7 +37,7 @@ man truecrack         # 查看手册
 
 ### `truecrack`
 
-官方给出的调用示例：`truecrack -t truecrypt_vol -k ripemd160 -w passes.txt`
+> 官方示例调用：`truecrack -t truecrypt_vol -k ripemd160 -w passes.txt`
 
 ```text
 root@kali:~# truecrack -t truecrypt_vol -k ripemd160 -w passes.txt
@@ -50,9 +50,9 @@ Password length:    "7"
 Total computations: "78"
 ```
 
-### `truecrack（示例）`
+### `truecrack -h`
 
-官方给出的调用示例：`truecrack -h`
+> 官方示例调用：`truecrack -h`
 
 ```text
 root@kali:~# truecrack -h

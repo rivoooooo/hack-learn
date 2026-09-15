@@ -37,7 +37,7 @@ man peirates         # 查看手册
 
 ### `peirates`
 
-官方给出的调用示例：`peirates -h`
+> 官方示例调用：`peirates -h`
 
 ```text
 root@kali:~# peirates -h

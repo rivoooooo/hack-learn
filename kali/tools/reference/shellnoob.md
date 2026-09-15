@@ -37,7 +37,7 @@ man shellnoob         # 查看手册
 
 ### `shellnoob`
 
-官方给出的调用示例：`shellnoob -i --to-opcode`
+> 官方示例调用：`shellnoob -i --to-opcode`
 
 ```text
 root@kali:~# shellnoob -i --to-opcode
@@ -49,9 +49,9 @@ ret ~> c3
 >>
 ```
 
-### `shellnoob（示例）`
+### `shellnoob -h`
 
-官方给出的调用示例：`shellnoob -h`
+> 官方示例调用：`shellnoob -h`
 
 ```text
 root@kali:~# shellnoob -h

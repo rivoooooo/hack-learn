@@ -37,7 +37,7 @@ man phpggc         # 查看手册
 
 ### `phpggc`
 
-官方给出的调用示例：`phpggc -h`
+> 官方示例调用：`phpggc -h`
 
 ```text
 root@kali:~# phpggc -h

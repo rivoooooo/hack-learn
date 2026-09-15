@@ -36,7 +36,7 @@ man graudit         # 查看手册
 
 ### `graudit`
 
-官方给出的调用示例：`graudit -h`
+> 官方示例调用：`graudit -h`
 
 ```text
 root@kali:~# graudit -h

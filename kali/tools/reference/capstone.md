@@ -37,7 +37,7 @@ man capstone-tool         # 查看手册
 
 ### `cstool`
 
-官方给出的调用示例：`cstool -h`
+> 官方示例调用：`cstool -h`
 
 ```text
 root@kali:~# cstool -h

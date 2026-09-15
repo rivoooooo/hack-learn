@@ -36,7 +36,7 @@ man libapache2-mod-php         # 查看手册
 
 ### `php-cgi.default`
 
-官方给出的调用示例：`php-cgi.default -h`
+> 官方示例调用：`php-cgi.default -h`
 
 ```text
 root@kali:~# php-cgi.default -h
@@ -64,7 +64,7 @@ Usage: php-cgi [-q] [-h] [-s] [-v] [-i] [-f <file>]
 
 ### `man`
 
-官方给出的调用示例：`man phar.default`
+> 官方示例调用：`man phar.default`
 
 ```text
 root@kali:~# man phar.default
@@ -289,9 +289,9 @@ AUTHORS
 VERSION INFORMATION
 ```
 
-### `man（示例）`
+### `man phar.phar.default`
 
-官方给出的调用示例：`man phar.phar.default`
+> 官方示例调用：`man phar.phar.default`
 
 ```text
 root@kali:~# man phar.phar.default
@@ -518,7 +518,7 @@ VERSION INFORMATION
 
 ### `php.default`
 
-官方给出的调用示例：`php.default -h`
+> 官方示例调用：`php.default -h`
 
 ```text
 root@kali:~# php.default -h
@@ -563,7 +563,7 @@ Usage: php [options] [-f] <file> [--] [args...]
 
 ### `phpdismod`
 
-官方给出的调用示例：`phpdismod -h`
+> 官方示例调用：`phpdismod -h`
 
 ```text
 root@kali:~# phpdismod -h
@@ -572,7 +572,7 @@ usage: phpdismod [ -v ALL|php_version ] [ -s ALL|sapi_name ] module_name [ modul
 
 ### `phpenmod`
 
-官方给出的调用示例：`phpenmod -h`
+> 官方示例调用：`phpenmod -h`
 
 ```text
 root@kali:~# phpenmod -h
@@ -581,7 +581,7 @@ usage: phpenmod [ -v ALL|php_version ] [ -s ALL|sapi_name ] module_name [ module
 
 ### `phpquery`
 
-官方给出的调用示例：`phpquery -h`
+> 官方示例调用：`phpquery -h`
 
 ```text
 root@kali:~# phpquery -h
@@ -590,7 +590,7 @@ usage: phpquery [ -d ] [ -q ] -v version_name -s sapi_name [ -m module_name ] [ 
 
 ### `php-config.default`
 
-官方给出的调用示例：`php-config.default -h`
+> 官方示例调用：`php-config.default -h`
 
 ```text
 root@kali:~# php-config.default -h
@@ -617,7 +617,7 @@ Options:
 
 ### `phpize.default`
 
-官方给出的调用示例：`phpize.default --help`
+> 官方示例调用：`phpize.default --help`
 
 ```text
 root@kali:~# phpize.default --help
@@ -626,7 +626,7 @@ Usage: /usr/bin/phpize.default [--clean|--help|--version|-v]
 
 ### `phpdbg.default`
 
-官方给出的调用示例：`phpdbg.default -h`
+> 官方示例调用：`phpdbg.default -h`
 
 ```text
 root@kali:~# phpdbg.default -h

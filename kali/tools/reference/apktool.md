@@ -49,7 +49,7 @@ I: Copying original files...
 
 ### `apktool`
 
-官方给出的调用示例：`apktool d Facebook\ Lite_v121.0.0.8.97_apkpure.com.apk`
+> 官方示例调用：`apktool d Facebook\ Lite_v121.0.0.8.97_apkpure.com.apk`
 
 ```text
 root@kali:~# apktool d Facebook\ Lite_v121.0.0.8.97_apkpure.com.apk
@@ -66,9 +66,9 @@ I: Copying unknown files...
 I: Copying original files...
 ```
 
-### `apktool（示例）`
+### `apktool -h`
 
-官方给出的调用示例：`apktool -h`
+> 官方示例调用：`apktool -h`
 
 ```text
 root@kali:~# apktool -h

@@ -37,7 +37,7 @@ edb
 
 ### `man`
 
-官方给出的调用示例：`man edb`
+> 官方示例调用：`man edb`
 
 ```text
 root@kali:~# man edb

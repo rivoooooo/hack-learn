@@ -59,7 +59,7 @@ GENERATED WORDS: 4592
 
 ### `dirb`
 
-官方给出的调用示例：`dirb http://192.168.1.224/ /usr/share/wordlists/dirb/common.txt`
+> 官方示例调用：`dirb http://192.168.1.224/ /usr/share/wordlists/dirb/common.txt`
 
 ```text
 root@kali:~# dirb http://192.168.1.224/ /usr/share/wordlists/dirb/common.txt
@@ -83,7 +83,7 @@ GENERATED WORDS: 4592
 
 ### `man`
 
-官方给出的调用示例：`man dirb`
+> 官方示例调用：`man dirb`
 
 ```text
 root@kali:~# man dirb
@@ -139,7 +139,7 @@ The Dark Raver                     27/01/2009                           DIRB(1)
 
 ### `dirb-gendict`
 
-官方给出的调用示例：`dirb-gendict -h`
+> 官方示例调用：`dirb-gendict -h`
 
 ```text
 root@kali:~# dirb-gendict -h
@@ -159,9 +159,9 @@ Example: dirb-gendict -n thisword_X
   thisword_9
 ```
 
-### `man（示例）`
+### `man html2dic`
 
-官方给出的调用示例：`man html2dic`
+> 官方示例调用：`man html2dic`
 
 ```text
 root@kali:~# man html2dic

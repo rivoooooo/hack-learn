@@ -37,7 +37,7 @@ man certipy-ad         # 查看手册
 
 ### `certipy-ad`
 
-官方给出的调用示例：`certipy-ad -h`
+> 官方示例调用：`certipy-ad -h`
 
 ```text
 root@kali:~# certipy-ad -h

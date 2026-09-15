@@ -37,7 +37,7 @@ man sipcrack         # 查看手册
 
 ### `sipcrack`
 
-官方给出的调用示例：`sipcrack -h`
+> 官方示例调用：`sipcrack -h`
 
 ```text
 root@kali:~# sipcrack -h
@@ -55,7 +55,7 @@ Usage: sipcrack [OPTIONS] [ -s | -w <wordlist> ] <dump file>
 
 ### `sipdump`
 
-官方给出的调用示例：`sipdump -h`
+> 官方示例调用：`sipdump -h`
 
 ```text
 root@kali:~# sipdump -h

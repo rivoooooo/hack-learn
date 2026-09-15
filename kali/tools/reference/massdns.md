@@ -37,7 +37,7 @@ man massdns         # 查看手册
 
 ### `massdns`
 
-官方给出的调用示例：`massdns -h`
+> 官方示例调用：`massdns -h`
 
 ```text
 root@kali:~# massdns -h

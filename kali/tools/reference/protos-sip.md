@@ -37,7 +37,7 @@ man protos-sip         # 查看手册
 
 ### `protos-sip`
 
-官方给出的调用示例：`protos-sip -h`
+> 官方示例调用：`protos-sip -h`
 
 ```text
 root@kali:~# protos-sip -h

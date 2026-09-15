@@ -37,7 +37,7 @@ man pack2         # 查看手册
 
 ### `pack2`
 
-官方给出的调用示例：`pack2 -h`
+> 官方示例调用：`pack2 -h`
 
 ```text
 root@kali:~# pack2 -h
@@ -57,7 +57,7 @@ SUBCOMMANDS:
 
 ### `pack200`
 
-官方给出的调用示例：`pack200 -h`
+> 官方示例调用：`pack200 -h`
 
 ```text
 root@kali:~# pack200 -h
@@ -110,7 +110,7 @@ Warning: The pack200 tool is deprecated, and is planned for removal in a future 
 
 ### `unpack200`
 
-官方给出的调用示例：`unpack200 -h`
+> 官方示例调用：`unpack200 -h`
 
 ```text
 root@kali:~# unpack200 -h

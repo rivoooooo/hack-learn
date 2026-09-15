@@ -67,7 +67,7 @@ Scan date: 16-5-2014 16:29:48
 
 ### `uniscan`
 
-官方给出的调用示例：`uniscan -u http://192.168.1.202/ -qd`
+> 官方示例调用：`uniscan -u http://192.168.1.202/ -qd`
 
 ```text
 root@kali:~# uniscan -u http://192.168.1.202/ -qd
@@ -100,9 +100,9 @@ Scan date: 16-5-2014 16:29:48
 | [+] Crawling finished, 27 URL's found!
 ```
 
-### `uniscan（示例）`
+### `uniscan -h`
 
-官方给出的调用示例：`uniscan -h`
+> 官方示例调用：`uniscan -h`
 
 ```text
 root@kali:~# uniscan -h

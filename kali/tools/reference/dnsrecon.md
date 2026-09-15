@@ -41,7 +41,7 @@ root@kali:~# dnsrecon -d example.com -D /usr/share/wordlists/dnsmap.txt -t std -
 
 ### `dnsrecon`
 
-官方给出的调用示例：`dnsrecon -d example.com -D /usr/share/wordlists/dnsmap.txt -t std --xml dnsrecon.xml`
+> 官方示例调用：`dnsrecon -d example.com -D /usr/share/wordlists/dnsmap.txt -t std --xml dnsrecon.xml`
 
 ```text
 root@kali:~# dnsrecon -d example.com -D /usr/share/wordlists/dnsmap.txt -t std --xml dnsrecon.xml
@@ -50,9 +50,9 @@ root@kali:~# dnsrecon -d example.com -D /usr/share/wordlists/dnsmap.txt -t std -
 [*] DNSKEYs:
 ```
 
-### `dnsrecon（示例）`
+### `dnsrecon -h`
 
-官方给出的调用示例：`dnsrecon -h`
+> 官方示例调用：`dnsrecon -h`
 
 ```text
 root@kali:~# dnsrecon -h

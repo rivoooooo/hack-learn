@@ -37,7 +37,7 @@ man nextnet         # 查看手册
 
 ### `nextnet`
 
-官方给出的调用示例：`nextnet -h`
+> 官方示例调用：`nextnet -h`
 
 ```text
 root@kali:~# nextnet -h

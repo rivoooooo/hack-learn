@@ -37,7 +37,7 @@ man recoverjpeg         # 查看手册
 
 ### `recoverjpeg`
 
-官方给出的调用示例：`recoverjpeg -h`
+> 官方示例调用：`recoverjpeg -h`
 
 ```text
 root@kali:~# recoverjpeg -h
@@ -60,7 +60,7 @@ Options:
 
 ### `recovermov`
 
-官方给出的调用示例：`recovermov -h`
+> 官方示例调用：`recovermov -h`
 
 ```text
 root@kali:~# recovermov -h
@@ -78,7 +78,7 @@ Options:
 
 ### `man`
 
-官方给出的调用示例：`man remove-duplicates`
+> 官方示例调用：`man remove-duplicates`
 
 ```text
 root@kali:~# man remove-duplicates
@@ -112,9 +112,9 @@ AUTHORS
 User Manuals                   November 12, 2016           REMOVE-DUPLICATES(1)
 ```
 
-### `man（示例）`
+### `man sort-pictures`
 
-官方给出的调用示例：`man sort-pictures`
+> 官方示例调用：`man sort-pictures`
 
 ```text
 root@kali:~# man sort-pictures

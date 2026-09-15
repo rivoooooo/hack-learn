@@ -37,7 +37,7 @@ man proxmark3         # 查看手册
 
 ### `proxmark3`
 
-官方给出的调用示例：`proxmark3 -h`
+> 官方示例调用：`proxmark3 -h`
 
 ```text
 root@kali:~# proxmark3 -h
@@ -99,7 +99,7 @@ More info on flashing procedure from the official Proxmark3 wiki:
 
 ### `pm3`
 
-官方给出的调用示例：`pm3 -h`
+> 官方示例调用：`pm3 -h`
 
 ```text
 root@kali:~# pm3 -h
@@ -129,7 +129,7 @@ Samples:
 
 ### `pm3-flash`
 
-官方给出的调用示例：`pm3-flash -h`
+> 官方示例调用：`pm3-flash -h`
 
 ```text
 root@kali:~# pm3-flash -h
@@ -150,7 +150,7 @@ Example:
 
 ### `pm3-flash-all`
 
-官方给出的调用示例：`pm3-flash-all -h`
+> 官方示例调用：`pm3-flash-all -h`
 
 ```text
 root@kali:~# pm3-flash-all -h
@@ -167,7 +167,7 @@ Usage:
 
 ### `pm3-flash-bootrom`
 
-官方给出的调用示例：`pm3-flash-bootrom -h`
+> 官方示例调用：`pm3-flash-bootrom -h`
 
 ```text
 root@kali:~# pm3-flash-bootrom -h
@@ -184,7 +184,7 @@ Usage:
 
 ### `pm3-flash-fullimage`
 
-官方给出的调用示例：`pm3-flash-fullimage -h`
+> 官方示例调用：`pm3-flash-fullimage -h`
 
 ```text
 root@kali:~# pm3-flash-fullimage -h

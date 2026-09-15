@@ -37,7 +37,7 @@ man tightvncpasswd         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man tightvncpasswd`
+> 官方示例调用：`man tightvncpasswd`
 
 ```text
 root@kali:~# man tightvncpasswd
@@ -103,7 +103,7 @@ AUTHORS
 
 ### `Xtightvnc`
 
-官方给出的调用示例：`Xtightvnc -h`
+> 官方示例调用：`Xtightvnc -h`
 
 ```text
 root@kali:~# Xtightvnc -h
@@ -189,7 +189,7 @@ Connect a VNC server to a VNC viewer
 
 ### `tightvncconnect`
 
-官方给出的调用示例：`tightvncconnect -h`
+> 官方示例调用：`tightvncconnect -h`
 
 ```text
 root@kali:~# tightvncconnect -h
@@ -199,7 +199,7 @@ Tells Xvnc to connect to a listening VNC viewer on the given host and port
 
 ### `tightvncserver`
 
-官方给出的调用示例：`tightvncserver -h`
+> 官方示例调用：`tightvncserver -h`
 
 ```text
 root@kali:~# tightvncserver -h
@@ -234,9 +234,9 @@ xvncviewer (> 3.3.3r2) support a new automatic encoding that should be equally
 good as the tightvnc encoding.
 ```
 
-### `man（示例）`
+### `man xtightvncviewer`
 
-官方给出的调用示例：`man xtightvncviewer`
+> 官方示例调用：`man xtightvncviewer`
 
 ```text
 root@kali:~# man xtightvncviewer

@@ -52,7 +52,7 @@ usage: udp_server port
 udp_server – UDP server for Cymothoa
 ```
 
-### `udp_server（示例）`
+### `udp_server`
 
 ```text
 root@kali:~# udp_server
@@ -63,7 +63,7 @@ usage: udp_server port
 udp_server – UDP server for Cymothoa
 ```
 
-### `udp_server（示例）`
+### `udp_server`
 
 ```text
 root@kali:~# udp_server
@@ -74,7 +74,7 @@ usage: udp_server port
 udp_server – UDP server for Cymothoa
 ```
 
-### `udp_server（示例）`
+### `udp_server`
 
 ```text
 root@kali:~# udp_server
@@ -121,7 +121,7 @@ usage: bgrep <hex> [<path> [...]]
 udp_server – UDP server for Cymothoa
 ```
 
-### `udp_server（示例）`
+### `udp_server`
 
 ```text
 root@kali:~# udp_server
@@ -130,7 +130,7 @@ usage: udp_server port
 
 ### `cymothoa`
 
-官方给出的调用示例：`cymothoa -h`
+> 官方示例调用：`cymothoa -h`
 
 ```text
 root@kali:~# cymothoa -h

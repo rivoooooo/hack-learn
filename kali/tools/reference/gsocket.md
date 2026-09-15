@@ -37,7 +37,7 @@ man gsocket         # 查看手册
 
 ### `blitz`
 
-官方给出的调用示例：`blitz -h`
+> 官方示例调用：`blitz -h`
 
 ```text
 root@kali:~# blitz -h
@@ -62,7 +62,7 @@ See 'man gs-netcat' and 'man rsync' for more options.
 
 ### `gs-mount`
 
-官方给出的调用示例：`gs-mount -h`
+> 官方示例调用：`gs-mount -h`
 
 ```text
 root@kali:~# gs-mount -h
@@ -79,7 +79,7 @@ See 'gs-netcat -h' for more options.
 
 ### `gs-netcat`
 
-官方给出的调用示例：`gs-netcat -h`
+> 官方示例调用：`gs-netcat -h`
 
 ```text
 root@kali:~# gs-netcat -h
@@ -122,7 +122,7 @@ Example for a reverse shell:
 
 ### `gs-sftp`
 
-官方给出的调用示例：`gs-sftp -h`
+> 官方示例调用：`gs-sftp -h`
 
 ```text
 root@kali:~# gs-sftp -h
@@ -139,7 +139,7 @@ See 'gs-netcat -h' for more options.
 
 ### `gsocket`
 
-官方给出的调用示例：`gsocket -h`
+> 官方示例调用：`gsocket -h`
 
 ```text
 root@kali:~# gsocket -h

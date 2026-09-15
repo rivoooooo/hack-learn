@@ -37,7 +37,7 @@ man defectdojo         # 查看手册
 
 ### `defectdojo`
 
-官方给出的调用示例：`defectdojo -h`
+> 官方示例调用：`defectdojo -h`
 
 ```text
 root@kali:~# defectdojo -h
@@ -50,7 +50,7 @@ root@kali:~# defectdojo -h
 
 ### `defectdojo-start`
 
-官方给出的调用示例：`defectdojo-start -h`
+> 官方示例调用：`defectdojo-start -h`
 
 ```text
 root@kali:~# defectdojo-start -h
@@ -60,7 +60,7 @@ User _defectdojo already exists in PostgreSQL
 
 ### `defectdojo-stop`
 
-官方给出的调用示例：`defectdojo-stop -h`
+> 官方示例调用：`defectdojo-stop -h`
 
 ```text
 root@kali:~# defectdojo-stop -h

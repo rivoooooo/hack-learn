@@ -37,7 +37,7 @@ man hekatomb         # 查看手册
 
 ### `hekatomb`
 
-官方给出的调用示例：`hekatomb -h`
+> 官方示例调用：`hekatomb -h`
 
 ```text
 root@kali:~# hekatomb -h

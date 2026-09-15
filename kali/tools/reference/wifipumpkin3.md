@@ -37,7 +37,7 @@ man wifipumpkin3         # 查看手册
 
 ### `captiveflask`
 
-官方给出的调用示例：`captiveflask -h`
+> 官方示例调用：`captiveflask -h`
 
 ```text
 root@kali:~# captiveflask -h
@@ -65,7 +65,7 @@ options:
 
 ### `evilqr3`
 
-官方给出的调用示例：`evilqr3 -h`
+> 官方示例调用：`evilqr3 -h`
 
 ```text
 root@kali:~# evilqr3 -h
@@ -96,7 +96,7 @@ options:
 
 ### `phishkin3`
 
-官方给出的调用示例：`phishkin3 -h`
+> 官方示例调用：`phishkin3 -h`
 
 ```text
 root@kali:~# phishkin3 -h
@@ -120,7 +120,7 @@ options:
 
 ### `sslstrip3`
 
-官方给出的调用示例：`sslstrip3 -h`
+> 官方示例调用：`sslstrip3 -h`
 
 ```text
 root@kali:~# sslstrip3 -h
@@ -142,7 +142,7 @@ Options:
 
 ### `wifipumpkin3`
 
-官方给出的调用示例：`wifipumpkin3 -h`
+> 官方示例调用：`wifipumpkin3 -h`
 
 ```text
 root@kali:~# wifipumpkin3 -h
@@ -179,7 +179,7 @@ options:
 
 ### `wp3`
 
-官方给出的调用示例：`wp3 -h`
+> 官方示例调用：`wp3 -h`
 
 ```text
 root@kali:~# wp3 -h

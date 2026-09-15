@@ -37,7 +37,7 @@ man wce         # 查看手册
 
 ### `wce`
 
-官方给出的调用示例：`wce -h`
+> 官方示例调用：`wce -h`
 
 ```text
 root@kali:~# wce -h

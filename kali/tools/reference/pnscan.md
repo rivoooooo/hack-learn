@@ -37,7 +37,7 @@ man pnscan         # 查看手册
 
 ### `pnscan`
 
-官方给出的调用示例：`pnscan -h`
+> 官方示例调用：`pnscan -h`
 
 ```text
 root@kali:~# pnscan -h
@@ -65,7 +65,7 @@ Command line options:
 
 ### `t_listen`
 
-官方给出的调用示例：`t_listen -h`
+> 官方示例调用：`t_listen -h`
 
 ```text
 root@kali:~# t_listen -h

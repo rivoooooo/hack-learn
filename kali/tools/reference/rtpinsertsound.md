@@ -37,7 +37,7 @@ man rtpinsertsound         # 查看手册
 
 ### `rtpinsertsound`
 
-官方给出的调用示例：`rtpinsertsound /usr/share/rtpinsertsound/stapler.wav -v`
+> 官方示例调用：`rtpinsertsound /usr/share/rtpinsertsound/stapler.wav -v`
 
 ```text
 root@kali:~# rtpinsertsound /usr/share/rtpinsertsound/stapler.wav -v
@@ -45,9 +45,9 @@ Targeting interface eth0
 libfindrtp_find_rtp(): using pcap filter "ip".
 ```
 
-### `rtpinsertsound（示例）`
+### `rtpinsertsound -h`
 
-官方给出的调用示例：`rtpinsertsound -h`
+> 官方示例调用：`rtpinsertsound -h`
 
 ```text
 root@kali:~# rtpinsertsound -h

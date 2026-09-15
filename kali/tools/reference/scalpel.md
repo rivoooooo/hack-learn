@@ -37,7 +37,7 @@ man scalpel         # 查看手册
 
 ### `scalpel`
 
-官方给出的调用示例：`scalpel -h`
+> 官方示例调用：`scalpel -h`
 
 ```text
 root@kali:~# scalpel -h

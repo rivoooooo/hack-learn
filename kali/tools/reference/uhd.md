@@ -37,7 +37,7 @@ man libuhd-dev         # 查看手册
 
 ### `rfnoc_image_builder`
 
-官方给出的调用示例：`rfnoc_image_builder -h`
+> 官方示例调用：`rfnoc_image_builder -h`
 
 ```text
 root@kali:~# rfnoc_image_builder -h
@@ -127,7 +127,7 @@ options:
 
 ### `rfnoc_modtool`
 
-官方给出的调用示例：`rfnoc_modtool -h`
+> 官方示例调用：`rfnoc_modtool -h`
 
 ```text
 root@kali:~# rfnoc_modtool -h
@@ -177,7 +177,7 @@ options:
 
 ### `uhd_adc_self_cal`
 
-官方给出的调用示例：`uhd_adc_self_cal --help`
+> 官方示例调用：`uhd_adc_self_cal --help`
 
 ```text
 root@kali:~# uhd_adc_self_cal --help
@@ -189,7 +189,7 @@ UHD ADC self calibration Allowed options:
 
 ### `uhd_cal_rx_iq_balance`
 
-官方给出的调用示例：`uhd_cal_rx_iq_balance --help`
+> 官方示例调用：`uhd_cal_rx_iq_balance --help`
 
 ```text
 root@kali:~# uhd_cal_rx_iq_balance --help
@@ -217,7 +217,7 @@ Note: Not all daughterboards support this feature. Refer to the UHD manual for d
 
 ### `uhd_cal_tx_dc_offset`
 
-官方给出的调用示例：`uhd_cal_tx_dc_offset --help`
+> 官方示例调用：`uhd_cal_tx_dc_offset --help`
 
 ```text
 root@kali:~# uhd_cal_tx_dc_offset --help
@@ -246,7 +246,7 @@ Note: Not all daughterboards support this feature. Refer to the UHD manual for d
 
 ### `uhd_cal_tx_iq_balance`
 
-官方给出的调用示例：`uhd_cal_tx_iq_balance --help`
+> 官方示例调用：`uhd_cal_tx_iq_balance --help`
 
 ```text
 root@kali:~# uhd_cal_tx_iq_balance --help
@@ -275,7 +275,7 @@ Note: Not all daughterboards support this feature. Refer to the UHD manual for d
 
 ### `uhd_config_info`
 
-官方给出的调用示例：`uhd_config_info --help`
+> 官方示例调用：`uhd_config_info --help`
 
 ```text
 root@kali:~# uhd_config_info --help
@@ -302,7 +302,7 @@ UHD Config Info - Allowed Options:
 
 ### `uhd_find_devices`
 
-官方给出的调用示例：`uhd_find_devices --help`
+> 官方示例调用：`uhd_find_devices --help`
 
 ```text
 root@kali:~# uhd_find_devices --help
@@ -313,7 +313,7 @@ UHD Find Devices Allowed options:
 
 ### `uhd_image_loader`
 
-官方给出的调用示例：`uhd_image_loader --help`
+> 官方示例调用：`uhd_image_loader --help`
 
 ```text
 root@kali:~# uhd_image_loader --help
@@ -332,7 +332,7 @@ Allowed options:
 
 ### `uhd_images_downloader`
 
-官方给出的调用示例：`uhd_images_downloader -h`
+> 官方示例调用：`uhd_images_downloader -h`
 
 ```text
 root@kali:~# uhd_images_downloader -h

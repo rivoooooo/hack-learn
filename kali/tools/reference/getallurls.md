@@ -37,7 +37,7 @@ man getallurls         # 查看手册
 
 ### `getallurls`
 
-官方给出的调用示例：`getallurls -h`
+> 官方示例调用：`getallurls -h`
 
 ```text
 root@kali:~# getallurls -h

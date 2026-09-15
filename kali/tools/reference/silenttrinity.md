@@ -37,7 +37,7 @@ man silenttrinity         # 查看手册
 
 ### `silenttrinity`
 
-官方给出的调用示例：`silenttrinity -h`
+> 官方示例调用：`silenttrinity -h`
 
 ```text
 root@kali:~# silenttrinity -h

@@ -79,7 +79,7 @@ root@kali:~# dotdotpwn.pl -m http -h 192.168.1.1 -M GET
 
 ### `dotdotpwn.pl`
 
-官方给出的调用示例：`dotdotpwn.pl -m http -h 192.168.1.1 -M GET`
+> 官方示例调用：`dotdotpwn.pl -m http -h 192.168.1.1 -M GET`
 
 ```text
 root@kali:~# dotdotpwn.pl -m http -h 192.168.1.1 -M GET
@@ -126,7 +126,7 @@ root@kali:~# dotdotpwn.pl -m http -h 192.168.1.1 -M GET
 
 ### `dotdotpwn`
 
-官方给出的调用示例：`dotdotpwn -h`
+> 官方示例调用：`dotdotpwn -h`
 
 ```text
 root@kali:~# dotdotpwn -h

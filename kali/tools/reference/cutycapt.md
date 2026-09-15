@@ -40,7 +40,7 @@ libpng warning: iCCP: known incorrect sRGB profile
 
 ### `cutycapt`
 
-官方给出的调用示例：`cutycapt --url=http://www.kali.org --out=kali.png`
+> 官方示例调用：`cutycapt --url=http://www.kali.org --out=kali.png`
 
 ```text
 root@kali:~# cutycapt --url=http://www.kali.org --out=kali.png
@@ -50,7 +50,7 @@ libpng warning: iCCP: known incorrect sRGB profile
 
 ### `man`
 
-官方给出的调用示例：`man cutycapt`
+> 官方示例调用：`man cutycapt`
 
 ```text
 root@kali:~# man cutycapt

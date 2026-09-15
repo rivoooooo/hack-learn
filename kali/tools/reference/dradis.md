@@ -38,7 +38,7 @@ Screenshots
 
 ### `dradis`
 
-官方给出的调用示例：`dradis -h`
+> 官方示例调用：`dradis -h`
 
 ```text
 root@kali:~# dradis -h
@@ -51,7 +51,7 @@ root@kali:~# dradis -h
 
 ### `dradis-start`
 
-官方给出的调用示例：`dradis-start -h`
+> 官方示例调用：`dradis-start -h`
 
 ```text
 root@kali:~# dradis-start -h
@@ -65,7 +65,7 @@ root@kali:~# dradis-start -h
 
 ### `dradis-stop`
 
-官方给出的调用示例：`dradis-stop -h`
+> 官方示例调用：`dradis-stop -h`
 
 ```text
 root@kali:~# dradis-stop -h

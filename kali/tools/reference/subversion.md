@@ -37,7 +37,7 @@ man libapache2-mod-svn         # 查看手册
 
 ### `svn`
 
-官方给出的调用示例：`svn -h`
+> 官方示例调用：`svn -h`
 
 ```text
 root@kali:~# svn -h
@@ -94,7 +94,7 @@ For additional information, see http://subversion.apache.org/
 
 ### `svnadmin`
 
-官方给出的调用示例：`svnadmin -h`
+> 官方示例调用：`svnadmin -h`
 
 ```text
 root@kali:~# svnadmin -h
@@ -136,7 +136,7 @@ Available subcommands:
 
 ### `svnauthz`
 
-官方给出的调用示例：`svnauthz -h`
+> 官方示例调用：`svnauthz -h`
 
 ```text
 root@kali:~# svnauthz -h
@@ -154,7 +154,7 @@ Available subcommands:
 
 ### `svnbench`
 
-官方给出的调用示例：`svnbench -h`
+> 官方示例调用：`svnbench -h`
 
 ```text
 root@kali:~# svnbench -h
@@ -179,7 +179,7 @@ For additional information, see http://subversion.apache.org/
 
 ### `svndumpfilter`
 
-官方给出的调用示例：`svndumpfilter -h`
+> 官方示例调用：`svndumpfilter -h`
 
 ```text
 root@kali:~# svndumpfilter -h
@@ -195,7 +195,7 @@ Available subcommands:
 
 ### `svnfsfs`
 
-官方给出的调用示例：`svnfsfs -h`
+> 官方示例调用：`svnfsfs -h`
 
 ```text
 root@kali:~# svnfsfs -h
@@ -212,7 +212,7 @@ Available subcommands:
 
 ### `svnlook`
 
-官方给出的调用示例：`svnlook -h`
+> 官方示例调用：`svnlook -h`
 
 ```text
 root@kali:~# svnlook -h
@@ -245,7 +245,7 @@ Available subcommands:
 
 ### `svnmucc`
 
-官方给出的调用示例：`svnmucc -h`
+> 官方示例调用：`svnmucc -h`
 
 ```text
 root@kali:~# svnmucc -h
@@ -301,7 +301,7 @@ Valid options:
 
 ### `svnrdump`
 
-官方给出的调用示例：`svnrdump -h`
+> 官方示例调用：`svnrdump -h`
 
 ```text
 root@kali:~# svnrdump -h
@@ -317,7 +317,7 @@ Available subcommands:
 
 ### `svnserve`
 
-官方给出的调用示例：`svnserve -h`
+> 官方示例调用：`svnserve -h`
 
 ```text
 root@kali:~# svnserve -h

@@ -37,7 +37,7 @@ man hotpatch         # 查看手册
 
 ### `hotpatcher`
 
-官方给出的调用示例：`hotpatcher -h`
+> 官方示例调用：`hotpatcher -h`
 
 ```text
 root@kali:~# hotpatcher -h

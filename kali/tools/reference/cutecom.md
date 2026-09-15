@@ -36,7 +36,7 @@ man cutecom         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man cutecom`
+> 官方示例调用：`man cutecom`
 
 ```text
 root@kali:~# man cutecom

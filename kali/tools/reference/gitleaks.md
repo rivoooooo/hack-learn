@@ -37,7 +37,7 @@ man gitleaks         # 查看手册
 
 ### `gitleaks`
 
-官方给出的调用示例：`gitleaks -h`
+> 官方示例调用：`gitleaks -h`
 
 ```text
 root@kali:~# gitleaks -h

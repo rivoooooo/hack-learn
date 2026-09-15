@@ -37,7 +37,7 @@ man wafw00f         # 查看手册
 
 ### `wafw00f`
 
-官方给出的调用示例：`wafw00f -h`
+> 官方示例调用：`wafw00f -h`
 
 ```text
 root@kali:~# wafw00f -h

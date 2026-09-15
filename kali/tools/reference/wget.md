@@ -37,7 +37,7 @@ man wget         # 查看手册
 
 ### `wget`
 
-官方给出的调用示例：`wget -h`
+> 官方示例调用：`wget -h`
 
 ```text
 root@kali:~# wget -h

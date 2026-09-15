@@ -37,7 +37,7 @@ man gitxray         # 查看手册
 
 ### `gitxray`
 
-官方给出的调用示例：`gitxray -h`
+> 官方示例调用：`gitxray -h`
 
 ```text
 root@kali:~# gitxray -h

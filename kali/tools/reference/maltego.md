@@ -37,7 +37,7 @@ man maltego         # 查看手册
 
 ### `maltego`
 
-官方给出的调用示例：`maltego -h`
+> 官方示例调用：`maltego -h`
 
 ```text
 root@kali:~# maltego -h

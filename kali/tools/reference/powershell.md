@@ -36,7 +36,7 @@ man powershell         # 查看手册
 
 ### `pwsh`
 
-官方给出的调用示例：`pwsh -h`
+> 官方示例调用：`pwsh -h`
 
 ```text
 root@kali:~# pwsh -h
@@ -261,9 +261,9 @@ All parameters are case-insensitive.
     This switch is only available on Windows.
 ```
 
-### `pwsh（示例）`
+### `pwsh -h`
 
-官方给出的调用示例：`pwsh -h`
+> 官方示例调用：`pwsh -h`
 
 ```text
 root@kali:~# pwsh -h

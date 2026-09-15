@@ -37,7 +37,7 @@ man koadic         # 查看手册
 
 ### `koadic`
 
-官方给出的调用示例：`koadic -h`
+> 官方示例调用：`koadic -h`
 
 ```text
 root@kali:~# koadic -h

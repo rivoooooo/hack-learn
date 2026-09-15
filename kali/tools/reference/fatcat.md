@@ -37,7 +37,7 @@ man fatcat         # 查看手册
 
 ### `fatcat`
 
-官方给出的调用示例：`fatcat -h`
+> 官方示例调用：`fatcat -h`
 
 ```text
 root@kali:~# fatcat -h

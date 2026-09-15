@@ -37,7 +37,7 @@ man plaso         # 查看手册
 
 ### `plaso-image_export`
 
-官方给出的调用示例：`plaso-image_export -h`
+> 官方示例调用：`plaso-image_export -h`
 
 ```text
 root@kali:~# plaso-image_export -h
@@ -211,7 +211,7 @@ And that is how you export files, plaso style.
 
 ### `plaso-log2timeline`
 
-官方给出的调用示例：`plaso-log2timeline -h`
+> 官方示例调用：`plaso-log2timeline -h`
 
 ```text
 root@kali:~# plaso-log2timeline -h
@@ -438,7 +438,7 @@ processing arguments:
 
 ### `plaso-pinfo`
 
-官方给出的调用示例：`plaso-pinfo -h`
+> 官方示例调用：`plaso-pinfo -h`
 
 ```text
 root@kali:~# plaso-pinfo -h
@@ -490,7 +490,7 @@ options:
 
 ### `plaso-psort`
 
-官方给出的调用示例：`plaso-psort -h`
+> 官方示例调用：`plaso-psort -h`
 
 ```text
 root@kali:~# plaso-psort -h
@@ -657,7 +657,7 @@ profiling arguments:
 
 ### `plaso-psteal`
 
-官方给出的调用示例：`plaso-psteal -h`
+> 官方示例调用：`plaso-psteal -h`
 
 ```text
 root@kali:~# plaso-psteal -h

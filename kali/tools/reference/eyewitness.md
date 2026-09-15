@@ -59,7 +59,7 @@ Would you like to open the report now? [Y/n] Y
 
 ### `cat`
 
-官方给出的调用示例：`cat urls.txt`
+> 官方示例调用：`cat urls.txt`
 
 ```text
 root@kali:~# cat urls.txt
@@ -72,7 +72,7 @@ https://www.offsec.com
 
 ### `eyewitness`
 
-官方给出的调用示例：`eyewitness -f /root/urls.txt -d screens --headless`
+> 官方示例调用：`eyewitness -f /root/urls.txt -d screens --headless`
 
 ```text
 root@kali:~# eyewitness -f /root/urls.txt -d screens --headless
@@ -90,9 +90,9 @@ Finished in 14.1417660713 seconds
 Would you like to open the report now? [Y/n] Y
 ```
 
-### `eyewitness（示例）`
+### `eyewitness -h`
 
-官方给出的调用示例：`eyewitness -h`
+> 官方示例调用：`eyewitness -h`
 
 ```text
 root@kali:~# eyewitness -h
@@ -171,7 +171,7 @@ Resume Options:
 
 ### `geckodriver`
 
-官方给出的调用示例：`geckodriver -h`
+> 官方示例调用：`geckodriver -h`
 
 ```text
 root@kali:~# geckodriver -h

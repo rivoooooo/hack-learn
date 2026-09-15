@@ -53,7 +53,7 @@ dc3dd completed at 2018-12-01 13:37:21 -0500
 
 ### `dc3dd`
 
-官方给出的调用示例：`dc3dd if=/var/log/messages of=/tmp/dc3dd hash=sha512`
+> 官方示例调用：`dc3dd if=/var/log/messages of=/tmp/dc3dd hash=sha512`
 
 ```text
 root@kali:~# dc3dd if=/var/log/messages of=/tmp/dc3dd hash=sha512
@@ -70,9 +70,9 @@ output results for file `/tmp/dc3dd':
 dc3dd completed at 2018-12-01 13:37:21 -0500
 ```
 
-### `dc3dd（示例）`
+### `dc3dd --help`
 
-官方给出的调用示例：`dc3dd --help`
+> 官方示例调用：`dc3dd --help`
 
 ```text
 root@kali:~# dc3dd --help

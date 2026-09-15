@@ -36,7 +36,7 @@ Screenshots
 
 ### `owasp-zap`
 
-官方给出的调用示例：`owasp-zap -h`
+> 官方示例调用：`owasp-zap -h`
 
 ```text
 root@kali:~# owasp-zap -h
@@ -102,7 +102,7 @@ Add-on options:
 
 ### `zaproxy`
 
-官方给出的调用示例：`zaproxy -h`
+> 官方示例调用：`zaproxy -h`
 
 ```text
 root@kali:~# zaproxy -h

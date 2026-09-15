@@ -36,7 +36,7 @@ man cloud-enum         # 查看手册
 
 ### `cloud_enum`
 
-官方给出的调用示例：`cloud_enum -h`
+> 官方示例调用：`cloud_enum -h`
 
 ```text
 root@kali:~# cloud_enum -h

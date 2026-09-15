@@ -44,7 +44,7 @@ root@kali:~# patator mysql_login user=root password=FILE0 0=/root/passes.txt hos
 
 ### `patator`
 
-官方给出的调用示例：`patator mysql_login user=root password=FILE0 0=/root/passes.txt host=127.0.0.1 -x ignore:fgrep='Access denied for user'`
+> 官方示例调用：`patator mysql_login user=root password=FILE0 0=/root/passes.txt host=127.0.0.1 -x ignore:fgrep='Access denied for user'`
 
 ```text
 root@kali:~# patator mysql_login user=root password=FILE0 0=/root/passes.txt host=127.0.0.1 -x ignore:fgrep='Access denied for user'
@@ -56,9 +56,9 @@ root@kali:~# patator mysql_login user=root password=FILE0 0=/root/passes.txt hos
 12:30:37 patator    INFO - Hits/Done/Skip/Fail/Size: 1/4493/0/0/4493, Avg: 3582 r/s, Time: 0h 0m 1s
 ```
 
-### `patator（示例）`
+### `patator -h`
 
-官方给出的调用示例：`patator -h`
+> 官方示例调用：`patator -h`
 
 ```text
 root@kali:~# patator -h

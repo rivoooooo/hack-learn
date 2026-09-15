@@ -37,7 +37,7 @@ man legba         # 查看手册
 
 ### `legba`
 
-官方给出的调用示例：`legba -h`
+> 官方示例调用：`legba -h`
 
 ```text
 root@kali:~# legba -h

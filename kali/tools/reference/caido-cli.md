@@ -37,7 +37,7 @@ man caido-cli         # 查看手册
 
 ### `caido-cli`
 
-官方给出的调用示例：`caido-cli -h`
+> 官方示例调用：`caido-cli -h`
 
 ```text
 root@kali:~# caido-cli -h

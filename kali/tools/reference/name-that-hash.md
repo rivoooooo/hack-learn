@@ -37,7 +37,7 @@ man name-that-hash         # 查看手册
 
 ### `name-that-hash`
 
-官方给出的调用示例：`name-that-hash --help`
+> 官方示例调用：`name-that-hash --help`
 
 ```text
 root@kali:~# name-that-hash --help
@@ -80,7 +80,7 @@ Options:
 
 ### `nth`
 
-官方给出的调用示例：`nth --help`
+> 官方示例调用：`nth --help`
 
 ```text
 root@kali:~# nth --help

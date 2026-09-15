@@ -36,7 +36,7 @@ man caja-gtkhash         # 查看手册
 
 ### `gtkhash`
 
-官方给出的调用示例：`gtkhash -h`
+> 官方示例调用：`gtkhash -h`
 
 ```text
 root@kali:~# gtkhash -h

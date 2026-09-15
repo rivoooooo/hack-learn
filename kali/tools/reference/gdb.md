@@ -37,7 +37,7 @@ man gdb         # 查看手册
 
 ### `gcore`
 
-官方给出的调用示例：`gcore -h`
+> 官方示例调用：`gcore -h`
 
 ```text
 root@kali:~# gcore -h
@@ -56,7 +56,7 @@ Create a core file of a running program using GDB.
 
 ### `gdb`
 
-官方给出的调用示例：`gdb -h`
+> 官方示例调用：`gdb -h`
 
 ```text
 root@kali:~# gdb -h
@@ -127,7 +127,7 @@ You can ask GDB-related questions on the GDB users mailing list
 
 ### `gdb-add-index`
 
-官方给出的调用示例：`gdb-add-index -h`
+> 官方示例调用：`gdb-add-index -h`
 
 ```text
 root@kali:~# gdb-add-index -h
@@ -142,7 +142,7 @@ information loading by GDB.
 
 ### `gdbtui`
 
-官方给出的调用示例：`gdbtui -h`
+> 官方示例调用：`gdbtui -h`
 
 ```text
 root@kali:~# gdbtui -h
@@ -213,7 +213,7 @@ You can ask GDB-related questions on the GDB users mailing list
 
 ### `gstack`
 
-官方给出的调用示例：`gstack -h`
+> 官方示例调用：`gstack -h`
 
 ```text
 root@kali:~# gstack -h
@@ -225,7 +225,7 @@ Print a stack trace of a running program
 
 ### `gdb-multiarch`
 
-官方给出的调用示例：`gdb-multiarch -h`
+> 官方示例调用：`gdb-multiarch -h`
 
 ```text
 root@kali:~# gdb-multiarch -h
@@ -296,7 +296,7 @@ You can ask GDB-related questions on the GDB users mailing list
 
 ### `gdbserver`
 
-官方给出的调用示例：`gdbserver --help`
+> 官方示例调用：`gdbserver --help`
 
 ```text
 root@kali:~# gdbserver --help

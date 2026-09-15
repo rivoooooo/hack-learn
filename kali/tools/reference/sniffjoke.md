@@ -37,7 +37,7 @@ man sniffjoke         # 查看手册
 
 ### `sj-commit-results`
 
-官方给出的调用示例：`sj-commit-results -h`
+> 官方示例调用：`sj-commit-results -h`
 
 ```text
 root@kali:~# sj-commit-results -h
@@ -52,7 +52,7 @@ OPTIONS:
 
 ### `sj-iptcpopt-probe`
 
-官方给出的调用示例：`sj-iptcpopt-probe -h`
+> 官方示例调用：`sj-iptcpopt-probe -h`
 
 ```text
 root@kali:~# sj-iptcpopt-probe -h
@@ -76,7 +76,7 @@ OPTIONS:
 
 ### `sniffjoke`
 
-官方给出的调用示例：`sniffjoke -h`
+> 官方示例调用：`sniffjoke -h`
 
 ```text
 root@kali:~# sniffjoke -h
@@ -105,7 +105,7 @@ Usage: sniffjoke [OPTION]... :
 
 ### `sniffjoke-autotest`
 
-官方给出的调用示例：`sniffjoke-autotest -h`
+> 官方示例调用：`sniffjoke-autotest -h`
 
 ```text
 root@kali:~# sniffjoke-autotest -h
@@ -126,7 +126,7 @@ OPTIONS:
 
 ### `sniffjokectl`
 
-官方给出的调用示例：`sniffjokectl -h`
+> 官方示例调用：`sniffjokectl -h`
 
 ```text
 root@kali:~# sniffjokectl -h

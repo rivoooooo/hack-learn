@@ -37,7 +37,7 @@ man zsh         # 查看手册
 
 ### `rzsh`
 
-官方给出的调用示例：`rzsh --help`
+> 官方示例调用：`rzsh --help`
 
 ```text
 root@kali:~# rzsh --help
@@ -264,7 +264,7 @@ Option letters:
 
 ### `zsh`
 
-官方给出的调用示例：`zsh --help`
+> 官方示例调用：`zsh --help`
 
 ```text
 root@kali:~# zsh --help
@@ -491,7 +491,7 @@ Option letters:
 
 ### `zsh-static`
 
-官方给出的调用示例：`zsh-static --help`
+> 官方示例调用：`zsh-static --help`
 
 ```text
 root@kali:~# zsh-static --help

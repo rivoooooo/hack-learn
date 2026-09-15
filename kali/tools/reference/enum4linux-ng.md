@@ -37,7 +37,7 @@ man enum4linux-ng         # 查看手册
 
 ### `enum4linux-ng`
 
-官方给出的调用示例：`enum4linux-ng -h`
+> 官方示例调用：`enum4linux-ng -h`
 
 ```text
 root@kali:~# enum4linux-ng -h

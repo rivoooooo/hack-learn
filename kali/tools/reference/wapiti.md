@@ -37,7 +37,7 @@ man wapiti         # 查看手册
 
 ### `wapiti`
 
-官方给出的调用示例：`wapiti -h`
+> 官方示例调用：`wapiti -h`
 
 ```text
 root@kali:~# wapiti -h
@@ -198,7 +198,7 @@ options:
 
 ### `wapiti-getcookie`
 
-官方给出的调用示例：`wapiti-getcookie -h`
+> 官方示例调用：`wapiti-getcookie -h`
 
 ```text
 root@kali:~# wapiti-getcookie -h

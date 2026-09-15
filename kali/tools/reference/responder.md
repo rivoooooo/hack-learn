@@ -37,7 +37,7 @@ man responder         # 查看手册
 
 ### `responder`
 
-官方给出的调用示例：`responder -i 192.168.1.202 -w On -r On -f On`
+> 官方示例调用：`responder -i 192.168.1.202 -w On -r On -f On`
 
 ```text
 root@kali:~# responder -i 192.168.1.202 -w On -r On -f On
@@ -68,9 +68,9 @@ Serving Executable via HTTP&amp;WPAD is:OFF
 Always Serving a Specific File via HTTP&amp;WPAD is:OFF
 ```
 
-### `responder（示例）`
+### `responder -h`
 
-官方给出的调用示例：`responder -h`
+> 官方示例调用：`responder -h`
 
 ```text
 root@kali:~# responder -h
@@ -171,7 +171,7 @@ responder-Icmp-Redirect
 
 ### `responder-Icmp-Redirect`
 
-官方给出的调用示例：`responder-Icmp-Redirect -h`
+> 官方示例调用：`responder-Icmp-Redirect -h`
 
 ```text
 root@kali:~# responder-Icmp-Redirect -h
@@ -202,7 +202,7 @@ responder-MultiRelay
 
 ### `responder-MultiRelay`
 
-官方给出的调用示例：`responder-MultiRelay -h`
+> 官方示例调用：`responder-MultiRelay -h`
 
 ```text
 root@kali:~# responder-MultiRelay -h
@@ -217,7 +217,7 @@ responder-RunFinger
 
 ### `responder-RunFinger`
 
-官方给出的调用示例：`responder-RunFinger -h`
+> 官方示例调用：`responder-RunFinger -h`
 
 ```text
 root@kali:~# responder-RunFinger -h

@@ -37,7 +37,7 @@ man golang-github-zonedb-zonedb-dev         # 查看手册
 
 ### `zonedb`
 
-官方给出的调用示例：`zonedb -h`
+> 官方示例调用：`zonedb -h`
 
 ```text
 root@kali:~# zonedb -h

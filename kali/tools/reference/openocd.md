@@ -37,7 +37,7 @@ man openocd         # 查看手册
 
 ### `openocd`
 
-官方给出的调用示例：`openocd -h`
+> 官方示例调用：`openocd -h`
 
 ```text
 root@kali:~# openocd -h

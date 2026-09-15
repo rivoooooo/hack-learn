@@ -37,7 +37,7 @@ man tetragon         # 查看手册
 
 ### `tetra`
 
-官方给出的调用示例：`tetra -h`
+> 官方示例调用：`tetra -h`
 
 ```text
 root@kali:~# tetra -h

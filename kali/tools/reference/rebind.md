@@ -48,7 +48,7 @@ root@kali:~# rebind -i eth0 -d kali.local
 
 ### `rebind`
 
-官方给出的调用示例：`rebind -i eth0 -d kali.local`
+> 官方示例调用：`rebind -i eth0 -d kali.local`
 
 ```text
 root@kali:~# rebind -i eth0 -d kali.local
@@ -66,7 +66,7 @@ root@kali:~# rebind -i eth0 -d kali.local
 
 ### `dns-rebind`
 
-官方给出的调用示例：`dns-rebind -h`
+> 官方示例调用：`dns-rebind -h`
 
 ```text
 root@kali:~# dns-rebind -h

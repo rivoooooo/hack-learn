@@ -37,7 +37,7 @@ man arjun         # 查看手册
 
 ### `arjun`
 
-官方给出的调用示例：`arjun -h`
+> 官方示例调用：`arjun -h`
 
 ```text
 root@kali:~# arjun -h

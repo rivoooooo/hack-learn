@@ -36,7 +36,7 @@ Video
 
 ### `twofi`
 
-官方给出的调用示例：`twofi -h`
+> 官方示例调用：`twofi -h`
 
 ```text
 root@kali:~# twofi -h

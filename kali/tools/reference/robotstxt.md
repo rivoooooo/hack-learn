@@ -37,7 +37,7 @@ man golang-github-temoto-robotstxt-dev         # 查看手册
 
 ### `robots.txt-check`
 
-官方给出的调用示例：`robots.txt-check -h`
+> 官方示例调用：`robots.txt-check -h`
 
 ```text
 root@kali:~# robots.txt-check -h

@@ -37,7 +37,7 @@ man sprayhound         # 查看手册
 
 ### `sprayhound`
 
-官方给出的调用示例：`sprayhound -h`
+> 官方示例调用：`sprayhound -h`
 
 ```text
 root@kali:~# sprayhound -h

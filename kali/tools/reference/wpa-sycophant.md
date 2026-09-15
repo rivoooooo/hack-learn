@@ -37,7 +37,7 @@ man wpa-sycophant         # 查看手册
 
 ### `wpa_sycophant`
 
-官方给出的调用示例：`wpa_sycophant -h`
+> 官方示例调用：`wpa_sycophant -h`
 
 ```text
 root@kali:~# wpa_sycophant -h

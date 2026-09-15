@@ -36,7 +36,7 @@ man wmi-client         # 查看手册
 
 ### `wmic`
 
-官方给出的调用示例：`wmic --help`
+> 官方示例调用：`wmic --help`
 
 ```text
 root@kali:~# wmic --help
@@ -90,7 +90,7 @@ Common samba options:
 
 ### `wmis`
 
-官方给出的调用示例：`wmis --help`
+> 官方示例调用：`wmis --help`
 
 ```text
 root@kali:~# wmis --help

@@ -37,7 +37,7 @@ man undbx         # 查看手册
 
 ### `undbx`
 
-官方给出的调用示例：`undbx -h`
+> 官方示例调用：`undbx -h`
 
 ```text
 root@kali:~# undbx -h

@@ -37,7 +37,7 @@ man shed         # 查看手册
 
 ### `shed`
 
-官方给出的调用示例：`shed -h`
+> 官方示例调用：`shed -h`
 
 ```text
 root@kali:~# shed -h

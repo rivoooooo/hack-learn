@@ -37,7 +37,7 @@ man jadx         # 查看手册
 
 ### `jadx`
 
-官方给出的调用示例：`jadx -h`
+> 官方示例调用：`jadx -h`
 
 ```text
 root@kali:~# jadx -h
@@ -178,7 +178,7 @@ Examples:
 
 ### `jadx-gui`
 
-官方给出的调用示例：`jadx-gui -h`
+> 官方示例调用：`jadx-gui -h`
 
 ```text
 root@kali:~# jadx-gui -h

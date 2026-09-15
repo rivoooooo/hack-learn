@@ -39,16 +39,16 @@ fragrouter: frag-1: ordered 8-byte IP fragments
 
 ### `fragrouter`
 
-官方给出的调用示例：`fragrouter -i eth0 -F1`
+> 官方示例调用：`fragrouter -i eth0 -F1`
 
 ```text
 root@kali:~# fragrouter -i eth0 -F1
 fragrouter: frag-1: ordered 8-byte IP fragments
 ```
 
-### `fragrouter（示例）`
+### `fragrouter --help`
 
-官方给出的调用示例：`fragrouter --help`
+> 官方示例调用：`fragrouter --help`
 
 ```text
 root@kali:~# fragrouter --help

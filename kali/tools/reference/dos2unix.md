@@ -50,7 +50,7 @@ mac2unix: converting file mac.txt to file unix3.txt in Unix format ...
 
 ### `unix2dos`
 
-官方给出的调用示例：`unix2dos -n unix.txt dos.txt`
+> 官方示例调用：`unix2dos -n unix.txt dos.txt`
 
 ```text
 root@kali:~# unix2dos -n unix.txt dos.txt
@@ -60,7 +60,7 @@ unix2mac Usage Example
 
 ### `unix2mac`
 
-官方给出的调用示例：`unix2mac -n unix.txt mac.txt`
+> 官方示例调用：`unix2mac -n unix.txt mac.txt`
 
 ```text
 root@kali:~# unix2mac -n unix.txt mac.txt
@@ -70,7 +70,7 @@ dos2unix Usage Example
 
 ### `dos2unix`
 
-官方给出的调用示例：`dos2unix -n dos.txt unix2.txt`
+> 官方示例调用：`dos2unix -n dos.txt unix2.txt`
 
 ```text
 root@kali:~# dos2unix -n dos.txt unix2.txt
@@ -80,16 +80,16 @@ mac2unix Usage Example
 
 ### `mac2unix`
 
-官方给出的调用示例：`mac2unix -n mac.txt unix3.txt`
+> 官方示例调用：`mac2unix -n mac.txt unix3.txt`
 
 ```text
 root@kali:~# mac2unix -n mac.txt unix3.txt
 mac2unix: converting file mac.txt to file unix3.txt in Unix format ...
 ```
 
-### `dos2unix（示例）`
+### `dos2unix -h`
 
-官方给出的调用示例：`dos2unix -h`
+> 官方示例调用：`dos2unix -h`
 
 ```text
 root@kali:~# dos2unix -h
@@ -138,9 +138,9 @@ Usage: dos2unix [options] [file ...] [-n infile outfile ...]
  -V, --version         display version number
 ```
 
-### `mac2unix（示例）`
+### `mac2unix -h`
 
-官方给出的调用示例：`mac2unix -h`
+> 官方示例调用：`mac2unix -h`
 
 ```text
 root@kali:~# mac2unix -h
@@ -189,9 +189,9 @@ Usage: mac2unix [options] [file ...] [-n infile outfile ...]
  -V, --version         display version number
 ```
 
-### `unix2dos（示例）`
+### `unix2dos -h`
 
-官方给出的调用示例：`unix2dos -h`
+> 官方示例调用：`unix2dos -h`
 
 ```text
 root@kali:~# unix2dos -h
@@ -240,9 +240,9 @@ Usage: unix2dos [options] [file ...] [-n infile outfile ...]
  -V, --version         display version number
 ```
 
-### `unix2mac（示例）`
+### `unix2mac -h`
 
-官方给出的调用示例：`unix2mac -h`
+> 官方示例调用：`unix2mac -h`
 
 ```text
 root@kali:~# unix2mac -h

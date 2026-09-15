@@ -37,7 +37,7 @@ man assetfinder         # 查看手册
 
 ### `assetfinder`
 
-官方给出的调用示例：`assetfinder -h`
+> 官方示例调用：`assetfinder -h`
 
 ```text
 root@kali:~# assetfinder -h

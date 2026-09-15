@@ -37,7 +37,7 @@ man libpython-all-dbg         # 查看手册
 
 ### `x86_64-linux-gnu-python2-dbg-config`
 
-官方给出的调用示例：`x86_64-linux-gnu-python2-dbg-config --help`
+> 官方示例调用：`x86_64-linux-gnu-python2-dbg-config --help`
 
 ```text
 root@kali:~# x86_64-linux-gnu-python2-dbg-config --help
@@ -46,7 +46,7 @@ Usage: /usr/bin/x86_64-linux-gnu-python2-dbg-config --prefix|--exec-prefix|--inc
 
 ### `x86_64-linux-gnu-python2-config`
 
-官方给出的调用示例：`x86_64-linux-gnu-python2-config --help`
+> 官方示例调用：`x86_64-linux-gnu-python2-config --help`
 
 ```text
 root@kali:~# x86_64-linux-gnu-python2-config --help
@@ -55,7 +55,7 @@ Usage: /usr/bin/x86_64-linux-gnu-python2-config --prefix|--exec-prefix|--include
 
 ### `pdb2`
 
-官方给出的调用示例：`pdb2 -h`
+> 官方示例调用：`pdb2 -h`
 
 ```text
 root@kali:~# pdb2 -h
@@ -64,7 +64,7 @@ usage: pdb.py scriptfile [arg] ...
 
 ### `pydoc2`
 
-官方给出的调用示例：`pydoc2 -h`
+> 官方示例调用：`pydoc2 -h`
 
 ```text
 root@kali:~# pydoc2 -h
@@ -91,7 +91,7 @@ pydoc2 -w <name> ...
 
 ### `pygettext2`
 
-官方给出的调用示例：`pygettext2 -h`
+> 官方示例调用：`pygettext2 -h`
 
 ```text
 root@kali:~# pygettext2 -h
@@ -201,7 +201,7 @@ If `inputfile' is -, standard input is read.
 
 ### `python2-dbg`
 
-官方给出的调用示例：`python2-dbg -h`
+> 官方示例调用：`python2-dbg -h`
 
 ```text
 root@kali:~# python2-dbg -h
@@ -254,7 +254,7 @@ PYTHONHASHSEED: if this variable is set to 'random', the effect is the same
 
 ### `python2-dbg-config`
 
-官方给出的调用示例：`python2-dbg-config --help`
+> 官方示例调用：`python2-dbg-config --help`
 
 ```text
 root@kali:~# python2-dbg-config --help
@@ -263,7 +263,7 @@ Usage: /usr/bin/python2-dbg-config --prefix|--exec-prefix|--includes|--libs|--cf
 
 ### `python2-config`
 
-官方给出的调用示例：`python2-config --help`
+> 官方示例调用：`python2-config --help`
 
 ```text
 root@kali:~# python2-config --help
@@ -272,7 +272,7 @@ Usage: /usr/bin/python2-config --prefix|--exec-prefix|--includes|--libs|--cflags
 
 ### `pyclean`
 
-官方给出的调用示例：`pyclean -h`
+> 官方示例调用：`pyclean -h`
 
 ```text
 root@kali:~# pyclean -h
@@ -288,7 +288,7 @@ Options:
 
 ### `pycompile`
 
-官方给出的调用示例：`pycompile -h`
+> 官方示例调用：`pycompile -h`
 
 ```text
 root@kali:~# pycompile -h

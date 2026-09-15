@@ -37,7 +37,7 @@ man slimtoolkit         # 查看手册
 
 ### `slim-sensor`
 
-官方给出的调用示例：`slim-sensor -h`
+> 官方示例调用：`slim-sensor -h`
 
 ```text
 root@kali:~# slim-sensor -h
@@ -91,7 +91,7 @@ Usage of slim-sensor:
 
 ### `slimtoolkit`
 
-官方给出的调用示例：`slimtoolkit -h`
+> 官方示例调用：`slimtoolkit -h`
 
 ```text
 root@kali:~# slimtoolkit -h

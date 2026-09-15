@@ -37,7 +37,7 @@ man dvwa         # 查看手册
 
 ### `dvwa-start`
 
-官方给出的调用示例：`dvwa-start -h`
+> 官方示例调用：`dvwa-start -h`
 
 ```text
 root@kali:~# dvwa-start -h
@@ -55,7 +55,7 @@ root@kali:~# dvwa-start -h
 
 ### `dvwa-stop`
 
-官方给出的调用示例：`dvwa-stop -h`
+> 官方示例调用：`dvwa-stop -h`
 
 ```text
 root@kali:~# dvwa-stop -h

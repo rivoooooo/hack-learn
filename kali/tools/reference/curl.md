@@ -37,7 +37,7 @@ man curl         # 查看手册
 
 ### `curl`
 
-官方给出的调用示例：`curl -h`
+> 官方示例调用：`curl -h`
 
 ```text
 root@kali:~# curl -h
@@ -67,7 +67,7 @@ Use "--help [option]" to view documentation for a given option
 
 ### `wcurl`
 
-官方给出的调用示例：`wcurl -h`
+> 官方示例调用：`wcurl -h`
 
 ```text
 root@kali:~# wcurl -h
@@ -98,7 +98,7 @@ Options:
 
 ### `curl-config`
 
-官方给出的调用示例：`curl-config --help`
+> 官方示例调用：`curl-config --help`
 
 ```text
 root@kali:~# curl-config --help
@@ -121,9 +121,9 @@ Available values for OPTION include:
   --vernum              output version as a hexadecimal number
 ```
 
-### `curl-config（示例）`
+### `curl-config --help`
 
-官方给出的调用示例：`curl-config --help`
+> 官方示例调用：`curl-config --help`
 
 ```text
 root@kali:~# curl-config --help

@@ -36,7 +36,7 @@ man sharphound         # 查看手册
 
 ### `sharphound`
 
-官方给出的调用示例：`sharphound -h`
+> 官方示例调用：`sharphound -h`
 
 ```text
 root@kali:~# sharphound -h

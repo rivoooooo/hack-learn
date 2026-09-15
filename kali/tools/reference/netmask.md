@@ -37,7 +37,7 @@ man netmask         # 查看手册
 
 ### `netmask`
 
-官方给出的调用示例：`netmask -h`
+> 官方示例调用：`netmask -h`
 
 ```text
 root@kali:~# netmask -h

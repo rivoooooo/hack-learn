@@ -37,7 +37,7 @@ man wotmate         # 查看手册
 
 ### `wotmate`
 
-官方给出的调用示例：`wotmate -h`
+> 官方示例调用：`wotmate -h`
 
 ```text
 root@kali:~# wotmate -h

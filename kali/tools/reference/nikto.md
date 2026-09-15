@@ -61,7 +61,7 @@ root@kali:~# firefox report.html
 
 ### `nikto`
 
-官方给出的调用示例：`nikto -Display 1234EP -o report.html -Format htm -Tuning 123bde -host 192.168.0.102`
+> 官方示例调用：`nikto -Display 1234EP -o report.html -Format htm -Tuning 123bde -host 192.168.0.102`
 
 ```text
 root@kali:~# nikto -Display 1234EP -o report.html -Format htm -Tuning 123bde -host 192.168.0.102
@@ -97,15 +97,15 @@ root@kali:~#
 
 ### `firefox`
 
-官方给出的调用示例：`firefox report.html`
+> 官方示例调用：`firefox report.html`
 
 ```text
 root@kali:~# firefox report.html
 ```
 
-### `nikto（示例）`
+### `nikto -h`
 
-官方给出的调用示例：`nikto -h`
+> 官方示例调用：`nikto -h`
 
 ```text
 root@kali:~# nikto -h
@@ -216,7 +216,7 @@ root@kali:~# nikto -h
 
 ### `replay`
 
-官方给出的调用示例：`replay -h`
+> 官方示例调用：`replay -h`
 
 ```text
 root@kali:~# replay -h

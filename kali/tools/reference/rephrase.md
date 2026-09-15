@@ -37,7 +37,7 @@ man rephrase         # 查看手册
 
 ### `rephrase`
 
-官方给出的调用示例：`rephrase -h`
+> 官方示例调用：`rephrase -h`
 
 ```text
 root@kali:~# rephrase -h

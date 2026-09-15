@@ -44,7 +44,7 @@ Use the monitor mode interface (-i mon0) to attack the access point (-b E0:3F:49
 
 ### `wash`
 
-官方给出的调用示例：`wash -i wlan0mon -c 6 -C`
+> 官方示例调用：`wash -i wlan0mon -c 6 -C`
 
 ```text
 root@kali:~# wash -i wlan0mon -c 6 -C
@@ -63,7 +63,7 @@ Use the monitor mode interface (
 
 ### `reaver`
 
-官方给出的调用示例：`reaver -i wlan0mon -b E0:3F:49:6A:57:78 -v`
+> 官方示例调用：`reaver -i wlan0mon -b E0:3F:49:6A:57:78 -v`
 
 ```text
 root@kali:~# reaver -i wlan0mon -b E0:3F:49:6A:57:78 -v
@@ -76,9 +76,9 @@ Copyright (c) 2011, Tactical Network Solutions, Craig Heffner <
 [+] Trying pin 12345670
 ```
 
-### `reaver（示例）`
+### `reaver -h`
 
-官方给出的调用示例：`reaver -h`
+> 官方示例调用：`reaver -h`
 
 ```text
 root@kali:~# reaver -h
@@ -124,9 +124,9 @@ Example:
 	reaver -i wlan0mon -b 00:90:4C:C1:AC:21 -vv
 ```
 
-### `wash（示例）`
+### `wash -h`
 
-官方给出的调用示例：`wash -h`
+> 官方示例调用：`wash -h`
 
 ```text
 root@kali:~# wash -h

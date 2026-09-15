@@ -37,7 +37,7 @@ man amass         # 查看手册
 
 ### `amass`
 
-官方给出的调用示例：`amass -h`
+> 官方示例调用：`amass -h`
 
 ```text
 root@kali:~# amass -h

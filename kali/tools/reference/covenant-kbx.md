@@ -36,7 +36,7 @@ man covenant-kbx         # 查看手册
 
 ### `covenant-kbx`
 
-官方给出的调用示例：`covenant-kbx -h`
+> 官方示例调用：`covenant-kbx -h`
 
 ```text
 root@kali:~# covenant-kbx -h

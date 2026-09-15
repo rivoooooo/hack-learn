@@ -36,7 +36,7 @@ man ligolo-mp         # 查看手册
 
 ### `ligolo-mp`
 
-官方给出的调用示例：`ligolo-mp -h`
+> 官方示例调用：`ligolo-mp -h`
 
 ```text
 root@kali:~# ligolo-mp -h
@@ -58,7 +58,7 @@ Usage of ligolo-mp:
 
 ### `ligolo-mp-client`
 
-官方给出的调用示例：`ligolo-mp-client -h`
+> 官方示例调用：`ligolo-mp-client -h`
 
 ```text
 root@kali:~# ligolo-mp-client -h

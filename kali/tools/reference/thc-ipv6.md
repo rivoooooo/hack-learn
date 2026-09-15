@@ -61,16 +61,16 @@ www.example.com. => 2606:2800:220:6d:26bf:1447:1097:aa7
 
 ### `address6`
 
-官方给出的调用示例：`address6 fe80::76d4:35ff:fe4e:39c8`
+> 官方示例调用：`address6 fe80::76d4:35ff:fe4e:39c8`
 
 ```text
 root@kali:~# address6 fe80::76d4:35ff:fe4e:39c8
 74:d4:35:4e:39:c8
 ```
 
-### `address6（示例）`
+### `address6 74:d4:35:4e:39:c8`
 
-官方给出的调用示例：`address6 74:d4:35:4e:39:c8`
+> 官方示例调用：`address6 74:d4:35:4e:39:c8`
 
 ```text
 root@kali:~# address6 74:d4:35:4e:39:c8
@@ -80,7 +80,7 @@ alive6 Usage Example
 
 ### `alive6`
 
-官方给出的调用示例：`alive6 eth0`
+> 官方示例调用：`alive6 eth0`
 
 ```text
 root@kali:~# alive6 eth0
@@ -94,7 +94,7 @@ detect-new-ip6 Usage Example
 
 ### `detect-new-ip6`
 
-官方给出的调用示例：`detect-new-ip6 eth0`
+> 官方示例调用：`detect-new-ip6 eth0`
 
 ```text
 root@kali:~# detect-new-ip6 eth0
@@ -105,7 +105,7 @@ dnsdict6 Usage Example
 
 ### `dnsdict6`
 
-官方给出的调用示例：`dnsdict6 example.com`
+> 官方示例调用：`dnsdict6 example.com`
 
 ```text
 root@kali:~# dnsdict6 example.com
@@ -117,7 +117,7 @@ www.example.com. => 2606:2800:220:6d:26bf:1447:1097:aa7
 
 ### `atk6-address6`
 
-官方给出的调用示例：`atk6-address6 -h`
+> 官方示例调用：`atk6-address6 -h`
 
 ```text
 root@kali:~# atk6-address6 -h
@@ -136,7 +136,7 @@ variations found
 
 ### `atk6-alive6`
 
-官方给出的调用示例：`atk6-alive6 -h`
+> 官方示例调用：`atk6-alive6 -h`
 
 ```text
 root@kali:~# atk6-alive6 -h
@@ -180,7 +180,7 @@ Returns -1 on errors, 0 if a system was found alive or 1 if nothing was found.
 
 ### `atk6-connect6`
 
-官方给出的调用示例：`atk6-connect6 -h`
+> 官方示例调用：`atk6-connect6 -h`
 
 ```text
 root@kali:~# atk6-connect6 -h
@@ -202,7 +202,7 @@ Returns 0 on successful connect, 1 on timeout/reset
 
 ### `atk6-connsplit6`
 
-官方给出的调用示例：`atk6-connsplit6 -h`
+> 官方示例调用：`atk6-connsplit6 -h`
 
 ```text
 root@kali:~# atk6-connsplit6 -h
@@ -222,7 +222,7 @@ It is recommended to use the splitconnect6.sh script to control this tool.
 
 ### `atk6-covert_send6`
 
-官方给出的调用示例：`atk6-covert_send6 -h`
+> 官方示例调用：`atk6-covert_send6 -h`
 
 ```text
 root@kali:~# atk6-covert_send6 -h

@@ -37,7 +37,7 @@ man sigma-cli         # 查看手册
 
 ### `sigma-cli`
 
-官方给出的调用示例：`sigma-cli -h`
+> 官方示例调用：`sigma-cli -h`
 
 ```text
 root@kali:~# sigma-cli -h

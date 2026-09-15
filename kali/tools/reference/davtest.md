@@ -81,7 +81,7 @@ Executes: http://192.168.1.209/DavTestDir_B0yG9nhdFS8gox/davtest_B0yG9nhdFS8gox.
 
 ### `davtest`
 
-官方给出的调用示例：`davtest -url http://192.168.1.209`
+> 官方示例调用：`davtest -url http://192.168.1.209`
 
 ```text
 root@kali:~# davtest -url http://192.168.1.209
@@ -129,9 +129,9 @@ Executes: http://192.168.1.209/DavTestDir_B0yG9nhdFS8gox/davtest_B0yG9nhdFS8gox.
 Executes: http://192.168.1.209/DavTestDir_B0yG9nhdFS8gox/davtest_B0yG9nhdFS8gox.html
 ```
 
-### `davtest（示例）`
+### `davtest -h`
 
-官方给出的调用示例：`davtest -h`
+> 官方示例调用：`davtest -h`
 
 ```text
 root@kali:~# davtest -h

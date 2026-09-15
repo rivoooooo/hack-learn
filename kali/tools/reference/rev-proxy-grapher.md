@@ -37,7 +37,7 @@ man rev-proxy-grapher         # 查看手册
 
 ### `rev-proxy-grapher`
 
-官方给出的调用示例：`rev-proxy-grapher -h`
+> 官方示例调用：`rev-proxy-grapher -h`
 
 ```text
 root@kali:~# rev-proxy-grapher -h

@@ -37,7 +37,7 @@ man humble         # 查看手册
 
 ### `humble`
 
-官方给出的调用示例：`humble -h`
+> 官方示例调用：`humble -h`
 
 ```text
 root@kali:~# humble -h

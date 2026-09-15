@@ -37,7 +37,7 @@ man webacoo         # 查看手册
 
 ### `webacoo`
 
-官方给出的调用示例：`webacoo -h`
+> 官方示例调用：`webacoo -h`
 
 ```text
 root@kali:~# webacoo -h

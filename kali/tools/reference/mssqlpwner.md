@@ -37,7 +37,7 @@ man mssqlpwner         # 查看手册
 
 ### `mssqlpwner`
 
-官方给出的调用示例：`mssqlpwner -h`
+> 官方示例调用：`mssqlpwner -h`
 
 ```text
 root@kali:~# mssqlpwner -h

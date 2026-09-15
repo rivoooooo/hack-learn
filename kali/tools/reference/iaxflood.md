@@ -40,7 +40,7 @@ We have IP_HDRINCL
 
 ### `iaxflood`
 
-官方给出的调用示例：`iaxflood 192.168.1.202 192.168.1.1 500`
+> 官方示例调用：`iaxflood 192.168.1.202 192.168.1.1 500`
 
 ```text
 root@kali:~# iaxflood 192.168.1.202 192.168.1.1 500
@@ -48,9 +48,9 @@ Will flood port 4569 from port 4569 500 times
 We have IP_HDRINCL
 ```
 
-### `iaxflood（示例）`
+### `iaxflood -h`
 
-官方给出的调用示例：`iaxflood -h`
+> 官方示例调用：`iaxflood -h`
 
 ```text
 root@kali:~# iaxflood -h

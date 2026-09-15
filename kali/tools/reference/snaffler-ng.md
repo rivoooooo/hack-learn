@@ -37,7 +37,7 @@ man snaffler-ng         # 查看手册
 
 ### `snaffler`
 
-官方给出的调用示例：`snaffler --help`
+> 官方示例调用：`snaffler --help`
 
 ```text
 root@kali:~# snaffler --help

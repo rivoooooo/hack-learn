@@ -37,7 +37,7 @@ man terraform         # 查看手册
 
 ### `terraform`
 
-官方给出的调用示例：`terraform -h`
+> 官方示例调用：`terraform -h`
 
 ```text
 root@kali:~# terraform -h

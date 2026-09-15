@@ -36,7 +36,7 @@ man liblsof-dev         # 查看手册
 
 ### `lsof`
 
-官方给出的调用示例：`lsof -h`
+> 官方示例调用：`lsof -h`
 
 ```text
 root@kali:~# lsof -h

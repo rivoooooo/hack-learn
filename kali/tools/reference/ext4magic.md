@@ -37,7 +37,7 @@ man ext4magic         # 查看手册
 
 ### `ext4magic`
 
-官方给出的调用示例：`ext4magic -h`
+> 官方示例调用：`ext4magic -h`
 
 ```text
 root@kali:~# ext4magic -h

@@ -37,7 +37,7 @@ man fwbuilder         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man fwb_compile_all`
+> 官方示例调用：`man fwb_compile_all`
 
 ```text
 root@kali:~# man fwb_compile_all
@@ -74,9 +74,9 @@ SEE ALSO
 FWB                                                          fwb_compile_all(1)
 ```
 
-### `man（示例）`
+### `man fwb_iosacl`
 
-官方给出的调用示例：`man fwb_iosacl`
+> 官方示例调用：`man fwb_iosacl`
 
 ```text
 root@kali:~# man fwb_iosacl
@@ -130,7 +130,7 @@ FWB                                                                  fwb_pix(1)
 
 ### `fwb_ipf`
 
-官方给出的调用示例：`fwb_ipf -h`
+> 官方示例调用：`fwb_ipf -h`
 
 ```text
 root@kali:~# fwb_ipf -h
@@ -141,7 +141,7 @@ Usage: fwb_ipf [-x] [-v] [-V] [-f filename.xml] [-o output.fw] [-d destdir] [-m]
 
 ### `fwb_ipfw`
 
-官方给出的调用示例：`fwb_ipfw -h`
+> 官方示例调用：`fwb_ipfw -h`
 
 ```text
 root@kali:~# fwb_ipfw -h
@@ -152,7 +152,7 @@ Usage: fwb_ipfw [-x] [-v] [-V] [-f filename.xml] [-o output.fw] [-d destdir] [-m
 
 ### `fwb_ipt`
 
-官方给出的调用示例：`fwb_ipt -h`
+> 官方示例调用：`fwb_ipt -h`
 
 ```text
 root@kali:~# fwb_ipt -h
@@ -163,7 +163,7 @@ Usage: fwb_ipt [-x level] [-v] [-V] [-q] [-f filename.xml] [-d destdir] [-D data
 
 ### `fwb_pf`
 
-官方给出的调用示例：`fwb_pf -h`
+> 官方示例调用：`fwb_pf -h`
 
 ```text
 root@kali:~# fwb_pf -h
@@ -174,7 +174,7 @@ Usage: fwb_pf [-x] [-v] [-V] [-f filename.xml] [-o output.fw] [-d destdir] [-D d
 
 ### `fwb_pix`
 
-官方给出的调用示例：`fwb_pix -h`
+> 官方示例调用：`fwb_pix -h`
 
 ```text
 root@kali:~# fwb_pix -h
@@ -186,7 +186,7 @@ Usage: fwb_pix [-tvV] [-f filename.xml] [-d destdir] [-o output.fw] firewall_obj
 
 ### `fwb_procurve_acl`
 
-官方给出的调用示例：`fwb_procurve_acl -h`
+> 官方示例调用：`fwb_procurve_acl -h`
 
 ```text
 root@kali:~# fwb_procurve_acl -h
@@ -198,7 +198,7 @@ Usage: fwb_procurve_acl [-tvV] [-f filename.xml] [-d destdir] [-o output.fw] fir
 
 ### `fwbedit`
 
-官方给出的调用示例：`fwbedit -h`
+> 官方示例调用：`fwbedit -h`
 
 ```text
 root@kali:~# fwbedit -h
@@ -220,9 +220,9 @@ Command is one of:
 Type   'fwbedit command' to get summary of options for the command
 ```
 
-### `man（示例）`
+### `man fwbuilder`
 
-官方给出的调用示例：`man fwbuilder`
+> 官方示例调用：`man fwbuilder`
 
 ```text
 root@kali:~# man fwbuilder

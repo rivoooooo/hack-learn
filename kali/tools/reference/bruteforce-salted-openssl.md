@@ -37,7 +37,7 @@ man bruteforce-salted-openssl         # 查看手册
 
 ### `bruteforce-salted-openssl`
 
-官方给出的调用示例：`bruteforce-salted-openssl --help`
+> 官方示例调用：`bruteforce-salted-openssl --help`
 
 ```text
 root@kali:~# bruteforce-salted-openssl --help

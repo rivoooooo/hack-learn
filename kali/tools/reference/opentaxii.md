@@ -37,7 +37,7 @@ man opentaxii         # 查看手册
 
 ### `opentaxii-add-api-root`
 
-官方给出的调用示例：`opentaxii-add-api-root -h`
+> 官方示例调用：`opentaxii-add-api-root -h`
 
 ```text
 root@kali:~# opentaxii-add-api-root -h
@@ -53,7 +53,7 @@ options:
 
 ### `opentaxii-add-collection`
 
-官方给出的调用示例：`opentaxii-add-collection -h`
+> 官方示例调用：`opentaxii-add-collection -h`
 
 ```text
 root@kali:~# opentaxii-add-collection -h
@@ -73,7 +73,7 @@ options:
 
 ### `opentaxii-create-account`
 
-官方给出的调用示例：`opentaxii-create-account -h`
+> 官方示例调用：`opentaxii-create-account -h`
 
 ```text
 root@kali:~# opentaxii-create-account -h
@@ -88,7 +88,7 @@ options:
 
 ### `opentaxii-delete-blocks`
 
-官方给出的调用示例：`opentaxii-delete-blocks -h`
+> 官方示例调用：`opentaxii-delete-blocks -h`
 
 ```text
 root@kali:~# opentaxii-delete-blocks -h
@@ -110,7 +110,7 @@ options:
 
 ### `opentaxii-job-cleanup`
 
-官方给出的调用示例：`opentaxii-job-cleanup -h`
+> 官方示例调用：`opentaxii-job-cleanup -h`
 
 ```text
 root@kali:~# opentaxii-job-cleanup -h
@@ -119,7 +119,7 @@ No job to remove
 
 ### `opentaxii-run-dev`
 
-官方给出的调用示例：`opentaxii-run-dev -h`
+> 官方示例调用：`opentaxii-run-dev -h`
 
 ```text
 root@kali:~# opentaxii-run-dev -h
@@ -129,7 +129,7 @@ root@kali:~# opentaxii-run-dev -h
 
 ### `opentaxii-sync-data`
 
-官方给出的调用示例：`opentaxii-sync-data -h`
+> 官方示例调用：`opentaxii-sync-data -h`
 
 ```text
 root@kali:~# opentaxii-sync-data -h
@@ -146,7 +146,7 @@ options:
 
 ### `opentaxii-update-account`
 
-官方给出的调用示例：`opentaxii-update-account -h`
+> 官方示例调用：`opentaxii-update-account -h`
 
 ```text
 root@kali:~# opentaxii-update-account -h

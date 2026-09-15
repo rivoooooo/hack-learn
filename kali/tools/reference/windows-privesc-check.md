@@ -37,7 +37,7 @@ man windows-privesc-check         # 查看手册
 
 ### `windows-privesc-check`
 
-官方给出的调用示例：`windows-privesc-check -h`
+> 官方示例调用：`windows-privesc-check -h`
 
 ```text
 root@kali:~# windows-privesc-check -h

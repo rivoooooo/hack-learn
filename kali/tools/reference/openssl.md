@@ -37,7 +37,7 @@ man libcrypto3-udeb         # 查看手册
 
 ### `openssl`
 
-官方给出的调用示例：`openssl -h`
+> 官方示例调用：`openssl -h`
 
 ```text
 root@kali:~# openssl -h

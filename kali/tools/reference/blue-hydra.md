@@ -37,7 +37,7 @@ man blue-hydra         # 查看手册
 
 ### `blue_hydra`
 
-官方给出的调用示例：`blue_hydra -h`
+> 官方示例调用：`blue_hydra -h`
 
 ```text
 root@kali:~# blue_hydra -h
@@ -56,7 +56,7 @@ Usage: BlueHydra [options]
 
 ### `rfkill-reset`
 
-官方给出的调用示例：`rfkill-reset --help`
+> 官方示例调用：`rfkill-reset --help`
 
 ```text
 root@kali:~# rfkill-reset --help
@@ -67,7 +67,7 @@ Unable to automagically fix
 
 ### `test-discovery`
 
-官方给出的调用示例：`test-discovery -h`
+> 官方示例调用：`test-discovery -h`
 
 ```text
 root@kali:~# test-discovery -h

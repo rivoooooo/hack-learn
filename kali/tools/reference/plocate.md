@@ -36,7 +36,7 @@ man plocate         # 查看手册
 
 ### `plocate`
 
-官方给出的调用示例：`plocate -h`
+> 官方示例调用：`plocate -h`
 
 ```text
 root@kali:~# plocate -h
@@ -58,7 +58,7 @@ Usage: plocate [OPTION]... PATTERN...
 
 ### `plocate-build`
 
-官方给出的调用示例：`plocate-build -h`
+> 官方示例调用：`plocate-build -h`
 
 ```text
 root@kali:~# plocate-build -h
@@ -74,7 +74,7 @@ Normally, the destination should be /var/lib/mlocate/plocate.db.
 
 ### `updatedb.plocate`
 
-官方给出的调用示例：`updatedb.plocate -h`
+> 官方示例调用：`updatedb.plocate -h`
 
 ```text
 root@kali:~# updatedb.plocate -h

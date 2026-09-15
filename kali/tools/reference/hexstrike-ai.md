@@ -37,7 +37,7 @@ man hexstrike-ai         # 查看手册
 
 ### `hexstrike_mcp`
 
-官方给出的调用示例：`hexstrike_mcp -h`
+> 官方示例调用：`hexstrike_mcp -h`
 
 ```text
 root@kali:~# hexstrike_mcp -h
@@ -53,7 +53,7 @@ options:
 
 ### `hexstrike_server`
 
-官方给出的调用示例：`hexstrike_server -h`
+> 官方示例调用：`hexstrike_server -h`
 
 ```text
 root@kali:~# hexstrike_server -h

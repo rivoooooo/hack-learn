@@ -37,7 +37,7 @@ man medusa         # 查看手册
 
 ### `medusa`
 
-官方给出的调用示例：`medusa -h`
+> 官方示例调用：`medusa -h`
 
 ```text
 root@kali:~# medusa -h

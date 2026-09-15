@@ -43,7 +43,7 @@ root@kali:~# bed -s HTTP -t 192.168.1.15
 
 ### `bed`
 
-官方给出的调用示例：`bed -s HTTP -t 192.168.1.15`
+> 官方示例调用：`bed -s HTTP -t 192.168.1.15`
 
 ```text
 root@kali:~# bed -s HTTP -t 192.168.1.15
@@ -52,9 +52,9 @@ root@kali:~# bed -s HTTP -t 192.168.1.15
         testing: 1  HEAD XAXAX HTTP/1.0
 ```
 
-### `bed（示例）`
+### `bed -h`
 
-官方给出的调用示例：`bed -h`
+> 官方示例调用：`bed -h`
 
 ```text
 root@kali:~# bed -h

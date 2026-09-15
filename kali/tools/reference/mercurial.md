@@ -37,7 +37,7 @@ man mercurial         # 查看手册
 
 ### `chg`
 
-官方给出的调用示例：`chg -h`
+> 官方示例调用：`chg -h`
 
 ```text
 root@kali:~# chg -h
@@ -145,7 +145,7 @@ Miscellaneous:
 
 ### `hg`
 
-官方给出的调用示例：`hg -h`
+> 官方示例调用：`hg -h`
 
 ```text
 root@kali:~# hg -h

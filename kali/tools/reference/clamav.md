@@ -36,7 +36,7 @@ man clamav         # 查看手册
 
 ### `clambc`
 
-官方给出的调用示例：`clambc -h`
+> 官方示例调用：`clambc -h`
 
 ```text
 root@kali:~# clambc -h
@@ -63,7 +63,7 @@ Doing so may result in arbitrary code execution.
 
 ### `clamscan`
 
-官方给出的调用示例：`clamscan -h`
+> 官方示例调用：`clamscan -h`
 
 ```text
 root@kali:~# clamscan -h
@@ -175,7 +175,7 @@ Pass in - as the filename for stdin.
 
 ### `clamsubmit`
 
-官方给出的调用示例：`clamsubmit -h`
+> 官方示例调用：`clamsubmit -h`
 
 ```text
 root@kali:~# clamsubmit -h
@@ -196,7 +196,7 @@ You must specify -n or -p. Both are mutually exclusive. Pass in - as the filenam
 
 ### `sigtool`
 
-官方给出的调用示例：`sigtool -h`
+> 官方示例调用：`sigtool -h`
 
 ```text
 root@kali:~# sigtool -h
@@ -264,7 +264,7 @@ root@kali:~# sigtool -h
 
 ### `clamconf`
 
-官方给出的调用示例：`clamconf -h`
+> 官方示例调用：`clamconf -h`
 
 ```text
 root@kali:~# clamconf -h
@@ -280,7 +280,7 @@ root@kali:~# clamconf -h
 
 ### `clamd`
 
-官方给出的调用示例：`clamd -h`
+> 官方示例调用：`clamd -h`
 
 ```text
 root@kali:~# clamd -h
@@ -302,7 +302,7 @@ Pass in - as the filename for stdin.
 
 ### `clamdtop`
 
-官方给出的调用示例：`clamdtop -h`
+> 官方示例调用：`clamdtop -h`
 
 ```text
 root@kali:~# clamdtop -h
@@ -320,7 +320,7 @@ root@kali:~# clamdtop -h
 
 ### `clamonacc`
 
-官方给出的调用示例：`clamonacc -h`
+> 官方示例调用：`clamonacc -h`
 
 ```text
 root@kali:~# clamonacc -h
@@ -348,7 +348,7 @@ root@kali:~# clamonacc -h
 
 ### `freshclam`
 
-官方给出的调用示例：`freshclam -h`
+> 官方示例调用：`freshclam -h`
 
 ```text
 root@kali:~# freshclam -h
@@ -400,7 +400,7 @@ Environment Variables:
 
 ### `clamav-milter`
 
-官方给出的调用示例：`clamav-milter -h`
+> 官方示例调用：`clamav-milter -h`
 
 ```text
 root@kali:~# clamav-milter -h

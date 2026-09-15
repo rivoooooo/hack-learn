@@ -37,7 +37,7 @@ man netexec         # 查看手册
 
 ### `netexec`
 
-官方给出的调用示例：`netexec -h`
+> 官方示例调用：`netexec -h`
 
 ```text
 root@kali:~# netexec -h
@@ -96,7 +96,7 @@ Available Protocols:
 
 ### `nxc`
 
-官方给出的调用示例：`nxc -h`
+> 官方示例调用：`nxc -h`
 
 ```text
 root@kali:~# nxc -h
@@ -155,7 +155,7 @@ Available Protocols:
 
 ### `nxcdb`
 
-官方给出的调用示例：`nxcdb -h`
+> 官方示例调用：`nxcdb -h`
 
 ```text
 root@kali:~# nxcdb -h

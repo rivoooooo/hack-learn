@@ -36,7 +36,7 @@ man gnuradio         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man dial_tone`
+> 官方示例调用：`man dial_tone`
 
 ```text
 root@kali:~# man dial_tone
@@ -56,9 +56,9 @@ SEE ALSO
 DIAL_TONE 3.10.12.0                2026-06-29                      DIAL_TONE(1)
 ```
 
-### `man（示例）`
+### `man display_qt`
 
-官方给出的调用示例：`man display_qt`
+> 官方示例调用：`man display_qt`
 
 ```text
 root@kali:~# man display_qt
@@ -77,7 +77,7 @@ display_qt 3.10.12.0               2026-06-29                     DISPLAY_QT(1)
 
 ### `gnuradio-companion`
 
-官方给出的调用示例：`gnuradio-companion -h`
+> 官方示例调用：`gnuradio-companion -h`
 
 ```text
 root@kali:~# gnuradio-companion -h
@@ -99,7 +99,7 @@ Framework:
 
 ### `gnuradio-config-info`
 
-官方给出的调用示例：`gnuradio-config-info -h`
+> 官方示例调用：`gnuradio-config-info -h`
 
 ```text
 root@kali:~# gnuradio-config-info -h
@@ -123,7 +123,7 @@ Program options: gnuradio-config-info [options]:
 
 ### `gr-ctrlport-monitor`
 
-官方给出的调用示例：`gr-ctrlport-monitor -h`
+> 官方示例调用：`gr-ctrlport-monitor -h`
 
 ```text
 root@kali:~# gr-ctrlport-monitor -h
@@ -138,7 +138,7 @@ options:
 
 ### `gr-perf-monitorx`
 
-官方给出的调用示例：`gr-perf-monitorx -h`
+> 官方示例调用：`gr-perf-monitorx -h`
 
 ```text
 root@kali:~# gr-perf-monitorx -h
@@ -153,7 +153,7 @@ options:
 
 ### `gr_filter_design`
 
-官方给出的调用示例：`gr_filter_design -h`
+> 官方示例调用：`gr_filter_design -h`
 
 ```text
 root@kali:~# gr_filter_design -h
@@ -164,7 +164,7 @@ Options:
 
 ### `gr_modtool`
 
-官方给出的调用示例：`gr_modtool --help`
+> 官方示例调用：`gr_modtool --help`
 
 ```text
 root@kali:~# gr_modtool --help
@@ -189,7 +189,7 @@ Commands:
 
 ### `gr_plot`
 
-官方给出的调用示例：`gr_plot -h`
+> 官方示例调用：`gr_plot -h`
 
 ```text
 root@kali:~# gr_plot -h
@@ -217,7 +217,7 @@ options:
 
 ### `gr_plot_const`
 
-官方给出的调用示例：`gr_plot_const -h`
+> 官方示例调用：`gr_plot_const -h`
 
 ```text
 root@kali:~# gr_plot_const -h

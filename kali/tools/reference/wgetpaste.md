@@ -37,7 +37,7 @@ man wgetpaste         # 查看手册
 
 ### `wgetpaste`
 
-官方给出的调用示例：`wgetpaste -h`
+> 官方示例调用：`wgetpaste -h`
 
 ```text
 root@kali:~# wgetpaste -h

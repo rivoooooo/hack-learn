@@ -37,7 +37,7 @@ xsser --gtk
 
 ### `xsser`
 
-官方给出的调用示例：`xsser -h`
+> 官方示例调用：`xsser -h`
 
 ```text
 root@kali:~# xsser -h

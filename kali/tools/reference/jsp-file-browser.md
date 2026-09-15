@@ -37,7 +37,7 @@ man jsp-file-browser         # 查看手册
 
 ### `jsp-file-browser`
 
-官方给出的调用示例：`jsp-file-browser -h`
+> 官方示例调用：`jsp-file-browser -h`
 
 ```text
 root@kali:~# jsp-file-browser -h

@@ -37,7 +37,7 @@ man sickle-pdk         # 查看手册
 
 ### `sickle-pdk`
 
-官方给出的调用示例：`sickle-pdk -h`
+> 官方示例调用：`sickle-pdk -h`
 
 ```text
 root@kali:~# sickle-pdk -h

@@ -37,7 +37,7 @@ man unhide         # 查看手册
 
 ### `unhide`
 
-官方给出的调用示例：`unhide -h`
+> 官方示例调用：`unhide -h`
 
 ```text
 root@kali:~# unhide -h
@@ -91,7 +91,7 @@ Test_list :
 
 ### `unhide-linux`
 
-官方给出的调用示例：`unhide-linux -h`
+> 官方示例调用：`unhide-linux -h`
 
 ```text
 root@kali:~# unhide-linux -h
@@ -145,7 +145,7 @@ Test_list :
 
 ### `unhide-posix`
 
-官方给出的调用示例：`unhide-posix -h`
+> 官方示例调用：`unhide-posix -h`
 
 ```text
 root@kali:~# unhide-posix -h
@@ -160,7 +160,7 @@ usage: unhide-posix proc | sys
 
 ### `unhide-tcp`
 
-官方给出的调用示例：`unhide-tcp -h`
+> 官方示例调用：`unhide-tcp -h`
 
 ```text
 root@kali:~# unhide-tcp -h
@@ -182,7 +182,7 @@ Options :
 
 ### `man`
 
-官方给出的调用示例：`man unhide_rb`
+> 官方示例调用：`man unhide_rb`
 
 ```text
 root@kali:~# man unhide_rb

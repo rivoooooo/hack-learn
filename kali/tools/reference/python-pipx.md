@@ -37,7 +37,7 @@ man pipx         # 查看手册
 
 ### `pipx`
 
-官方给出的调用示例：`pipx -h`
+> 官方示例调用：`pipx -h`
 
 ```text
 root@kali:~# pipx -h

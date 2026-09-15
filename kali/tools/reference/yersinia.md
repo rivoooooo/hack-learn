@@ -37,7 +37,7 @@ man yersinia         # 查看手册
 
 ### `yersinia`
 
-官方给出的调用示例：`yersinia -h`
+> 官方示例调用：`yersinia -h`
 
 ```text
 root@kali:~# yersinia -h

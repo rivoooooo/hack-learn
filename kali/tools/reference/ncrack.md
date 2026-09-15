@@ -43,7 +43,7 @@ Discovered credentials on rdp://192.168.1.200:3389 'victim' 's3cr3t'
 
 ### `ncrack`
 
-官方给出的调用示例：`ncrack -v -iL win.txt --user victim -P passes.txt -p rdp CL=1`
+> 官方示例调用：`ncrack -v -iL win.txt --user victim -P passes.txt -p rdp CL=1`
 
 ```text
 root@kali:~# ncrack -v -iL win.txt --user victim -P passes.txt -p rdp CL=1
@@ -52,9 +52,9 @@ rdp://192.168.1.220:3389 finished.
 Discovered credentials on rdp://192.168.1.200:3389 'victim' 's3cr3t'
 ```
 
-### `ncrack（示例）`
+### `ncrack -h`
 
-官方给出的调用示例：`ncrack -h`
+> 官方示例调用：`ncrack -h`
 
 ```text
 root@kali:~# ncrack -h

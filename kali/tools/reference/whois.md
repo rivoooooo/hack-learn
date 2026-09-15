@@ -36,7 +36,7 @@ man whois         # 查看手册
 
 ### `mkpasswd`
 
-官方给出的调用示例：`mkpasswd -h`
+> 官方示例调用：`mkpasswd -h`
 
 ```text
 root@kali:~# mkpasswd -h
@@ -61,7 +61,7 @@ Report bugs to <
 
 ### `whois`
 
-官方给出的调用示例：`whois --help`
+> 官方示例调用：`whois --help`
 
 ```text
 root@kali:~# whois --help

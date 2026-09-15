@@ -47,7 +47,7 @@ Sent 289 160 286
 
 ### `rtpflood`
 
-官方给出的调用示例：`rtpflood 192.168.1.202 192.168.1.1 5060 5061 1000 3 123456789 kali`
+> 官方示例调用：`rtpflood 192.168.1.202 192.168.1.1 5060 5061 1000 3 123456789 kali`
 
 ```text
 root@kali:~# rtpflood 192.168.1.202 192.168.1.1 5060 5061 1000 3 123456789 kali
@@ -58,9 +58,9 @@ Number of Packets sent:
 Sent 289 160 286
 ```
 
-### `rtpflood（示例）`
+### `rtpflood -h`
 
-官方给出的调用示例：`rtpflood -h`
+> 官方示例调用：`rtpflood -h`
 
 ```text
 root@kali:~# rtpflood -h

@@ -54,9 +54,9 @@ root@kali:~# braa
 192.168.1.215:143ms:.1.3.6.1.2.1.1.5.0:redhat.biz.local
 ```
 
-### `braa（示例）`
+### `braa -h`
 
-官方给出的调用示例：`braa -h`
+> 官方示例调用：`braa -h`
 
 ```text
 root@kali:~# braa -h

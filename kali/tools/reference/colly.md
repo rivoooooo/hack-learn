@@ -37,7 +37,7 @@ man colly         # 查看手册
 
 ### `colly`
 
-官方给出的调用示例：`colly -h`
+> 官方示例调用：`colly -h`
 
 ```text
 root@kali:~# colly -h

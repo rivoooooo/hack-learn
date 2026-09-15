@@ -37,7 +37,7 @@ man unblob         # 查看手册
 
 ### `unblob`
 
-官方给出的调用示例：`unblob -h`
+> 官方示例调用：`unblob -h`
 
 ```text
 root@kali:~# unblob -h

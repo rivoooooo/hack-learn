@@ -37,7 +37,7 @@ man ettercap-common         # 查看手册
 
 ### `ettercap`
 
-官方给出的调用示例：`ettercap -h`
+> 官方示例调用：`ettercap -h`
 
 ```text
 root@kali:~# ettercap -h
@@ -102,7 +102,7 @@ Standard options:
 
 ### `man`
 
-官方给出的调用示例：`man ettercap-pkexec`
+> 官方示例调用：`man ettercap-pkexec`
 
 ```text
 root@kali:~# man ettercap-pkexec
@@ -220,7 +220,7 @@ ettercap 0.8.4.1                                                    ETTERCAP(8)
 
 ### `etterfilter`
 
-官方给出的调用示例：`etterfilter -h`
+> 官方示例调用：`etterfilter -h`
 
 ```text
 root@kali:~# etterfilter -h
@@ -238,7 +238,7 @@ etterfilter 0.8.4.1 copyright 2001-2026 Ettercap Development Team
 
 ### `etterlog`
 
-官方给出的调用示例：`etterlog -h`
+> 官方示例调用：`etterlog -h`
 
 ```text
 root@kali:~# etterlog -h
@@ -283,9 +283,9 @@ Standard Options:
 etterlog 0.8.4.1 copyright 2001-2026 Ettercap Development Team
 ```
 
-### `ettercap（示例）`
+### `ettercap -h`
 
-官方给出的调用示例：`ettercap -h`
+> 官方示例调用：`ettercap -h`
 
 ```text
 root@kali:~# ettercap -h
@@ -348,9 +348,9 @@ Standard options:
   -h, --help                  this help screen
 ```
 
-### `etterfilter（示例）`
+### `etterfilter -h`
 
-官方给出的调用示例：`etterfilter -h`
+> 官方示例调用：`etterfilter -h`
 
 ```text
 root@kali:~# etterfilter -h
@@ -366,9 +366,9 @@ Standard Options:
 etterfilter 0.8.4.1 copyright 2001-2026 Ettercap Development Team
 ```
 
-### `etterlog（示例）`
+### `etterlog -h`
 
-官方给出的调用示例：`etterlog -h`
+> 官方示例调用：`etterlog -h`
 
 ```text
 root@kali:~# etterlog -h

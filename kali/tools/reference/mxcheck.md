@@ -37,7 +37,7 @@ man mxcheck         # 查看手册
 
 ### `mxcheck`
 
-官方给出的调用示例：`mxcheck -h`
+> 官方示例调用：`mxcheck -h`
 
 ```text
 root@kali:~# mxcheck -h

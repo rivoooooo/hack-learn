@@ -61,7 +61,7 @@ To have aircrack-ng conduct a WEP key attack on a capture file, pass it the file
 
 ### `aircrack-ng`
 
-官方给出的调用示例：`aircrack-ng -w password.lst wpa.cap`
+> 官方示例调用：`aircrack-ng -w password.lst wpa.cap`
 
 ```text
 root@kali:~# aircrack-ng -w password.lst wpa.cap
@@ -80,9 +80,9 @@ Basic WEP Cracking
 To have aircrack-ng conduct a WEP key attack on a capture file, pass it the filename, either in .ivs or .cap/.pcap format:
 ```
 
-### `aircrack-ng（示例）`
+### `aircrack-ng all-ivs.ivs`
 
-官方给出的调用示例：`aircrack-ng all-ivs.ivs`
+> 官方示例调用：`aircrack-ng all-ivs.ivs`
 
 ```text
 root@kali:~# aircrack-ng all-ivs.ivs
@@ -109,7 +109,7 @@ Specify the input file to use (
 
 ### `airgraph-ng`
 
-官方给出的调用示例：`airgraph-ng -i dump-01.csv -o capr.png -g CAPR`
+> 官方示例调用：`airgraph-ng -i dump-01.csv -o capr.png -g CAPR`
 
 ```text
 root@kali:~# airgraph-ng -i dump-01.csv -o capr.png -g CAPR
@@ -126,9 +126,9 @@ Specify the input file to use (
 ):
 ```
 
-### `airgraph-ng（示例）`
+### `airgraph-ng -i dump-01.csv -o cpg.png -g CPG`
 
-官方给出的调用示例：`airgraph-ng -i dump-01.csv -o cpg.png -g CPG`
+> 官方示例调用：`airgraph-ng -i dump-01.csv -o cpg.png -g CPG`
 
 ```text
 root@kali:~# airgraph-ng -i dump-01.csv -o cpg.png -g CPG
@@ -157,7 +157,7 @@ Use the specified monitor mode interface (
 
 ### `wesside-ng`
 
-官方给出的调用示例：`wesside-ng -i wlan0mon -v de:ad:be:ef:ca:fe`
+> 官方示例调用：`wesside-ng -i wlan0mon -v de:ad:be:ef:ca:fe`
 
 ```text
 root@kali:~# wesside-ng -i wlan0mon -v de:ad:be:ef:ca:fe
@@ -176,7 +176,7 @@ Specify a BSSID (
 
 ### `makeivs-ng`
 
-官方给出的调用示例：`makeivs-ng -b de:ad:be:ef:ca:fe -k 123456789ABCDEF123456789AB -w makeivs.ivs`
+> 官方示例调用：`makeivs-ng -b de:ad:be:ef:ca:fe -k 123456789ABCDEF123456789AB -w makeivs.ivs`
 
 ```text
 root@kali:~# makeivs-ng -b de:ad:be:ef:ca:fe -k 123456789ABCDEF123456789AB -w makeivs.ivs
@@ -186,9 +186,9 @@ Using fake BSSID DE:AD:BE:EF:CA:FE
 Done.
 ```
 
-### `aircrack-ng（示例）`
+### `aircrack-ng makeivs.ivs`
 
-官方给出的调用示例：`aircrack-ng makeivs.ivs`
+> 官方示例调用：`aircrack-ng makeivs.ivs`
 
 ```text
 root@kali:~# aircrack-ng makeivs.ivs
@@ -216,7 +216,7 @@ Strip out the initialization vectors of the provided .pcap capture and save them
 
 ### `ivstools`
 
-官方给出的调用示例：`ivstools --convert wep_64_ptw.cap out.ivs`
+> 官方示例调用：`ivstools --convert wep_64_ptw.cap out.ivs`
 
 ```text
 root@kali:~# ivstools --convert wep_64_ptw.cap out.ivs
@@ -227,9 +227,9 @@ Written 30566 IVs.
 Merge all .ivs files into one file.
 ```
 
-### `ivstools（示例）`
+### `ivstools --merge *.ivs /root/all-ivs.ivs`
 
-官方给出的调用示例：`ivstools --merge *.ivs /root/all-ivs.ivs`
+> 官方示例调用：`ivstools --merge *.ivs /root/all-ivs.ivs`
 
 ```text
 root@kali:~# ivstools --merge *.ivs /root/all-ivs.ivs

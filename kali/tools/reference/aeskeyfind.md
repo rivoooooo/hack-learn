@@ -37,7 +37,7 @@ man aeskeyfind         # 查看手册
 
 ### `aeskeyfind`
 
-官方给出的调用示例：`aeskeyfind --help`
+> 官方示例调用：`aeskeyfind --help`
 
 ```text
 root@kali:~# aeskeyfind --help

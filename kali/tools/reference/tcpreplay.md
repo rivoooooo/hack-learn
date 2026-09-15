@@ -37,7 +37,7 @@ man tcpreplay         # 查看手册
 
 ### `tcpbridge`
 
-官方给出的调用示例：`tcpbridge --help`
+> 官方示例调用：`tcpbridge --help`
 
 ```text
 root@kali:~# tcpbridge --help
@@ -167,7 +167,7 @@ Please send bug reports to:  <
 
 ### `tcpcapinfo`
 
-官方给出的调用示例：`tcpcapinfo --help`
+> 官方示例调用：`tcpcapinfo --help`
 
 ```text
 root@kali:~# tcpcapinfo --help
@@ -194,7 +194,7 @@ Please send bug reports to:  <
 
 ### `tcpliveplay`
 
-官方给出的调用示例：`tcpliveplay --help`
+> 官方示例调用：`tcpliveplay --help`
 
 ```text
 root@kali:~# tcpliveplay --help
@@ -233,7 +233,7 @@ http://tcpreplay.appneta.com
 
 ### `tcpprep`
 
-官方给出的调用示例：`tcpprep --help`
+> 官方示例调用：`tcpprep --help`
 
 ```text
 root@kali:~# tcpprep --help
@@ -330,7 +330,7 @@ Please send bug reports to:  <
 
 ### `tcpreplay`
 
-官方给出的调用示例：`tcpreplay --help`
+> 官方示例调用：`tcpreplay --help`
 
 ```text
 root@kali:~# tcpreplay --help
@@ -460,7 +460,7 @@ Please send bug reports to:  <
 
 ### `tcpreplay-edit`
 
-官方给出的调用示例：`tcpreplay-edit --help`
+> 官方示例调用：`tcpreplay-edit --help`
 
 ```text
 root@kali:~# tcpreplay-edit --help
@@ -671,7 +671,7 @@ Please send bug reports to:  <
 
 ### `tcprewrite`
 
-官方给出的调用示例：`tcprewrite --help`
+> 官方示例调用：`tcprewrite --help`
 
 ```text
 root@kali:~# tcprewrite --help

@@ -37,7 +37,7 @@ man tftp-hpa         # 查看手册
 
 ### `tftp`
 
-官方给出的调用示例：`tftp -h`
+> 官方示例调用：`tftp -h`
 
 ```text
 root@kali:~# tftp -h
@@ -46,7 +46,7 @@ Usage: tftp [-4][-6][-v][-l][-m mode] [host [port]] [-c command]
 
 ### `in.tftpd`
 
-官方给出的调用示例：`in.tftpd -h`
+> 官方示例调用：`in.tftpd -h`
 
 ```text
 root@kali:~# in.tftpd -h

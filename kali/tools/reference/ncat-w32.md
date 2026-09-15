@@ -37,7 +37,7 @@ man ncat-w32         # 查看手册
 
 ### `ncat-w32`
 
-官方给出的调用示例：`ncat-w32 -h`
+> 官方示例调用：`ncat-w32 -h`
 
 ```text
 root@kali:~# ncat-w32 -h

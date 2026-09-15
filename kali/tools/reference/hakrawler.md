@@ -37,7 +37,7 @@ man hakrawler         # 查看手册
 
 ### `hakrawler`
 
-官方给出的调用示例：`hakrawler --help`
+> 官方示例调用：`hakrawler --help`
 
 ```text
 root@kali:~# hakrawler --help

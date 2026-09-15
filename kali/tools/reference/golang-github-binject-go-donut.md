@@ -37,7 +37,7 @@ man golang-github-binject-go-donut         # 查看手册
 
 ### `go-donut`
 
-官方给出的调用示例：`go-donut -h`
+> 官方示例调用：`go-donut -h`
 
 ```text
 root@kali:~# go-donut -h

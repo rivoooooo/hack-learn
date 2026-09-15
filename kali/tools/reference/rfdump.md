@@ -37,7 +37,7 @@ man rfdump         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man rfdump`
+> 官方示例调用：`man rfdump`
 
 ```text
 root@kali:~# man rfdump

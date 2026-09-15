@@ -55,7 +55,7 @@ ip: running: 0/0, subflow:0/0, tot pkt:0
 
 ### `xplico`
 
-官方给出的调用示例：`xplico -m rltm -i eth0`
+> 官方示例调用：`xplico -m rltm -i eth0`
 
 ```text
 root@kali:~# xplico -m rltm -i eth0
@@ -78,7 +78,7 @@ ip: running: 0/0, subflow:0/0, tot pkt:0
 
 ### `mfbc`
 
-官方给出的调用示例：`mfbc -h`
+> 官方示例调用：`mfbc -h`
 
 ```text
 root@kali:~# mfbc -h
@@ -101,7 +101,7 @@ usage: mfbc [-h] [-s] [-l] [-i] [-c <config_file>] -p <port>
 
 ### `mfile`
 
-官方给出的调用示例：`mfile -h`
+> 官方示例调用：`mfile -h`
 
 ```text
 root@kali:~# mfile -h
@@ -124,7 +124,7 @@ usage: mfile [-h] [-s] [-l] [-i] [-c <config_file>] -p <port>
 
 ### `mpaltalk`
 
-官方给出的调用示例：`mpaltalk -h`
+> 官方示例调用：`mpaltalk -h`
 
 ```text
 root@kali:~# mpaltalk -h
@@ -147,7 +147,7 @@ usage: mpaltalk [-h] [-s] [-l] [-i] [-c <config_file>] -p <port>
 
 ### `mwmail`
 
-官方给出的调用示例：`mwmail -h`
+> 官方示例调用：`mwmail -h`
 
 ```text
 root@kali:~# mwmail -h
@@ -170,7 +170,7 @@ usage: mwmail [-h] [-s] [-l] [-i] [-c <config_file>] -p <port>
 
 ### `trigcap`
 
-官方给出的调用示例：`trigcap -h`
+> 官方示例调用：`trigcap -h`
 
 ```text
 root@kali:~# trigcap -h
@@ -184,9 +184,9 @@ usage: trigcap [-v] -f <input_file> -t <pkt num> -b <pkt numbers before> -a <pkt
 	-h this help
 ```
 
-### `xplico（示例）`
+### `xplico -h`
 
-官方给出的调用示例：`xplico -h`
+> 官方示例调用：`xplico -h`
 
 ```text
 root@kali:~# xplico -h
@@ -211,7 +211,7 @@ usage: xplico [-v] [-c <config_file>] [-h] [-s] [-g] [-l] [-i <prot>] -m <capute
 
 ### `xplico-webui`
 
-官方给出的调用示例：`xplico-webui -h`
+> 官方示例调用：`xplico-webui -h`
 
 ```text
 root@kali:~# xplico-webui -h
@@ -224,7 +224,7 @@ root@kali:~# xplico-webui -h
 
 ### `xplico-webui-start`
 
-官方给出的调用示例：`xplico-webui-start -h`
+> 官方示例调用：`xplico-webui-start -h`
 
 ```text
 root@kali:~# xplico-webui-start -h
@@ -253,7 +253,7 @@ root@kali:~# xplico-webui-start -h
 
 ### `xplico-webui-stop`
 
-官方给出的调用示例：`xplico-webui-stop -h`
+> 官方示例调用：`xplico-webui-stop -h`
 
 ```text
 root@kali:~# xplico-webui-stop -h

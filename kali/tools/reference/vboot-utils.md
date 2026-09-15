@@ -37,7 +37,7 @@ man cgpt         # 查看手册
 
 ### `cgpt`
 
-官方给出的调用示例：`cgpt -h`
+> 官方示例调用：`cgpt -h`
 
 ```text
 root@kali:~# cgpt -h
@@ -57,7 +57,7 @@ For more detailed usage, use cgpt COMMAND -h
 
 ### `futility`
 
-官方给出的调用示例：`futility --help`
+> 官方示例调用：`futility --help`
 
 ```text
 root@kali:~# futility --help
@@ -97,7 +97,7 @@ Use "futility help COMMAND" for more information.
 
 ### `vbutil_kernel`
 
-官方给出的调用示例：`vbutil_kernel --help`
+> 官方示例调用：`vbutil_kernel --help`
 
 ```text
 root@kali:~# vbutil_kernel --help
@@ -148,7 +148,7 @@ Usage:  futility vbutil_kernel --get-vmlinuz <file> [PARAMETERS]
 
 ### `chromeos-tpm-recovery`
 
-官方给出的调用示例：`chromeos-tpm-recovery -h`
+> 官方示例调用：`chromeos-tpm-recovery -h`
 
 ```text
 root@kali:~# chromeos-tpm-recovery -h
@@ -158,7 +158,7 @@ exiting
 
 ### `crossystem`
 
-官方给出的调用示例：`crossystem -h`
+> 官方示例调用：`crossystem -h`
 
 ```text
 root@kali:~# crossystem -h
@@ -239,7 +239,7 @@ https://chromium.googlesource.com/chromiumos/docs/+/HEAD/os_config.md#crossystem
 
 ### `dev_debug_vboot`
 
-官方给出的调用示例：`dev_debug_vboot -h`
+> 官方示例调用：`dev_debug_vboot -h`
 
 ```text
 root@kali:~# dev_debug_vboot -h
@@ -263,7 +263,7 @@ dumpRSAPublicKey
 
 ### `dumpRSAPublicKey`
 
-官方给出的调用示例：`dumpRSAPublicKey -h`
+> 官方示例调用：`dumpRSAPublicKey -h`
 
 ```text
 root@kali:~# dumpRSAPublicKey -h
@@ -273,7 +273,7 @@ dump_fmap
 
 ### `dump_fmap`
 
-官方给出的调用示例：`dump_fmap --help`
+> 官方示例调用：`dump_fmap --help`
 
 ```text
 root@kali:~# dump_fmap --help
@@ -291,7 +291,7 @@ dump_kernel_config
 
 ### `dump_kernel_config`
 
-官方给出的调用示例：`dump_kernel_config --help`
+> 官方示例调用：`dump_kernel_config --help`
 
 ```text
 root@kali:~# dump_kernel_config --help
@@ -302,7 +302,7 @@ gbb_utility
 
 ### `gbb_utility`
 
-官方给出的调用示例：`gbb_utility --help`
+> 官方示例调用：`gbb_utility --help`
 
 ```text
 root@kali:~# gbb_utility --help

@@ -37,7 +37,7 @@ man iw         # 查看手册
 
 ### `iw`
 
-官方给出的调用示例：`iw -h`
+> 官方示例调用：`iw -h`
 
 ```text
 root@kali:~# iw -h

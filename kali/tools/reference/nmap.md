@@ -56,7 +56,7 @@ Using TCP mode (–tcp) to probe port 22 (-p 22) using the SYN flag (–flags sy
 
 ### `nmap`
 
-官方给出的调用示例：`nmap -v -A -sV 192.168.1.1`
+> 官方示例调用：`nmap -v -A -sV 192.168.1.1`
 
 ```text
 root@kali:~# nmap -v -A -sV 192.168.1.1
@@ -90,7 +90,7 @@ Using TCP mode (
 
 ### `nping`
 
-官方给出的调用示例：`nping --tcp -p 22 --flags syn --ttl 2 192.168.1.1`
+> 官方示例调用：`nping --tcp -p 22 --flags syn --ttl 2 192.168.1.1`
 
 ```text
 root@kali:~# nping --tcp -p 22 --flags syn --ttl 2 192.168.1.1
@@ -118,7 +118,7 @@ today.xml
 
 ### `ndiff`
 
-官方给出的调用示例：`ndiff yesterday.xml today.xml`
+> 官方示例调用：`ndiff yesterday.xml today.xml`
 
 ```text
 root@kali:~# ndiff yesterday.xml today.xml
@@ -145,7 +145,7 @@ Be verbose (
 
 ### `ncat`
 
-官方给出的调用示例：`ncat -v --exec "/bin/bash" --allow 192.168.1.123 -l 4444 --keep-open`
+> 官方示例调用：`ncat -v --exec "/bin/bash" --allow 192.168.1.123 -l 4444 --keep-open`
 
 ```text
 root@kali:~# ncat -v --exec "/bin/bash" --allow 192.168.1.123 -l 4444 --keep-open
@@ -159,9 +159,9 @@ Ncat: Connection from 192.168.1.15:60393.
 Ncat: New connection denied: not allowed
 ```
 
-### `ncat（示例）`
+### `ncat -h`
 
-官方给出的调用示例：`ncat -h`
+> 官方示例调用：`ncat -h`
 
 ```text
 root@kali:~# ncat -h
@@ -223,9 +223,9 @@ Options taking a time assume seconds. Append 'ms' for milliseconds,
 See the ncat(1) manpage for full options, descriptions and usage examples
 ```
 
-### `ndiff（示例）`
+### `ndiff -h`
 
-官方给出的调用示例：`ndiff -h`
+> 官方示例调用：`ndiff -h`
 
 ```text
 root@kali:~# ndiff -h
@@ -239,9 +239,9 @@ service and OS detection.
   --xml          display output in XML format
 ```
 
-### `nmap（示例）`
+### `nmap -h`
 
-官方给出的调用示例：`nmap -h`
+> 官方示例调用：`nmap -h`
 
 ```text
 root@kali:~# nmap -h
@@ -362,9 +362,9 @@ EXAMPLES:
 SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 ```
 
-### `nping（示例）`
+### `nping -h`
 
-官方给出的调用示例：`nping -h`
+> 官方示例调用：`nping -h`
 
 ```text
 root@kali:~# nping -h
@@ -489,7 +489,7 @@ SEE THE MAN PAGE FOR MANY MORE OPTIONS, DESCRIPTIONS, AND EXAMPLES
 
 ### `zenmap`
 
-官方给出的调用示例：`zenmap -h`
+> 官方示例调用：`zenmap -h`
 
 ```text
 root@kali:~# zenmap -h

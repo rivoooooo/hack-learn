@@ -37,7 +37,7 @@ man linkedin2username         # 查看手册
 
 ### `linkedin2username`
 
-官方给出的调用示例：`linkedin2username -h`
+> 官方示例调用：`linkedin2username -h`
 
 ```text
 root@kali:~# linkedin2username -h

@@ -37,7 +37,7 @@ man qemu-block-extra         # 查看手册
 
 ### `qemu-ga`
 
-官方给出的调用示例：`qemu-ga -h`
+> 官方示例调用：`qemu-ga -h`
 
 ```text
 root@kali:~# qemu-ga -h
@@ -87,7 +87,7 @@ More information on the QEMU project at <https://qemu.org>.
 
 ### `qemu-system-aarch64`
 
-官方给出的调用示例：`qemu-system-aarch64 -h`
+> 官方示例调用：`qemu-system-aarch64 -h`
 
 ```text
 root@kali:~# qemu-system-aarch64 -h
@@ -314,7 +314,7 @@ Display options:
 
 ### `qemu-system-arm`
 
-官方给出的调用示例：`qemu-system-arm -h`
+> 官方示例调用：`qemu-system-arm -h`
 
 ```text
 root@kali:~# qemu-system-arm -h
@@ -541,7 +541,7 @@ Display options:
 
 ### `qemu-system-arm64`
 
-官方给出的调用示例：`qemu-system-arm64 -h`
+> 官方示例调用：`qemu-system-arm64 -h`
 
 ```text
 root@kali:~# qemu-system-arm64 -h
@@ -768,7 +768,7 @@ Display options:
 
 ### `qemu-system-armel`
 
-官方给出的调用示例：`qemu-system-armel -h`
+> 官方示例调用：`qemu-system-armel -h`
 
 ```text
 root@kali:~# qemu-system-armel -h
@@ -995,7 +995,7 @@ Display options:
 
 ### `qemu-system-armhf`
 
-官方给出的调用示例：`qemu-system-armhf -h`
+> 官方示例调用：`qemu-system-armhf -h`
 
 ```text
 root@kali:~# qemu-system-armhf -h
@@ -1222,7 +1222,7 @@ Display options:
 
 ### `qemu-pr-helper`
 
-官方给出的调用示例：`qemu-pr-helper -h`
+> 官方示例调用：`qemu-pr-helper -h`
 
 ```text
 root@kali:~# qemu-pr-helper -h
@@ -1245,7 +1245,7 @@ More information on the QEMU project at <https://qemu.org>.
 
 ### `qemu-system-mips`
 
-官方给出的调用示例：`qemu-system-mips -h`
+> 官方示例调用：`qemu-system-mips -h`
 
 ```text
 root@kali:~# qemu-system-mips -h
@@ -1472,7 +1472,7 @@ Display options:
 
 ### `qemu-system-mips64`
 
-官方给出的调用示例：`qemu-system-mips64 -h`
+> 官方示例调用：`qemu-system-mips64 -h`
 
 ```text
 root@kali:~# qemu-system-mips64 -h
@@ -1699,7 +1699,7 @@ Display options:
 
 ### `qemu-system-mips64el`
 
-官方给出的调用示例：`qemu-system-mips64el -h`
+> 官方示例调用：`qemu-system-mips64el -h`
 
 ```text
 root@kali:~# qemu-system-mips64el -h

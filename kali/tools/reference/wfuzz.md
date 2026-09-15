@@ -37,7 +37,7 @@ man wfuzz         # 查看手册
 
 ### `wfuzz`
 
-官方给出的调用示例：`wfuzz -c -z file,/usr/share/wfuzz/wordlist/general/common.txt --hc 404 http://192.168.1.202/FUZZ`
+> 官方示例调用：`wfuzz -c -z file,/usr/share/wfuzz/wordlist/general/common.txt --hc 404 http://192.168.1.202/FUZZ`
 
 ```text
 root@kali:~# wfuzz -c -z file,/usr/share/wfuzz/wordlist/general/common.txt --hc 404 http://192.168.1.202/FUZZ
@@ -54,9 +54,9 @@ ID  Response   Lines      Word         Chars          Request
 00466:  C=301      9 L        28 W      319 Ch    " - javascript"
 ```
 
-### `wfuzz（示例）`
+### `wfuzz --help`
 
-官方给出的调用示例：`wfuzz --help`
+> 官方示例调用：`wfuzz --help`
 
 ```text
 root@kali:~# wfuzz --help

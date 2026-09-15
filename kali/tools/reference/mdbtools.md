@@ -37,7 +37,7 @@ man libmdb3t64         # 查看手册
 
 ### `mdb-array`
 
-官方给出的调用示例：`mdb-array -h`
+> 官方示例调用：`mdb-array -h`
 
 ```text
 root@kali:~# mdb-array -h
@@ -49,7 +49,7 @@ Usage: mdb-array <file> <table>
 
 ### `mdb-count`
 
-官方给出的调用示例：`mdb-count -h`
+> 官方示例调用：`mdb-count -h`
 
 ```text
 root@kali:~# mdb-count -h
@@ -63,7 +63,7 @@ Application Options:
 
 ### `mdb-export`
 
-官方给出的调用示例：`mdb-export -h`
+> 官方示例调用：`mdb-export -h`
 
 ```text
 root@kali:~# mdb-export -h
@@ -92,7 +92,7 @@ Application Options:
 
 ### `man`
 
-官方给出的调用示例：`man mdb-header`
+> 官方示例调用：`man mdb-header`
 
 ```text
 root@kali:~# man mdb-header
@@ -145,9 +145,9 @@ BUGS
 MDBTools 1.0.1                   29 April 2026                    mdb-header(1)
 ```
 
-### `man（示例）`
+### `man mdb-hexdump`
 
-官方给出的调用示例：`man mdb-hexdump`
+> 官方示例调用：`man mdb-hexdump`
 
 ```text
 root@kali:~# man mdb-hexdump
@@ -186,9 +186,9 @@ AUTHORS
 MDBTools 1.0.1                   29 April 2026                   mdb-hexdump(1)
 ```
 
-### `man（示例）`
+### `man mdb-import`
 
-官方给出的调用示例：`man mdb-import`
+> 官方示例调用：`man mdb-import`
 
 ```text
 root@kali:~# man mdb-import
@@ -245,7 +245,7 @@ MDBTools 1.0.1                   29 April 2026                    mdb-import(1)
 
 ### `mdb-json`
 
-官方给出的调用示例：`mdb-json -h`
+> 官方示例调用：`mdb-json -h`
 
 ```text
 root@kali:~# mdb-json -h
@@ -260,9 +260,9 @@ Application Options:
   --version                        Show mdbtools version and exit
 ```
 
-### `man（示例）`
+### `man mdb-parsecsv`
 
-官方给出的调用示例：`man mdb-parsecsv`
+> 官方示例调用：`man mdb-parsecsv`
 
 ```text
 root@kali:~# man mdb-parsecsv
@@ -317,7 +317,7 @@ MDBTools 1.0.1                   29 April 2026                  mdb-parsecsv(1)
 
 ### `mdb-prop`
 
-官方给出的调用示例：`mdb-prop -h`
+> 官方示例调用：`mdb-prop -h`
 
 ```text
 root@kali:~# mdb-prop -h
@@ -331,7 +331,7 @@ Application Options:
 
 ### `mdb-queries`
 
-官方给出的调用示例：`mdb-queries -h`
+> 官方示例调用：`mdb-queries -h`
 
 ```text
 root@kali:~# mdb-queries -h

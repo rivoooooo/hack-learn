@@ -38,7 +38,7 @@ When Faraday supports the command you are running, it will automatically detect 
 
 ### `man`
 
-官方给出的调用示例：`man faraday`
+> 官方示例调用：`man faraday`
 
 ```text
 root@kali:~# man faraday
@@ -64,7 +64,7 @@ Faraday                            June 2019                         FARADAY(1)
 
 ### `faraday-manage`
 
-官方给出的调用示例：`faraday-manage -h`
+> 官方示例调用：`faraday-manage -h`
 
 ```text
 root@kali:~# faraday-manage -h
@@ -95,7 +95,7 @@ Commands:
 
 ### `faraday-server`
 
-官方给出的调用示例：`faraday-server -h`
+> 官方示例调用：`faraday-server -h`
 
 ```text
 root@kali:~# faraday-server -h
@@ -125,7 +125,7 @@ options:
 
 ### `faraday-start`
 
-官方给出的调用示例：`faraday-start -h`
+> 官方示例调用：`faraday-start -h`
 
 ```text
 root@kali:~# faraday-start -h
@@ -137,7 +137,7 @@ root@kali:~# faraday-start -h
 
 ### `faraday-stop`
 
-官方给出的调用示例：`faraday-stop -h`
+> 官方示例调用：`faraday-stop -h`
 
 ```text
 root@kali:~# faraday-stop -h
@@ -165,7 +165,7 @@ root@kali:~# faraday-stop -h
 
 ### `faraday-worker`
 
-官方给出的调用示例：`faraday-worker -h`
+> 官方示例调用：`faraday-worker -h`
 
 ```text
 root@kali:~# faraday-worker -h
@@ -181,7 +181,7 @@ options:
 
 ### `faraday-worker-gevent`
 
-官方给出的调用示例：`faraday-worker-gevent -h`
+> 官方示例调用：`faraday-worker-gevent -h`
 
 ```text
 root@kali:~# faraday-worker-gevent -h
@@ -197,7 +197,7 @@ options:
 
 ### `python-faraday`
 
-官方给出的调用示例：`python-faraday -h`
+> 官方示例调用：`python-faraday -h`
 
 ```text
 root@kali:~# python-faraday -h

@@ -61,13 +61,13 @@ root@kali:~#
 
 ### `gunzip`
 
-官方给出的调用示例：`gunzip /usr/share/wordlists/rockyou.txt.gz`
+> 官方示例调用：`gunzip /usr/share/wordlists/rockyou.txt.gz`
 
 ```text
 root@kali:~# gunzip /usr/share/wordlists/rockyou.txt.gz
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -75,7 +75,7 @@ root@kali:~#
 
 ### `wc`
 
-官方给出的调用示例：`wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlists/rockyou.txt`
+> 官方示例调用：`wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlists/rockyou.txt`
 
 ```text
 root@kali:~# wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlists/rockyou.txt
@@ -83,7 +83,7 @@ root@kali:~# wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlist
 -rw-r--r-- 1 root root 134M Mar  3  2013 /usr/share/wordlists/rockyou.txt
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -100,29 +100,29 @@ lrwxrwxrwx 1 root root  34 Jan  3 13:59 sqlmap.txt -> /usr/share/sqlmap/txt/word
 lrwxrwxrwx 1 root root  25 Jan  3 13:59 wfuzz -> /usr/share/wfuzz/wordlist
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
 ```
 
-### `gunzip（示例）`
+### `gunzip /usr/share/wordlists/rockyou.txt.gz`
 
-官方给出的调用示例：`gunzip /usr/share/wordlists/rockyou.txt.gz`
+> 官方示例调用：`gunzip /usr/share/wordlists/rockyou.txt.gz`
 
 ```text
 root@kali:~# gunzip /usr/share/wordlists/rockyou.txt.gz
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
 ```
 
-### `wc（示例）`
+### `wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/shar…`
 
-官方给出的调用示例：`wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlists/rockyou.txt`
+> 官方示例调用：`wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlists/rockyou.txt`
 
 ```text
 root@kali:~# wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlists/rockyou.txt
@@ -130,7 +130,7 @@ root@kali:~# wc -l /usr/share/wordlists/rockyou.txt; ls -lah /usr/share/wordlist
 -rw-r--r-- 1 root root 134M Mar  3  2013 /usr/share/wordlists/rockyou.txt
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#

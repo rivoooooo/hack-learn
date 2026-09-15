@@ -52,7 +52,7 @@ root@kali:~# nbtscan-unixwiz -f 192.168.0.38
 
 ### `nbtscan-unixwiz`
 
-官方给出的调用示例：`nbtscan-unixwiz -n 192.168.0.100-110`
+> 官方示例调用：`nbtscan-unixwiz -n 192.168.0.100-110`
 
 ```text
 root@kali:~# nbtscan-unixwiz -n 192.168.0.100-110
@@ -65,9 +65,9 @@ Scan a single IP address (
 ):
 ```
 
-### `nbtscan-unixwiz（示例）`
+### `nbtscan-unixwiz -f 192.168.0.38`
 
-官方给出的调用示例：`nbtscan-unixwiz -f 192.168.0.38`
+> 官方示例调用：`nbtscan-unixwiz -f 192.168.0.38`
 
 ```text
 root@kali:~# nbtscan-unixwiz -f 192.168.0.38
@@ -82,9 +82,9 @@ root@kali:~# nbtscan-unixwiz -f 192.168.0.38
   00:00:00:00:00:00   ETHER
 ```
 
-### `nbtscan-unixwiz（示例）`
+### `nbtscan-unixwiz -h`
 
-官方给出的调用示例：`nbtscan-unixwiz -h`
+> 官方示例调用：`nbtscan-unixwiz -h`
 
 ```text
 root@kali:~# nbtscan-unixwiz -h

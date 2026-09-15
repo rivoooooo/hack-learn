@@ -37,7 +37,7 @@ man evilginx2         # 查看手册
 
 ### `evilginx2`
 
-官方给出的调用示例：`evilginx2 -h`
+> 官方示例调用：`evilginx2 -h`
 
 ```text
 root@kali:~# evilginx2 -h

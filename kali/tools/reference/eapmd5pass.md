@@ -37,7 +37,7 @@ man eapmd5pass         # 查看手册
 
 ### `eapmd5pass`
 
-官方给出的调用示例：`eapmd5pass -h`
+> 官方示例调用：`eapmd5pass -h`
 
 ```text
 root@kali:~# eapmd5pass -h

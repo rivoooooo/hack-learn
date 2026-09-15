@@ -37,7 +37,7 @@ man dnsgen         # 查看手册
 
 ### `dnsgen`
 
-官方给出的调用示例：`dnsgen --help`
+> 官方示例调用：`dnsgen --help`
 
 ```text
 root@kali:~# dnsgen --help

@@ -37,7 +37,7 @@ man afl++         # 查看手册
 
 ### `afl-addseeds`
 
-官方给出的调用示例：`afl-addseeds -h`
+> 官方示例调用：`afl-addseeds -h`
 
 ```text
 root@kali:~# afl-addseeds -h
@@ -51,7 +51,7 @@ Adds new seeds to an existing AFL++ fuzzing campaign.
 
 ### `afl-analyze`
 
-官方给出的调用示例：`afl-analyze --help`
+> 官方示例调用：`afl-analyze --help`
 
 ```text
 root@kali:~# afl-analyze --help
@@ -93,7 +93,7 @@ AFL_SKIP_BIN_CHECK: skip checking the location of and the target
 
 ### `afl-c++`
 
-官方给出的调用示例：`afl-c++ --help`
+> 官方示例调用：`afl-c++ --help`
 
 ```text
 root@kali:~# afl-c++ --help
@@ -320,7 +320,7 @@ OPTIONS:
 
 ### `afl-cc`
 
-官方给出的调用示例：`afl-cc --help`
+> 官方示例调用：`afl-cc --help`
 
 ```text
 root@kali:~# afl-cc --help
@@ -547,7 +547,7 @@ OPTIONS:
 
 ### `afl-clang`
 
-官方给出的调用示例：`afl-clang --help`
+> 官方示例调用：`afl-clang --help`
 
 ```text
 root@kali:~# afl-clang --help
@@ -774,7 +774,7 @@ OPTIONS:
 
 ### `afl-clang++`
 
-官方给出的调用示例：`afl-clang++ --help`
+> 官方示例调用：`afl-clang++ --help`
 
 ```text
 root@kali:~# afl-clang++ --help
@@ -1001,7 +1001,7 @@ OPTIONS:
 
 ### `afl-clang-fast`
 
-官方给出的调用示例：`afl-clang-fast --help`
+> 官方示例调用：`afl-clang-fast --help`
 
 ```text
 root@kali:~# afl-clang-fast --help
@@ -1228,7 +1228,7 @@ OPTIONS:
 
 ### `afl-clang-fast++`
 
-官方给出的调用示例：`afl-clang-fast++ --help`
+> 官方示例调用：`afl-clang-fast++ --help`
 
 ```text
 root@kali:~# afl-clang-fast++ --help
@@ -1455,7 +1455,7 @@ OPTIONS:
 
 ### `afl-clang-lto`
 
-官方给出的调用示例：`afl-clang-lto --help`
+> 官方示例调用：`afl-clang-lto --help`
 
 ```text
 root@kali:~# afl-clang-lto --help
@@ -1682,7 +1682,7 @@ OPTIONS:
 
 ### `afl-clang-lto++`
 
-官方给出的调用示例：`afl-clang-lto++ --help`
+> 官方示例调用：`afl-clang-lto++ --help`
 
 ```text
 root@kali:~# afl-clang-lto++ --help

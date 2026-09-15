@@ -37,7 +37,7 @@ man vopono         # 查看手册
 
 ### `vopono`
 
-官方给出的调用示例：`vopono -h`
+> 官方示例调用：`vopono -h`
 
 ```text
 root@kali:~# vopono -h

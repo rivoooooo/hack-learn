@@ -37,7 +37,7 @@ man metasploitmcp         # 查看手册
 
 ### `metasploitmcp`
 
-官方给出的调用示例：`metasploitmcp -h`
+> 官方示例调用：`metasploitmcp -h`
 
 ```text
 root@kali:~# metasploitmcp -h

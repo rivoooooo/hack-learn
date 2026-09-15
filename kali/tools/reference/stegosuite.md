@@ -36,7 +36,7 @@ man stegosuite         # 查看手册
 
 ### `stegosuite`
 
-官方给出的调用示例：`stegosuite -h`
+> 官方示例调用：`stegosuite -h`
 
 ```text
 root@kali:~# stegosuite -h

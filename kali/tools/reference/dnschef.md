@@ -62,9 +62,9 @@ root@kali:~# dnschef
 [*] No parameters were specified. Running in full proxy mode
 ```
 
-### `dnschef（示例）`
+### `dnschef -h`
 
-官方给出的调用示例：`dnschef -h`
+> 官方示例调用：`dnschef -h`
 
 ```text
 root@kali:~# dnschef -h

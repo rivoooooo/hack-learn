@@ -36,7 +36,7 @@ man bluetooth         # 查看手册
 
 ### `bluemoon`
 
-官方给出的调用示例：`bluemoon -h`
+> 官方示例调用：`bluemoon -h`
 
 ```text
 root@kali:~# bluemoon -h
@@ -56,7 +56,7 @@ Options:
 
 ### `bluetoothctl`
 
-官方给出的调用示例：`bluetoothctl -h`
+> 官方示例调用：`bluetoothctl -h`
 
 ```text
 root@kali:~# bluetoothctl -h
@@ -283,7 +283,7 @@ Commands:
 
 ### `bluetoothd`
 
-官方给出的调用示例：`bluetoothd -h`
+> 官方示例调用：`bluetoothd -h`
 
 ```text
 root@kali:~# bluetoothd -h
@@ -306,7 +306,7 @@ Application Options:
 
 ### `btattach`
 
-官方给出的调用示例：`btattach -h`
+> 官方示例调用：`btattach -h`
 
 ```text
 root@kali:~# btattach -h
@@ -324,7 +324,7 @@ options:
 
 ### `btmgmt`
 
-官方给出的调用示例：`btmgmt -h`
+> 官方示例调用：`btmgmt -h`
 
 ```text
 root@kali:~# btmgmt -h
@@ -425,7 +425,7 @@ Commands:
 
 ### `btmon`
 
-官方给出的调用示例：`btmon -h`
+> 官方示例调用：`btmon -h`
 
 ```text
 root@kali:~# btmon -h
@@ -465,7 +465,7 @@ options:
 
 ### `ciptool`
 
-官方给出的调用示例：`ciptool -h`
+> 官方示例调用：`ciptool -h`
 
 ```text
 root@kali:~# ciptool -h
@@ -485,7 +485,7 @@ Commands:
 
 ### `gatttool`
 
-官方给出的调用示例：`gatttool -h`
+> 官方示例调用：`gatttool -h`
 
 ```text
 root@kali:~# gatttool -h
@@ -509,7 +509,7 @@ Application Options:
 
 ### `hciattach`
 
-官方给出的调用示例：`hciattach -h`
+> 官方示例调用：`hciattach -h`
 
 ```text
 root@kali:~# hciattach -h
@@ -521,7 +521,7 @@ Usage:
 
 ### `hciconfig`
 
-官方给出的调用示例：`hciconfig -h`
+> 官方示例调用：`hciconfig -h`
 
 ```text
 root@kali:~# hciconfig -h

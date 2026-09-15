@@ -37,7 +37,7 @@ man knocker         # 查看手册
 
 ### `knocker`
 
-官方给出的调用示例：`knocker -h`
+> 官方示例调用：`knocker -h`
 
 ```text
 root@kali:~# knocker -h

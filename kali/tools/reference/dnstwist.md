@@ -37,7 +37,7 @@ man dnstwist         # 查看手册
 
 ### `dnstwist`
 
-官方给出的调用示例：`dnstwist -h`
+> 官方示例调用：`dnstwist -h`
 
 ```text
 root@kali:~# dnstwist -h

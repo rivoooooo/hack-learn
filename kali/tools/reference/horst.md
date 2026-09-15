@@ -37,7 +37,7 @@ man horst         # 查看手册
 
 ### `horst`
 
-官方给出的调用示例：`horst -h`
+> 官方示例调用：`horst -h`
 
 ```text
 root@kali:~# horst -h

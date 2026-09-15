@@ -55,7 +55,7 @@ Tuner gain set to automatic.
 
 ### `rtl_fm`
 
-官方给出的调用示例：`rtl_fm -f 149.614M -s 22050 -p -19 | multimon-ng -t raw -a POCSAG512 -a POCSAG1200 -a POCSAG2400 -a SCOPE -f alpha /dev/stdin`
+> 官方示例调用：`rtl_fm -f 149.614M -s 22050 -p -19 | multimon-ng -t raw -a POCSAG512 -a POCSAG1200 -a POCSAG2400 -a SCOPE -f alpha /dev/stdin`
 
 ```text
 root@kali:~# rtl_fm -f 149.614M -s 22050 -p -19 | multimon-ng -t raw -a POCSAG512 -a POCSAG1200 -a POCSAG2400 -a SCOPE -f alpha /dev/stdin
@@ -79,7 +79,7 @@ Tuner gain set to automatic.
 
 ### `multimon-ng`
 
-官方给出的调用示例：`multimon-ng --help`
+> 官方示例调用：`multimon-ng --help`
 
 ```text
 root@kali:~# multimon-ng --help

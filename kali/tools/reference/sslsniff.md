@@ -37,7 +37,7 @@ man sslsniff         # 查看手册
 
 ### `sslsniff`
 
-官方给出的调用示例：`sslsniff -h`
+> 官方示例调用：`sslsniff -h`
 
 ```text
 root@kali:~# sslsniff -h

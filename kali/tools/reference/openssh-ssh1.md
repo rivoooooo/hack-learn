@@ -37,7 +37,7 @@ man openssh-client-ssh1         # 查看手册
 
 ### `scp1`
 
-官方给出的调用示例：`scp1 -h`
+> 官方示例调用：`scp1 -h`
 
 ```text
 root@kali:~# scp1 -h
@@ -49,7 +49,7 @@ usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
 
 ### `ssh-keygen1`
 
-官方给出的调用示例：`ssh-keygen1 --help`
+> 官方示例调用：`ssh-keygen1 --help`
 
 ```text
 root@kali:~# ssh-keygen1 --help
@@ -82,7 +82,7 @@ usage: ssh-keygen [-q] [-b bits] [-t dsa | ecdsa | ed25519 | rsa | rsa1]
 
 ### `ssh1`
 
-官方给出的调用示例：`ssh1 -h`
+> 官方示例调用：`ssh1 -h`
 
 ```text
 root@kali:~# ssh1 -h

@@ -37,7 +37,7 @@ man krbrelayx         # 查看手册
 
 ### `addspn`
 
-官方给出的调用示例：`addspn -h`
+> 官方示例调用：`addspn -h`
 
 ```text
 root@kali:~# addspn -h
@@ -81,7 +81,7 @@ Main options:
 
 ### `dnstool`
 
-官方给出的调用示例：`dnstool -h`
+> 官方示例调用：`dnstool -h`
 
 ```text
 root@kali:~# dnstool -h
@@ -140,7 +140,7 @@ Record options:
 
 ### `krbrelayx`
 
-官方给出的调用示例：`krbrelayx -h`
+> 官方示例调用：`krbrelayx -h`
 
 ```text
 root@kali:~# krbrelayx -h
@@ -251,7 +251,7 @@ AD CS attack options:
 
 ### `printerbug`
 
-官方给出的调用示例：`printerbug -h`
+> 官方示例调用：`printerbug -h`
 
 ```text
 root@kali:~# printerbug -h

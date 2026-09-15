@@ -37,7 +37,7 @@ man powershell-empire         # 查看手册
 
 ### `powershell-empire`
 
-官方给出的调用示例：`powershell-empire -h`
+> 官方示例调用：`powershell-empire -h`
 
 ```text
 root@kali:~# powershell-empire -h
@@ -52,7 +52,7 @@ options:
 
 ### `starkiller`
 
-官方给出的调用示例：`starkiller -h`
+> 官方示例调用：`starkiller -h`
 
 ```text
 root@kali:~# starkiller -h
@@ -65,7 +65,7 @@ root@kali:~# starkiller -h
 
 ### `starkiller-start`
 
-官方给出的调用示例：`starkiller-start --help`
+> 官方示例调用：`starkiller-start --help`
 
 ```text
 root@kali:~# starkiller-start --help
@@ -85,7 +85,7 @@ root@kali:~# starkiller-start --help
 
 ### `starkiller-stop`
 
-官方给出的调用示例：`starkiller-stop -h`
+> 官方示例调用：`starkiller-stop -h`
 
 ```text
 root@kali:~# starkiller-stop -h

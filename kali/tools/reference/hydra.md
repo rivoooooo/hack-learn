@@ -46,7 +46,7 @@ Read in a list of passwords (-i /usr/share/wordlists/nmap.lst) and save to a fil
 
 ### `hydra`
 
-官方给出的调用示例：`hydra -l root -P /usr/share/wordlists/metasploit/unix_passwords.txt -t 6 ssh://192.168.1.123`
+> 官方示例调用：`hydra -l root -P /usr/share/wordlists/metasploit/unix_passwords.txt -t 6 ssh://192.168.1.123`
 
 ```text
 root@kali:~# hydra -l root -P /usr/share/wordlists/metasploit/unix_passwords.txt -t 6 ssh://192.168.1.123
@@ -68,7 +68,7 @@ Read in a list of passwords (
 
 ### `pw-inspector`
 
-官方给出的调用示例：`pw-inspector -i /usr/share/wordlists/nmap.lst -o /root/passes.txt -m 6 -M 10`
+> 官方示例调用：`pw-inspector -i /usr/share/wordlists/nmap.lst -o /root/passes.txt -m 6 -M 10`
 
 ```text
 root@kali:~# pw-inspector -i /usr/share/wordlists/nmap.lst -o /root/passes.txt -m 6 -M 10
@@ -76,16 +76,16 @@ root@kali:~# pw-inspector -i /usr/share/wordlists/nmap.lst -o /root/passes.txt -
 
 ### `wc`
 
-官方给出的调用示例：`wc -l /usr/share/wordlists/nmap.lst`
+> 官方示例调用：`wc -l /usr/share/wordlists/nmap.lst`
 
 ```text
 root@kali:~# wc -l /usr/share/wordlists/nmap.lst
 5086 /usr/share/wordlists/nmap.lst
 ```
 
-### `wc（示例）`
+### `wc -l /root/passes.txt`
 
-官方给出的调用示例：`wc -l /root/passes.txt`
+> 官方示例调用：`wc -l /root/passes.txt`
 
 ```text
 root@kali:~# wc -l /root/passes.txt
@@ -94,7 +94,7 @@ root@kali:~# wc -l /root/passes.txt
 
 ### `dpl4hydra`
 
-官方给出的调用示例：`dpl4hydra -h`
+> 官方示例调用：`dpl4hydra -h`
 
 ```text
 root@kali:~# dpl4hydra -h
@@ -119,9 +119,9 @@ File dpl4hydra_linksys.lst was created with 20 entries.
 # hydra -C ./dpl4hydra_linksys.lst -t 1 192.168.1.1 http-get /index.asp
 ```
 
-### `hydra（示例）`
+### `hydra -h`
 
-官方给出的调用示例：`hydra -h`
+> 官方示例调用：`hydra -h`
 
 ```text
 root@kali:~# hydra -h
@@ -185,7 +185,7 @@ Examples:
 
 ### `man`
 
-官方给出的调用示例：`man hydra-wizard`
+> 官方示例调用：`man hydra-wizard`
 
 ```text
 root@kali:~# man hydra-wizard
@@ -218,9 +218,9 @@ AUTHOR
                                    19/01/2014                   HYDRA-WIZARD(1)
 ```
 
-### `pw-inspector（示例）`
+### `pw-inspector -h`
 
-官方给出的调用示例：`pw-inspector -h`
+> 官方示例调用：`pw-inspector -h`
 
 ```text
 root@kali:~# pw-inspector -h
@@ -247,9 +247,9 @@ Use for hacking: trim your dictionary file to the pw requirements of the target.
 Usage only allowed for legal purposes.
 ```
 
-### `man（示例）`
+### `man xhydra`
 
-官方给出的调用示例：`man xhydra`
+> 官方示例调用：`man xhydra`
 
 ```text
 root@kali:~# man xhydra

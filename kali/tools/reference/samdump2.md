@@ -37,7 +37,7 @@ man samdump2         # 查看手册
 
 ### `samdump2`
 
-官方给出的调用示例：`samdump2 -h`
+> 官方示例调用：`samdump2 -h`
 
 ```text
 root@kali:~# samdump2 -h

@@ -69,7 +69,7 @@ root@kali:~# rtpbreak -i eth0 -g -m -d rtplog
 
 ### `rtpbreak`
 
-官方给出的调用示例：`rtpbreak -i eth0 -g -m -d rtplog`
+> 官方示例调用：`rtpbreak -i eth0 -g -m -d rtplog`
 
 ```text
 root@kali:~# rtpbreak -i eth0 -g -m -d rtplog
@@ -106,9 +106,9 @@ root@kali:~# rtpbreak -i eth0 -g -m -d rtplog
  * Reading packets...
 ```
 
-### `rtpbreak（示例）`
+### `rtpbreak -h`
 
-官方给出的调用示例：`rtpbreak -h`
+> 官方示例调用：`rtpbreak -h`
 
 ```text
 root@kali:~# rtpbreak -h

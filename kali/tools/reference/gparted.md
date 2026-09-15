@@ -37,7 +37,7 @@ man gparted         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man gparted`
+> 官方示例调用：`man gparted`
 
 ```text
 root@kali:~# man gparted

@@ -37,7 +37,7 @@ man memdump         # 查看手册
 
 ### `memdump`
 
-官方给出的调用示例：`memdump -h`
+> 官方示例调用：`memdump -h`
 
 ```text
 root@kali:~# memdump -h

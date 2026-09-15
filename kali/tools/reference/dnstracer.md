@@ -42,7 +42,7 @@ DNS HEADER (send)
 
 ### `dnstracer`
 
-官方给出的调用示例：`dnstracer -r 3 -v example.com`
+> 官方示例调用：`dnstracer -r 3 -v example.com`
 
 ```text
 root@kali:~# dnstracer -r 3 -v example.com
@@ -52,9 +52,9 @@ Tracing to example.com[a] via 192.168.1.1, maximum of 3 retries
 DNS HEADER (send)
 ```
 
-### `dnstracer（示例）`
+### `dnstracer -h`
 
-官方给出的调用示例：`dnstracer -h`
+> 官方示例调用：`dnstracer -h`
 
 ```text
 root@kali:~# dnstracer -h

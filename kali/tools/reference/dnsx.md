@@ -37,7 +37,7 @@ man dnsx         # 查看手册
 
 ### `dnsx`
 
-官方给出的调用示例：`dnsx -h`
+> 官方示例调用：`dnsx -h`
 
 ```text
 root@kali:~# dnsx -h

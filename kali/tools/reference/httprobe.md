@@ -37,7 +37,7 @@ man httprobe         # 查看手册
 
 ### `httprobe`
 
-官方给出的调用示例：`httprobe -h`
+> 官方示例调用：`httprobe -h`
 
 ```text
 root@kali:~# httprobe -h

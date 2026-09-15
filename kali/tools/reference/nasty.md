@@ -37,7 +37,7 @@ man nasty         # 查看手册
 
 ### `nasty`
 
-官方给出的调用示例：`nasty -h`
+> 官方示例调用：`nasty -h`
 
 ```text
 root@kali:~# nasty -h

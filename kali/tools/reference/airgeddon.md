@@ -37,7 +37,7 @@ man airgeddon         # 查看手册
 
 ### `airgeddon`
 
-官方给出的调用示例：`airgeddon -h`
+> 官方示例调用：`airgeddon -h`
 
 ```text
 root@kali:~# airgeddon -h

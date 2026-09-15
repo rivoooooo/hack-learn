@@ -42,7 +42,7 @@ audit.txt  jpg  pdf
 
 ### `foremost`
 
-官方给出的调用示例：`foremost -t doc,jpg,pdf,xls -i image.dd`
+> 官方示例调用：`foremost -t doc,jpg,pdf,xls -i image.dd`
 
 ```text
 root@kali:~# foremost -t doc,jpg,pdf,xls -i image.dd
@@ -52,16 +52,16 @@ Processing: image.dd
 
 ### `ls`
 
-官方给出的调用示例：`ls output/`
+> 官方示例调用：`ls output/`
 
 ```text
 root@kali:~# ls output/
 audit.txt  jpg  pdf
 ```
 
-### `foremost（示例）`
+### `foremost -h`
 
-官方给出的调用示例：`foremost -h`
+> 官方示例调用：`foremost -h`
 
 ```text
 root@kali:~# foremost -h

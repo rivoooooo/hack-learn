@@ -37,7 +37,7 @@ man adaptixc2         # 查看手册
 
 ### `adaptixserver`
 
-官方给出的调用示例：`adaptixserver -h`
+> 官方示例调用：`adaptixserver -h`
 
 ```text
 root@kali:~# adaptixserver -h

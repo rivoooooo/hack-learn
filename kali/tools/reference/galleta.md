@@ -37,15 +37,15 @@ man galleta         # 查看手册
 
 ### `galleta`
 
-官方给出的调用示例：`galleta -d";" file.txt`
+> 官方示例调用：`galleta -d";" file.txt`
 
 ```text
 root@kali:~# galleta -d";" file.txt
 ```
 
-### `galleta（示例）`
+### `galleta -h`
 
-官方给出的调用示例：`galleta -h`
+> 官方示例调用：`galleta -h`
 
 ```text
 root@kali:~# galleta -h

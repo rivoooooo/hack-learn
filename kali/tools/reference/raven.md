@@ -37,7 +37,7 @@ man raven         # 查看手册
 
 ### `raven`
 
-官方给出的调用示例：`raven -h`
+> 官方示例调用：`raven -h`
 
 ```text
 root@kali:~# raven -h

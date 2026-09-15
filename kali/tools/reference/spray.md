@@ -37,7 +37,7 @@ man spray         # 查看手册
 
 ### `spray`
 
-官方给出的调用示例：`spray -h`
+> 官方示例调用：`spray -h`
 
 ```text
 root@kali:~# spray -h

@@ -206,9 +206,9 @@ evilgrade(skype)>
 evilgrade(skype)>
 ```
 
-### `evilgrade（示例）`
+### `evilgrade -h`
 
-官方给出的调用示例：`evilgrade -h`
+> 官方示例调用：`evilgrade -h`
 
 ```text
 root@kali:~# evilgrade -h

@@ -37,7 +37,7 @@ man sstimap         # 查看手册
 
 ### `sstimap`
 
-官方给出的调用示例：`sstimap -h`
+> 官方示例调用：`sstimap -h`
 
 ```text
 root@kali:~# sstimap -h

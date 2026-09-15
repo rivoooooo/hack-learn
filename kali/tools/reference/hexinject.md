@@ -45,7 +45,7 @@ Print an example of a UDP packet (-x udp):
 
 ### `hexinject`
 
-官方给出的调用示例：`hexinject -s -i eth0`
+> 官方示例调用：`hexinject -s -i eth0`
 
 ```text
 root@kali:~# hexinject -s -i eth0
@@ -61,7 +61,7 @@ Print an example of a UDP packet (
 
 ### `prettypacket`
 
-官方给出的调用示例：`prettypacket -x udp`
+> 官方示例调用：`prettypacket -x udp`
 
 ```text
 root@kali:~# prettypacket -x udp
@@ -103,15 +103,15 @@ packets.tcl Usage Example
 
 ### `packets.tcl`
 
-官方给出的调用示例：`packets.tcl 'ethernet(dst=ff:ff:ff:ff:ee:ee,src=aa:aa:ee:ff:ff:ff,type=0x0800)+ip(ihl=5,ver=4,tos=0xc0,totlen=58,id=62912,fragoff=0,mf=0,df=0,rf=0,ttl=64,proto=1,cksum=0xe500,saddr=192.168.1.7,daddr=192.168.1.6)+icmp(type=3,code=3,unused=0)+data(str=aaaa)+udp(sport=33169,dport=10,len=10,cksum=0x94d6)+data(str=aaaa)+arp(htype=ethernet,ptype=ip,hsize=6,psize=4,op=request,shard=00:11:22:33:44:55,sproto=192.168.1.1,thard=22:22:22:22:22:22,tproto=10.0.0.1)' > packet-out`
+> 官方示例调用：`packets.tcl 'ethernet(dst=ff:ff:ff:ff:ee:ee,src=aa:aa:ee:ff:ff:ff,type=0x0800)+ip(ihl=5,ver=4,tos=0xc0,totlen=58,id=62912,fragoff=0,mf=0,df=0,rf=0,ttl=64,proto=1,cksum=0xe500,saddr=192.168.1.7,daddr=192.168.1.6)+icmp(type=3,code=3,unused=0)+data(str=aaaa)+udp(sport=33169,dport=10,len=10,cksum=0x94d6)+data(str=aaaa)+arp(htype=ethernet,ptype=ip,hsize=6,psize=4,op=request,shard=00:11:22:33:44:55,sproto=192.168.1.1,thard=22:22:22:22:22:22,tproto=10.0.0.1)' > packet-out`
 
 ```text
 root@kali:~# packets.tcl 'ethernet(dst=ff:ff:ff:ff:ee:ee,src=aa:aa:ee:ff:ff:ff,type=0x0800)+ip(ihl=5,ver=4,tos=0xc0,totlen=58,id=62912,fragoff=0,mf=0,df=0,rf=0,ttl=64,proto=1,cksum=0xe500,saddr=192.168.1.7,daddr=192.168.1.6)+icmp(type=3,code=3,unused=0)+data(str=aaaa)+udp(sport=33169,dport=10,len=10,cksum=0x94d6)+data(str=aaaa)+arp(htype=ethernet,ptype=ip,hsize=6,psize=4,op=request,shard=00:11:22:33:44:55,sproto=192.168.1.1,thard=22:22:22:22:22:22,tproto=10.0.0.1)' > packet-out
 ```
 
-### `hex2raw（示例）`
+### `hex2raw -h`
 
-官方给出的调用示例：`hex2raw -h`
+> 官方示例调用：`hex2raw -h`
 
 ```text
 root@kali:~# hex2raw -h
@@ -126,9 +126,9 @@ Options:
 	-h	this help screen
 ```
 
-### `hexinject（示例）`
+### `hexinject --help`
 
-官方给出的调用示例：`hexinject --help`
+> 官方示例调用：`hexinject --help`
 
 ```text
 root@kali:~# hexinject --help
@@ -160,9 +160,9 @@ Other options:
   -h help screen
 ```
 
-### `packets.tcl（示例）`
+### `packets.tcl -h`
 
-官方给出的调用示例：`packets.tcl -h`
+> 官方示例调用：`packets.tcl -h`
 
 ```text
 root@kali:~# packets.tcl -h
@@ -176,9 +176,9 @@ ethernet(dst=ff:ff:ff:ff:ff:ff,src=ff:ff:ff:ff:ff:ff,type=0x0800)+ip(ihl=5,ver=4
 ethernet(dst=ff:ff:ff:ff:ff:ff,src=ff:ff:ff:ff:ff:ff,type=0x0800)+ip(ihl=5,ver=4,tos=00,totlen=30,id=60976,fragoff=0,mf=0,df=1,rf=0,ttl=64,proto=tcp,cksum=0x40c9,saddr=192.168.1.9,daddr=173.194.44.95)+tcp(sport=32857,dport=80,seq=1804471615,ack=0,ns=0,off=8,flags=s,win=62694,cksum=0xda46,urp=0)+tcp.nop()+tcp.nop()+tcp.timestamp(val=54111314,ecr=1049055856)+data(str=f0a)
 ```
 
-### `prettypacket（示例）`
+### `prettypacket -h`
 
-官方给出的调用示例：`prettypacket -h`
+> 官方示例调用：`prettypacket -h`
 
 ```text
 root@kali:~# prettypacket -h

@@ -37,7 +37,7 @@ man ferret-sidejack         # 查看手册
 
 ### `ferret-sidejack`
 
-官方给出的调用示例：`ferret-sidejack -h`
+> 官方示例调用：`ferret-sidejack -h`
 
 ```text
 root@kali:~# ferret-sidejack -h

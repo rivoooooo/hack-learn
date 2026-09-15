@@ -37,7 +37,7 @@ man zerofree         # 查看手册
 
 ### `zerofree`
 
-官方给出的调用示例：`zerofree -h`
+> 官方示例调用：`zerofree -h`
 
 ```text
 root@kali:~# zerofree -h

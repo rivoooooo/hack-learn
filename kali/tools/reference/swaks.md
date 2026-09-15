@@ -37,7 +37,7 @@ man swaks         # 查看手册
 
 ### `swaks`
 
-官方给出的调用示例：`swaks --help`
+> 官方示例调用：`swaks --help`
 
 ```text
 root@kali:~# swaks --help

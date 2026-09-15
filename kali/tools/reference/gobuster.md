@@ -37,7 +37,7 @@ man gobuster         # 查看手册
 
 ### `gobuster`
 
-官方给出的调用示例：`gobuster -h`
+> 官方示例调用：`gobuster -h`
 
 ```text
 root@kali:~# gobuster -h

@@ -37,7 +37,7 @@ man hostapd-mana         # 查看手册
 
 ### `hostapd-mana`
 
-官方给出的调用示例：`hostapd-mana --help`
+> 官方示例调用：`hostapd-mana --help`
 
 ```text
 root@kali:~# hostapd-mana --help
@@ -81,7 +81,7 @@ options:
 
 ### `hostapd-mana_cli`
 
-官方给出的调用示例：`hostapd-mana_cli -h`
+> 官方示例调用：`hostapd-mana_cli -h`
 
 ```text
 root@kali:~# hostapd-mana_cli -h

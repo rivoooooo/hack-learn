@@ -37,7 +37,7 @@ man ptunnel         # 查看手册
 
 ### `ptunnel`
 
-官方给出的调用示例：`ptunnel -h`
+> 官方示例调用：`ptunnel -h`
 
 ```text
 root@kali:~# ptunnel -h

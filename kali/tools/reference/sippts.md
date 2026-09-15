@@ -37,7 +37,7 @@ man sippts         # 查看手册
 
 ### `sippts`
 
-官方给出的调用示例：`sippts -h`
+> 官方示例调用：`sippts -h`
 
 ```text
 root@kali:~# sippts -h
@@ -118,7 +118,7 @@ Command help:
 
 ### `sippts-gui`
 
-官方给出的调用示例：`sippts-gui -h`
+> 官方示例调用：`sippts-gui -h`
 
 ```text
 root@kali:~# sippts-gui -h

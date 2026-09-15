@@ -37,7 +37,7 @@ man exe2hexbat         # 查看手册
 
 ### `exe2hex`
 
-官方给出的调用示例：`exe2hex -h`
+> 官方示例调用：`exe2hex -h`
 
 ```text
 root@kali:~# exe2hex -h

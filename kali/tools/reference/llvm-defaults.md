@@ -36,7 +36,7 @@ man clang         # 查看手册
 
 ### `clang`
 
-官方给出的调用示例：`clang --help`
+> 官方示例调用：`clang --help`
 
 ```text
 root@kali:~# clang --help
@@ -263,7 +263,7 @@ OPTIONS:
 
 ### `clang++`
 
-官方给出的调用示例：`clang++ --help`
+> 官方示例调用：`clang++ --help`
 
 ```text
 root@kali:~# clang++ --help
@@ -490,7 +490,7 @@ OPTIONS:
 
 ### `clang-cpp`
 
-官方给出的调用示例：`clang-cpp --help`
+> 官方示例调用：`clang-cpp --help`
 
 ```text
 root@kali:~# clang-cpp --help
@@ -717,7 +717,7 @@ OPTIONS:
 
 ### `clang-scan-deps`
 
-官方给出的调用示例：`clang-scan-deps --help`
+> 官方示例调用：`clang-scan-deps --help`
 
 ```text
 root@kali:~# clang-scan-deps --help
@@ -752,7 +752,7 @@ OPTIONS:
 
 ### `clang-format`
 
-官方给出的调用示例：`clang-format --help`
+> 官方示例调用：`clang-format --help`
 
 ```text
 root@kali:~# clang-format --help
@@ -850,7 +850,7 @@ Generic Options:
 
 ### `clang-format-diff`
 
-官方给出的调用示例：`clang-format-diff -h`
+> 官方示例调用：`clang-format-diff -h`
 
 ```text
 root@kali:~# clang-format-diff -h
@@ -887,7 +887,7 @@ options:
 
 ### `git-clang-format`
 
-官方给出的调用示例：`git-clang-format -h`
+> 官方示例调用：`git-clang-format -h`
 
 ```text
 root@kali:~# git-clang-format -h
@@ -935,7 +935,7 @@ options:
 
 ### `clang-tidy`
 
-官方给出的调用示例：`clang-tidy -h`
+> 官方示例调用：`clang-tidy -h`
 
 ```text
 root@kali:~# clang-tidy -h
@@ -1140,7 +1140,7 @@ Configuration files:
 
 ### `run-clang-tidy`
 
-官方给出的调用示例：`run-clang-tidy -h`
+> 官方示例调用：`run-clang-tidy -h`
 
 ```text
 root@kali:~# run-clang-tidy -h
@@ -1227,7 +1227,7 @@ options:
 
 ### `amdgpu-arch`
 
-官方给出的调用示例：`amdgpu-arch --help`
+> 官方示例调用：`amdgpu-arch --help`
 
 ```text
 root@kali:~# amdgpu-arch --help

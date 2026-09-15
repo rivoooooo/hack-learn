@@ -37,7 +37,7 @@ man upx-ucl         # 查看手册
 
 ### `upx-ucl`
 
-官方给出的调用示例：`upx-ucl --help`
+> 官方示例调用：`upx-ucl --help`
 
 ```text
 root@kali:~# upx-ucl --help

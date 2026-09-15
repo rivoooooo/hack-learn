@@ -36,7 +36,7 @@ man whatweb         # 查看手册
 
 ### `whatweb`
 
-官方给出的调用示例：`whatweb -v -a 3 192.168.0.102`
+> 官方示例调用：`whatweb -v -a 3 192.168.0.102`
 
 ```text
 root@kali:~# whatweb -v -a 3 192.168.0.102
@@ -98,9 +98,9 @@ HTTP Headers:
 root@kali:~#
 ```
 
-### `whatweb（示例）`
+### `whatweb -h`
 
-官方给出的调用示例：`whatweb -h`
+> 官方示例调用：`whatweb -h`
 
 ```text
 root@kali:~# whatweb -h

@@ -107,9 +107,9 @@ Modules
 termineter >
 ```
 
-### `termineter（示例）`
+### `termineter -h`
 
-官方给出的调用示例：`termineter -h`
+> 官方示例调用：`termineter -h`
 
 ```text
 root@kali:~# termineter -h

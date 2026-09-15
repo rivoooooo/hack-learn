@@ -37,7 +37,7 @@ man watobo         # 查看手册
 
 ### `watobo`
 
-官方给出的调用示例：`watobo -h`
+> 官方示例调用：`watobo -h`
 
 ```text
 root@kali:~# watobo -h

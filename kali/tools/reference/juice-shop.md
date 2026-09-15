@@ -37,7 +37,7 @@ man juice-shop         # 查看手册
 
 ### `juice-shop`
 
-官方给出的调用示例：`juice-shop -h`
+> 官方示例调用：`juice-shop -h`
 
 ```text
 root@kali:~# juice-shop -h
@@ -50,7 +50,7 @@ root@kali:~# juice-shop -h
 
 ### `juice-shop-start`
 
-官方给出的调用示例：`juice-shop-start -h`
+> 官方示例调用：`juice-shop-start -h`
 
 ```text
 root@kali:~# juice-shop-start -h
@@ -86,7 +86,7 @@ root@kali:~# juice-shop-start -h
 
 ### `juice-shop-stop`
 
-官方给出的调用示例：`juice-shop-stop -h`
+> 官方示例调用：`juice-shop-stop -h`
 
 ```text
 root@kali:~# juice-shop-stop -h

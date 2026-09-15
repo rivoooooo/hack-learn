@@ -44,7 +44,7 @@ Crunch will now generate the following number of lines: 16777216
 
 ### `crunch`
 
-官方给出的调用示例：`crunch 6 6 0123456789abcdef -o 6chars.txt`
+> 官方示例调用：`crunch 6 6 0123456789abcdef -o 6chars.txt`
 
 ```text
 root@kali:~# crunch 6 6 0123456789abcdef -o 6chars.txt
@@ -56,9 +56,9 @@ Crunch will now generate the following amount of data: 117440512 bytes
 Crunch will now generate the following number of lines: 16777216
 ```
 
-### `crunch（示例）`
+### `crunch -h`
 
-官方给出的调用示例：`crunch -h`
+> 官方示例调用：`crunch -h`
 
 ```text
 root@kali:~# crunch -h

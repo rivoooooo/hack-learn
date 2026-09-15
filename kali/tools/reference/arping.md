@@ -37,7 +37,7 @@ man arping         # 查看手册
 
 ### `arping`
 
-官方给出的调用示例：`arping --help`
+> 官方示例调用：`arping --help`
 
 ```text
 root@kali:~# arping --help

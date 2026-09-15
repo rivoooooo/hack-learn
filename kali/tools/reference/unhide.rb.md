@@ -37,7 +37,7 @@ man unhide.rb         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man unhide.rb`
+> 官方示例调用：`man unhide.rb`
 
 ```text
 root@kali:~# man unhide.rb

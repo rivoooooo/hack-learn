@@ -37,7 +37,7 @@ man dcfldd         # 查看手册
 
 ### `dcfldd`
 
-官方给出的调用示例：`dcfldd --help`
+> 官方示例调用：`dcfldd --help`
 
 ```text
 root@kali:~# dcfldd --help

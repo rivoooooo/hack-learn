@@ -73,7 +73,7 @@ Database statistics:
 
 ### `skipfish`
 
-官方给出的调用示例：`skipfish -o 202 http://192.168.1.202/wordpress`
+> 官方示例调用：`skipfish -o 202 http://192.168.1.202/wordpress`
 
 ```text
 root@kali:~# skipfish -o 202 http://192.168.1.202/wordpress
@@ -109,9 +109,9 @@ Database statistics:
 [+] This was a great day for science!
 ```
 
-### `skipfish（示例）`
+### `skipfish -h`
 
-官方给出的调用示例：`skipfish -h`
+> 官方示例调用：`skipfish -h`
 
 ```text
 root@kali:~# skipfish -h

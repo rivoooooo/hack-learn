@@ -37,7 +37,7 @@ man btscanner         # 查看手册
 
 ### `btscanner`
 
-官方给出的调用示例：`btscanner -h`
+> 官方示例调用：`btscanner -h`
 
 ```text
 root@kali:~# btscanner -h

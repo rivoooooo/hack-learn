@@ -52,7 +52,7 @@ root@kali:~# ismtp -f smtp-ips.txt -e /usr/share/wordlists/metasploit/unix_users
 
 ### `ismtp`
 
-官方给出的调用示例：`ismtp -f smtp-ips.txt -e /usr/share/wordlists/metasploit/unix_users.txt`
+> 官方示例调用：`ismtp -f smtp-ips.txt -e /usr/share/wordlists/metasploit/unix_users.txt`
 
 ```text
 root@kali:~# ismtp -f smtp-ips.txt -e /usr/share/wordlists/metasploit/unix_users.txt
@@ -70,9 +70,9 @@ root@kali:~# ismtp -f smtp-ips.txt -e /usr/share/wordlists/metasploit/unix_users
  [+] adm ----------------- [ success ]
 ```
 
-### `ismtp（示例）`
+### `ismtp -h`
 
-官方给出的调用示例：`ismtp -h`
+> 官方示例调用：`ismtp -h`
 
 ```text
 root@kali:~# ismtp -h

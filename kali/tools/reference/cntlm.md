@@ -37,7 +37,7 @@ man cntlm         # 查看手册
 
 ### `cntlm`
 
-官方给出的调用示例：`cntlm -h`
+> 官方示例调用：`cntlm -h`
 
 ```text
 root@kali:~# cntlm -h

@@ -37,7 +37,7 @@ man owasp-mantra-ff         # 查看手册
 
 ### `owasp-mantra-ff`
 
-官方给出的调用示例：`owasp-mantra-ff -h`
+> 官方示例调用：`owasp-mantra-ff -h`
 
 ```text
 root@kali:~# owasp-mantra-ff -h

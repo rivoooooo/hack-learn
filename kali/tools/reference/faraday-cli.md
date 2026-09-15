@@ -37,7 +37,7 @@ man faraday-cli         # 查看手册
 
 ### `faraday-cli`
 
-官方给出的调用示例：`faraday-cli -h`
+> 官方示例调用：`faraday-cli -h`
 
 ```text
 root@kali:~# faraday-cli -h

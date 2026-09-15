@@ -37,7 +37,7 @@ man cloudbrute         # 查看手册
 
 ### `cloudbrute`
 
-官方给出的调用示例：`cloudbrute -h`
+> 官方示例调用：`cloudbrute -h`
 
 ```text
 root@kali:~# cloudbrute -h

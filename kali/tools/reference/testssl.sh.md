@@ -37,7 +37,7 @@ man testssl.sh         # 查看手册
 
 ### `testssl`
 
-官方给出的调用示例：`testssl --help`
+> 官方示例调用：`testssl --help`
 
 ```text
 root@kali:~# testssl --help

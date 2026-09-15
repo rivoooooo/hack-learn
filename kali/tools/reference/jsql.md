@@ -57,7 +57,7 @@ Non regression tests are run against dockerized and in memory databases and GUI 
 
 ### `jsql`
 
-官方给出的调用示例：`jsql -h`
+> 官方示例调用：`jsql -h`
 
 ```text
 root@kali:~# jsql -h
@@ -66,7 +66,7 @@ root@kali:~# jsql -h
 
 ### `jsql-injection`
 
-官方给出的调用示例：`jsql-injection -h`
+> 官方示例调用：`jsql-injection -h`
 
 ```text
 root@kali:~# jsql-injection -h

@@ -36,7 +36,7 @@ man nuclei         # 查看手册
 
 ### `nuclei`
 
-官方给出的调用示例：`nuclei -h`
+> 官方示例调用：`nuclei -h`
 
 ```text
 root@kali:~# nuclei -h

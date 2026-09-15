@@ -37,7 +37,7 @@ man bruteshark         # 查看手册
 
 ### `brutesharkcli`
 
-官方给出的调用示例：`brutesharkcli -h`
+> 官方示例调用：`brutesharkcli -h`
 
 ```text
 root@kali:~# brutesharkcli -h

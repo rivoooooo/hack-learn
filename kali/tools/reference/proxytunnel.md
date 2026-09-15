@@ -37,7 +37,7 @@ man proxytunnel         # 查看手册
 
 ### `proxytunnel`
 
-官方给出的调用示例：`proxytunnel -h`
+> 官方示例调用：`proxytunnel -h`
 
 ```text
 root@kali:~# proxytunnel -h

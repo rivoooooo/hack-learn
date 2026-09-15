@@ -37,7 +37,7 @@ man eaphammer         # 查看手册
 
 ### `eaphammer`
 
-官方给出的调用示例：`eaphammer -h`
+> 官方示例调用：`eaphammer -h`
 
 ```text
 root@kali:~# eaphammer -h

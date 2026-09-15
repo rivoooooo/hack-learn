@@ -37,7 +37,7 @@ man netscanner         # 查看手册
 
 ### `netscanner`
 
-官方给出的调用示例：`netscanner -h`
+> 官方示例调用：`netscanner -h`
 
 ```text
 root@kali:~# netscanner -h

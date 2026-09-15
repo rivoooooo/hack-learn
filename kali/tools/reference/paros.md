@@ -37,7 +37,7 @@ paros
 
 ### `paros`
 
-官方给出的调用示例：`paros -h`
+> 官方示例调用：`paros -h`
 
 ```text
 root@kali:~# paros -h

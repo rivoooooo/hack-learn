@@ -47,7 +47,7 @@ FOUND
 
 ### `lbd`
 
-官方给出的调用示例：`lbd example.com`
+> 官方示例调用：`lbd example.com`
 
 ```text
 root@kali:~# lbd example.com
@@ -61,9 +61,9 @@ ECS (sea/1C15)
 FOUND
 ```
 
-### `lbd（示例）`
+### `lbd -h`
 
-官方给出的调用示例：`lbd -h`
+> 官方示例调用：`lbd -h`
 
 ```text
 root@kali:~# lbd -h

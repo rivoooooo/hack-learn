@@ -35,7 +35,7 @@ man python3-ciphey         # 查看手册
 
 ### `ciphey`
 
-官方给出的调用示例：`ciphey --help`
+> 官方示例调用：`ciphey --help`
 
 ```text
 root@kali:~# ciphey --help

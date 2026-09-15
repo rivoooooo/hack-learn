@@ -49,7 +49,7 @@ drwxr-xr-x 2 root root 4096 Feb 11 15:10 ScriptModification
 
 ### `ls`
 
-官方给出的调用示例：`ls -l /usr/share/powersploit/`
+> 官方示例调用：`ls -l /usr/share/powersploit/`
 
 ```text
 root@kali:~# ls -l /usr/share/powersploit/
@@ -69,7 +69,7 @@ drwxr-xr-x 2 root root 4096 Feb 11 15:10 ScriptModification
 
 ### `powersploit`
 
-官方给出的调用示例：`powersploit -h`
+> 官方示例调用：`powersploit -h`
 
 ```text
 root@kali:~# powersploit -h

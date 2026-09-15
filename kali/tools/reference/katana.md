@@ -37,7 +37,7 @@ man katana         # 查看手册
 
 ### `katana`
 
-官方给出的调用示例：`katana -h`
+> 官方示例调用：`katana -h`
 
 ```text
 root@kali:~# katana -h

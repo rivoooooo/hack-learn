@@ -37,7 +37,7 @@ man passing-the-hash         # 查看手册
 
 ### `pth-curl`
 
-官方给出的调用示例：`pth-curl -h`
+> 官方示例调用：`pth-curl -h`
 
 ```text
 root@kali:~# pth-curl -h
@@ -65,7 +65,7 @@ Use "--help [option]" to view documentation for a given option
 
 ### `pth-net`
 
-官方给出的调用示例：`pth-net -h`
+> 官方示例调用：`pth-net -h`
 
 ```text
 root@kali:~# pth-net -h
@@ -131,7 +131,7 @@ Usage:
 
 ### `pth-rpcclient`
 
-官方给出的调用示例：`pth-rpcclient --help`
+> 官方示例调用：`pth-rpcclient --help`
 
 ```text
 root@kali:~# pth-rpcclient --help
@@ -191,7 +191,7 @@ Version options:
 
 ### `pth-smbclient`
 
-官方给出的调用示例：`pth-smbclient --help`
+> 官方示例调用：`pth-smbclient --help`
 
 ```text
 root@kali:~# pth-smbclient --help
@@ -264,7 +264,7 @@ Version options:
 
 ### `pth-smbget`
 
-官方给出的调用示例：`pth-smbget --help`
+> 官方示例调用：`pth-smbget --help`
 
 ```text
 root@kali:~# pth-smbget --help
@@ -338,7 +338,7 @@ Version options:
 
 ### `pth-sqsh`
 
-官方给出的调用示例：`pth-sqsh --help`
+> 官方示例调用：`pth-sqsh --help`
 
 ```text
 root@kali:~# pth-sqsh --help
@@ -383,7 +383,7 @@ Use: sqsh [-a count] [-A packet_size] [-b] [-B] [-c [cmdend]] [-C sql]
 
 ### `pth-winexe`
 
-官方给出的调用示例：`pth-winexe --help`
+> 官方示例调用：`pth-winexe --help`
 
 ```text
 root@kali:~# pth-winexe --help
@@ -447,7 +447,7 @@ Version options:
 
 ### `pth-wmic`
 
-官方给出的调用示例：`pth-wmic --help`
+> 官方示例调用：`pth-wmic --help`
 
 ```text
 root@kali:~# pth-wmic --help
@@ -501,7 +501,7 @@ Common samba options:
 
 ### `pth-wmis`
 
-官方给出的调用示例：`pth-wmis --help`
+> 官方示例调用：`pth-wmis --help`
 
 ```text
 root@kali:~# pth-wmis --help

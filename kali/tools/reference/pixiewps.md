@@ -81,7 +81,7 @@ root@kali:~#
  [*] Time taken: 0 s 4 ms
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -105,7 +105,7 @@ root@kali:~#
  [*] Time taken: 0 s 4 ms
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -129,7 +129,7 @@ root@kali:~#
  [*] Time taken: 0 s 4 ms
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -168,7 +168,7 @@ Contact Us
 
 ### `pixiewps`
 
-官方给出的调用示例：`pixiewps \`
+> 官方示例调用：`pixiewps \`
 
 ```text
 root@kali:~# pixiewps \
@@ -191,15 +191,15 @@ root@kali:~# pixiewps \
  [*] Time taken: 0 s 4 ms
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
 ```
 
-### `pixiewps（示例）`
+### `pixiewps --help`
 
-官方给出的调用示例：`pixiewps --help`
+> 官方示例调用：`pixiewps --help`
 
 ```text
 root@kali:~# pixiewps --help

@@ -37,7 +37,7 @@ man certi         # 查看手册
 
 ### `certi`
 
-官方给出的调用示例：`certi -h`
+> 官方示例调用：`certi -h`
 
 ```text
 root@kali:~# certi -h

@@ -35,7 +35,7 @@ man libunrar-dev         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man unrar-nonfree`
+> 官方示例调用：`man unrar-nonfree`
 
 ```text
 root@kali:~# man unrar-nonfree

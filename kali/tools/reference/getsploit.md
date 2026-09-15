@@ -37,7 +37,7 @@ man getsploit         # 查看手册
 
 ### `getsploit`
 
-官方给出的调用示例：`getsploit --help`
+> 官方示例调用：`getsploit --help`
 
 ```text
 root@kali:~# getsploit --help

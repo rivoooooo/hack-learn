@@ -37,7 +37,7 @@ Start the Kismet server, using the wireless interface as the capture source (-c 
 
 ### `kismet_client`
 
-官方给出的调用示例：`kismet_client -h`
+> 官方示例调用：`kismet_client -h`
 
 ```text
 root@kali:~# kismet_client -h
@@ -49,7 +49,7 @@ kismet_drone
 
 ### `kismet_drone`
 
-官方给出的调用示例：`kismet_drone -h`
+> 官方示例调用：`kismet_drone -h`
 
 ```text
 root@kali:~# kismet_drone -h
@@ -80,7 +80,7 @@ Start the Kismet server, using the wireless interface as the capture source (
 
 ### `kismet_server`
 
-官方给出的调用示例：`kismet_server -c wlan0 --use-gpsd-gps`
+> 官方示例调用：`kismet_server -c wlan0 --use-gpsd-gps`
 
 ```text
 root@kali:~# kismet_server -c wlan0 --use-gpsd-gps
@@ -99,7 +99,7 @@ INFO: Registered 80211 PHY as id
 
 ### `kismet_cap_antsdr_droneid`
 
-官方给出的调用示例：`kismet_cap_antsdr_droneid -h`
+> 官方示例调用：`kismet_cap_antsdr_droneid -h`
 
 ```text
 root@kali:~# kismet_cap_antsdr_droneid -h
@@ -159,7 +159,7 @@ usage: kismet_cap_antsdr_droneid [options]
 
 ### `kismet_cap_bladerf_wiphy`
 
-官方给出的调用示例：`kismet_cap_bladerf_wiphy -h`
+> 官方示例调用：`kismet_cap_bladerf_wiphy -h`
 
 ```text
 root@kali:~# kismet_cap_bladerf_wiphy -h
@@ -219,7 +219,7 @@ usage: kismet_cap_bladerf_wiphy [options]
 
 ### `kismet_cap_freaklabs_zigbee`
 
-官方给出的调用示例：`kismet_cap_freaklabs_zigbee -h`
+> 官方示例调用：`kismet_cap_freaklabs_zigbee -h`
 
 ```text
 root@kali:~# kismet_cap_freaklabs_zigbee -h
@@ -279,7 +279,7 @@ usage: kismet_cap_freaklabs_zigbee [options]
 
 ### `kismet_cap_hak5_wifi_coconut`
 
-官方给出的调用示例：`kismet_cap_hak5_wifi_coconut -h`
+> 官方示例调用：`kismet_cap_hak5_wifi_coconut -h`
 
 ```text
 root@kali:~# kismet_cap_hak5_wifi_coconut -h
@@ -339,7 +339,7 @@ usage: kismet_cap_hak5_wifi_coconut [options]
 
 ### `kismet_cap_linux_bluetooth`
 
-官方给出的调用示例：`kismet_cap_linux_bluetooth -h`
+> 官方示例调用：`kismet_cap_linux_bluetooth -h`
 
 ```text
 root@kali:~# kismet_cap_linux_bluetooth -h
@@ -399,7 +399,7 @@ usage: kismet_cap_linux_bluetooth [options]
 
 ### `kismet_cap_linux_wifi`
 
-官方给出的调用示例：`kismet_cap_linux_wifi -h`
+> 官方示例调用：`kismet_cap_linux_wifi -h`
 
 ```text
 root@kali:~# kismet_cap_linux_wifi -h
@@ -459,7 +459,7 @@ usage: kismet_cap_linux_wifi [options]
 
 ### `kismet_cap_nrf_51822`
 
-官方给出的调用示例：`kismet_cap_nrf_51822 -h`
+> 官方示例调用：`kismet_cap_nrf_51822 -h`
 
 ```text
 root@kali:~# kismet_cap_nrf_51822 -h

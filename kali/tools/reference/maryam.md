@@ -37,7 +37,7 @@ man maryam         # 查看手册
 
 ### `maryam`
 
-官方给出的调用示例：`maryam -h`
+> 官方示例调用：`maryam -h`
 
 ```text
 root@kali:~# maryam -h

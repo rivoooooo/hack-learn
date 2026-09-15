@@ -37,7 +37,7 @@ man miredo         # 查看手册
 
 ### `miredo`
 
-官方给出的调用示例：`miredo -h`
+> 官方示例调用：`miredo -h`
 
 ```text
 root@kali:~# miredo -h
@@ -53,7 +53,7 @@ Creates a Teredo tunneling interface for encapsulation of IPv6 over UDP.
 
 ### `miredo-checkconf`
 
-官方给出的调用示例：`miredo-checkconf -h`
+> 官方示例调用：`miredo-checkconf -h`
 
 ```text
 root@kali:~# miredo-checkconf -h
@@ -62,7 +62,7 @@ Usage: miredo-checkconf [CONF_FILE]
 
 ### `teredo-mire`
 
-官方给出的调用示例：`teredo-mire -h`
+> 官方示例调用：`teredo-mire -h`
 
 ```text
 root@kali:~# teredo-mire -h
@@ -71,7 +71,7 @@ Usage: teredo-mire
 
 ### `miredo-server`
 
-官方给出的调用示例：`miredo-server -h`
+> 官方示例调用：`miredo-server -h`
 
 ```text
 root@kali:~# miredo-server -h

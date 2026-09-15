@@ -37,7 +37,7 @@ man routerkeygenpc         # 查看手册
 
 ### `routerkeygen-cli`
 
-官方给出的调用示例：`routerkeygen-cli -h`
+> 官方示例调用：`routerkeygen-cli -h`
 
 ```text
 root@kali:~# routerkeygen-cli -h

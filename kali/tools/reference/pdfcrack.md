@@ -37,7 +37,7 @@ man pdfcrack         # 查看手册
 
 ### `pdfcrack`
 
-官方给出的调用示例：`pdfcrack -h`
+> 官方示例调用：`pdfcrack -h`
 
 ```text
 root@kali:~# pdfcrack -h

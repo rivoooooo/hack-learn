@@ -37,7 +37,7 @@ man faraday-agent-dispatcher         # 查看手册
 
 ### `faraday-dispatcher`
 
-官方给出的调用示例：`faraday-dispatcher -h`
+> 官方示例调用：`faraday-dispatcher -h`
 
 ```text
 root@kali:~# faraday-dispatcher -h

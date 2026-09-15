@@ -37,7 +37,7 @@ man cupid-hostapd         # 查看手册
 
 ### `cupid-hostapd`
 
-官方给出的调用示例：`cupid-hostapd --help`
+> 官方示例调用：`cupid-hostapd --help`
 
 ```text
 root@kali:~# cupid-hostapd --help
@@ -66,7 +66,7 @@ options:
 
 ### `cupid-hostapd_cli`
 
-官方给出的调用示例：`cupid-hostapd_cli -h`
+> 官方示例调用：`cupid-hostapd_cli -h`
 
 ```text
 root@kali:~# cupid-hostapd_cli -h
@@ -102,7 +102,7 @@ Commands:
 
 ### `cupid-wpa_cli`
 
-官方给出的调用示例：`cupid-wpa_cli -h`
+> 官方示例调用：`cupid-wpa_cli -h`
 
 ```text
 root@kali:~# cupid-wpa_cli -h
@@ -271,7 +271,7 @@ commands:
 
 ### `man`
 
-官方给出的调用示例：`man cupid-wpa_passphrase`
+> 官方示例调用：`man cupid-wpa_passphrase`
 
 ```text
 root@kali:~# man cupid-wpa_passphrase
@@ -303,7 +303,7 @@ LEGAL
 
 ### `cupid-wpa_supplicant`
 
-官方给出的调用示例：`cupid-wpa_supplicant -h`
+> 官方示例调用：`cupid-wpa_supplicant -h`
 
 ```text
 root@kali:~# cupid-wpa_supplicant -h

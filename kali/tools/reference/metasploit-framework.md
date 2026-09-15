@@ -37,7 +37,7 @@ One of the best sources of information on using the Metasploit Framework is Meta
 
 ### `msfrpcd`
 
-官方给出的调用示例：`msfrpcd -h`
+> 官方示例调用：`msfrpcd -h`
 
 ```text
 root@kali:~# msfrpcd -h
@@ -61,7 +61,7 @@ Metasploit Unleashed
 
 ### `msf-egghunter`
 
-官方给出的调用示例：`msf-egghunter -h`
+> 官方示例调用：`msf-egghunter -h`
 
 ```text
 root@kali:~# msf-egghunter -h
@@ -86,7 +86,7 @@ Specific options:
 
 ### `msf-exe2vba`
 
-官方给出的调用示例：`msf-exe2vba -h`
+> 官方示例调用：`msf-exe2vba -h`
 
 ```text
 root@kali:~# msf-exe2vba -h
@@ -95,7 +95,7 @@ root@kali:~# msf-exe2vba -h
 
 ### `msf-exe2vbs`
 
-官方给出的调用示例：`msf-exe2vbs -h`
+> 官方示例调用：`msf-exe2vbs -h`
 
 ```text
 root@kali:~# msf-exe2vbs -h
@@ -104,7 +104,7 @@ root@kali:~# msf-exe2vbs -h
 
 ### `msf-find_badchars`
 
-官方给出的调用示例：`msf-find_badchars -h`
+> 官方示例调用：`msf-find_badchars -h`
 
 ```text
 root@kali:~# msf-find_badchars -h
@@ -118,7 +118,7 @@ OPTIONS:
 
 ### `msf-halflm_second`
 
-官方给出的调用示例：`msf-halflm_second -h`
+> 官方示例调用：`msf-halflm_second -h`
 
 ```text
 root@kali:~# msf-halflm_second -h
@@ -132,7 +132,7 @@ OPTIONS:
 
 ### `msf-hmac_sha1_crack`
 
-官方给出的调用示例：`msf-hmac_sha1_crack -h`
+> 官方示例调用：`msf-hmac_sha1_crack -h`
 
 ```text
 root@kali:~# msf-hmac_sha1_crack -h
@@ -142,7 +142,7 @@ The format of hash file is <identifier>:<hex-salt>:<hash>
 
 ### `msf-java_deserializer`
 
-官方给出的调用示例：`msf-java_deserializer -h`
+> 官方示例调用：`msf-java_deserializer -h`
 
 ```text
 root@kali:~# msf-java_deserializer -h
@@ -154,7 +154,7 @@ Usage: msf-java_deserializer <file> [option]
 
 ### `msf-jsobfu`
 
-官方给出的调用示例：`msf-jsobfu -h`
+> 官方示例调用：`msf-jsobfu -h`
 
 ```text
 root@kali:~# msf-jsobfu -h
@@ -170,7 +170,7 @@ Specific options:
 
 ### `msf-md5_lookup`
 
-官方给出的调用示例：`msf-md5_lookup -h`
+> 官方示例调用：`msf-md5_lookup -h`
 
 ```text
 root@kali:~# msf-md5_lookup -h

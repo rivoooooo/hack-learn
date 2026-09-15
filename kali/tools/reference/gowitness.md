@@ -37,7 +37,7 @@ man gowitness         # 查看手册
 
 ### `gowitness`
 
-官方给出的调用示例：`gowitness -h`
+> 官方示例调用：`gowitness -h`
 
 ```text
 root@kali:~# gowitness -h

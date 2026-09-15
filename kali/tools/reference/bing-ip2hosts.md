@@ -52,7 +52,7 @@ http://picasa.google.com
 
 ### `bing-ip2hosts`
 
-官方给出的调用示例：`bing-ip2hosts -p microsoft.com`
+> 官方示例调用：`bing-ip2hosts -p microsoft.com`
 
 ```text
 root@kali:~# bing-ip2hosts -p microsoft.com
@@ -64,9 +64,9 @@ http://www.microsoft.com
 http://www.msdn.microsoft.com
 ```
 
-### `bing-ip2hosts（示例）`
+### `bing-ip2hosts -p 173.194.33.80`
 
-官方给出的调用示例：`bing-ip2hosts -p 173.194.33.80`
+> 官方示例调用：`bing-ip2hosts -p 173.194.33.80`
 
 ```text
 root@kali:~# bing-ip2hosts -p 173.194.33.80
@@ -79,9 +79,9 @@ http://partner-client.google.com
 http://picasa.google.com
 ```
 
-### `bing-ip2hosts（示例）`
+### `bing-ip2hosts -h`
 
-官方给出的调用示例：`bing-ip2hosts -h`
+> 官方示例调用：`bing-ip2hosts -h`
 
 `````text
 root@kali:~# bing-ip2hosts -h

@@ -36,7 +36,7 @@ man eksctl         # 查看手册
 
 ### `eksctl`
 
-官方给出的调用示例：`eksctl -h`
+> 官方示例调用：`eksctl -h`
 
 ```text
 root@kali:~# eksctl -h

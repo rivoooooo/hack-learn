@@ -61,7 +61,7 @@ Total ports unknown:               0
 
 ### `firewalk`
 
-官方给出的调用示例：`firewalk -S8079-8081  -i eth0 -n -pTCP 192.168.1.1 192.168.0.1`
+> 官方示例调用：`firewalk -S8079-8081  -i eth0 -n -pTCP 192.168.1.1 192.168.0.1`
 
 ```text
 root@kali:~# firewalk -S8079-8081  -i eth0 -n -pTCP 192.168.1.1 192.168.0.1
@@ -88,9 +88,9 @@ Total ports open:                  1
 Total ports unknown:               0
 ```
 
-### `firewalk（示例）`
+### `firewalk --help`
 
-官方给出的调用示例：`firewalk --help`
+> 官方示例调用：`firewalk --help`
 
 ```text
 root@kali:~# firewalk --help

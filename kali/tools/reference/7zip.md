@@ -37,7 +37,7 @@ man 7zip         # 查看手册
 
 ### `7z`
 
-官方给出的调用示例：`7z -h`
+> 官方示例调用：`7z -h`
 
 ```text
 root@kali:~# 7z -h
@@ -111,7 +111,7 @@ Note:
 
 ### `7za`
 
-官方给出的调用示例：`7za -h`
+> 官方示例调用：`7za -h`
 
 ```text
 root@kali:~# 7za -h
@@ -185,7 +185,7 @@ Note:
 
 ### `7zr`
 
-官方给出的调用示例：`7zr -h`
+> 官方示例调用：`7zr -h`
 
 ```text
 root@kali:~# 7zr -h
@@ -259,7 +259,7 @@ Note:
 
 ### `p7zip`
 
-官方给出的调用示例：`p7zip -h`
+> 官方示例调用：`p7zip -h`
 
 ```text
 root@kali:~# p7zip -h
@@ -276,7 +276,7 @@ Options:
 
 ### `7zz`
 
-官方给出的调用示例：`7zz -h`
+> 官方示例调用：`7zz -h`
 
 ```text
 root@kali:~# 7zz -h

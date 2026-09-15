@@ -37,7 +37,7 @@ man dislocker         # 查看手册
 
 ### `dislocker`
 
-官方给出的调用示例：`dislocker -h`
+> 官方示例调用：`dislocker -h`
 
 ```text
 root@kali:~# dislocker -h
@@ -71,7 +71,7 @@ the mount-point.
 
 ### `dislocker-bek`
 
-官方给出的调用示例：`dislocker-bek -h`
+> 官方示例调用：`dislocker-bek -h`
 
 ```text
 root@kali:~# dislocker-bek -h
@@ -81,7 +81,7 @@ Usage: dislocker-bek [-h] [-f file.bek]
 
 ### `dislocker-file`
 
-官方给出的调用示例：`dislocker-file -h`
+> 官方示例调用：`dislocker-file -h`
 
 ```text
 root@kali:~# dislocker-file -h
@@ -115,7 +115,7 @@ the mount-point.
 
 ### `dislocker-find`
 
-官方给出的调用示例：`dislocker-find -h`
+> 官方示例调用：`dislocker-find -h`
 
 ```text
 root@kali:~# dislocker-find -h
@@ -129,7 +129,7 @@ Usage: /usr/bin/dislocker-find [-h] [files...]
 
 ### `dislocker-fuse`
 
-官方给出的调用示例：`dislocker-fuse -h`
+> 官方示例调用：`dislocker-fuse -h`
 
 ```text
 root@kali:~# dislocker-fuse -h
@@ -163,7 +163,7 @@ the mount-point.
 
 ### `dislocker-metadata`
 
-官方给出的调用示例：`dislocker-metadata -h`
+> 官方示例调用：`dislocker-metadata -h`
 
 ```text
 root@kali:~# dislocker-metadata -h

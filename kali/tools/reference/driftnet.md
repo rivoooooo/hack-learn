@@ -37,7 +37,7 @@ man driftnet         # 查看手册
 
 ### `driftnet`
 
-官方给出的调用示例：`driftnet -h`
+> 官方示例调用：`driftnet -h`
 
 ```text
 root@kali:~# driftnet -h

@@ -59,7 +59,7 @@ PDFiD 0.0.12 /usr/share/doc/texmf/fonts/lm/lm-info.pdf
 
 ### `pdfid`
 
-官方给出的调用示例：`pdfid /usr/share/doc/texmf/fonts/lm/lm-info.pdf`
+> 官方示例调用：`pdfid /usr/share/doc/texmf/fonts/lm/lm-info.pdf`
 
 ```text
 root@kali:~# pdfid /usr/share/doc/texmf/fonts/lm/lm-info.pdf
@@ -87,9 +87,9 @@ PDFiD 0.0.12 /usr/share/doc/texmf/fonts/lm/lm-info.pdf
  /Colors > 2^24         0
 ```
 
-### `pdfid（示例）`
+### `pdfid -h`
 
-官方给出的调用示例：`pdfid -h`
+> 官方示例调用：`pdfid -h`
 
 ```text
 root@kali:~# pdfid -h

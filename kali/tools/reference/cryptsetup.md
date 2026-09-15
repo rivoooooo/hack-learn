@@ -37,7 +37,7 @@ man cryptsetup         # 查看手册
 
 ### `cryptdisks_start`
 
-官方给出的调用示例：`cryptdisks_start -h`
+> 官方示例调用：`cryptdisks_start -h`
 
 ```text
 root@kali:~# cryptdisks_start -h
@@ -47,7 +47,7 @@ reads /etc/crypttab and starts the mapping corresponding to <name>
 
 ### `cryptdisks_stop`
 
-官方给出的调用示例：`cryptdisks_stop -h`
+> 官方示例调用：`cryptdisks_stop -h`
 
 ```text
 root@kali:~# cryptdisks_stop -h
@@ -56,7 +56,7 @@ Stopping crypto disk...-h (stopped)...done.
 
 ### `luksformat`
 
-官方给出的调用示例：`luksformat -h`
+> 官方示例调用：`luksformat -h`
 
 ```text
 root@kali:~# luksformat -h
@@ -66,7 +66,7 @@ Usage: luksformat [-t <file system>] <device> [ mkfs options ]
 
 ### `cryptsetup`
 
-官方给出的调用示例：`cryptsetup --help`
+> 官方示例调用：`cryptsetup --help`
 
 ```text
 root@kali:~# cryptsetup --help
@@ -293,7 +293,7 @@ Help options:
 
 ### `integritysetup`
 
-官方给出的调用示例：`integritysetup --help`
+> 官方示例调用：`integritysetup --help`
 
 ```text
 root@kali:~# integritysetup --help
@@ -388,7 +388,7 @@ Default compiled-in dm-integrity parameters:
 
 ### `veritysetup`
 
-官方给出的调用示例：`veritysetup --help`
+> 官方示例调用：`veritysetup --help`
 
 ```text
 root@kali:~# veritysetup --help
@@ -447,7 +447,7 @@ Default compiled-in dm-verity parameters:
 
 ### `cryptsetup-ssh`
 
-官方给出的调用示例：`cryptsetup-ssh --help`
+> 官方示例调用：`cryptsetup-ssh --help`
 
 ```text
 root@kali:~# cryptsetup-ssh --help

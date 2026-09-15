@@ -37,7 +37,7 @@ man sentrypeer         # 查看手册
 
 ### `sentrypeer`
 
-官方给出的调用示例：`sentrypeer -h`
+> 官方示例调用：`sentrypeer -h`
 
 ```text
 root@kali:~# sentrypeer -h

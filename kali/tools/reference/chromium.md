@@ -37,7 +37,7 @@ man chromium         # 查看手册
 
 ### `chromium`
 
-官方给出的调用示例：`chromium -h`
+> 官方示例调用：`chromium -h`
 
 ```text
 root@kali:~# chromium -h
@@ -124,7 +124,7 @@ chromium [-h|--help] [-g|--debug] [--temp-profile] [options] [URL]
 
 ### `chromedriver`
 
-官方给出的调用示例：`chromedriver -h`
+> 官方示例调用：`chromedriver -h`
 
 ```text
 root@kali:~# chromedriver -h

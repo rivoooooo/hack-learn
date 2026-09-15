@@ -36,7 +36,7 @@ Screenshots
 
 ### `man`
 
-官方给出的调用示例：`man cherrytree`
+> 官方示例调用：`man cherrytree`
 
 ```text
 root@kali:~# man cherrytree

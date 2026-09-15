@@ -37,7 +37,7 @@ man tinja         # 查看手册
 
 ### `tinja`
 
-官方给出的调用示例：`tinja -h`
+> 官方示例调用：`tinja -h`
 
 ```text
 root@kali:~# tinja -h

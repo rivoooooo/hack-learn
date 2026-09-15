@@ -37,7 +37,7 @@ man freeradius         # 查看手册
 
 ### `checkrad`
 
-官方给出的调用示例：`checkrad -h`
+> 官方示例调用：`checkrad -h`
 
 ```text
 root@kali:~# checkrad -h
@@ -46,7 +46,7 @@ Usage: checkrad nas_type nas_ip nas_port login session_id
 
 ### `freeradius`
 
-官方给出的调用示例：`freeradius -h`
+> 官方示例调用：`freeradius -h`
 
 ```text
 root@kali:~# freeradius -h
@@ -70,7 +70,7 @@ Options:
 
 ### `rad_counter`
 
-官方给出的调用示例：`rad_counter -h`
+> 官方示例调用：`rad_counter -h`
 
 ```text
 root@kali:~# rad_counter -h
@@ -90,7 +90,7 @@ Options:
 
 ### `raddebug`
 
-官方给出的调用示例：`raddebug -h`
+> 官方示例调用：`raddebug -h`
 
 ```text
 root@kali:~# raddebug -h
@@ -100,7 +100,7 @@ Usage: raddebug: [-c condition] [-d directory] [-n name] [-D dictdir]  [-i clien
 
 ### `radmin`
 
-官方给出的调用示例：`radmin -h`
+> 官方示例调用：`radmin -h`
 
 ```text
 root@kali:~# radmin -h
@@ -119,7 +119,7 @@ Usage: radmin [ args ]
 
 ### `rlm_sqlippool_tool`
 
-官方给出的调用示例：`rlm_sqlippool_tool -h`
+> 官方示例调用：`rlm_sqlippool_tool -h`
 
 ```text
 root@kali:~# rlm_sqlippool_tool -h
@@ -131,7 +131,7 @@ or:
 
 ### `radclient`
 
-官方给出的调用示例：`radclient --help`
+> 官方示例调用：`radclient --help`
 
 ```text
 root@kali:~# radclient --help
@@ -162,7 +162,7 @@ Usage: radclient [options] server[:port] <command> [<secret>]
 
 ### `radconf2json`
 
-官方给出的调用示例：`radconf2json -h`
+> 官方示例调用：`radconf2json -h`
 
 ```text
 root@kali:~# radconf2json -h
@@ -179,7 +179,7 @@ Usage: radconf2json [options]
 
 ### `radcrypt`
 
-官方给出的调用示例：`radcrypt -h`
+> 官方示例调用：`radcrypt -h`
 
 ```text
 root@kali:~# radcrypt -h
@@ -189,7 +189,7 @@ Usage: radcrypt [--des|--md5|--check] plaintext_password [crypted_password]
 
 ### `raddict2json`
 
-官方给出的调用示例：`raddict2json -h`
+> 官方示例调用：`raddict2json -h`
 
 ```text
 root@kali:~# raddict2json -h

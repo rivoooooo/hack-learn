@@ -37,7 +37,7 @@ man vpnc         # 查看手册
 
 ### `cisco-decrypt`
 
-官方给出的调用示例：`cisco-decrypt -h`
+> 官方示例调用：`cisco-decrypt -h`
 
 ```text
 root@kali:~# cisco-decrypt -h
@@ -47,7 +47,7 @@ Usage: cisco-decrypt DEADBEEF...012345678 424242...7261
 
 ### `man`
 
-官方给出的调用示例：`man pcf2vpnc`
+> 官方示例调用：`man pcf2vpnc`
 
 ```text
 root@kali:~# man pcf2vpnc
@@ -78,7 +78,7 @@ pcf2vpnc                           June 2007                        PCF2VPNC(1)
 
 ### `vpnc`
 
-官方给出的调用示例：`vpnc --help`
+> 官方示例调用：`vpnc --help`
 
 ```text
 root@kali:~# vpnc --help
@@ -105,7 +105,7 @@ Report bugs at https://github.com/streambinder/vpnc.git
 
 ### `vpnc-connect`
 
-官方给出的调用示例：`vpnc-connect --help`
+> 官方示例调用：`vpnc-connect --help`
 
 ```text
 root@kali:~# vpnc-connect --help
@@ -132,7 +132,7 @@ Report bugs at https://github.com/streambinder/vpnc.git
 
 ### `vpnc-disconnect`
 
-官方给出的调用示例：`vpnc-disconnect -h`
+> 官方示例调用：`vpnc-disconnect -h`
 
 ```text
 root@kali:~# vpnc-disconnect -h

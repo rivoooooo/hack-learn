@@ -43,7 +43,7 @@ root@kali:~# crowbar -b rdp -s 192.168.86.61/32 -u victim -C /root/words.txt -n 
 
 ### `crowbar`
 
-官方给出的调用示例：`crowbar -b rdp -s 192.168.86.61/32 -u victim -C /root/words.txt -n 1`
+> 官方示例调用：`crowbar -b rdp -s 192.168.86.61/32 -u victim -C /root/words.txt -n 1`
 
 ```text
 root@kali:~# crowbar -b rdp -s 192.168.86.61/32 -u victim -C /root/words.txt -n 1
@@ -54,9 +54,9 @@ root@kali:~# crowbar -b rdp -s 192.168.86.61/32 -u victim -C /root/words.txt -n 
 2017-10-10 15:00:08 STOP
 ```
 
-### `crowbar（示例）`
+### `crowbar -h`
 
-官方给出的调用示例：`crowbar -h`
+> 官方示例调用：`crowbar -h`
 
 ```text
 root@kali:~# crowbar -h

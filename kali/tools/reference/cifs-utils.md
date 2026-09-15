@@ -37,7 +37,7 @@ man cifs-utils         # 查看手册
 
 ### `cifs.idmap`
 
-官方给出的调用示例：`cifs.idmap -h`
+> 官方示例调用：`cifs.idmap -h`
 
 ```text
 root@kali:~# cifs.idmap -h
@@ -46,7 +46,7 @@ Usage: cifs.idmap [-h] [-v] [-t timeout] key_serial
 
 ### `man`
 
-官方给出的调用示例：`man cifs.upcall`
+> 官方示例调用：`man cifs.upcall`
 
 ```text
 root@kali:~# man cifs.upcall
@@ -158,7 +158,7 @@ AUTHOR
 
 ### `cifscreds`
 
-官方给出的调用示例：`cifscreds -h`
+> 官方示例调用：`cifscreds -h`
 
 ```text
 root@kali:~# cifscreds -h
@@ -172,7 +172,7 @@ Usage:
 
 ### `getcifsacl`
 
-官方给出的调用示例：`getcifsacl --help`
+> 官方示例调用：`getcifsacl --help`
 
 ```text
 root@kali:~# getcifsacl --help
@@ -189,7 +189,7 @@ Refer to getcifsacl(1) manpage for details
 
 ### `mount.cifs`
 
-官方给出的调用示例：`mount.cifs -h`
+> 官方示例调用：`mount.cifs -h`
 
 ```text
 root@kali:~# mount.cifs -h
@@ -224,7 +224,7 @@ To display the version number of the mount helper:
 
 ### `mount.smb3`
 
-官方给出的调用示例：`mount.smb3 -h`
+> 官方示例调用：`mount.smb3 -h`
 
 ```text
 root@kali:~# mount.smb3 -h
@@ -259,7 +259,7 @@ To display the version number of the mount helper:
 
 ### `setcifsacl`
 
-官方给出的调用示例：`setcifsacl -h`
+> 官方示例调用：`setcifsacl -h`
 
 ```text
 root@kali:~# setcifsacl -h
@@ -289,7 +289,7 @@ Refer to setcifsacl(1) manpage for details
 
 ### `smb2-quota`
 
-官方给出的调用示例：`smb2-quota -h`
+> 官方示例调用：`smb2-quota -h`
 
 ```text
 root@kali:~# smb2-quota -h
@@ -306,7 +306,7 @@ options:
 
 ### `smbinfo`
 
-官方给出的调用示例：`smbinfo -h`
+> 官方示例调用：`smbinfo -h`
 
 ```text
 root@kali:~# smbinfo -h

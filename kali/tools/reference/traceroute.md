@@ -36,7 +36,7 @@ man traceroute         # 查看手册
 
 ### `lft.db`
 
-官方给出的调用示例：`lft.db --help`
+> 官方示例调用：`lft.db --help`
 
 ```text
 root@kali:~# lft.db --help
@@ -48,7 +48,7 @@ Usage: /usr/bin/lft.db [-ACEFINRSTUVbehinpruvz] [-d dport] [-s sport]
 
 ### `tcptraceroute.db`
 
-官方给出的调用示例：`tcptraceroute.db -h`
+> 官方示例调用：`tcptraceroute.db -h`
 
 ```text
 root@kali:~# tcptraceroute.db -h
@@ -59,7 +59,7 @@ Usage: /usr/sbin/tcptraceroute.db [-hvnFSAE] [-i dev] [-f furst_ttl] [-l length]
 
 ### `traceproto.db`
 
-官方给出的调用示例：`traceproto.db -h`
+> 官方示例调用：`traceproto.db -h`
 
 ```text
 root@kali:~# traceproto.db -h
@@ -73,7 +73,7 @@ Usage: /usr/bin/traceproto.db [-cCTfAhvR] [-p protocol] [-d dst_port] [-D max_ds
 
 ### `traceroute-nanog`
 
-官方给出的调用示例：`traceroute-nanog -h`
+> 官方示例调用：`traceroute-nanog -h`
 
 ```text
 root@kali:~# traceroute-nanog -h
@@ -85,7 +85,7 @@ Usage: /usr/bin/traceroute-nanog [-adnruvAMOPQU$] [-w wait] [-S start_ttl]
 
 ### `traceroute.db`
 
-官方给出的调用示例：`traceroute.db --help`
+> 官方示例调用：`traceroute.db --help`
 
 ```text
 root@kali:~# traceroute.db --help
@@ -179,7 +179,7 @@ Arguments:
 
 ### `traceroute6.db`
 
-官方给出的调用示例：`traceroute6.db --help`
+> 官方示例调用：`traceroute6.db --help`
 
 ```text
 root@kali:~# traceroute6.db --help

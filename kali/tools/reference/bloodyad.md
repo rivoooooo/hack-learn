@@ -37,7 +37,7 @@ man bloodyad         # 查看手册
 
 ### `bloodyad`
 
-官方给出的调用示例：`bloodyad -h`
+> 官方示例调用：`bloodyad -h`
 
 ```text
 root@kali:~# bloodyad -h

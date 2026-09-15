@@ -37,7 +37,7 @@ man subfinder         # 查看手册
 
 ### `subfinder`
 
-官方给出的调用示例：`subfinder -h`
+> 官方示例调用：`subfinder -h`
 
 ```text
 root@kali:~# subfinder -h

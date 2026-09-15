@@ -36,7 +36,7 @@ man httprint         # 查看手册
 
 ### `httprint`
 
-官方给出的调用示例：`httprint -h`
+> 官方示例调用：`httprint -h`
 
 ```text
 root@kali:~# httprint -h

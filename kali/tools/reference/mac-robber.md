@@ -37,7 +37,7 @@ man mac-robber         # 查看手册
 
 ### `mac-robber`
 
-官方给出的调用示例：`mac-robber -h`
+> 官方示例调用：`mac-robber -h`
 
 ```text
 root@kali:~# mac-robber -h

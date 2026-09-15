@@ -37,7 +37,7 @@ man rainbowcrack         # 查看手册
 
 ### `rcrack`
 
-官方给出的调用示例：`rcrack -h`
+> 官方示例调用：`rcrack -h`
 
 ```text
 root@kali:~# rcrack -h
@@ -66,7 +66,7 @@ examples:
 
 ### `rt2rtc`
 
-官方给出的调用示例：`rt2rtc -h`
+> 官方示例调用：`rt2rtc -h`
 
 ```text
 root@kali:~# rt2rtc -h
@@ -75,7 +75,7 @@ no rainbow table found
 
 ### `rtc2rt`
 
-官方给出的调用示例：`rtc2rt -h`
+> 官方示例调用：`rtc2rt -h`
 
 ```text
 root@kali:~# rtc2rt -h
@@ -84,7 +84,7 @@ no rainbow table found
 
 ### `rtgen`
 
-官方给出的调用示例：`rtgen -h`
+> 官方示例调用：`rtgen -h`
 
 ```text
 root@kali:~# rtgen -h

@@ -37,7 +37,7 @@ man freeradius-wpe         # 查看手册
 
 ### `freeradius-wpe`
 
-官方给出的调用示例：`freeradius-wpe -h`
+> 官方示例调用：`freeradius-wpe -h`
 
 ```text
 root@kali:~# freeradius-wpe -h

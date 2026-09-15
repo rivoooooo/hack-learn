@@ -37,7 +37,7 @@ man aesfix         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man aesfix`
+> 官方示例调用：`man aesfix`
 
 ```text
 root@kali:~# man aesfix

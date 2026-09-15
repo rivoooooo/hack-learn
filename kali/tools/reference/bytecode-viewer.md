@@ -37,7 +37,7 @@ man bytecode-viewer         # 查看手册
 
 ### `bytecode-viewer`
 
-官方给出的调用示例：`bytecode-viewer -h`
+> 官方示例调用：`bytecode-viewer -h`
 
 ```text
 root@kali:~# bytecode-viewer -h

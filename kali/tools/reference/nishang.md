@@ -50,7 +50,7 @@ drwxr-xr-x 2 root root 4096 Jun  4 11:15 Utility
 
 ### `ls`
 
-官方给出的调用示例：`ls -l /usr/share/nishang/`
+> 官方示例调用：`ls -l /usr/share/nishang/`
 
 ```text
 root@kali:~# ls -l /usr/share/nishang/
@@ -71,7 +71,7 @@ drwxr-xr-x 2 root root 4096 Jun  4 11:15 Utility
 
 ### `nishang`
 
-官方给出的调用示例：`nishang -h`
+> 官方示例调用：`nishang -h`
 
 ```text
 root@kali:~# nishang -h

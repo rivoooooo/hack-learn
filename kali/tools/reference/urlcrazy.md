@@ -53,7 +53,7 @@ Character Omission     exaple.com      ?     com
 
 ### `urlcrazy`
 
-官方给出的调用示例：`urlcrazy -k dvorak -r example.com`
+> 官方示例调用：`urlcrazy -k dvorak -r example.com`
 
 ```text
 root@kali:~# urlcrazy -k dvorak -r example.com
@@ -72,9 +72,9 @@ Character Omission     example.cm      ?     cm
 Character Omission     exaple.com      ?     com
 ```
 
-### `urlcrazy（示例）`
+### `urlcrazy -h`
 
-官方给出的调用示例：`urlcrazy -h`
+> 官方示例调用：`urlcrazy -h`
 
 ```text
 root@kali:~# urlcrazy -h

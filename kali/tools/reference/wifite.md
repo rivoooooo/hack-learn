@@ -53,7 +53,7 @@ root@kali:~# wifite -pow 50 -wps
 
 ### `wifite`
 
-官方给出的调用示例：`wifite -pow 50 -wps`
+> 官方示例调用：`wifite -pow 50 -wps`
 
 ```text
 root@kali:~# wifite -pow 50 -wps
@@ -71,9 +71,9 @@ root@kali:~# wifite -pow 50 -wps
  [+] initializing scan (mon0), updates at 5 sec intervals, CTRL+C when ready.
 ```
 
-### `wifite（示例）`
+### `wifite -h`
 
-官方给出的调用示例：`wifite -h`
+> 官方示例调用：`wifite -h`
 
 ```text
 root@kali:~# wifite -h

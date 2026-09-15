@@ -37,7 +37,7 @@ man winregfs         # 查看手册
 
 ### `fsck.winregfs`
 
-官方给出的调用示例：`fsck.winregfs -h`
+> 官方示例调用：`fsck.winregfs -h`
 
 ```text
 root@kali:~# fsck.winregfs -h
@@ -47,7 +47,7 @@ Usage: fsck.winregfs [options] hivename
 
 ### `mount.winregfs`
 
-官方给出的调用示例：`mount.winregfs -h`
+> 官方示例调用：`mount.winregfs -h`
 
 ```text
 root@kali:~# mount.winregfs -h

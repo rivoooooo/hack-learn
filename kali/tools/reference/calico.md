@@ -37,7 +37,7 @@ man calicoctl         # 查看手册
 
 ### `calicoctl`
 
-官方给出的调用示例：`calicoctl -h`
+> 官方示例调用：`calicoctl -h`
 
 ```text
 root@kali:~# calicoctl -h

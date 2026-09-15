@@ -37,7 +37,7 @@ man freerdp-proxy         # 查看手册
 
 ### `freerdp-proxy`
 
-官方给出的调用示例：`freerdp-proxy -h`
+> 官方示例调用：`freerdp-proxy -h`
 
 ```text
 root@kali:~# freerdp-proxy -h
@@ -56,7 +56,7 @@ freerdp-proxy --version                           Print out binary version.
 
 ### `sdl-freerdp`
 
-官方给出的调用示例：`sdl-freerdp --help`
+> 官方示例调用：`sdl-freerdp --help`
 
 ```text
 root@kali:~# sdl-freerdp --help
@@ -283,7 +283,7 @@ Syntax:
 
 ### `freerdp-shadow-cli`
 
-官方给出的调用示例：`freerdp-shadow-cli -h`
+> 官方示例调用：`freerdp-shadow-cli -h`
 
 ```text
 root@kali:~# freerdp-shadow-cli -h
@@ -376,7 +376,7 @@ Syntax:
 
 ### `man`
 
-官方给出的调用示例：`man wlfreerdp`
+> 官方示例调用：`man wlfreerdp`
 
 ```text
 root@kali:~# man wlfreerdp
@@ -413,7 +413,7 @@ AUTHOR
 
 ### `xfreerdp`
 
-官方给出的调用示例：`xfreerdp --help`
+> 官方示例调用：`xfreerdp --help`
 
 ```text
 root@kali:~# xfreerdp --help
@@ -640,7 +640,7 @@ Syntax:
 
 ### `freerdp-proxy3`
 
-官方给出的调用示例：`freerdp-proxy3 -h`
+> 官方示例调用：`freerdp-proxy3 -h`
 
 ```text
 root@kali:~# freerdp-proxy3 -h
@@ -659,7 +659,7 @@ freerdp-proxy3 --version                           Print out binary version.
 
 ### `sdl-freerdp3`
 
-官方给出的调用示例：`sdl-freerdp3 --help`
+> 官方示例调用：`sdl-freerdp3 --help`
 
 ```text
 root@kali:~# sdl-freerdp3 --help
@@ -886,7 +886,7 @@ Syntax:
 
 ### `freerdp-shadow-cli3`
 
-官方给出的调用示例：`freerdp-shadow-cli3 -h`
+> 官方示例调用：`freerdp-shadow-cli3 -h`
 
 ```text
 root@kali:~# freerdp-shadow-cli3 -h
@@ -979,7 +979,7 @@ Syntax:
 
 ### `xfreerdp3`
 
-官方给出的调用示例：`xfreerdp3 --help`
+> 官方示例调用：`xfreerdp3 --help`
 
 ```text
 root@kali:~# xfreerdp3 --help
@@ -1206,7 +1206,7 @@ Syntax:
 
 ### `winpr-hash`
 
-官方给出的调用示例：`winpr-hash --help`
+> 官方示例调用：`winpr-hash --help`
 
 ```text
 root@kali:~# winpr-hash --help

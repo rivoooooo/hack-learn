@@ -49,7 +49,7 @@ root@kali:~# bully -e 6F36E6 wlan0mon
 
 ### `bully`
 
-官方给出的调用示例：`bully -e 6F36E6 wlan0mon`
+> 官方示例调用：`bully -e 6F36E6 wlan0mon`
 
 ```text
 root@kali:~# bully -e 6F36E6 wlan0mon
@@ -66,9 +66,9 @@ root@kali:~# bully -e 6F36E6 wlan0mon
 [+] Last State = 'NoAssoc'   Next pin '54744431'
 ```
 
-### `bully（示例）`
+### `bully -h`
 
-官方给出的调用示例：`bully -h`
+> 官方示例调用：`bully -h`
 
 ```text
 root@kali:~# bully -h

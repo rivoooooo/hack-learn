@@ -37,7 +37,7 @@ man cisco7crack         # 查看手册
 
 ### `cisco7crack`
 
-官方给出的调用示例：`cisco7crack -h`
+> 官方示例调用：`cisco7crack -h`
 
 ```text
 root@kali:~# cisco7crack -h

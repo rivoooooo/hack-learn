@@ -37,7 +37,7 @@ man gpart         # 查看手册
 
 ### `gpart`
 
-官方给出的调用示例：`gpart --help`
+> 官方示例调用：`gpart --help`
 
 ```text
 root@kali:~# gpart --help

@@ -38,15 +38,15 @@ root@kali:~# wifi-honey FreeWiFi 6 wlan0
 
 ### `wifi-honey`
 
-官方给出的调用示例：`wifi-honey FreeWiFi 6 wlan0`
+> 官方示例调用：`wifi-honey FreeWiFi 6 wlan0`
 
 ```text
 root@kali:~# wifi-honey FreeWiFi 6 wlan0
 ```
 
-### `wifi-honey（示例）`
+### `wifi-honey --help`
 
-官方给出的调用示例：`wifi-honey --help`
+> 官方示例调用：`wifi-honey --help`
 
 ```text
 root@kali:~# wifi-honey --help

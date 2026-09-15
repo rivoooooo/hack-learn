@@ -37,7 +37,7 @@ man mongo-tools         # 查看手册
 
 ### `bsondump`
 
-官方给出的调用示例：`bsondump --help`
+> 官方示例调用：`bsondump --help`
 
 ```text
 root@kali:~# bsondump --help
@@ -65,7 +65,7 @@ output options:
 
 ### `mongodump`
 
-官方给出的调用示例：`mongodump --help`
+> 官方示例调用：`mongodump --help`
 
 ```text
 root@kali:~# mongodump --help
@@ -232,7 +232,7 @@ output options:
 
 ### `mongoexport`
 
-官方给出的调用示例：`mongoexport --help`
+> 官方示例调用：`mongoexport --help`
 
 ```text
 root@kali:~# mongoexport --help
@@ -346,7 +346,7 @@ querying options:
 
 ### `mongofiles`
 
-官方给出的调用示例：`mongofiles --help`
+> 官方示例调用：`mongofiles --help`
 
 ```text
 root@kali:~# mongofiles --help
@@ -446,7 +446,7 @@ query options:
 
 ### `mongoimport`
 
-官方给出的调用示例：`mongoimport --help`
+> 官方示例调用：`mongoimport --help`
 
 ```text
 root@kali:~# mongoimport --help
@@ -617,7 +617,7 @@ ingest options:
 
 ### `mongorestore`
 
-官方给出的调用示例：`mongorestore --help`
+> 官方示例调用：`mongorestore --help`
 
 ```text
 root@kali:~# mongorestore --help
@@ -844,7 +844,7 @@ restore options:
 
 ### `mongostat`
 
-官方给出的调用示例：`mongostat --help`
+> 官方示例调用：`mongostat --help`
 
 ```text
 root@kali:~# mongostat --help

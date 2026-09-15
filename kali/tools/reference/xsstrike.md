@@ -37,7 +37,7 @@ man xsstrike         # 查看手册
 
 ### `xsstrike`
 
-官方给出的调用示例：`xsstrike -h`
+> 官方示例调用：`xsstrike -h`
 
 ```text
 root@kali:~# xsstrike -h

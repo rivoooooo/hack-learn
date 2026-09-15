@@ -37,7 +37,7 @@ man phpsploit         # 查看手册
 
 ### `phpsploit`
 
-官方给出的调用示例：`phpsploit -h`
+> 官方示例调用：`phpsploit -h`
 
 ```text
 root@kali:~# phpsploit -h

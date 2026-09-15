@@ -71,7 +71,7 @@ s3cr3t
 
 ### `teamserver`
 
-官方给出的调用示例：`teamserver 192.168.1.202 s3cr3t`
+> 官方示例调用：`teamserver 192.168.1.202 s3cr3t`
 
 ```text
 root@kali:~# teamserver 192.168.1.202 s3cr3t
@@ -92,9 +92,9 @@ root@kali:~# teamserver 192.168.1.202 s3cr3t
 [+] multi-player metasploit... ready to go
 ```
 
-### `teamserver（示例）`
+### `teamserver -h`
 
-官方给出的调用示例：`teamserver -h`
+> 官方示例调用：`teamserver -h`
 
 ```text
 root@kali:~# teamserver -h

@@ -70,7 +70,7 @@ Automatically generate a Windows reverse Meterpreter payload, using the IP addre
 
 ### `msfpc`
 
-官方给出的调用示例：`msfpc windows bind 5555 verbose`
+> 官方示例调用：`msfpc windows bind 5555 verbose`
 
 ```text
 root@kali:~# msfpc windows bind 5555 verbose
@@ -102,9 +102,9 @@ root@kali:~# msfpc windows bind 5555 verbose
 Automatically generate a Windows reverse Meterpreter payload, using the IP address of the eth0 interface as the LHOST parameter.
 ```
 
-### `msfpc（示例）`
+### `msfpc windows eth0`
 
-官方给出的调用示例：`msfpc windows eth0`
+> 官方示例调用：`msfpc windows eth0`
 
 ```text
 root@kali:~# msfpc windows eth0
@@ -122,9 +122,9 @@ root@kali:~# msfpc windows eth0
  [*] Done!
 ```
 
-### `msfpc（示例）`
+### `msfpc -h`
 
-官方给出的调用示例：`msfpc -h`
+> 官方示例调用：`msfpc -h`
 
 ```text
 root@kali:~# msfpc -h

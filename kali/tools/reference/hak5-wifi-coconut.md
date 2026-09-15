@@ -37,7 +37,7 @@ man hak5-wifi-coconut         # 查看手册
 
 ### `wifi_coconut`
 
-官方给出的调用示例：`wifi_coconut -h`
+> 官方示例调用：`wifi_coconut -h`
 
 ```text
 root@kali:~# wifi_coconut -h

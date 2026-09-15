@@ -142,7 +142,7 @@ set>
 
 ### `se-toolkit`
 
-官方给出的调用示例：`se-toolkit -h`
+> 官方示例调用：`se-toolkit -h`
 
 ```text
 root@kali:~# se-toolkit -h
@@ -153,9 +153,9 @@ root@kali:~# se-toolkit -h
 ┗━
 ```
 
-### `setoolkit（示例）`
+### `setoolkit -h`
 
-官方给出的调用示例：`setoolkit -h`
+> 官方示例调用：`setoolkit -h`
 
 ```text
 root@kali:~# setoolkit -h

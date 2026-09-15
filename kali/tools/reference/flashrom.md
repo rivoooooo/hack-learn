@@ -37,7 +37,7 @@ man flashrom         # 查看手册
 
 ### `flashrom`
 
-官方给出的调用示例：`flashrom -h`
+> 官方示例调用：`flashrom -h`
 
 ```text
 root@kali:~# flashrom -h

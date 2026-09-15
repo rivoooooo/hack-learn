@@ -37,7 +37,7 @@ man sharpshooter         # 查看手册
 
 ### `sharpshooter`
 
-官方给出的调用示例：`sharpshooter -h`
+> 官方示例调用：`sharpshooter -h`
 
 ```text
 root@kali:~# sharpshooter -h

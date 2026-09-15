@@ -36,7 +36,7 @@ man sliver         # 查看手册
 
 ### `sliver-client`
 
-官方给出的调用示例：`sliver-client -h`
+> 官方示例调用：`sliver-client -h`
 
 ```text
 root@kali:~# sliver-client -h
@@ -59,7 +59,7 @@ Use "sliver-client [command] --help" for more information about a command.
 
 ### `sliver-server`
 
-官方给出的调用示例：`sliver-server -h`
+> 官方示例调用：`sliver-server -h`
 
 ```text
 root@kali:~# sliver-server -h

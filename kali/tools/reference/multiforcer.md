@@ -36,7 +36,7 @@ man multiforcer         # 查看手册
 
 ### `showconfig-opencl`
 
-官方给出的调用示例：`showconfig-opencl -h`
+> 官方示例调用：`showconfig-opencl -h`
 
 ```text
 root@kali:~# showconfig-opencl -h

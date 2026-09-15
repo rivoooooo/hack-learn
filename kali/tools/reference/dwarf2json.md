@@ -37,7 +37,7 @@ man dwarf2json         # 查看手册
 
 ### `dwarf2json`
 
-官方给出的调用示例：`dwarf2json -h`
+> 官方示例调用：`dwarf2json -h`
 
 ```text
 root@kali:~# dwarf2json -h

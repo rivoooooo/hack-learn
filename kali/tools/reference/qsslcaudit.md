@@ -37,7 +37,7 @@ man qsslcaudit         # 查看手册
 
 ### `qsslcaudit`
 
-官方给出的调用示例：`qsslcaudit -h`
+> 官方示例调用：`qsslcaudit -h`
 
 ```text
 root@kali:~# qsslcaudit -h

@@ -37,7 +37,7 @@ man python3-virtualenv         # 查看手册
 
 ### `virtualenv`
 
-官方给出的调用示例：`virtualenv -h`
+> 官方示例调用：`virtualenv -h`
 
 ```text
 root@kali:~# virtualenv -h

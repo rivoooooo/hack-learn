@@ -45,7 +45,7 @@ Use the provided hashfile (-d cowpatty_dict), read the packet capture (-r Kismet
 
 ### `genpmk`
 
-官方给出的调用示例：`genpmk -f /usr/share/wordlists/nmap.lst -d cowpatty_dict -s securenet`
+> 官方示例调用：`genpmk -f /usr/share/wordlists/nmap.lst -d cowpatty_dict -s securenet`
 
 ```text
 root@kali:~# genpmk -f /usr/share/wordlists/nmap.lst -d cowpatty_dict -s securenet
@@ -67,7 +67,7 @@ Use the provided hashfile (
 
 ### `cowpatty`
 
-官方给出的调用示例：`cowpatty -d cowpatty_dict -r Kismet-20181113-13-37-00-1.pcapdump -s 6F36E6`
+> 官方示例调用：`cowpatty -d cowpatty_dict -r Kismet-20181113-13-37-00-1.pcapdump -s 6F36E6`
 
 ```text
 root@kali:~# cowpatty -d cowpatty_dict -r Kismet-20181113-13-37-00-1.pcapdump -s 6F36E6
@@ -80,9 +80,9 @@ The PSK is "12345678".
 5 passphrases tested in 0.00 seconds: 50000.00 passphrases/second
 ```
 
-### `cowpatty（示例）`
+### `cowpatty -h`
 
-官方给出的调用示例：`cowpatty -h`
+> 官方示例调用：`cowpatty -h`
 
 ```text
 root@kali:~# cowpatty -h
@@ -100,9 +100,9 @@ Usage: cowpatty [options]
 	-V 	Print program version and exit
 ```
 
-### `genpmk（示例）`
+### `genpmk -h`
 
-官方给出的调用示例：`genpmk -h`
+> 官方示例调用：`genpmk -h`
 
 ```text
 root@kali:~# genpmk -h

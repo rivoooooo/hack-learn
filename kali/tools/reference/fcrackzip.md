@@ -37,7 +37,7 @@ man fcrackzip         # 查看手册
 
 ### `fcrackzip`
 
-官方给出的调用示例：`fcrackzip -h`
+> 官方示例调用：`fcrackzip -h`
 
 ```text
 root@kali:~# fcrackzip -h
@@ -69,7 +69,7 @@ methods compiled in (* = default):
 
 ### `fcrackzipinfo`
 
-官方给出的调用示例：`fcrackzipinfo --help`
+> 官方示例调用：`fcrackzipinfo --help`
 
 ```text
 root@kali:~# fcrackzipinfo --help

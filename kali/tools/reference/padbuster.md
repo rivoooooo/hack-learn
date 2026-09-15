@@ -37,7 +37,7 @@ man padbuster         # 查看手册
 
 ### `padbuster`
 
-官方给出的调用示例：`padbuster -h`
+> 官方示例调用：`padbuster -h`
 
 ```text
 root@kali:~# padbuster -h

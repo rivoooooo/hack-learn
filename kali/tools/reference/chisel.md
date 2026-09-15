@@ -37,7 +37,7 @@ man chisel         # 查看手册
 
 ### `chisel`
 
-官方给出的调用示例：`chisel -h`
+> 官方示例调用：`chisel -h`
 
 ```text
 root@kali:~# chisel -h

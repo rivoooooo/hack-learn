@@ -37,7 +37,7 @@ man hashid         # 查看手册
 
 ### `hashid`
 
-官方给出的调用示例：`hashid -h`
+> 官方示例调用：`hashid -h`
 
 ```text
 root@kali:~# hashid -h

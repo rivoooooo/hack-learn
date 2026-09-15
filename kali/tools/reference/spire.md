@@ -37,7 +37,7 @@ man spire         # 查看手册
 
 ### `spire-agent`
 
-官方给出的调用示例：`spire-agent -h`
+> 官方示例调用：`spire-agent -h`
 
 ```text
 root@kali:~# spire-agent -h
@@ -51,7 +51,7 @@ Available commands are:
 
 ### `spire-server`
 
-官方给出的调用示例：`spire-server -h`
+> 官方示例调用：`spire-server -h`
 
 ```text
 root@kali:~# spire-server -h

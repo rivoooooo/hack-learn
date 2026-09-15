@@ -37,7 +37,7 @@ man sendemail         # 查看手册
 
 ### `sendEmail`
 
-官方给出的调用示例：`sendEmail -h`
+> 官方示例调用：`sendEmail -h`
 
 ```text
 root@kali:~# sendEmail -h
@@ -84,7 +84,7 @@ Synopsis:  sendEmail -f ADDRESS [options]
 
 ### `sendemail`
 
-官方给出的调用示例：`sendemail -h`
+> 官方示例调用：`sendemail -h`
 
 ```text
 root@kali:~# sendemail -h

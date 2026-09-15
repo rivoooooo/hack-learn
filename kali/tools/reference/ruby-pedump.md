@@ -37,7 +37,7 @@ man ruby-pedump         # 查看手册
 
 ### `pedump-ruby`
 
-官方给出的调用示例：`pedump-ruby -h`
+> 官方示例调用：`pedump-ruby -h`
 
 ```text
 root@kali:~# pedump-ruby -h

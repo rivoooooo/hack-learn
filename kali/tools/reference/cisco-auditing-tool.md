@@ -48,7 +48,7 @@ Invalid Password: 12345
 
 ### `CAT`
 
-官方给出的调用示例：`CAT -h 192.168.99.230 -p 23 -a /usr/share/wordlists/nmap.lst`
+> 官方示例调用：`CAT -h 192.168.99.230 -p 23 -a /usr/share/wordlists/nmap.lst`
 
 ```text
 root@kali:~# CAT -h 192.168.99.230 -p 23 -a /usr/share/wordlists/nmap.lst
@@ -59,9 +59,9 @@ Invalid Password: 123456
 Invalid Password: 12345
 ```
 
-### `CAT（示例）`
+### `CAT --help`
 
-官方给出的调用示例：`CAT --help`
+> 官方示例调用：`CAT --help`
 
 ```text
 root@kali:~# CAT --help

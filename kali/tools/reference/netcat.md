@@ -37,7 +37,7 @@ man netcat-traditional         # 查看手册
 
 ### `nc.traditional`
 
-官方给出的调用示例：`nc.traditional -h`
+> 官方示例调用：`nc.traditional -h`
 
 ```text
 root@kali:~# nc.traditional -h

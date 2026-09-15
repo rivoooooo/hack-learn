@@ -36,7 +36,7 @@ man rubeus         # 查看手册
 
 ### `rubeus`
 
-官方给出的调用示例：`rubeus -h`
+> 官方示例调用：`rubeus -h`
 
 ```text
 root@kali:~# rubeus -h

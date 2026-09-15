@@ -37,7 +37,7 @@ man libnetsnmptrapd45         # 查看手册
 
 ### `mib2c`
 
-官方给出的调用示例：`mib2c -h`
+> 官方示例调用：`mib2c -h`
 
 ```text
 root@kali:~# mib2c -h
@@ -59,7 +59,7 @@ root@kali:~# mib2c -h
 
 ### `mib2c-update`
 
-官方给出的调用示例：`mib2c-update -h`
+> 官方示例调用：`mib2c-update -h`
 
 ```text
 root@kali:~# mib2c-update -h
@@ -85,7 +85,7 @@ mib2c -h -c mib2c.mfd.conf  ipAddressTable
 
 ### `net-snmp-config`
 
-官方给出的调用示例：`net-snmp-config -h`
+> 官方示例调用：`net-snmp-config -h`
 
 ```text
 root@kali:~# net-snmp-config -h
@@ -147,7 +147,7 @@ Usage:
 
 ### `agentxtrap`
 
-官方给出的调用示例：`agentxtrap -h`
+> 官方示例调用：`agentxtrap -h`
 
 ```text
 root@kali:~# agentxtrap -h
@@ -192,7 +192,7 @@ TRAP-PARAMETERS:
 
 ### `encode_keychange`
 
-官方给出的调用示例：`encode_keychange -h`
+> 官方示例调用：`encode_keychange -h`
 
 ```text
 root@kali:~# encode_keychange -h
@@ -221,7 +221,7 @@ Only -t is mandatory.  The transform is used to convert P=>Ku, convert
 
 ### `man`
 
-官方给出的调用示例：`man fixproc`
+> 官方示例调用：`man fixproc`
 
 ```text
 root@kali:~# man fixproc
@@ -257,7 +257,7 @@ V5.9.5.2                          16 Nov 2006                        fixproc(1)
 
 ### `snmp-bridge-mib`
 
-官方给出的调用示例：`snmp-bridge-mib -h`
+> 官方示例调用：`snmp-bridge-mib -h`
 
 ```text
 root@kali:~# snmp-bridge-mib -h
@@ -484,7 +484,7 @@ Cannot resolve OID in UCD-SNMP-MIB: memAvailSwapX ::= { memory 19 } at line 657 
 
 ### `snmpbulkget`
 
-官方给出的调用示例：`snmpbulkget -h`
+> 官方示例调用：`snmpbulkget -h`
 
 ```text
 root@kali:~# snmpbulkget -h
@@ -576,7 +576,7 @@ General options
 
 ### `snmpbulkwalk`
 
-官方给出的调用示例：`snmpbulkwalk -h`
+> 官方示例调用：`snmpbulkwalk -h`
 
 ```text
 root@kali:~# snmpbulkwalk -h
@@ -671,7 +671,7 @@ General options
 
 ### `snmpcheck`
 
-官方给出的调用示例：`snmpcheck -h`
+> 官方示例调用：`snmpcheck -h`
 
 ```text
 root@kali:~# snmpcheck -h

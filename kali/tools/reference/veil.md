@@ -37,7 +37,7 @@ man veil         # 查看手册
 
 ### `veil`
 
-官方给出的调用示例：`veil -h`
+> 官方示例调用：`veil -h`
 
 ```text
 root@kali:~# veil -h

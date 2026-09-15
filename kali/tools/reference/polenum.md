@@ -67,7 +67,7 @@ root@kali:~# polenum victim:s3cr3t@192.168.1.200 '445/SMB'
 
 ### `polenum`
 
-官方给出的调用示例：`polenum victim:`
+> 官方示例调用：`polenum victim:`
 
 ```text
 root@kali:~# polenum victim:
@@ -96,9 +96,9 @@ root@kali:~# polenum victim:
     [+] Forced Log off Time: Not Set
 ```
 
-### `polenum（示例）`
+### `polenum -h`
 
-官方给出的调用示例：`polenum -h`
+> 官方示例调用：`polenum -h`
 
 ```text
 root@kali:~# polenum -h

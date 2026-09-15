@@ -37,7 +37,7 @@ man gqrx-sdr         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man gqrx`
+> 官方示例调用：`man gqrx`
 
 ```text
 root@kali:~# man gqrx

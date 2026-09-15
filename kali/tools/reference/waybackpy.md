@@ -37,7 +37,7 @@ man waybackpy         # 查看手册
 
 ### `waybackpy`
 
-官方给出的调用示例：`waybackpy --help`
+> 官方示例调用：`waybackpy --help`
 
 ```text
 root@kali:~# waybackpy --help

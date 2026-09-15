@@ -37,7 +37,7 @@ dirbuster
 
 ### `dirbuster`
 
-官方给出的调用示例：`dirbuster -h`
+> 官方示例调用：`dirbuster -h`
 
 ```text
 root@kali:~# dirbuster -h

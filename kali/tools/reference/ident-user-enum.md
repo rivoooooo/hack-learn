@@ -43,7 +43,7 @@ ident-user-enum v1.0 ( http://pentestmonkey.net/tools/ident-user-enum )
 
 ### `ident-user-enum`
 
-官方给出的调用示例：`ident-user-enum 192.168.1.13 22 139 445`
+> 官方示例调用：`ident-user-enum 192.168.1.13 22 139 445`
 
 ```text
 root@kali:~# ident-user-enum 192.168.1.13 22 139 445
@@ -53,9 +53,9 @@ ident-user-enum v1.0 ( http://pentestmonkey.net/tools/ident-user-enum )
 192.168.1.13:445    root
 ```
 
-### `ident-user-enum（示例）`
+### `ident-user-enum -h`
 
-官方给出的调用示例：`ident-user-enum -h`
+> 官方示例调用：`ident-user-enum -h`
 
 ```text
 root@kali:~# ident-user-enum -h

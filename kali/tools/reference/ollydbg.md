@@ -37,7 +37,7 @@ wine /usr/share/ollydbg/OLLYDBG.EXE
 
 ### `ollydbg`
 
-官方给出的调用示例：`ollydbg -h`
+> 官方示例调用：`ollydbg -h`
 
 ```text
 root@kali:~# ollydbg -h

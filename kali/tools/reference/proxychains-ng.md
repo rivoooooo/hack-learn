@@ -37,7 +37,7 @@ man libproxychains4         # 查看手册
 
 ### `proxychains4`
 
-官方给出的调用示例：`proxychains4 --help`
+> 官方示例调用：`proxychains4 --help`
 
 ```text
 root@kali:~# proxychains4 --help
@@ -50,7 +50,7 @@ More help in README file
 
 ### `proxychains4-daemon`
 
-官方给出的调用示例：`proxychains4-daemon -h`
+> 官方示例调用：`proxychains4-daemon -h`
 
 ```text
 root@kali:~# proxychains4-daemon -h

@@ -37,7 +37,7 @@ man tookie-osint         # 查看手册
 
 ### `tookie-osint`
 
-官方给出的调用示例：`tookie-osint -h`
+> 官方示例调用：`tookie-osint -h`
 
 ```text
 root@kali:~# tookie-osint -h

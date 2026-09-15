@@ -37,7 +37,7 @@ man libradare2-6.0.0t64         # 查看手册
 
 ### `r2`
 
-官方给出的调用示例：`r2 -h`
+> 官方示例调用：`r2 -h`
 
 ```text
 root@kali:~# r2 -h
@@ -93,7 +93,7 @@ Usage: r2 [-ACdfjLMnNqStuvwzX] [-P patch] [-p prj] [-a arch] [-b bits] [-c cmd]
 
 ### `r2agent`
 
-官方给出的调用示例：`r2agent -h`
+> 官方示例调用：`r2agent -h`
 
 ```text
 root@kali:~# r2agent -h
@@ -112,7 +112,7 @@ Usage: r2agent [-adhsLjv] [-p port]
 
 ### `r2pm`
 
-官方给出的调用示例：`r2pm -h`
+> 官方示例调用：`r2pm -h`
 
 ```text
 root@kali:~# r2pm -h
@@ -147,7 +147,7 @@ Commands:
 
 ### `r2r`
 
-官方给出的调用示例：`r2r -h`
+> 官方示例调用：`r2r -h`
 
 ```text
 root@kali:~# r2r -h
@@ -187,7 +187,7 @@ OS/Arch for archos tests: linux-x86_64
 
 ### `r2sdb`
 
-官方给出的调用示例：`r2sdb -h`
+> 官方示例调用：`r2sdb -h`
 
 ```text
 root@kali:~# r2sdb -h
@@ -212,7 +212,7 @@ usage: sdb [-0cCdDehjJrtv|-D A B] [-|db] [.file]|[-=]|==||[-+][(idx)key[:json|=v
 
 ### `rabin2`
 
-官方给出的调用示例：`rabin2 -h`
+> 官方示例调用：`rabin2 -h`
 
 ```text
 root@kali:~# rabin2 -h
@@ -301,7 +301,7 @@ RABIN2_VERBOSE	e bin.verbose         # show debugging messages from the parser
 
 ### `radare2`
 
-官方给出的调用示例：`radare2 -h`
+> 官方示例调用：`radare2 -h`
 
 ```text
 root@kali:~# radare2 -h
@@ -357,7 +357,7 @@ Usage: r2 [-ACdfjLMnNqStuvwzX] [-P patch] [-p prj] [-a arch] [-b bits] [-c cmd]
 
 ### `radiff2`
 
-官方给出的调用示例：`radiff2 -h`
+> 官方示例调用：`radiff2 -h`
 
 ```text
 root@kali:~# radiff2 -h
@@ -398,7 +398,7 @@ Usage: radiff2 [-options] [-A[A]] [-B #] [-g sym] [-m graph_mode][-t %] [file] [
 
 ### `rafind2`
 
-官方给出的调用示例：`rafind2 -h`
+> 官方示例调用：`rafind2 -h`
 
 ```text
 root@kali:~# rafind2 -h
@@ -433,7 +433,7 @@ Usage: rafind2 [-mBXnzZhqv] [-a align] [-b sz] [-f/t from/to] [-[e|s|S] str] [-x
 
 ### `ragg2`
 
-官方给出的调用示例：`ragg2 -h`
+> 官方示例调用：`ragg2 -h`
 
 ```text
 root@kali:~# ragg2 -h

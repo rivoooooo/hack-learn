@@ -40,7 +40,7 @@ using random seed 2978455466
 
 ### `ohrwurm`
 
-官方给出的调用示例：`ohrwurm -a 192.168.1.123 -b 192.168.1.15 -A 6970 -B 6970 -i eth0`
+> 官方示例调用：`ohrwurm -a 192.168.1.123 -b 192.168.1.15 -A 6970 -B 6970 -i eth0`
 
 ```text
 root@kali:~# ohrwurm -a 192.168.1.123 -b 192.168.1.15 -A 6970 -B 6970 -i eth0
@@ -48,9 +48,9 @@ ohrwurm-0.1
 using random seed 2978455466
 ```
 
-### `ohrwurm（示例）`
+### `ohrwurm -h`
 
-官方给出的调用示例：`ohrwurm -h`
+> 官方示例调用：`ohrwurm -h`
 
 ```text
 root@kali:~# ohrwurm -h

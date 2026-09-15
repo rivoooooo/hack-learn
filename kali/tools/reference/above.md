@@ -37,7 +37,7 @@ man above         # 查看手册
 
 ### `above`
 
-官方给出的调用示例：`above -h`
+> 官方示例调用：`above -h`
 
 ```text
 root@kali:~# above -h

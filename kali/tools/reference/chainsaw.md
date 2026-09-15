@@ -37,7 +37,7 @@ man chainsaw         # 查看手册
 
 ### `chainsaw`
 
-官方给出的调用示例：`chainsaw -h`
+> 官方示例调用：`chainsaw -h`
 
 ```text
 root@kali:~# chainsaw -h

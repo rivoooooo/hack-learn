@@ -37,7 +37,7 @@ man ewf-tools         # 查看手册
 
 ### `ewfacquire`
 
-官方给出的调用示例：`ewfacquire -h`
+> 官方示例调用：`ewfacquire -h`
 
 ```text
 root@kali:~# ewfacquire -h
@@ -112,7 +112,7 @@ Usage: ewfacquire [ -A codepage ] [ -b number_of_sectors ]
 
 ### `ewfacquirestream`
 
-官方给出的调用示例：`ewfacquirestream -h`
+> 官方示例调用：`ewfacquirestream -h`
 
 ```text
 root@kali:~# ewfacquirestream -h
@@ -178,7 +178,7 @@ Usage: ewfacquirestream [ -A codepage ] [ -b number_of_sectors ]
 
 ### `ewfdebug`
 
-官方给出的调用示例：`ewfdebug -h`
+> 官方示例调用：`ewfdebug -h`
 
 ```text
 root@kali:~# ewfdebug -h
@@ -199,7 +199,7 @@ Usage: ewfdebug [ -A codepage ] [ -hqvV ] ewf_files
 
 ### `ewfexport`
 
-官方给出的调用示例：`ewfexport -h`
+> 官方示例调用：`ewfexport -h`
 
 ```text
 root@kali:~# ewfexport -h
@@ -257,7 +257,7 @@ Usage: ewfexport [ -A codepage ] [ -b number_of_sectors ]
 
 ### `ewfinfo`
 
-官方给出的调用示例：`ewfinfo -h`
+> 官方示例调用：`ewfinfo -h`
 
 ```text
 root@kali:~# ewfinfo -h
@@ -286,7 +286,7 @@ Usage: ewfinfo [ -A codepage ] [ -d date_format ] [ -f format ]
 
 ### `ewfmount`
 
-官方给出的调用示例：`ewfmount -h`
+> 官方示例调用：`ewfmount -h`
 
 ```text
 root@kali:~# ewfmount -h
@@ -306,7 +306,7 @@ Usage: ewfmount [ -f format ] [ -X extended_options ] [ -hvV ] image mount_point
 
 ### `ewfrecover`
 
-官方给出的调用示例：`ewfrecover -h`
+> 官方示例调用：`ewfrecover -h`
 
 ```text
 root@kali:~# ewfrecover -h
@@ -338,7 +338,7 @@ Usage: ewfrecover [ -A codepage ]
 
 ### `ewfverify`
 
-官方给出的调用示例：`ewfverify -h`
+> 官方示例调用：`ewfverify -h`
 
 ```text
 root@kali:~# ewfverify -h

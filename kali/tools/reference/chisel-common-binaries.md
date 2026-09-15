@@ -36,7 +36,7 @@ man chisel-common-binaries         # 查看手册
 
 ### `chisel-common-binaries`
 
-官方给出的调用示例：`chisel-common-binaries -h`
+> 官方示例调用：`chisel-common-binaries -h`
 
 ```text
 root@kali:~# chisel-common-binaries -h

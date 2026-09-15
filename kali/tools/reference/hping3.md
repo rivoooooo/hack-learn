@@ -44,7 +44,7 @@ hop=2 hoprtt=3.3 ms
 
 ### `hping3`
 
-官方给出的调用示例：`hping3 --traceroute -V -1 www.example.com`
+> 官方示例调用：`hping3 --traceroute -V -1 www.example.com`
 
 ```text
 root@kali:~# hping3 --traceroute -V -1 www.example.com
@@ -56,9 +56,9 @@ hop=2 TTL 0 during transit from ip=192.168.0.1 name=UNKNOWN
 hop=2 hoprtt=3.3 ms
 ```
 
-### `hping3（示例）`
+### `hping3 -h`
 
-官方给出的调用示例：`hping3 -h`
+> 官方示例调用：`hping3 -h`
 
 ```text
 root@kali:~# hping3 -h

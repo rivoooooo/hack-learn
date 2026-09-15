@@ -54,7 +54,7 @@ root@kali:~# p0f -i eth0 -p -o /tmp/p0f.log
 
 ### `p0f`
 
-官方给出的调用示例：`p0f -i eth0 -p -o /tmp/p0f.log`
+> 官方示例调用：`p0f -i eth0 -p -o /tmp/p0f.log`
 
 ```text
 root@kali:~# p0f -i eth0 -p -o /tmp/p0f.log
@@ -76,9 +76,9 @@ root@kali:~# p0f -i eth0 -p -o /tmp/p0f.log
 | raw_sig  = 4:64+0:0:1460:mss*20,7:mss,sok,ts,nop,ws:df,id+:0
 ```
 
-### `p0f（示例）`
+### `p0f -h`
 
-官方给出的调用示例：`p0f -h`
+> 官方示例调用：`p0f -h`
 
 ```text
 root@kali:~# p0f -h

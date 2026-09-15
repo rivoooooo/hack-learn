@@ -37,7 +37,7 @@ man libproc2-1         # 查看手册
 
 ### `free`
 
-官方给出的调用示例：`free --help`
+> 官方示例调用：`free --help`
 
 ```text
 root@kali:~# free --help
@@ -71,7 +71,7 @@ For more details see free(1).
 
 ### `hugetop`
 
-官方给出的调用示例：`hugetop -h`
+> 官方示例调用：`hugetop -h`
 
 ```text
 root@kali:~# hugetop -h
@@ -88,7 +88,7 @@ Options:
 
 ### `kill`
 
-官方给出的调用示例：`kill -h`
+> 官方示例调用：`kill -h`
 
 ```text
 root@kali:~# kill -h
@@ -108,7 +108,7 @@ For more details see kill(1).
 
 ### `pgrep`
 
-官方给出的调用示例：`pgrep -h`
+> 官方示例调用：`pgrep -h`
 
 ```text
 root@kali:~# pgrep -h
@@ -156,7 +156,7 @@ For more details see pgrep(1).
 
 ### `pidwait`
 
-官方给出的调用示例：`pidwait -h`
+> 官方示例调用：`pidwait -h`
 
 ```text
 root@kali:~# pidwait -h
@@ -199,7 +199,7 @@ For more details see pgrep(1).
 
 ### `pkill`
 
-官方给出的调用示例：`pkill -h`
+> 官方示例调用：`pkill -h`
 
 ```text
 root@kali:~# pkill -h
@@ -246,7 +246,7 @@ For more details see pgrep(1).
 
 ### `pmap`
 
-官方给出的调用示例：`pmap -h`
+> 官方示例调用：`pmap -h`
 
 ```text
 root@kali:~# pmap -h
@@ -274,7 +274,7 @@ For more details see pmap(1).
 
 ### `ps`
 
-官方给出的调用示例：`ps --help`
+> 官方示例调用：`ps --help`
 
 ```text
 root@kali:~# ps --help
@@ -288,7 +288,7 @@ For more details see ps(1).
 
 ### `pwdx`
 
-官方给出的调用示例：`pwdx -h`
+> 官方示例调用：`pwdx -h`
 
 ```text
 root@kali:~# pwdx -h
@@ -302,7 +302,7 @@ For more details see pwdx(1).
 
 ### `skill`
 
-官方给出的调用示例：`skill -h`
+> 官方示例调用：`skill -h`
 
 ```text
 root@kali:~# skill -h

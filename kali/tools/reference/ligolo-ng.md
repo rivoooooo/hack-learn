@@ -37,7 +37,7 @@ man ligolo-ng         # 查看手册
 
 ### `ligolo-agent`
 
-官方给出的调用示例：`ligolo-agent -h`
+> 官方示例调用：`ligolo-agent -h`
 
 ```text
 root@kali:~# ligolo-agent -h
@@ -74,7 +74,7 @@ root@kali:~# ligolo-agent -h
 
 ### `ligolo-proxy`
 
-官方给出的调用示例：`ligolo-proxy -h`
+> 官方示例调用：`ligolo-proxy -h`
 
 ```text
 root@kali:~# ligolo-proxy -h

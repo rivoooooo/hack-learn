@@ -37,7 +37,7 @@ man hashrat         # 查看手册
 
 ### `hashrat`
 
-官方给出的调用示例：`hashrat --help`
+> 官方示例调用：`hashrat --help`
 
 ```text
 root@kali:~# hashrat --help

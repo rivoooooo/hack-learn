@@ -37,7 +37,7 @@ man sslstrip         # 查看手册
 
 ### `sslstrip`
 
-官方给出的调用示例：`sslstrip -h`
+> 官方示例调用：`sslstrip -h`
 
 ```text
 root@kali:~# sslstrip -h

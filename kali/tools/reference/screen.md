@@ -37,7 +37,7 @@ man screen         # 查看手册
 
 ### `screen`
 
-官方给出的调用示例：`screen -h`
+> 官方示例调用：`screen -h`
 
 ```text
 root@kali:~# screen -h

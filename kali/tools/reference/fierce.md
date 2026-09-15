@@ -54,7 +54,7 @@ Now performing 2280 test(s)...
 
 ### `fierce`
 
-官方给出的调用示例：`fierce --domain example.com`
+> 官方示例调用：`fierce --domain example.com`
 
 ```text
 root@kali:~# fierce --domain example.com
@@ -73,9 +73,9 @@ Nope. Good.
 Now performing 2280 test(s)...
 ```
 
-### `fierce（示例）`
+### `fierce -h`
 
-官方给出的调用示例：`fierce -h`
+> 官方示例调用：`fierce -h`
 
 ```text
 root@kali:~# fierce -h

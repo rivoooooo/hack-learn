@@ -37,7 +37,7 @@ man tcpdump         # 查看手册
 
 ### `tcpdump`
 
-官方给出的调用示例：`tcpdump -h`
+> 官方示例调用：`tcpdump -h`
 
 ```text
 root@kali:~# tcpdump -h

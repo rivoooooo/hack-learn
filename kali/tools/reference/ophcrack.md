@@ -36,7 +36,7 @@ Screenshots
 
 ### `ophcrack`
 
-官方给出的调用示例：`ophcrack -h`
+> 官方示例调用：`ophcrack -h`
 
 ```text
 root@kali:~# ophcrack -h
@@ -78,7 +78,7 @@ Example:	ophcrack -g -d /path/to/tables -t xp_free_fast,0,3:vista_free -f in.txt
 
 ### `ophcrack-cli`
 
-官方给出的调用示例：`ophcrack-cli -h`
+> 官方示例调用：`ophcrack-cli -h`
 
 ```text
 root@kali:~# ophcrack-cli -h

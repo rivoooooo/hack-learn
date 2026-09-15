@@ -37,7 +37,7 @@ man ldeep         # 查看手册
 
 ### `ldeep`
 
-官方给出的调用示例：`ldeep -h`
+> 官方示例调用：`ldeep -h`
 
 ```text
 root@kali:~# ldeep -h

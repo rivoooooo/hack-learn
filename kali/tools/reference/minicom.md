@@ -36,7 +36,7 @@ man minicom         # 查看手册
 
 ### `ascii-xfr`
 
-官方给出的调用示例：`ascii-xfr -h`
+> 官方示例调用：`ascii-xfr -h`
 
 ```text
 root@kali:~# ascii-xfr -h
@@ -53,7 +53,7 @@ Usage: ascii-xfr -s|-r [-dvn] [-l linedelay] [-c character delay] filename
 
 ### `minicom`
 
-官方给出的调用示例：`minicom -h`
+> 官方示例调用：`minicom -h`
 
 ```text
 root@kali:~# minicom -h
@@ -96,7 +96,7 @@ Report bugs to <
 
 ### `man`
 
-官方给出的调用示例：`man runscript`
+> 官方示例调用：`man runscript`
 
 ```text
 root@kali:~# man runscript
@@ -246,9 +246,9 @@ AUTHOR
 >
 ```
 
-### `man（示例）`
+### `man xminicom`
 
-官方给出的调用示例：`man xminicom`
+> 官方示例调用：`man xminicom`
 
 ```text
 root@kali:~# man xminicom

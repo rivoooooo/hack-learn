@@ -36,7 +36,7 @@ man ext3grep         # 查看手册
 
 ### `ext3grep`
 
-官方给出的调用示例：`ext3grep --help`
+> 官方示例调用：`ext3grep --help`
 
 ```text
 root@kali:~# ext3grep --help

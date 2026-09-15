@@ -37,7 +37,7 @@ man vim         # 查看手册
 
 ### `vim.basic`
 
-官方给出的调用示例：`vim.basic -h`
+> 官方示例调用：`vim.basic -h`
 
 ```text
 root@kali:~# vim.basic -h
@@ -106,7 +106,7 @@ Arguments:
 
 ### `man`
 
-官方给出的调用示例：`man helpztags`
+> 官方示例调用：`man helpztags`
 
 ```text
 root@kali:~# man helpztags
@@ -134,7 +134,7 @@ vim 9.2                           August 2010                      HELPZTAGS(1)
 
 ### `vim.gtk3`
 
-官方给出的调用示例：`vim.gtk3 -h`
+> 官方示例调用：`vim.gtk3 -h`
 
 ```text
 root@kali:~# vim.gtk3 -h
@@ -221,7 +221,7 @@ Arguments recognised by gvim (GTK+ version):
 
 ### `gvimtutor`
 
-官方给出的调用示例：`gvimtutor -h`
+> 官方示例调用：`gvimtutor -h`
 
 ```text
 root@kali:~# gvimtutor -h
@@ -240,7 +240,7 @@ More information at 'man vimtutor'
 
 ### `vim.motif`
 
-官方给出的调用示例：`vim.motif -h`
+> 官方示例调用：`vim.motif -h`
 
 ```text
 root@kali:~# vim.motif -h
@@ -331,7 +331,7 @@ Arguments recognised by gvim (Motif version):
 
 ### `vim.nox`
 
-官方给出的调用示例：`vim.nox -h`
+> 官方示例调用：`vim.nox -h`
 
 ```text
 root@kali:~# vim.nox -h
@@ -400,7 +400,7 @@ Arguments:
 
 ### `vimtutor`
 
-官方给出的调用示例：`vimtutor -h`
+> 官方示例调用：`vimtutor -h`
 
 ```text
 root@kali:~# vimtutor -h
@@ -419,7 +419,7 @@ More information at 'man vimtutor'
 
 ### `vim.tiny`
 
-官方给出的调用示例：`vim.tiny -h`
+> 官方示例调用：`vim.tiny -h`
 
 ```text
 root@kali:~# vim.tiny -h
@@ -470,7 +470,7 @@ Arguments:
 
 ### `xxd`
 
-官方给出的调用示例：`xxd -h`
+> 官方示例调用：`xxd -h`
 
 ```text
 root@kali:~# xxd -h

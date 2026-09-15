@@ -37,7 +37,7 @@ man libimage-exiftool-perl         # 查看手册
 
 ### `exiftool`
 
-官方给出的调用示例：`exiftool -h`
+> 官方示例调用：`exiftool -h`
 
 ```text
 root@kali:~# exiftool -h

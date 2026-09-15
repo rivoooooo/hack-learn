@@ -48,7 +48,7 @@ sent: 100
 
 ### `inviteflood`
 
-官方给出的调用示例：`inviteflood eth0 5000 example.local 192.168.1.5 100`
+> 官方示例调用：`inviteflood eth0 5000 example.local 192.168.1.5 100`
 
 ```text
 root@kali:~# inviteflood eth0 5000 example.local 192.168.1.5 100
@@ -62,9 +62,9 @@ Flooding destination with 100 packets
 sent: 100
 ```
 
-### `inviteflood（示例）`
+### `inviteflood -h`
 
-官方给出的调用示例：`inviteflood -h`
+> 官方示例调用：`inviteflood -h`
 
 ```text
 root@kali:~# inviteflood -h

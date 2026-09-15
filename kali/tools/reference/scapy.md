@@ -35,7 +35,7 @@ man python3-scapy         # 查看手册
 
 ### `scapy`
 
-官方给出的调用示例：`scapy -h`
+> 官方示例调用：`scapy -h`
 
 ```text
 root@kali:~# scapy -h
@@ -48,7 +48,7 @@ Args:
 
 ### `scapy3`
 
-官方给出的调用示例：`scapy3 -h`
+> 官方示例调用：`scapy3 -h`
 
 ```text
 root@kali:~# scapy3 -h

@@ -37,7 +37,7 @@ man libyara-dev         # 查看手册
 
 ### `yara`
 
-官方给出的调用示例：`yara -h`
+> 官方示例调用：`yara -h`
 
 ```text
 root@kali:~# yara -h
@@ -85,7 +85,7 @@ Send bug reports and suggestions to:
 
 ### `yarac`
 
-官方给出的调用示例：`yarac -h`
+> 官方示例调用：`yarac -h`
 
 ```text
 root@kali:~# yarac -h

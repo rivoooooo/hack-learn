@@ -37,7 +37,7 @@ man wig-ng         # 查看手册
 
 ### `wig-ng`
 
-官方给出的调用示例：`wig-ng -h`
+> 官方示例调用：`wig-ng -h`
 
 ```text
 root@kali:~# wig-ng -h
@@ -59,7 +59,7 @@ options:
 
 ### `wig-ng.py`
 
-官方给出的调用示例：`wig-ng.py -h`
+> 官方示例调用：`wig-ng.py -h`
 
 ```text
 root@kali:~# wig-ng.py -h

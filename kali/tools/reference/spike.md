@@ -37,7 +37,7 @@ man spike         # 查看手册
 
 ### `citrix`
 
-官方给出的调用示例：`citrix -h`
+> 官方示例调用：`citrix -h`
 
 ```text
 root@kali:~# citrix -h
@@ -47,7 +47,7 @@ Usage: ./citrix target port
 
 ### `closed_source_web_server_fuzz`
 
-官方给出的调用示例：`closed_source_web_server_fuzz -h`
+> 官方示例调用：`closed_source_web_server_fuzz -h`
 
 ```text
 root@kali:~# closed_source_web_server_fuzz -h
@@ -65,7 +65,7 @@ contact Dave Aitel if you find anything cool. :>
 
 ### `dceoversmb`
 
-官方给出的调用示例：`dceoversmb -h`
+> 官方示例调用：`dceoversmb -h`
 
 ```text
 root@kali:~# dceoversmb -h
@@ -77,7 +77,7 @@ Read the msrpc readme when you get a chance.
 
 ### `dltest`
 
-官方给出的调用示例：`dltest -h`
+> 官方示例调用：`dltest -h`
 
 ```text
 root@kali:~# dltest -h
@@ -86,7 +86,7 @@ Couldn't open file test.spk to parse with s_parse()
 
 ### `do_post`
 
-官方给出的调用示例：`do_post -h`
+> 官方示例调用：`do_post -h`
 
 ```text
 root@kali:~# do_post -h
@@ -95,7 +95,7 @@ Usage: ./post_spike target port optional
 
 ### `generic_chunked`
 
-官方给出的调用示例：`generic_chunked -h`
+> 官方示例调用：`generic_chunked -h`
 
 ```text
 root@kali:~# generic_chunked -h
@@ -106,7 +106,7 @@ http://www.immunitysec.com/spike.html
 
 ### `generic_listen_tcp`
 
-官方给出的调用示例：`generic_listen_tcp -h`
+> 官方示例调用：`generic_listen_tcp -h`
 
 ```text
 root@kali:~# generic_listen_tcp -h
@@ -117,7 +117,7 @@ Usage: ./generic_listen_tcp port spike_script
 
 ### `generic_send_tcp`
 
-官方给出的调用示例：`generic_send_tcp -h`
+> 官方示例调用：`generic_send_tcp -h`
 
 ```text
 root@kali:~# generic_send_tcp -h
@@ -128,7 +128,7 @@ Usage: ./generic_send_tcp host port spike_script SKIPVAR SKIPSTR
 
 ### `generic_send_udp`
 
-官方给出的调用示例：`generic_send_udp -h`
+> 官方示例调用：`generic_send_udp -h`
 
 ```text
 root@kali:~# generic_send_udp -h
@@ -139,7 +139,7 @@ Usage: ./gsu target port file.spk startvariable startfuzzstring startvariable st
 
 ### `generic_web_server_fuzz`
 
-官方给出的调用示例：`generic_web_server_fuzz -h`
+> 官方示例调用：`generic_web_server_fuzz -h`
 
 ```text
 root@kali:~# generic_web_server_fuzz -h

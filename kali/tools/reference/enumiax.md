@@ -38,15 +38,15 @@ root@kali:~# enumiax -d /usr/share/wordlists/metasploit/unix_users.txt 192.168.1
 
 ### `enumiax`
 
-官方给出的调用示例：`enumiax -d /usr/share/wordlists/metasploit/unix_users.txt 192.168.1.1`
+> 官方示例调用：`enumiax -d /usr/share/wordlists/metasploit/unix_users.txt 192.168.1.1`
 
 ```text
 root@kali:~# enumiax -d /usr/share/wordlists/metasploit/unix_users.txt 192.168.1.1
 ```
 
-### `enumiax（示例）`
+### `enumiax --help`
 
-官方给出的调用示例：`enumiax --help`
+> 官方示例调用：`enumiax --help`
 
 ```text
 root@kali:~# enumiax --help

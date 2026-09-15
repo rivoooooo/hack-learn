@@ -37,7 +37,7 @@ man dsniff         # 查看手册
 
 ### `arpspoof`
 
-官方给出的调用示例：`arpspoof --help`
+> 官方示例调用：`arpspoof --help`
 
 ```text
 root@kali:~# arpspoof --help
@@ -48,7 +48,7 @@ Usage: arpspoof [-i interface] [-c own|host|both] [-t target] [-r] host
 
 ### `dnsspoof`
 
-官方给出的调用示例：`dnsspoof --help`
+> 官方示例调用：`dnsspoof --help`
 
 ```text
 root@kali:~# dnsspoof --help
@@ -59,7 +59,7 @@ Usage: dnsspoof [-i interface] [-f hostsfile] [expression]
 
 ### `dsniff`
 
-官方给出的调用示例：`dsniff --help`
+> 官方示例调用：`dsniff --help`
 
 ```text
 root@kali:~# dsniff --help
@@ -89,7 +89,7 @@ Usage: dsniff [-cdamDNPCv] [-i interface | -p pcapfile] [-s snaplen]
 
 ### `filesnarf`
 
-官方给出的调用示例：`filesnarf --help`
+> 官方示例调用：`filesnarf --help`
 
 ```text
 root@kali:~# filesnarf --help
@@ -100,7 +100,7 @@ Usage: filesnarf [-i interface | -p pcapfile] [[-v] pattern [expression]]
 
 ### `macof`
 
-官方给出的调用示例：`macof --help`
+> 官方示例调用：`macof --help`
 
 ```text
 root@kali:~# macof --help
@@ -112,7 +112,7 @@ Usage: macof [-s src] [-d dst] [-e tha] [-x sport] [-y dport]
 
 ### `mailsnarf`
 
-官方给出的调用示例：`mailsnarf --help`
+> 官方示例调用：`mailsnarf --help`
 
 ```text
 root@kali:~# mailsnarf --help
@@ -123,7 +123,7 @@ Usage: mailsnarf [-i interface | -p pcapfile] [[-v] pattern [expression]]
 
 ### `msgsnarf`
 
-官方给出的调用示例：`msgsnarf --help`
+> 官方示例调用：`msgsnarf --help`
 
 ```text
 root@kali:~# msgsnarf --help
@@ -134,7 +134,7 @@ Usage: msgsnarf [-i interface | -p pcapfile] [[-v] pattern [expression]]
 
 ### `sshmitm`
 
-官方给出的调用示例：`sshmitm --help`
+> 官方示例调用：`sshmitm --help`
 
 ```text
 root@kali:~# sshmitm --help
@@ -145,7 +145,7 @@ Usage: sshmitm [-d] [-I] [-p port] host [port]
 
 ### `sshow`
 
-官方给出的调用示例：`sshow --help`
+> 官方示例调用：`sshow --help`
 
 ```text
 root@kali:~# sshow --help
@@ -155,7 +155,7 @@ Usage: sshow [-d] [-i interface | -p pcapfile]
 
 ### `tcpkill`
 
-官方给出的调用示例：`tcpkill --help`
+> 官方示例调用：`tcpkill --help`
 
 ```text
 root@kali:~# tcpkill --help

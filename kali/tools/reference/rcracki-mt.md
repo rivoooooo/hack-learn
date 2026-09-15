@@ -46,7 +46,7 @@ cryptanalysis time: 0.26 s
 
 ### `rcracki_mt`
 
-官方给出的调用示例：`rcracki_mt -h 5d41402abc4b2a76b9719d911017c592 -t 4 tables2/md5/`
+> 官方示例调用：`rcracki_mt -h 5d41402abc4b2a76b9719d911017c592 -t 4 tables2/md5/`
 
 ```text
 root@kali:~# rcracki_mt -h 5d41402abc4b2a76b9719d911017c592 -t 4 tables2/md5/
@@ -59,9 +59,9 @@ searching for 1 hash...
 cryptanalysis time: 0.26 s
 ```
 
-### `rcracki_mt（示例）`
+### `rcracki_mt -h`
 
-官方给出的调用示例：`rcracki_mt -h`
+> 官方示例调用：`rcracki_mt -h`
 
 ```text
 root@kali:~# rcracki_mt -h

@@ -37,7 +37,7 @@ man proxify         # 查看手册
 
 ### `mitmrelay`
 
-官方给出的调用示例：`mitmrelay -h`
+> 官方示例调用：`mitmrelay -h`
 
 ```text
 root@kali:~# mitmrelay -h
@@ -80,7 +80,7 @@ Usage of mitmrelay:
 
 ### `proxify`
 
-官方给出的调用示例：`proxify -h`
+> 官方示例调用：`proxify -h`
 
 ```text
 root@kali:~# proxify -h
@@ -130,7 +130,7 @@ DEBUG:
 
 ### `replay-proxify`
 
-官方给出的调用示例：`replay-proxify -h`
+> 官方示例调用：`replay-proxify -h`
 
 ```text
 root@kali:~# replay-proxify -h

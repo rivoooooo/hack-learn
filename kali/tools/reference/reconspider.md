@@ -37,7 +37,7 @@ man reconspider         # 查看手册
 
 ### `reconspider`
 
-官方给出的调用示例：`reconspider -h`
+> 官方示例调用：`reconspider -h`
 
 ```text
 root@kali:~# reconspider -h

@@ -37,7 +37,7 @@ man wig         # 查看手册
 
 ### `wig`
 
-官方给出的调用示例：`wig -h`
+> 官方示例调用：`wig -h`
 
 ```text
 root@kali:~# wig -h

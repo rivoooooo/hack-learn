@@ -37,7 +37,7 @@ man feroxbuster         # 查看手册
 
 ### `feroxbuster`
 
-官方给出的调用示例：`feroxbuster --help`
+> 官方示例调用：`feroxbuster --help`
 
 ```text
 root@kali:~# feroxbuster --help

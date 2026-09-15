@@ -37,7 +37,7 @@ man gr-air-modes         # 查看手册
 
 ### `modes_rx`
 
-官方给出的调用示例：`modes_rx -h`
+> 官方示例调用：`modes_rx -h`
 
 ```text
 root@kali:~# modes_rx -h

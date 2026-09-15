@@ -72,7 +72,7 @@ Attempt to exploit a site (–url=”http://192.168.0.23/commix-testbed/scenario
 
 ### `commix`
 
-官方给出的调用示例：`commix --url http://192.168.20.12/dvwa/vulnerabilities/exec/ \`
+> 官方示例调用：`commix --url http://192.168.20.12/dvwa/vulnerabilities/exec/ \`
 
 ```text
 root@kali:~# commix --url http://192.168.20.12/dvwa/vulnerabilities/exec/ \
@@ -110,9 +110,9 @@ Attempt to exploit a site (
 ):
 ```
 
-### `commix（示例）`
+### `commix --url="http://192.168.0.23/commix-testbed/scenario…`
 
-官方给出的调用示例：`commix --url="http://192.168.0.23/commix-testbed/scenarios/referer/referer(classic).php" --level=3`
+> 官方示例调用：`commix --url="http://192.168.0.23/commix-testbed/scenarios/referer/referer(classic).php" --level=3`
 
 ```text
 root@kali:~# commix --url="http://192.168.0.23/commix-testbed/scenarios/referer/referer(classic).php" --level=3
@@ -164,9 +164,9 @@ root@kali:~#
 Video
 ```
 
-### `commix（示例）`
+### `commix -h`
 
-官方给出的调用示例：`commix -h`
+> 官方示例调用：`commix -h`
 
 ```text
 root@kali:~# commix -h

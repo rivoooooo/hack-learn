@@ -37,7 +37,7 @@ man mcp-kali-server         # 查看手册
 
 ### `kali-server-mcp`
 
-官方给出的调用示例：`kali-server-mcp -h`
+> 官方示例调用：`kali-server-mcp -h`
 
 ```text
 root@kali:~# kali-server-mcp -h
@@ -53,7 +53,7 @@ options:
 
 ### `mcp-server`
 
-官方给出的调用示例：`mcp-server -h`
+> 官方示例调用：`mcp-server -h`
 
 ```text
 root@kali:~# mcp-server -h

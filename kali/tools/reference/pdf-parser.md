@@ -52,7 +52,7 @@ Indirect object: 526
 
 ### `pdf-parser`
 
-官方给出的调用示例：`pdf-parser -a /usr/share/doc/texmf/fonts/lm/lm-info.pdf`
+> 官方示例调用：`pdf-parser -a /usr/share/doc/texmf/fonts/lm/lm-info.pdf`
 
 ```text
 root@kali:~# pdf-parser -a /usr/share/doc/texmf/fonts/lm/lm-info.pdf
@@ -72,9 +72,9 @@ Indirect object: 526
  /XObject 1: 13
 ```
 
-### `pdf-parser（示例）`
+### `pdf-parser -h`
 
-官方给出的调用示例：`pdf-parser -h`
+> 官方示例调用：`pdf-parser -h`
 
 ```text
 root@kali:~# pdf-parser -h

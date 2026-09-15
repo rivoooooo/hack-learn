@@ -37,7 +37,7 @@ man proximoth         # 查看手册
 
 ### `proximoth`
 
-官方给出的调用示例：`proximoth -h`
+> 官方示例调用：`proximoth -h`
 
 ```text
 root@kali:~# proximoth -h

@@ -37,7 +37,7 @@ man redsocks         # 查看手册
 
 ### `redsocks`
 
-官方给出的调用示例：`redsocks -h`
+> 官方示例调用：`redsocks -h`
 
 ```text
 root@kali:~# redsocks -h

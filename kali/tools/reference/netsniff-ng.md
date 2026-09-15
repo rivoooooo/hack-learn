@@ -37,7 +37,7 @@ man netsniff-ng         # 查看手册
 
 ### `astraceroute`
 
-官方给出的调用示例：`astraceroute -h`
+> 官方示例调用：`astraceroute -h`
 
 ```text
 root@kali:~# astraceroute -h
@@ -103,7 +103,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ### `bpfc`
 
-官方给出的调用示例：`bpfc -h`
+> 官方示例调用：`bpfc -h`
 
 ```text
 root@kali:~# bpfc -h
@@ -141,7 +141,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ### `curvetun`
 
-官方给出的调用示例：`curvetun -h`
+> 官方示例调用：`curvetun -h`
 
 ```text
 root@kali:~# curvetun -h
@@ -188,7 +188,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ### `flowtop`
 
-官方给出的调用示例：`flowtop -h`
+> 官方示例调用：`flowtop -h`
 
 ```text
 root@kali:~# flowtop -h
@@ -233,7 +233,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ### `ifpps`
 
-官方给出的调用示例：`ifpps -h`
+> 官方示例调用：`ifpps -h`
 
 ```text
 root@kali:~# ifpps -h
@@ -275,7 +275,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ### `mausezahn`
 
-官方给出的调用示例：`mausezahn -h`
+> 官方示例调用：`mausezahn -h`
 
 ```text
 root@kali:~# mausezahn -h
@@ -353,7 +353,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ### `netsniff-ng`
 
-官方给出的调用示例：`netsniff-ng -h`
+> 官方示例调用：`netsniff-ng -h`
 
 ```text
 root@kali:~# netsniff-ng -h
@@ -431,7 +431,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 ### `trafgen`
 
-官方给出的调用示例：`trafgen -h`
+> 官方示例调用：`trafgen -h`
 
 ```text
 root@kali:~# trafgen -h

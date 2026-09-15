@@ -37,7 +37,7 @@ man goldeneye         # 查看手册
 
 ### `goldeneye`
 
-官方给出的调用示例：`goldeneye -h`
+> 官方示例调用：`goldeneye -h`
 
 ```text
 root@kali:~# goldeneye -h

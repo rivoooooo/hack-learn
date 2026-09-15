@@ -37,7 +37,7 @@ man nasm         # 查看手册
 
 ### `nasm`
 
-官方给出的调用示例：`nasm -h`
+> 官方示例调用：`nasm -h`
 
 ```text
 root@kali:~# nasm -h
@@ -91,7 +91,7 @@ Usage: nasm [-@ response_file] [options...] [--] filename
 
 ### `ndisasm`
 
-官方给出的调用示例：`ndisasm -h`
+> 官方示例调用：`ndisasm -h`
 
 ```text
 root@kali:~# ndisasm -h

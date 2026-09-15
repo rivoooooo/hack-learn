@@ -36,7 +36,7 @@ man macchanger         # 查看手册
 
 ### `macchanger`
 
-官方给出的调用示例：`macchanger -h`
+> 官方示例调用：`macchanger -h`
 
 ```text
 root@kali:~# macchanger -h

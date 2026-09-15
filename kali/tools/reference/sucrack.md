@@ -37,7 +37,7 @@ man sucrack         # 查看手册
 
 ### `sucrack`
 
-官方给出的调用示例：`sucrack -h`
+> 官方示例调用：`sucrack -h`
 
 ```text
 root@kali:~# sucrack -h

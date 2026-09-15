@@ -73,7 +73,7 @@ version: 0.0.9.15
 
 ### `d2j-jar-remap`
 
-官方给出的调用示例：`d2j-jar-remap -h`
+> 官方示例调用：`d2j-jar-remap -h`
 
 ```text
 root@kali:~# d2j-jar-remap -h
@@ -103,7 +103,7 @@ d2j-dex-dump
 
 ### `d2j-dex-dump`
 
-官方给出的调用示例：`d2j-dex-dump -h`
+> 官方示例调用：`d2j-dex-dump -h`
 
 ```text
 root@kali:~# d2j-dex-dump -h
@@ -113,7 +113,7 @@ d2j-init-deobf
 
 ### `d2j-init-deobf`
 
-官方给出的调用示例：`d2j-init-deobf -h`
+> 官方示例调用：`d2j-init-deobf -h`
 
 ```text
 root@kali:~# d2j-init-deobf -h
@@ -134,9 +134,9 @@ version: 0.0.9.15
 d2j-jar-remap
 ```
 
-### `d2j-jar-remap（示例）`
+### `d2j-jar-remap -h`
 
-官方给出的调用示例：`d2j-jar-remap -h`
+> 官方示例调用：`d2j-jar-remap -h`
 
 ```text
 root@kali:~# d2j-jar-remap -h
@@ -154,7 +154,7 @@ version: 0.0.9.15
 online help: https://code.google.com/p/dex2jar/wiki/DeObfuscateJarWithDexTool
 ```
 
-### `dex2jar（示例）`
+### `dex2jar`
 
 ```text
 root@kali:~# dex2jar
@@ -164,9 +164,9 @@ dex2jar file1.dexORapk file2.dexORapk ...
 d2j-dex-dump
 ```
 
-### `d2j-dex-dump（示例）`
+### `d2j-dex-dump -h`
 
-官方给出的调用示例：`d2j-dex-dump -h`
+> 官方示例调用：`d2j-dex-dump -h`
 
 ```text
 root@kali:~# d2j-dex-dump -h
@@ -174,9 +174,9 @@ Dump in.dexORapk out.dump.jar
 d2j-init-deobf
 ```
 
-### `d2j-init-deobf（示例）`
+### `d2j-init-deobf -h`
 
-官方给出的调用示例：`d2j-init-deobf -h`
+> 官方示例调用：`d2j-init-deobf -h`
 
 ```text
 root@kali:~# d2j-init-deobf -h
@@ -197,9 +197,9 @@ version: 0.0.9.15
 d2j-jar-remap
 ```
 
-### `d2j-jar-remap（示例）`
+### `d2j-jar-remap -h`
 
-官方给出的调用示例：`d2j-jar-remap -h`
+> 官方示例调用：`d2j-jar-remap -h`
 
 ```text
 root@kali:~# d2j-jar-remap -h
@@ -217,7 +217,7 @@ version: 0.0.9.15
 online help: https://code.google.com/p/dex2jar/wiki/DeObfuscateJarWithDexTool
 ```
 
-### `dex2jar（示例）`
+### `dex2jar`
 
 ```text
 root@kali:~# dex2jar

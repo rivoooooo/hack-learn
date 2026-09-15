@@ -37,7 +37,7 @@ man exifprobe         # 查看手册
 
 ### `exifgrep`
 
-官方给出的调用示例：`exifgrep -h`
+> 官方示例调用：`exifgrep -h`
 
 ```text
 root@kali:~# exifgrep -h
@@ -46,7 +46,7 @@ Usage: exifgrep [-var|-export] [-num] [-r] [-t] [-n] [-c] [egrep-options] egrep-
 
 ### `exifprobe`
 
-官方给出的调用示例：`exifprobe -h`
+> 官方示例调用：`exifprobe -h`
 
 ```text
 root@kali:~# exifprobe -h

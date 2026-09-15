@@ -36,7 +36,7 @@ man cri-tools         # 查看手册
 
 ### `crictl`
 
-官方给出的调用示例：`crictl -h`
+> 官方示例调用：`crictl -h`
 
 ```text
 root@kali:~# crictl -h
@@ -96,7 +96,7 @@ GLOBAL OPTIONS:
 
 ### `critest`
 
-官方给出的调用示例：`critest -h`
+> 官方示例调用：`critest -h`
 
 ```text
 root@kali:~# critest -h

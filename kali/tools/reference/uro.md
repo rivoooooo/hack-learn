@@ -37,7 +37,7 @@ man uro         # 查看手册
 
 ### `uro`
 
-官方给出的调用示例：`uro -h`
+> 官方示例调用：`uro -h`
 
 ```text
 root@kali:~# uro -h

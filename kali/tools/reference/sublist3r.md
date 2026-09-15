@@ -69,7 +69,7 @@ tools.kali.org
 
 ### `sublist3r`
 
-官方给出的调用示例：`sublist3r -d kali.org -t 3 -e bing`
+> 官方示例调用：`sublist3r -d kali.org -t 3 -e bing`
 
 ```text
 root@kali:~# sublist3r -d kali.org -t 3 -e bing
@@ -103,9 +103,9 @@ security.kali.org
 tools.kali.org
 ```
 
-### `sublist3r（示例）`
+### `sublist3r -h`
 
-官方给出的调用示例：`sublist3r -h`
+> 官方示例调用：`sublist3r -h`
 
 ```text
 root@kali:~# sublist3r -h

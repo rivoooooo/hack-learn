@@ -37,7 +37,7 @@ man findomain         # 查看手册
 
 ### `findomain`
 
-官方给出的调用示例：`findomain -h`
+> 官方示例调用：`findomain -h`
 
 ```text
 root@kali:~# findomain -h

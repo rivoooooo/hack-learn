@@ -36,7 +36,7 @@ man socat         # 查看手册
 
 ### `filan`
 
-官方给出的调用示例：`filan -h`
+> 官方示例调用：`filan -h`
 
 ```text
 root@kali:~# filan -h
@@ -64,7 +64,7 @@ filan [options]
 
 ### `procan`
 
-官方给出的调用示例：`procan -h`
+> 官方示例调用：`procan -h`
 
 ```text
 root@kali:~# procan -h
@@ -81,7 +81,7 @@ procan [options]
 
 ### `socat`
 
-官方给出的调用示例：`socat -h`
+> 官方示例调用：`socat -h`
 
 ```text
 root@kali:~# socat -h
@@ -251,7 +251,7 @@ socat [options] <bi-address> <bi-address>
 
 ### `socat-broker.sh`
 
-官方给出的调用示例：`socat-broker.sh -h`
+> 官方示例调用：`socat-broker.sh -h`
 
 ```text
 root@kali:~# socat-broker.sh -h
@@ -269,7 +269,7 @@ Data sent by any client is forwarded to all other clients
 
 ### `socat-chain.sh`
 
-官方给出的调用示例：`socat-chain.sh -h`
+> 官方示例调用：`socat-chain.sh -h`
 
 ```text
 root@kali:~# socat-chain.sh -h
@@ -295,7 +295,7 @@ Example to drive SOCKS over TLS:
 
 ### `socat-mux.sh`
 
-官方给出的调用示例：`socat-mux.sh -h`
+> 官方示例调用：`socat-mux.sh -h`
 
 ```text
 root@kali:~# socat-mux.sh -h
@@ -315,7 +315,7 @@ data provided by 10.2.3.4 is sent to ALL clients
 
 ### `socat1`
 
-官方给出的调用示例：`socat1 -h`
+> 官方示例调用：`socat1 -h`
 
 ```text
 root@kali:~# socat1 -h

@@ -55,9 +55,9 @@ Scan started at [05/15/14 16:51:46] on 00:19:0E:0E:EA:4B.
 Hit Ctrl+C to end scan.
 ```
 
-### `bluelog（示例）`
+### `bluelog -h`
 
-官方给出的调用示例：`bluelog -h`
+> 官方示例调用：`bluelog -h`
 
 ```text
 root@kali:~# bluelog -h

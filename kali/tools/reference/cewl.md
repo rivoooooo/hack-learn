@@ -41,7 +41,7 @@ root@kali:~# wc -l docswords.txt
 
 ### `cewl`
 
-官方给出的调用示例：`cewl -d 2 -m 5 -w docswords.txt https://example.com`
+> 官方示例调用：`cewl -d 2 -m 5 -w docswords.txt https://example.com`
 
 ```text
 root@kali:~# cewl -d 2 -m 5 -w docswords.txt https://example.com
@@ -52,16 +52,16 @@ CeWL 5.4.3 (Arkanoid) Robin Wood (
 
 ### `wc`
 
-官方给出的调用示例：`wc -l docswords.txt`
+> 官方示例调用：`wc -l docswords.txt`
 
 ```text
 root@kali:~# wc -l docswords.txt
 13 docswords.txt
 ```
 
-### `cewl（示例）`
+### `cewl -h`
 
-官方给出的调用示例：`cewl -h`
+> 官方示例调用：`cewl -h`
 
 ```text
 root@kali:~# cewl -h
@@ -109,7 +109,7 @@ Usage: cewl [OPTIONS] ... <url>
 
 ### `fab-cewl`
 
-官方给出的调用示例：`fab-cewl -h`
+> 官方示例调用：`fab-cewl -h`
 
 ```text
 root@kali:~# fab-cewl -h

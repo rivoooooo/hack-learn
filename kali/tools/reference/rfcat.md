@@ -37,7 +37,7 @@ man rfcat         # 查看手册
 
 ### `rfcat`
 
-官方给出的调用示例：`rfcat -h`
+> 官方示例调用：`rfcat -h`
 
 ```text
 root@kali:~# rfcat -h
@@ -61,7 +61,7 @@ options:
 
 ### `rfcat_bootloader`
 
-官方给出的调用示例：`rfcat_bootloader -h`
+> 官方示例调用：`rfcat_bootloader -h`
 
 ```text
 root@kali:~# rfcat_bootloader -h
@@ -97,7 +97,7 @@ Commands:
 
 ### `rfcat_msfrelay`
 
-官方给出的调用示例：`rfcat_msfrelay -h`
+> 官方示例调用：`rfcat_msfrelay -h`
 
 ```text
 root@kali:~# rfcat_msfrelay -h

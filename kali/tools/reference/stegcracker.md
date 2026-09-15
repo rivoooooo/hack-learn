@@ -37,7 +37,7 @@ man stegcracker         # 查看手册
 
 ### `stegcracker`
 
-官方给出的调用示例：`stegcracker -h`
+> 官方示例调用：`stegcracker -h`
 
 ```text
 root@kali:~# stegcracker -h

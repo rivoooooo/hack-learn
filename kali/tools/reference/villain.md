@@ -37,7 +37,7 @@ man villain         # 查看手册
 
 ### `villain`
 
-官方给出的调用示例：`villain -h`
+> 官方示例调用：`villain -h`
 
 ```text
 root@kali:~# villain -h

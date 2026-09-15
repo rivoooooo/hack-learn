@@ -37,7 +37,7 @@ man libhivex-bin         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man hivexget`
+> 官方示例调用：`man hivexget`
 
 ```text
 root@kali:~# man hivexget
@@ -96,9 +96,9 @@ COPYRIGHT
 hivex-1.3.24                       2026-08-02                       hivexget(1)
 ```
 
-### `man（示例）`
+### `man hivexml`
 
-官方给出的调用示例：`man hivexml`
+> 官方示例调用：`man hivexml`
 
 ```text
 root@kali:~# man hivexml
@@ -140,9 +140,9 @@ COPYRIGHT
 hivex-1.3.24                       2026-08-02                        hivexml(1)
 ```
 
-### `man（示例）`
+### `man hivexsh`
 
-官方给出的调用示例：`man hivexsh`
+> 官方示例调用：`man hivexsh`
 
 ```text
 root@kali:~# man hivexsh
@@ -334,7 +334,7 @@ hivex-1.3.24                       2026-08-02                        hivexsh(1)
 
 ### `hivexregedit`
 
-官方给出的调用示例：`hivexregedit -h`
+> 官方示例调用：`hivexregedit -h`
 
 ```text
 root@kali:~# hivexregedit -h

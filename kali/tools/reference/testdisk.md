@@ -37,7 +37,7 @@ man photorec         # 查看手册
 
 ### `fidentify`
 
-官方给出的调用示例：`fidentify -h`
+> 官方示例调用：`fidentify -h`
 
 ```text
 root@kali:~# fidentify -h
@@ -49,7 +49,7 @@ By default, all known file formats are searched unless one is specifically enabl
 
 ### `photorec`
 
-官方给出的调用示例：`photorec -h`
+> 官方示例调用：`photorec -h`
 
 ```text
 root@kali:~# photorec -h
@@ -68,7 +68,7 @@ in the recup_dir directory.
 
 ### `qphotorec`
 
-官方给出的调用示例：`qphotorec -h`
+> 官方示例调用：`qphotorec -h`
 
 ```text
 root@kali:~# qphotorec -h
@@ -80,7 +80,7 @@ in recup_dir directory.
 
 ### `testdisk`
 
-官方给出的调用示例：`testdisk -h`
+> 官方示例调用：`testdisk -h`
 
 ```text
 root@kali:~# testdisk -h

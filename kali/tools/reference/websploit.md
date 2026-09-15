@@ -100,7 +100,7 @@ wsf:Dir_Scanner > run
 
 ### `man`
 
-官方给出的调用示例：`man websploit`
+> 官方示例调用：`man websploit`
 
 ```text
 root@kali:~# man websploit

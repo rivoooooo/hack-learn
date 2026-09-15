@@ -37,7 +37,7 @@ man rifiuti         # 查看手册
 
 ### `rifiuti`
 
-官方给出的调用示例：`rifiuti -h`
+> 官方示例调用：`rifiuti -h`
 
 ```text
 root@kali:~# rifiuti -h

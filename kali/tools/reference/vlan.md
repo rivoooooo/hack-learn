@@ -36,7 +36,7 @@ man vlan         # 查看手册
 
 ### `vconfig`
 
-官方给出的调用示例：`vconfig -h`
+> 官方示例调用：`vconfig -h`
 
 ```text
 root@kali:~# vconfig -h

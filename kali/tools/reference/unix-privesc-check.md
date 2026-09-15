@@ -62,7 +62,7 @@ Recording Interface IP addresses
 
 ### `unix-privesc-check`
 
-官方给出的调用示例：`unix-privesc-check standard`
+> 官方示例调用：`unix-privesc-check standard`
 
 ```text
 root@kali:~# unix-privesc-check standard
@@ -87,9 +87,9 @@ Linux kali 3.12-kali1-amd64 #1 SMP Debian 3.12.9-1kali1 (2014-05-13) x86_64 GNU/
 Recording Interface IP addresses
 ```
 
-### `unix-privesc-check（示例）`
+### `unix-privesc-check -h`
 
-官方给出的调用示例：`unix-privesc-check -h`
+> 官方示例调用：`unix-privesc-check -h`
 
 ```text
 root@kali:~# unix-privesc-check -h

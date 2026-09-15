@@ -37,7 +37,7 @@ man sprayingtoolkit         # 查看手册
 
 ### `atomizer`
 
-官方给出的调用示例：`atomizer -h`
+> 官方示例调用：`atomizer -h`
 
 ```text
 root@kali:~# atomizer -h
@@ -72,7 +72,7 @@ Options:
 
 ### `spindrift`
 
-官方给出的调用示例：`spindrift -h`
+> 官方示例调用：`spindrift -h`
 
 ```text
 root@kali:~# spindrift -h
@@ -88,7 +88,7 @@ Options:
 
 ### `sprayingtoolkit`
 
-官方给出的调用示例：`sprayingtoolkit -h`
+> 官方示例调用：`sprayingtoolkit -h`
 
 ```text
 root@kali:~# sprayingtoolkit -h

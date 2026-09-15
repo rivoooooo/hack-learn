@@ -37,7 +37,7 @@ man mitm6         # 查看手册
 
 ### `mitm6`
 
-官方给出的调用示例：`mitm6 -h`
+> 官方示例调用：`mitm6 -h`
 
 ```text
 root@kali:~# mitm6 -h

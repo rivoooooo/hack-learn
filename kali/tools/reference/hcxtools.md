@@ -37,7 +37,7 @@ man hcxtools         # 查看手册
 
 ### `hcxeiutool`
 
-官方给出的调用示例：`hcxeiutool -h`
+> 官方示例调用：`hcxeiutool -h`
 
 ```text
 root@kali:~# hcxeiutool -h
@@ -68,7 +68,7 @@ $ hashcat -m 22000 hash.22000 wordlist
 
 ### `hcxhash2cap`
 
-官方给出的调用示例：`hcxhash2cap -h`
+> 官方示例调用：`hcxhash2cap -h`
 
 ```text
 root@kali:~# hcxhash2cap -h
@@ -95,7 +95,7 @@ Hash files that contain EAPOL M3 MESSAGEs can't be converted back to a cap file.
 
 ### `hcxhashtool`
 
-官方给出的调用示例：`hcxhashtool -h`
+> 官方示例调用：`hcxhashtool -h`
 
 ```text
 root@kali:~# hcxhashtool -h
@@ -202,7 +202,7 @@ in case of a packet loss, you get a wrong PTK
 
 ### `hcxpcapngtool`
 
-官方给出的调用示例：`hcxpcapngtool -h`
+> 官方示例调用：`hcxpcapngtool -h`
 
 ```text
 root@kali:~# hcxpcapngtool -h
@@ -332,7 +332,7 @@ Recommended tools to retrieve PSK from hash: hashcat, JtR
 
 ### `hcxpmktool`
 
-官方给出的调用示例：`hcxpmktool -h`
+> 官方示例调用：`hcxpmktool -h`
 
 ```text
 root@kali:~# hcxpmktool -h
@@ -358,7 +358,7 @@ in case of a packet loss, you get a wrong PTK
 
 ### `hcxpottool`
 
-官方给出的调用示例：`hcxpottool -h`
+> 官方示例调用：`hcxpottool -h`
 
 ```text
 root@kali:~# hcxpottool -h
@@ -401,7 +401,7 @@ long options:
 
 ### `hcxpsktool`
 
-官方给出的调用示例：`hcxpsktool -h`
+> 官方示例调用：`hcxpsktool -h`
 
 ```text
 root@kali:~# hcxpsktool -h
@@ -451,7 +451,7 @@ if hcxpsktool recovered your password, you should change it immediately!
 
 ### `hcxwltool`
 
-官方给出的调用示例：`hcxwltool -h`
+> 官方示例调用：`hcxwltool -h`
 
 ```text
 root@kali:~# hcxwltool -h
@@ -481,7 +481,7 @@ hcxwltool -i wordlist --xdigit | sort | uniq | john --stdin --format=wpapsk-open
 
 ### `whoismac`
 
-官方给出的调用示例：`whoismac -h`
+> 官方示例调用：`whoismac -h`
 
 ```text
 root@kali:~# whoismac -h
@@ -503,7 +503,7 @@ options:
 
 ### `wlancap2wpasec`
 
-官方给出的调用示例：`wlancap2wpasec -h`
+> 官方示例调用：`wlancap2wpasec -h`
 
 ```text
 root@kali:~# wlancap2wpasec -h

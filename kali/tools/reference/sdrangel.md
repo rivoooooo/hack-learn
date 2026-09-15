@@ -37,7 +37,7 @@ man sdrangel         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man sdrangel`
+> 官方示例调用：`man sdrangel`
 
 ```text
 root@kali:~# man sdrangel
@@ -85,7 +85,7 @@ SDRangel                                                            SDRANGEL(1)
 
 ### `sdrangelbench`
 
-官方给出的调用示例：`sdrangelbench -h`
+> 官方示例调用：`sdrangelbench -h`
 
 ```text
 root@kali:~# sdrangelbench -h
@@ -108,7 +108,7 @@ Options:
 
 ### `sdrangelsrv`
 
-官方给出的调用示例：`sdrangelsrv -h`
+> 官方示例调用：`sdrangelsrv -h`
 
 ```text
 root@kali:~# sdrangelsrv -h

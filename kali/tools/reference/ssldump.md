@@ -37,7 +37,7 @@ man ssldump         # 查看手册
 
 ### `ssldump`
 
-官方给出的调用示例：`ssldump --help`
+> 官方示例调用：`ssldump --help`
 
 ```text
 root@kali:~# ssldump --help

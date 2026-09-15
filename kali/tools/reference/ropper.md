@@ -37,7 +37,7 @@ man ropper         # 查看手册
 
 ### `ropper`
 
-官方给出的调用示例：`ropper -h`
+> 官方示例调用：`ropper -h`
 
 ```text
 root@kali:~# ropper -h

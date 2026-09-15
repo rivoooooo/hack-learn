@@ -46,7 +46,7 @@ root@kali:~# statsprocessor --pw-min=6 --pw-max=8 /usr/share/oclhashcat/hashcat.
 
 ### `statsprocessor`
 
-官方给出的调用示例：`statsprocessor --pw-min=6 --pw-max=8 /usr/share/oclhashcat/hashcat.hcstat`
+> 官方示例调用：`statsprocessor --pw-min=6 --pw-max=8 /usr/share/oclhashcat/hashcat.hcstat`
 
 ```text
 root@kali:~# statsprocessor --pw-min=6 --pw-max=8 /usr/share/oclhashcat/hashcat.hcstat
@@ -62,7 +62,7 @@ root@kali:~# statsprocessor --pw-min=6 --pw-max=8 /usr/share/oclhashcat/hashcat.
 
 ### `sp32`
 
-官方给出的调用示例：`sp32 -h`
+> 官方示例调用：`sp32 -h`
 
 ```text
 root@kali:~# sp32 -h
@@ -106,7 +106,7 @@ Usage: sp32 [options]... hcstat-file [filter-mask]
 
 ### `sp64`
 
-官方给出的调用示例：`sp64 -h`
+> 官方示例调用：`sp64 -h`
 
 ```text
 root@kali:~# sp64 -h

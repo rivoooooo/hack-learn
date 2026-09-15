@@ -38,15 +38,15 @@ root@kali:~# apache-users -h 192.168.1.202 -l /usr/share/wordlists/metasploit/un
 
 ### `apache-users`
 
-官方给出的调用示例：`apache-users -h 192.168.1.202 -l /usr/share/wordlists/metasploit/unix_users.txt -p 80 -s 0 -e 403 -t 10`
+> 官方示例调用：`apache-users -h 192.168.1.202 -l /usr/share/wordlists/metasploit/unix_users.txt -p 80 -s 0 -e 403 -t 10`
 
 ```text
 root@kali:~# apache-users -h 192.168.1.202 -l /usr/share/wordlists/metasploit/unix_users.txt -p 80 -s 0 -e 403 -t 10
 ```
 
-### `apache-users（示例）`
+### `apache-users -h`
 
-官方给出的调用示例：`apache-users -h`
+> 官方示例调用：`apache-users -h`
 
 ```text
 root@kali:~# apache-users -h

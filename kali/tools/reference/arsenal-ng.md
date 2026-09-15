@@ -37,7 +37,7 @@ man arsenal-ng         # 查看手册
 
 ### `arsenal-ng`
 
-官方给出的调用示例：`arsenal-ng -h`
+> 官方示例调用：`arsenal-ng -h`
 
 ```text
 root@kali:~# arsenal-ng -h

@@ -49,7 +49,7 @@ AP E0:3F:49:6A:57:78 seems to be INVULNERABLE!
 
 ### `mdk3`
 
-官方给出的调用示例：`mdk3 wlan0 a`
+> 官方示例调用：`mdk3 wlan0 a`
 
 ```text
 root@kali:~# mdk3 wlan0 a
@@ -65,9 +65,9 @@ Connecting Client: 00:00:00:00:00:00 to target AP: E0:3F:49:6A:57:78
 AP E0:3F:49:6A:57:78 seems to be INVULNERABLE!
 ```
 
-### `mdk3（示例）`
+### `mdk3 --help`
 
-官方给出的调用示例：`mdk3 --help`
+> 官方示例调用：`mdk3 --help`
 
 ```text
 root@kali:~# mdk3 --help

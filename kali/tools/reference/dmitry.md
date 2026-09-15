@@ -48,7 +48,7 @@ Gathered Inet-whois information for 93.184.216.119
 
 ### `dmitry`
 
-官方给出的调用示例：`dmitry -winsepo example.txt example.com`
+> 官方示例调用：`dmitry -winsepo example.txt example.com`
 
 ```text
 root@kali:~# dmitry -winsepo example.txt example.com
@@ -61,9 +61,9 @@ Gathered Inet-whois information for 93.184.216.119
 ---------------------------------
 ```
 
-### `dmitry（示例）`
+### `dmitry -h`
 
-官方给出的调用示例：`dmitry -h`
+> 官方示例调用：`dmitry -h`
 
 ```text
 root@kali:~# dmitry -h

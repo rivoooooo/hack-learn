@@ -37,7 +37,7 @@ man libnfsidmap-dev         # 查看手册
 
 ### `mount.nfs`
 
-官方给出的调用示例：`mount.nfs -h`
+> 官方示例调用：`mount.nfs -h`
 
 ```text
 root@kali:~# mount.nfs -h
@@ -56,7 +56,7 @@ options:
 
 ### `mount.nfs4`
 
-官方给出的调用示例：`mount.nfs4 -h`
+> 官方示例调用：`mount.nfs4 -h`
 
 ```text
 root@kali:~# mount.nfs4 -h
@@ -75,7 +75,7 @@ options:
 
 ### `mountstats`
 
-官方给出的调用示例：`mountstats -h`
+> 官方示例调用：`mountstats -h`
 
 ```text
 root@kali:~# mountstats -h
@@ -95,7 +95,7 @@ For specific sub-command help, run 'mountstats SUB-COMMAND -h|--help'
 
 ### `nfsconf`
 
-官方给出的调用示例：`nfsconf -h`
+> 官方示例调用：`nfsconf -h`
 
 ```text
 root@kali:~# nfsconf -h
@@ -123,7 +123,7 @@ Modes:
 
 ### `nfsidmap`
 
-官方给出的调用示例：`nfsidmap -h`
+> 官方示例调用：`nfsidmap -h`
 
 ```text
 root@kali:~# nfsidmap -h
@@ -132,7 +132,7 @@ nfsidmap: Usage: nfsidmap [-vh] [-c || [-u|-g|-r key] || -d || -l || [-t timeout
 
 ### `nfsiostat`
 
-官方给出的调用示例：`nfsiostat -h`
+> 官方示例调用：`nfsiostat -h`
 
 ```text
 root@kali:~# nfsiostat -h
@@ -166,7 +166,7 @@ Options:
 
 ### `nfsstat`
 
-官方给出的调用示例：`nfsstat --help`
+> 官方示例调用：`nfsstat --help`
 
 ```text
 root@kali:~# nfsstat --help
@@ -201,7 +201,7 @@ Usage: nfsstat [OPTION]...
 
 ### `rpc.gssd`
 
-官方给出的调用示例：`rpc.gssd -h`
+> 官方示例调用：`rpc.gssd -h`
 
 ```text
 root@kali:~# rpc.gssd -h
@@ -211,7 +211,7 @@ usage: rpc.gssd [-f] [-l] [-M] [-n] [-v] [-r] [-p pipefsdir] [-k keytab] [-d cca
 
 ### `rpc.idmapd`
 
-官方给出的调用示例：`rpc.idmapd -h`
+> 官方示例调用：`rpc.idmapd -h`
 
 ```text
 root@kali:~# rpc.idmapd -h
@@ -220,7 +220,7 @@ Usage: rpc.idmapd [-hfvCS] [-p path] [-c path]
 
 ### `rpc.statd`
 
-官方给出的调用示例：`rpc.statd -h`
+> 官方示例调用：`rpc.statd -h`
 
 ```text
 root@kali:~# rpc.statd -h

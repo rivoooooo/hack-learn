@@ -37,7 +37,7 @@ man mc         # 查看手册
 
 ### `mc`
 
-官方给出的调用示例：`mc -h`
+> 官方示例调用：`mc -h`
 
 ```text
 root@kali:~# mc -h
@@ -66,7 +66,7 @@ as tickets at www.midnight-commander.org
 
 ### `mcdiff`
 
-官方给出的调用示例：`mcdiff -h`
+> 官方示例调用：`mcdiff -h`
 
 ```text
 root@kali:~# mcdiff -h
@@ -95,7 +95,7 @@ as tickets at www.midnight-commander.org
 
 ### `mcedit`
 
-官方给出的调用示例：`mcedit -h`
+> 官方示例调用：`mcedit -h`
 
 ```text
 root@kali:~# mcedit -h
@@ -124,7 +124,7 @@ as tickets at www.midnight-commander.org
 
 ### `mcview`
 
-官方给出的调用示例：`mcview -h`
+> 官方示例调用：`mcview -h`
 
 ```text
 root@kali:~# mcview -h

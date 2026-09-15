@@ -37,7 +37,7 @@ man changeme         # 查看手册
 
 ### `changeme`
 
-官方给出的调用示例：`changeme -h`
+> 官方示例调用：`changeme -h`
 
 ```text
 root@kali:~# changeme -h

@@ -37,7 +37,7 @@ man dmeventd         # 查看手册
 
 ### `dmeventd`
 
-官方给出的调用示例：`dmeventd -h`
+> 官方示例调用：`dmeventd -h`
 
 ```text
 root@kali:~# dmeventd -h
@@ -56,7 +56,7 @@ dmeventd [-d [-d [-d]]] [-e path] [-f] [-h] [i] [-l] [-R] [-V] [-?]
 
 ### `blkdeactivate`
 
-官方给出的调用示例：`blkdeactivate -h`
+> 官方示例调用：`blkdeactivate -h`
 
 ```text
 root@kali:~# blkdeactivate -h
@@ -91,7 +91,7 @@ blkdeactivate: Utility to deactivate block devices
 
 ### `dmsetup`
 
-官方给出的调用示例：`dmsetup -h`
+> 官方示例调用：`dmsetup -h`
 
 ```text
 root@kali:~# dmsetup -h
@@ -100,7 +100,7 @@ Usage:
 
 ### `dmstats`
 
-官方给出的调用示例：`dmstats -h`
+> 官方示例调用：`dmstats -h`
 
 ```text
 root@kali:~# dmstats -h
@@ -109,7 +109,7 @@ Usage:
 
 ### `fsadm`
 
-官方给出的调用示例：`fsadm -h`
+> 官方示例调用：`fsadm -h`
 
 ```text
 root@kali:~# fsadm -h
@@ -134,7 +134,7 @@ fsadm: Utility to resize or check the filesystem on a device
 
 ### `lvchange`
 
-官方给出的调用示例：`lvchange -h`
+> 官方示例调用：`lvchange -h`
 
 ```text
 root@kali:~# lvchange -h
@@ -248,7 +248,7 @@ root@kali:~# lvchange -h
 
 ### `lvconvert`
 
-官方给出的调用示例：`lvconvert -h`
+> 官方示例调用：`lvconvert -h`
 
 ```text
 root@kali:~# lvconvert -h
@@ -475,7 +475,7 @@ root@kali:~# lvconvert -h
 
 ### `lvcreate`
 
-官方给出的调用示例：`lvcreate -h`
+> 官方示例调用：`lvcreate -h`
 
 ```text
 root@kali:~# lvcreate -h
@@ -702,7 +702,7 @@ root@kali:~# lvcreate -h
 
 ### `lvdisplay`
 
-官方给出的调用示例：`lvdisplay -h`
+> 官方示例调用：`lvdisplay -h`
 
 ```text
 root@kali:~# lvdisplay -h
@@ -768,7 +768,7 @@ root@kali:~# lvdisplay -h
 
 ### `lvextend`
 
-官方给出的调用示例：`lvextend -h`
+> 官方示例调用：`lvextend -h`
 
 ```text
 root@kali:~# lvextend -h

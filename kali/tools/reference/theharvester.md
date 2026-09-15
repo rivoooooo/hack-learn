@@ -65,7 +65,7 @@ root@kali:~# theHarvester -d kali.org -l 500 -b duckduckgo
 
 ### `theHarvester`
 
-官方给出的调用示例：`theHarvester -d kali.org -l 500 -b duckduckgo`
+> 官方示例调用：`theHarvester -d kali.org -l 500 -b duckduckgo`
 
 ````text
 root@kali:~# theHarvester -d kali.org -l 500 -b duckduckgo
@@ -96,7 +96,7 @@ root@kali:~# theHarvester -d kali.org -l 500 -b duckduckgo
 
 ### `restfulHarvest`
 
-官方给出的调用示例：`restfulHarvest -h`
+> 官方示例调用：`restfulHarvest -h`
 
 ```text
 root@kali:~# restfulHarvest -h
@@ -117,9 +117,9 @@ options:
 theHarvester
 ```
 
-### `theHarvester（示例）`
+### `theHarvester -h`
 
-官方给出的调用示例：`theHarvester -h`
+> 官方示例调用：`theHarvester -h`
 
 ```text
 root@kali:~# theHarvester -h
@@ -187,7 +187,7 @@ options:
 
 ### `theharvester`
 
-官方给出的调用示例：`theharvester -h`
+> 官方示例调用：`theharvester -h`
 
 ```text
 root@kali:~# theharvester -h

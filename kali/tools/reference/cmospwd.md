@@ -37,7 +37,7 @@ man cmospwd         # 查看手册
 
 ### `cmospwd`
 
-官方给出的调用示例：`cmospwd -h`
+> 官方示例调用：`cmospwd -h`
 
 ```text
 root@kali:~# cmospwd -h

@@ -37,7 +37,7 @@ man libregfi-dev         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man reglookup`
+> 官方示例调用：`man reglookup`
 
 ```text
 root@kali:~# man reglookup
@@ -184,9 +184,9 @@ SEE ALSO
 File Conversion Utilities        7 October 2025                    reglookup(1)
 ```
 
-### `man（示例）`
+### `man reglookup-recover`
 
-官方给出的调用示例：`man reglookup-recover`
+> 官方示例调用：`man reglookup-recover`
 
 ```text
 root@kali:~# man reglookup-recover
@@ -256,7 +256,7 @@ File Conversion Utilities        7 October 2025                    reglookup(1)
 
 ### `reglookup-timeline`
 
-官方给出的调用示例：`reglookup-timeline -h`
+> 官方示例调用：`reglookup-timeline -h`
 
 ```text
 root@kali:~# reglookup-timeline -h

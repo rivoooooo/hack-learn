@@ -37,7 +37,7 @@ man nmapsi4         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man nmapsi4`
+> 官方示例调用：`man nmapsi4`
 
 ```text
 root@kali:~# man nmapsi4

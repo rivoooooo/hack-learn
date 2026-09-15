@@ -37,7 +37,7 @@ man httpx-toolkit         # 查看手册
 
 ### `httpx-toolkit`
 
-官方给出的调用示例：`httpx-toolkit -h`
+> 官方示例调用：`httpx-toolkit -h`
 
 ```text
 root@kali:~# httpx-toolkit -h

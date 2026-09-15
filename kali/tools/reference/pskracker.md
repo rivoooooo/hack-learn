@@ -37,7 +37,7 @@ man pskracker         # 查看手册
 
 ### `pskracker`
 
-官方给出的调用示例：`pskracker -h`
+> 官方示例调用：`pskracker -h`
 
 ```text
 root@kali:~# pskracker -h

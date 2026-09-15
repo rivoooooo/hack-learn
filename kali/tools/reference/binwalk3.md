@@ -37,7 +37,7 @@ man binwalk3         # 查看手册
 
 ### `binwalk3`
 
-官方给出的调用示例：`binwalk3 -h`
+> 官方示例调用：`binwalk3 -h`
 
 ```text
 root@kali:~# binwalk3 -h

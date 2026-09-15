@@ -37,7 +37,7 @@ man witnessme         # 查看手册
 
 ### `witnessme`
 
-官方给出的调用示例：`witnessme -h`
+> 官方示例调用：`witnessme -h`
 
 ```text
 root@kali:~# witnessme -h
@@ -57,7 +57,7 @@ options:
 
 ### `wmapi`
 
-官方给出的调用示例：`wmapi -h`
+> 官方示例调用：`wmapi -h`
 
 ```text
 root@kali:~# wmapi -h

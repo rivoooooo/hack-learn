@@ -37,7 +37,7 @@ man myrescue         # 查看手册
 
 ### `myrescue`
 
-官方给出的调用示例：`myrescue --help`
+> 官方示例调用：`myrescue --help`
 
 ```text
 root@kali:~# myrescue --help
@@ -64,7 +64,7 @@ options:
 
 ### `myrescue-bitmap2ppm`
 
-官方给出的调用示例：`myrescue-bitmap2ppm -h`
+> 官方示例调用：`myrescue-bitmap2ppm -h`
 
 ```text
 root@kali:~# myrescue-bitmap2ppm -h
@@ -73,7 +73,7 @@ usage: bitmap2ppm <bitmap-file> <width> <rows> <width> ...
 
 ### `man`
 
-官方给出的调用示例：`man myrescue-stat`
+> 官方示例调用：`man myrescue-stat`
 
 ```text
 root@kali:~# man myrescue-stat

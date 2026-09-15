@@ -37,7 +37,7 @@ man libsmali-java         # 查看手册
 
 ### `baksmali`
 
-官方给出的调用示例：`baksmali -h`
+> 官方示例调用：`baksmali -h`
 
 ```text
 root@kali:~# baksmali -h
@@ -56,7 +56,7 @@ See baksmali help <command> for more information about a specific command
 
 ### `smali`
 
-官方给出的调用示例：`smali -h`
+> 官方示例调用：`smali -h`
 
 ```text
 root@kali:~# smali -h

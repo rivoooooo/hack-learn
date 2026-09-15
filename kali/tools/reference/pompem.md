@@ -37,7 +37,7 @@ man pompem         # 查看手册
 
 ### `pompem`
 
-官方给出的调用示例：`pompem -h`
+> 官方示例调用：`pompem -h`
 
 ```text
 root@kali:~# pompem -h

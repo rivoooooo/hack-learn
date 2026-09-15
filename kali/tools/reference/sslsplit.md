@@ -49,7 +49,7 @@ OpenSSL is thread-safe with THREADID
 
 ### `sslsplit`
 
-官方给出的调用示例：`sslsplit -D -l connections.log -j /tmp/sslsplit/ -S /tmp/ -k ca.key -c ca.crt ssl 0.0.0.0 8443 tcp 0.0.0.0 8080`
+> 官方示例调用：`sslsplit -D -l connections.log -j /tmp/sslsplit/ -S /tmp/ -k ca.key -c ca.crt ssl 0.0.0.0 8443 tcp 0.0.0.0 8080`
 
 ```text
 root@kali:~# sslsplit -D -l connections.log -j /tmp/sslsplit/ -S /tmp/ -k ca.key -c ca.crt ssl 0.0.0.0 8443 tcp 0.0.0.0 8080
@@ -68,9 +68,9 @@ TLS Server Name Indication (SNI) supported
 OpenSSL is thread-safe with THREADID
 ```
 
-### `sslsplit（示例）`
+### `sslsplit -h`
 
-官方给出的调用示例：`sslsplit -h`
+> 官方示例调用：`sslsplit -h`
 
 ```text
 root@kali:~# sslsplit -h

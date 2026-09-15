@@ -37,7 +37,7 @@ man forensics-colorize         # 查看手册
 
 ### `colorize`
 
-官方给出的调用示例：`colorize -h`
+> 官方示例调用：`colorize -h`
 
 ```text
 root@kali:~# colorize -h
@@ -53,7 +53,7 @@ $ colorize [-h|-V] [-w <num>] [-ovd] FILES
 
 ### `filecompare`
 
-官方给出的调用示例：`filecompare -h`
+> 官方示例调用：`filecompare -h`
 
 ```text
 root@kali:~# filecompare -h

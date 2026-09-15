@@ -37,7 +37,7 @@ man snort         # 查看手册
 
 ### `appid_detector_builder.sh`
 
-官方给出的调用示例：`appid_detector_builder.sh -h`
+> 官方示例调用：`appid_detector_builder.sh -h`
 
 ```text
 root@kali:~# appid_detector_builder.sh -h
@@ -49,7 +49,7 @@ AppId strings MUST NOT INCLUDE tab, backslash, apostrophe, or double-quote.
 
 ### `show_flows`
 
-官方给出的调用示例：`show_flows -h`
+> 官方示例调用：`show_flows -h`
 
 ```text
 root@kali:~# show_flows -h
@@ -61,7 +61,7 @@ Usage:
 
 ### `snort`
 
-官方给出的调用示例：`snort -h`
+> 官方示例调用：`snort -h`
 
 ```text
 root@kali:~# snort -h
@@ -98,7 +98,7 @@ Report bugs to
 
 ### `snort2lua`
 
-官方给出的调用示例：`snort2lua -h`
+> 官方示例调用：`snort2lua -h`
 
 ```text
 root@kali:~# snort2lua -h
@@ -173,7 +173,7 @@ Default values:
 
 ### `man`
 
-官方给出的调用示例：`man u2boat`
+> 官方示例调用：`man u2boat`
 
 ```text
 root@kali:~# man u2boat
@@ -202,9 +202,9 @@ AUTHOR
                                12th December 2014                     U2BOAT(1)
 ```
 
-### `man（示例）`
+### `man u2spewfoo`
 
-官方给出的调用示例：`man u2spewfoo`
+> 官方示例调用：`man u2spewfoo`
 
 ```text
 root@kali:~# man u2spewfoo

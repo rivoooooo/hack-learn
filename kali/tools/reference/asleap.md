@@ -47,7 +47,7 @@ Read a capture file (-r leap.dump), provide the hashfile filename (-f asleap.dat
 
 ### `genkeys`
 
-官方给出的调用示例：`genkeys -r /usr/share/wordlists/nmap.lst -f asleap.dat -n asleap.idx`
+> 官方示例调用：`genkeys -r /usr/share/wordlists/nmap.lst -f asleap.dat -n asleap.idx`
 
 ```text
 root@kali:~# genkeys -r /usr/share/wordlists/nmap.lst -f asleap.dat -n asleap.idx
@@ -71,7 +71,7 @@ Read a capture file (-r leap.dump), provide the hashfile filename (
 
 ### `asleap`
 
-官方给出的调用示例：`asleap -r leap.dump -f asleap.dat -n asleap.idx -s`
+> 官方示例调用：`asleap -r leap.dump -f asleap.dat -n asleap.idx -s`
 
 ```text
 root@kali:~# asleap -r leap.dump -f asleap.dat -n asleap.idx -s
@@ -94,9 +94,9 @@ Crack a challenge (
 ):
 ```
 
-### `asleap（示例）`
+### `asleap -C 58:16:d5:ac:4b:dc:e4:0f -R 50:ae:a3:0a:10:9e:28…`
 
-官方给出的调用示例：`asleap -C 58:16:d5:ac:4b:dc:e4:0f -R 50:ae:a3:0a:10:9e:28:f9:33:1b:44:b1:3d:9e:20:91:85:e8:2e:c3:c5:4c:00:23 -W password.lst`
+> 官方示例调用：`asleap -C 58:16:d5:ac:4b:dc:e4:0f -R 50:ae:a3:0a:10:9e:28:f9:33:1b:44:b1:3d:9e:20:91:85:e8:2e:c3:c5:4c:00:23 -W password.lst`
 
 ```text
 root@kali:~# asleap -C 58:16:d5:ac:4b:dc:e4:0f -R 50:ae:a3:0a:10:9e:28:f9:33:1b:44:b1:3d:9e:20:91:85:e8:2e:c3:c5:4c:00:23 -W password.lst
@@ -109,9 +109,9 @@ Using wordlist mode with "password.lst".
     password:          password
 ```
 
-### `asleap（示例）`
+### `asleap -h`
 
-官方给出的调用示例：`asleap -h`
+> 官方示例调用：`asleap -h`
 
 ```text
 root@kali:~# asleap -h
@@ -132,9 +132,9 @@ Usage: asleap [options]
 	-W 	ASCII dictionary file (special purpose)
 ```
 
-### `genkeys（示例）`
+### `genkeys -h`
 
-官方给出的调用示例：`genkeys -h`
+> 官方示例调用：`genkeys -h`
 
 ```text
 root@kali:~# genkeys -h

@@ -37,7 +37,7 @@ man unar         # 查看手册
 
 ### `lsar`
 
-官方给出的调用示例：`lsar -h`
+> 官方示例调用：`lsar -h`
 
 ```text
 root@kali:~# lsar -h
@@ -84,7 +84,7 @@ Available options:
 
 ### `unar`
 
-官方给出的调用示例：`unar -h`
+> 官方示例调用：`unar -h`
 
 ```text
 root@kali:~# unar -h

@@ -37,7 +37,7 @@ man gemini-cli         # 查看手册
 
 ### `gemini-cli`
 
-官方给出的调用示例：`gemini-cli -h`
+> 官方示例调用：`gemini-cli -h`
 
 ```text
 root@kali:~# gemini-cli -h

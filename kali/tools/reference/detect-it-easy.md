@@ -37,7 +37,7 @@ man detect-it-easy         # 查看手册
 
 ### `diec`
 
-官方给出的调用示例：`diec -h`
+> 官方示例调用：`diec -h`
 
 ```text
 root@kali:~# diec -h

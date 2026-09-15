@@ -37,7 +37,7 @@ man imhex         # 查看手册
 
 ### `imhex`
 
-官方给出的调用示例：`imhex -h`
+> 官方示例调用：`imhex -h`
 
 ```text
 root@kali:~# imhex -h
@@ -45,7 +45,7 @@ root@kali:~# imhex -h
 
 ### `imhex-updater`
 
-官方给出的调用示例：`imhex-updater -h`
+> 官方示例调用：`imhex-updater -h`
 
 ```text
 root@kali:~# imhex-updater -h

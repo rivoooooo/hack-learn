@@ -46,7 +46,7 @@ Disabling analysis of ARP packets on default interface:  eth0
 
 ### `voiphopper`
 
-官方给出的调用示例：`voiphopper -i eth0 -z`
+> 官方示例调用：`voiphopper -i eth0 -z`
 
 ```text
 root@kali:~# voiphopper -i eth0 -z
@@ -61,9 +61,9 @@ a
 Disabling analysis of ARP packets on default interface:  eth0
 ```
 
-### `voiphopper（示例）`
+### `voiphopper -h`
 
-官方给出的调用示例：`voiphopper -h`
+> 官方示例调用：`voiphopper -h`
 
 ```text
 root@kali:~# voiphopper -h

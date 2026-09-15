@@ -37,7 +37,7 @@ man pacu         # 查看手册
 
 ### `pacu`
 
-官方给出的调用示例：`pacu -h`
+> 官方示例调用：`pacu -h`
 
 ```text
 root@kali:~# pacu -h

@@ -37,7 +37,7 @@ man goshs         # 查看手册
 
 ### `goshs`
 
-官方给出的调用示例：`goshs -h`
+> 官方示例调用：`goshs -h`
 
 ```text
 root@kali:~# goshs -h

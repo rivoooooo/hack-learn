@@ -37,7 +37,7 @@ man creddump7         # 查看手册
 
 ### `creddump7`
 
-官方给出的调用示例：`creddump7 -h`
+> 官方示例调用：`creddump7 -h`
 
 ```text
 root@kali:~# creddump7 -h

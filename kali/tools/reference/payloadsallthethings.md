@@ -37,7 +37,7 @@ man payloadsallthethings         # 查看手册
 
 ### `payloadsallthethings`
 
-官方给出的调用示例：`payloadsallthethings -h`
+> 官方示例调用：`payloadsallthethings -h`
 
 ```text
 root@kali:~# payloadsallthethings -h

@@ -37,7 +37,7 @@ man netdiscover         # 查看手册
 
 ### `netdiscover`
 
-官方给出的调用示例：`netdiscover --help`
+> 官方示例调用：`netdiscover --help`
 
 ```text
 root@kali:~# netdiscover --help

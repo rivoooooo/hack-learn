@@ -37,7 +37,7 @@ man rtpmixsound         # 查看手册
 
 ### `rtpmixsound`
 
-官方给出的调用示例：`rtpmixsound /usr/share/rtpmixsound/stapler.wav -v`
+> 官方示例调用：`rtpmixsound /usr/share/rtpmixsound/stapler.wav -v`
 
 ```text
 root@kali:~# rtpmixsound /usr/share/rtpmixsound/stapler.wav -v
@@ -46,9 +46,9 @@ libfindrtp_find_rtp(): using pcap filter "ip".
 State: ip_a ==  | port_a == 0 | ip_b ==  | port_b == 0
 ```
 
-### `rtpmixsound（示例）`
+### `rtpmixsound -h`
 
-官方给出的调用示例：`rtpmixsound -h`
+> 官方示例调用：`rtpmixsound -h`
 
 ```text
 root@kali:~# rtpmixsound -h

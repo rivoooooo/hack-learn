@@ -37,7 +37,7 @@ man sipsak         # 查看手册
 
 ### `sipsak`
 
-官方给出的调用示例：`sipsak --help`
+> 官方示例调用：`sipsak --help`
 
 ```text
 root@kali:~# sipsak --help

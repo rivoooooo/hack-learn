@@ -45,7 +45,7 @@ Create a file containing domain names to scan (domains.txt) and pass it to dnsma
 
 ### `dnsmap`
 
-官方给出的调用示例：`dnsmap example.com -w /usr/share/wordlists/dnsmap.txt`
+> 官方示例调用：`dnsmap example.com -w /usr/share/wordlists/dnsmap.txt`
 
 ```text
 root@kali:~# dnsmap example.com -w /usr/share/wordlists/dnsmap.txt
@@ -58,15 +58,15 @@ Create a file containing domain names to scan (domains.txt) and pass it to dnsma
 
 ### `echo`
 
-官方给出的调用示例：`echo "example.com" >> domains.txt`
+> 官方示例调用：`echo "example.com" >> domains.txt`
 
 ```text
 root@kali:~# echo "example.com" >> domains.txt
 ```
 
-### `echo（示例）`
+### `echo "example.org" >> domains.txt`
 
-官方给出的调用示例：`echo "example.org" >> domains.txt`
+> 官方示例调用：`echo "example.org" >> domains.txt`
 
 ```text
 root@kali:~# echo "example.org" >> domains.txt
@@ -74,7 +74,7 @@ root@kali:~# echo "example.org" >> domains.txt
 
 ### `dnsmap-bulk.sh`
 
-官方给出的调用示例：`dnsmap-bulk.sh domains.txt`
+> 官方示例调用：`dnsmap-bulk.sh domains.txt`
 
 ```text
 root@kali:~# dnsmap-bulk.sh domains.txt
@@ -85,7 +85,7 @@ dnsmap 0.30 - DNS Network Mapper by pagvac (gnucitizen.org)
 
 ### `man`
 
-官方给出的调用示例：`man dnsmap`
+> 官方示例调用：`man dnsmap`
 
 ```text
 root@kali:~# man dnsmap
@@ -192,9 +192,9 @@ AUTHOR
 dnsmap-0.36                       25 Feb 2021                         dnsmap(1)
 ```
 
-### `man（示例）`
+### `man dnsmap-bulk`
 
-官方给出的调用示例：`man dnsmap-bulk`
+> 官方示例调用：`man dnsmap-bulk`
 
 ```text
 root@kali:~# man dnsmap-bulk

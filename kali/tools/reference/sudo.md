@@ -37,7 +37,7 @@ man libnss-sudo         # 查看手册
 
 ### `cvtsudoers`
 
-官方给出的调用示例：`cvtsudoers -h`
+> 官方示例调用：`cvtsudoers -h`
 
 ```text
 root@kali:~# cvtsudoers -h
@@ -64,7 +64,7 @@ Options:
 
 ### `sudo`
 
-官方给出的调用示例：`sudo -h`
+> 官方示例调用：`sudo -h`
 
 ```text
 root@kali:~# sudo -h
@@ -123,7 +123,7 @@ Options:
 
 ### `sudo_logsrvd`
 
-官方给出的调用示例：`sudo_logsrvd -h`
+> 官方示例调用：`sudo_logsrvd -h`
 
 ```text
 root@kali:~# sudo_logsrvd -h
@@ -139,7 +139,7 @@ Options:
 
 ### `sudo_sendlog`
 
-官方给出的调用示例：`sudo_sendlog --help`
+> 官方示例调用：`sudo_sendlog --help`
 
 ```text
 root@kali:~# sudo_sendlog --help
@@ -164,7 +164,7 @@ Options:
 
 ### `sudoedit`
 
-官方给出的调用示例：`sudoedit -h`
+> 官方示例调用：`sudoedit -h`
 
 ```text
 root@kali:~# sudoedit -h
@@ -200,7 +200,7 @@ Options:
 
 ### `sudoreplay`
 
-官方给出的调用示例：`sudoreplay -h`
+> 官方示例调用：`sudoreplay -h`
 
 ```text
 root@kali:~# sudoreplay -h
@@ -222,7 +222,7 @@ Options:
 
 ### `visudo`
 
-官方给出的调用示例：`visudo -h`
+> 官方示例调用：`visudo -h`
 
 ```text
 root@kali:~# visudo -h

@@ -37,7 +37,7 @@ man rarcrack         # 查看手册
 
 ### `rarcrack`
 
-官方给出的调用示例：`rarcrack --help`
+> 官方示例调用：`rarcrack --help`
 
 ```text
 root@kali:~# rarcrack --help

@@ -37,7 +37,7 @@ man quark-engine         # 查看手册
 
 ### `freshquark`
 
-官方给出的调用示例：`freshquark -h`
+> 官方示例调用：`freshquark -h`
 
 ```text
 root@kali:~# freshquark -h
@@ -49,7 +49,7 @@ To specify one of the rules of Quark-Rule, use /root/.quark-engine/quark-rules/r
 
 ### `quark`
 
-官方给出的调用示例：`quark --help`
+> 官方示例调用：`quark --help`
 
 ```text
 root@kali:~# quark --help

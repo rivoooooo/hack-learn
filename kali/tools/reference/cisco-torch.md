@@ -36,7 +36,7 @@ man cisco-torch         # 查看手册
 
 ### `cisco-torch`
 
-官方给出的调用示例：`cisco-torch -A 192.168.99.202`
+> 官方示例调用：`cisco-torch -A 192.168.99.202`
 
 ```text
 root@kali:~# cisco-torch -A 192.168.99.202
@@ -74,9 +74,9 @@ WWW-Authenticate: Basic realm="level_15_access"
 ---> Exiting.
 ```
 
-### `cisco-torch（示例）`
+### `cisco-torch -h`
 
-官方给出的调用示例：`cisco-torch -h`
+> 官方示例调用：`cisco-torch -h`
 
 ```text
 root@kali:~# cisco-torch -h

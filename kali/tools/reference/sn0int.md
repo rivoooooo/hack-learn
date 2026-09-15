@@ -37,7 +37,7 @@ man sn0int         # 查看手册
 
 ### `sn0int`
 
-官方给出的调用示例：`sn0int -h`
+> 官方示例调用：`sn0int -h`
 
 ```text
 root@kali:~# sn0int -h

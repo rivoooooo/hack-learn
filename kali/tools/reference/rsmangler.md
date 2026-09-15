@@ -42,7 +42,7 @@ root@kali:~# wc -l words.txt
 
 ### `cat`
 
-官方给出的调用示例：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
+> 官方示例调用：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
 
 ```text
 root@kali:~# cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt
@@ -50,16 +50,16 @@ root@kali:~# cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt
 
 ### `wc`
 
-官方给出的调用示例：`wc -l mangled.txt`
+> 官方示例调用：`wc -l mangled.txt`
 
 ```text
 root@kali:~# wc -l mangled.txt
 367 mangled.txt
 ```
 
-### `wc（示例）`
+### `wc -l words.txt`
 
-官方给出的调用示例：`wc -l words.txt`
+> 官方示例调用：`wc -l words.txt`
 
 ```text
 root@kali:~# wc -l words.txt
@@ -68,26 +68,26 @@ root@kali:~# wc -l words.txt
  mangled.txt):
 ```
 
-### `cat（示例）`
+### `cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
 
-官方给出的调用示例：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
+> 官方示例调用：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
 
 ```text
 root@kali:~# cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt
 ```
 
-### `wc（示例）`
+### `wc -l mangled.txt`
 
-官方给出的调用示例：`wc -l mangled.txt`
+> 官方示例调用：`wc -l mangled.txt`
 
 ```text
 root@kali:~# wc -l mangled.txt
 367 mangled.txt
 ```
 
-### `wc（示例）`
+### `wc -l words.txt`
 
-官方给出的调用示例：`wc -l words.txt`
+> 官方示例调用：`wc -l words.txt`
 
 ```text
 root@kali:~# wc -l words.txt
@@ -96,26 +96,26 @@ root@kali:~# wc -l words.txt
  mangled.txt):
 ```
 
-### `cat（示例）`
+### `cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
 
-官方给出的调用示例：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
+> 官方示例调用：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
 
 ```text
 root@kali:~# cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt
 ```
 
-### `wc（示例）`
+### `wc -l mangled.txt`
 
-官方给出的调用示例：`wc -l mangled.txt`
+> 官方示例调用：`wc -l mangled.txt`
 
 ```text
 root@kali:~# wc -l mangled.txt
 367 mangled.txt
 ```
 
-### `wc（示例）`
+### `wc -l words.txt`
 
-官方给出的调用示例：`wc -l words.txt`
+> 官方示例调用：`wc -l words.txt`
 
 ```text
 root@kali:~# wc -l words.txt
@@ -124,9 +124,9 @@ root@kali:~# wc -l words.txt
  mangled.txt):
 ```
 
-### `cat（示例）`
+### `cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
 
-官方给出的调用示例：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
+> 官方示例调用：`cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt`
 
 ```text
 root@kali:~# cat words.txt | rsmangler -m 6 -x 8 --file - > mangled.txt

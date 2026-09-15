@@ -37,7 +37,7 @@ man instaloader         # 查看手册
 
 ### `instaloader`
 
-官方给出的调用示例：`instaloader -h`
+> 官方示例调用：`instaloader -h`
 
 ```text
 root@kali:~# instaloader -h

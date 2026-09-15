@@ -107,7 +107,7 @@ root@kali:~#
 
 ### `ls`
 
-官方给出的调用示例：`ls -lh /usr/share/seclists/`
+> 官方示例调用：`ls -lh /usr/share/seclists/`
 
 ```text
 root@kali:~# ls -lh /usr/share/seclists/
@@ -132,7 +132,7 @@ root@kali:~#
 
 ### `tree`
 
-官方给出的调用示例：`tree -d /usr/share/seclists/`
+> 官方示例调用：`tree -d /usr/share/seclists/`
 
 ```text
 root@kali:~# tree -d /usr/share/seclists/
@@ -193,7 +193,7 @@ root@kali:~# tree -d /usr/share/seclists/
 53 directories
 ```
 
-### `（示例）`
+### ``
 
 ```text
 root@kali:~#
@@ -201,7 +201,7 @@ root@kali:~#
 
 ### `seclists`
 
-官方给出的调用示例：`seclists -h`
+> 官方示例调用：`seclists -h`
 
 ```text
 root@kali:~# seclists -h

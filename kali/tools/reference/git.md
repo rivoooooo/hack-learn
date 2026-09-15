@@ -37,7 +37,7 @@ man git         # 查看手册
 
 ### `git`
 
-官方给出的调用示例：`git -h`
+> 官方示例调用：`git -h`
 
 ```text
 root@kali:~# git -h
@@ -84,7 +84,7 @@ See 'git help git' for an overview of the system.
 
 ### `git-receive-pack`
 
-官方给出的调用示例：`git-receive-pack --help`
+> 官方示例调用：`git-receive-pack --help`
 
 ```text
 root@kali:~# git-receive-pack --help
@@ -288,7 +288,7 @@ Git 2.53.0                         03/01/2026               GIT-RECEIVE-PACK(1)
 
 ### `git-shell`
 
-官方给出的调用示例：`git-shell -h`
+> 官方示例调用：`git-shell -h`
 
 ```text
 root@kali:~# git-shell -h
@@ -297,7 +297,7 @@ fatal: Run with no arguments or with -c cmd
 
 ### `git-upload-archive`
 
-官方给出的调用示例：`git-upload-archive --help`
+> 官方示例调用：`git-upload-archive --help`
 
 ```text
 root@kali:~# git-upload-archive --help
@@ -346,7 +346,7 @@ Git 2.53.0                         03/01/2026             GIT-UPLOAD-ARCHIVE(1)
 
 ### `git-upload-pack`
 
-官方给出的调用示例：`git-upload-pack --help`
+> 官方示例调用：`git-upload-pack --help`
 
 ```text
 root@kali:~# git-upload-pack --help
@@ -415,7 +415,7 @@ Git 2.53.0                         03/01/2026                GIT-UPLOAD-PACK(1)
 
 ### `scalar`
 
-官方给出的调用示例：`scalar -h`
+> 官方示例调用：`scalar -h`
 
 ```text
 root@kali:~# scalar -h
@@ -435,7 +435,7 @@ Commands:
 
 ### `git-cvsserver`
 
-官方给出的调用示例：`git-cvsserver --help`
+> 官方示例调用：`git-cvsserver --help`
 
 ```text
 root@kali:~# git-cvsserver --help
@@ -455,7 +455,7 @@ Alternately, one directory may be specified in GIT_CVSSERVER_ROOT.
 
 ### `man`
 
-官方给出的调用示例：`man gitk`
+> 官方示例调用：`man gitk`
 
 ```text
 root@kali:~# man gitk

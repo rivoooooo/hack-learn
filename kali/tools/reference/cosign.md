@@ -37,7 +37,7 @@ man cosign         # 查看手册
 
 ### `cosign`
 
-官方给出的调用示例：`cosign -h`
+> 官方示例调用：`cosign -h`
 
 ```text
 root@kali:~# cosign -h

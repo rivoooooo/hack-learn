@@ -37,7 +37,7 @@ man trufflehog         # 查看手册
 
 ### `trufflehog`
 
-官方给出的调用示例：`trufflehog -h`
+> 官方示例调用：`trufflehog -h`
 
 ```text
 root@kali:~# trufflehog -h

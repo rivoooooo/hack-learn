@@ -37,7 +37,7 @@ man librizin-common         # 查看手册
 
 ### `rizin`
 
-官方给出的调用示例：`rizin -h`
+> 官方示例调用：`rizin -h`
 
 ```text
 root@kali:~# rizin -h
@@ -91,7 +91,7 @@ Usage: rizin [-ACdfLMnNqStuvwzX] [-P patch] [-p prj] [-a arch] [-b bits] [-i fil
 
 ### `rz-ar`
 
-官方给出的调用示例：`rz-ar -h`
+> 官方示例调用：`rz-ar -h`
 
 ```text
 root@kali:~# rz-ar -h
@@ -105,7 +105,7 @@ Usage: rz-ar [-hlqv] [-o outdir] archive [member ...]
 
 ### `rz-asm`
 
-官方给出的调用示例：`rz-asm -h`
+> 官方示例调用：`rz-asm -h`
 
 ```text
 root@kali:~# rz-asm -h
@@ -151,7 +151,7 @@ Environment:
 
 ### `rz-ax`
 
-官方给出的调用示例：`rz-ax -h`
+> 官方示例调用：`rz-ax -h`
 
 ```text
 root@kali:~# rz-ax -h
@@ -209,7 +209,7 @@ If expr is not provided, reads from stdin
 
 ### `rz-bin`
 
-官方给出的调用示例：`rz-bin -h`
+> 官方示例调用：`rz-bin -h`
 
 ```text
 root@kali:~# rz-bin -h
@@ -292,7 +292,7 @@ Environment:
 
 ### `rz-diff`
 
-官方给出的调用示例：`rz-diff -h`
+> 官方示例调用：`rz-diff -h`
 
 ```text
 root@kali:~# rz-diff -h
@@ -346,7 +346,7 @@ Environment variables
 
 ### `rz-find`
 
-官方给出的调用示例：`rz-find -h`
+> 官方示例调用：`rz-find -h`
 
 ```text
 root@kali:~# rz-find -h
@@ -381,7 +381,7 @@ Usage: rz-find [-mXnzZhqvV] [-a align] [-b sz] [-f/t from/to] [-[e|s|w|S|I] str]
 
 ### `rz-gg`
 
-官方给出的调用示例：`rz-gg -h`
+> 官方示例调用：`rz-gg -h`
 
 ```text
 root@kali:~# rz-gg -h
@@ -425,7 +425,7 @@ Usage: rz-gg [-FOLsrxhvz] [-a arch] [-b bits] [-k os] [-o file] [-I path]
 
 ### `rz-hash`
 
-官方给出的调用示例：`rz-hash -h`
+> 官方示例调用：`rz-hash -h`
 
 ```text
 root@kali:~# rz-hash -h
@@ -462,7 +462,7 @@ Usage: rz-hash [-vhBkjLq] [-b S] [-a A] [-c H] [-E A] [-D A] [-s S] [-x S] [-f O
 
 ### `rz-run`
 
-官方给出的调用示例：`rz-run -h`
+> 官方示例调用：`rz-run -h`
 
 ```text
 root@kali:~# rz-run -h

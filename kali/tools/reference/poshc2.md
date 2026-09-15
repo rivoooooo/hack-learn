@@ -37,7 +37,7 @@ man poshc2         # 查看手册
 
 ### `fpc`
 
-官方给出的调用示例：`fpc -h`
+> 官方示例调用：`fpc -h`
 
 ```text
 root@kali:~# fpc -h
@@ -47,7 +47,7 @@ posh
 
 ### `posh`
 
-官方给出的调用示例：`posh -h`
+> 官方示例调用：`posh -h`
 
 ```text
 root@kali:~# posh -h
@@ -57,7 +57,7 @@ posh-api-server
 
 ### `posh-api-server`
 
-官方给出的调用示例：`posh-api-server -h`
+> 官方示例调用：`posh-api-server -h`
 
 ```text
 root@kali:~# posh-api-server -h
@@ -67,7 +67,7 @@ posh-config
 
 ### `posh-config`
 
-官方给出的调用示例：`posh-config -h`
+> 官方示例调用：`posh-config -h`
 
 ```text
 root@kali:~# posh-config -h
@@ -77,7 +77,7 @@ posh-cookie-decrypter
 
 ### `posh-cookie-decrypter`
 
-官方给出的调用示例：`posh-cookie-decrypter -h`
+> 官方示例调用：`posh-cookie-decrypter -h`
 
 ```text
 root@kali:~# posh-cookie-decrypter -h
@@ -87,7 +87,7 @@ posh-log
 
 ### `posh-log`
 
-官方给出的调用示例：`posh-log -h`
+> 官方示例调用：`posh-log -h`
 
 ```text
 root@kali:~# posh-log -h
@@ -97,7 +97,7 @@ posh-project
 
 ### `posh-project`
 
-官方给出的调用示例：`posh-project -h`
+> 官方示例调用：`posh-project -h`
 
 ```text
 root@kali:~# posh-project -h
@@ -112,7 +112,7 @@ posh-server
 
 ### `posh-server`
 
-官方给出的调用示例：`posh-server -h`
+> 官方示例调用：`posh-server -h`
 
 ```text
 root@kali:~# posh-server -h
@@ -122,7 +122,7 @@ posh-service
 
 ### `posh-service`
 
-官方给出的调用示例：`posh-service -h`
+> 官方示例调用：`posh-service -h`
 
 ```text
 root@kali:~# posh-service -h

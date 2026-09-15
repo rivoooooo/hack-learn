@@ -35,7 +35,7 @@ man python-wsgidav-doc         # 查看手册
 
 ### `wsgidav`
 
-官方给出的调用示例：`wsgidav -h`
+> 官方示例调用：`wsgidav -h`
 
 ```text
 root@kali:~# wsgidav -h

@@ -43,7 +43,7 @@ Copyright (C) 2006-2011 icesurfer <r00t@northernfortress.net>
 
 ### `sqlninja`
 
-官方给出的调用示例：`sqlninja -m t -f /root/sqlninja.conf`
+> 官方示例调用：`sqlninja -m t -f /root/sqlninja.conf`
 
 ```text
 root@kali:~# sqlninja -m t -f /root/sqlninja.conf
@@ -56,9 +56,9 @@ Copyright (C) 2006-2011 icesurfer <
 [+] Trying to inject a 'waitfor delay'....
 ```
 
-### `sqlninja（示例）`
+### `sqlninja --help`
 
-官方给出的调用示例：`sqlninja --help`
+> 官方示例调用：`sqlninja --help`
 
 ```text
 root@kali:~# sqlninja --help

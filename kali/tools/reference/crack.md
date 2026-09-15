@@ -37,7 +37,7 @@ man crack         # 查看手册
 
 ### `Crack`
 
-官方给出的调用示例：`Crack -h`
+> 官方示例调用：`Crack -h`
 
 ```text
 root@kali:~# Crack -h
@@ -47,9 +47,9 @@ Crack
 Programs to break password files
 ```
 
-### `Crack（示例）`
+### `Crack -h`
 
-官方给出的调用示例：`Crack -h`
+> 官方示例调用：`Crack -h`
 
 ```text
 root@kali:~# Crack -h
@@ -61,7 +61,7 @@ Programs to break password files
 
 ### `Crack-Reporter`
 
-官方给出的调用示例：`Crack-Reporter -h`
+> 官方示例调用：`Crack-Reporter -h`
 
 ```text
 root@kali:~# Crack-Reporter -h
@@ -72,9 +72,9 @@ Crack-Reporter
 Programs to break password files
 ```
 
-### `Crack-Reporter（示例）`
+### `Crack-Reporter -h`
 
-官方给出的调用示例：`Crack-Reporter -h`
+> 官方示例调用：`Crack-Reporter -h`
 
 ```text
 root@kali:~# Crack-Reporter -h
@@ -91,9 +91,9 @@ This package provides the common files for the crypt() and
 MD5 versions.
 ```
 
-### `Crack（示例）`
+### `Crack -h`
 
-官方给出的调用示例：`Crack -h`
+> 官方示例调用：`Crack -h`
 
 ```text
 root@kali:~# Crack -h
@@ -103,9 +103,9 @@ Crack-Reporter
 Programs to break password files
 ```
 
-### `Crack-Reporter（示例）`
+### `Crack-Reporter -h`
 
-官方给出的调用示例：`Crack-Reporter -h`
+> 官方示例调用：`Crack-Reporter -h`
 
 ```text
 root@kali:~# Crack-Reporter -h

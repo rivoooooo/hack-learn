@@ -37,7 +37,7 @@ man sqlmap         # 查看手册
 
 ### `sqlmap`
 
-官方给出的调用示例：`sqlmap -u "http://192.168.1.250/?p=1&forumaction=search" --dbs`
+> 官方示例调用：`sqlmap -u "http://192.168.1.250/?p=1&forumaction=search" --dbs`
 
 ```text
 root@kali:~# sqlmap -u "http://192.168.1.250/?p=1&forumaction=search" --dbs
@@ -52,9 +52,9 @@ root@kali:~# sqlmap -u "http://192.168.1.250/?p=1&forumaction=search" --dbs
 [13:37:00] [INFO] testing connection to the target URL
 ```
 
-### `sqlmap（示例）`
+### `sqlmap -h`
 
-官方给出的调用示例：`sqlmap -h`
+> 官方示例调用：`sqlmap -h`
 
 ```text
 root@kali:~# sqlmap -h
@@ -131,7 +131,7 @@ Options:
 
 ### `sqlmapapi`
 
-官方给出的调用示例：`sqlmapapi -h`
+> 官方示例调用：`sqlmapapi -h`
 
 ```text
 root@kali:~# sqlmapapi -h

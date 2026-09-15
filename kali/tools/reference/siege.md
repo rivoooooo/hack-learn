@@ -37,7 +37,7 @@ man siege         # 查看手册
 
 ### `bombardment`
 
-官方给出的调用示例：`bombardment --help`
+> 官方示例调用：`bombardment --help`
 
 ```text
 root@kali:~# bombardment --help
@@ -47,7 +47,7 @@ bombardment [urlfile] [inital # of clients] [inc value] [# of inc] [delay]
 
 ### `siege`
 
-官方给出的调用示例：`siege -h`
+> 官方示例调用：`siege -h`
 
 ```text
 root@kali:~# siege -h
@@ -90,7 +90,7 @@ FOR A PARTICULAR PURPOSE.
 
 ### `siege.config`
 
-官方给出的调用示例：`siege.config -h`
+> 官方示例调用：`siege.config -h`
 
 ```text
 root@kali:~# siege.config -h
@@ -98,7 +98,7 @@ root@kali:~# siege.config -h
 
 ### `man`
 
-官方给出的调用示例：`man siege2csv`
+> 官方示例调用：`man siege2csv`
 
 ```text
 root@kali:~# man siege2csv

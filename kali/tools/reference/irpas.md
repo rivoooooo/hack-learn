@@ -37,7 +37,7 @@ man irpas         # 查看手册
 
 ### `ass`
 
-官方给出的调用示例：`ass -h`
+> 官方示例调用：`ass -h`
 
 ```text
 root@kali:~# ass -h
@@ -50,7 +50,7 @@ ass [-v[v[v]]] -i <interface> [-ApcMs] [-P IER12]
 
 ### `cdp`
 
-官方给出的调用示例：`cdp -h`
+> 官方示例调用：`cdp -h`
 
 ```text
 root@kali:~# cdp -h
@@ -74,7 +74,7 @@ Spoof mode (-m 1):
 
 ### `dfkaa`
 
-官方给出的调用示例：`dfkaa -h`
+> 官方示例调用：`dfkaa -h`
 
 ```text
 root@kali:~# dfkaa -h
@@ -84,7 +84,7 @@ Usage ... well. Look into the .c
 
 ### `dhcpx`
 
-官方给出的调用示例：`dhcpx -h`
+> 官方示例调用：`dhcpx -h`
 
 ```text
 root@kali:~# dhcpx -h
@@ -96,7 +96,7 @@ dhcpx [-v[v[v]]] -i <interface> [-A]
 
 ### `file2cable`
 
-官方给出的调用示例：`file2cable -h`
+> 官方示例调用：`file2cable -h`
 
 ```text
 root@kali:~# file2cable -h
@@ -105,7 +105,7 @@ file2cable [-v] -i <interface> -f <file>
 
 ### `hsrp`
 
-官方给出的调用示例：`hsrp -h`
+> 官方示例调用：`hsrp -h`
 
 ```text
 root@kali:~# hsrp -h
@@ -119,7 +119,7 @@ done
 
 ### `icmp_redirect`
 
-官方给出的调用示例：`icmp_redirect -h`
+> 官方示例调用：`icmp_redirect -h`
 
 ```text
 root@kali:~# icmp_redirect -h
@@ -132,7 +132,7 @@ icmp_redirect [-v[v[v]]] -i <interface>
 
 ### `igrp`
 
-官方给出的调用示例：`igrp -h`
+> 官方示例调用：`igrp -h`
 
 ```text
 root@kali:~# igrp -h
@@ -144,7 +144,7 @@ igrp [-v[v[v]]] -i <interface> -f <routes file>
 
 ### `inetmask`
 
-官方给出的调用示例：`inetmask -h`
+> 官方示例调用：`inetmask -h`
 
 ```text
 root@kali:~# inetmask -h
@@ -154,7 +154,7 @@ Usage: inetmask -d <destination> -t <timeout>
 
 ### `irdp`
 
-官方给出的调用示例：`irdp -h`
+> 官方示例调用：`irdp -h`
 
 ```text
 root@kali:~# irdp -h

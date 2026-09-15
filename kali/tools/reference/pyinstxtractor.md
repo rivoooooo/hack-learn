@@ -37,7 +37,7 @@ man pyinstxtractor         # 查看手册
 
 ### `pyinstxtractor`
 
-官方给出的调用示例：`pyinstxtractor -h`
+> 官方示例调用：`pyinstxtractor -h`
 
 ```text
 root@kali:~# pyinstxtractor -h

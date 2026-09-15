@@ -37,7 +37,7 @@ man laudanum         # 查看手册
 
 ### `laudanum`
 
-官方给出的调用示例：`laudanum -h`
+> 官方示例调用：`laudanum -h`
 
 ```text
 root@kali:~# laudanum -h

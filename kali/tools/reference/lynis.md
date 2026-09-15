@@ -77,7 +77,7 @@ root@kali:~# lynis -Q --cronjob
 
 ### `lynis`
 
-官方给出的调用示例：`lynis -Q --cronjob`
+> 官方示例调用：`lynis -Q --cronjob`
 
 ```text
 root@kali:~# lynis -Q --cronjob
@@ -116,9 +116,9 @@ root@kali:~# lynis -Q --cronjob
 [...]
 ```
 
-### `lynis（示例）`
+### `lynis -h`
 
-官方给出的调用示例：`lynis -h`
+> 官方示例调用：`lynis -h`
 
 ```text
 root@kali:~# lynis -h

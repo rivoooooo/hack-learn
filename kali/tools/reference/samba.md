@@ -37,7 +37,7 @@ man ctdb         # 查看手册
 
 ### `ctdb`
 
-官方给出的调用示例：`ctdb --help`
+> 官方示例调用：`ctdb --help`
 
 ```text
 root@kali:~# ctdb --help
@@ -57,7 +57,7 @@ Help options:
 
 ### `ctdb_diagnostics`
 
-官方给出的调用示例：`ctdb_diagnostics -h`
+> 官方示例调用：`ctdb_diagnostics -h`
 
 ```text
 root@kali:~# ctdb_diagnostics -h
@@ -73,7 +73,7 @@ Usage: ctdb_diagnostics [OPTION] ...
 
 ### `ctdbd`
 
-官方给出的调用示例：`ctdbd --help`
+> 官方示例调用：`ctdbd --help`
 
 ```text
 root@kali:~# ctdbd --help
@@ -86,7 +86,7 @@ Help options:
 
 ### `ltdbtool`
 
-官方给出的调用示例：`ltdbtool -h`
+> 官方示例调用：`ltdbtool -h`
 
 ```text
 root@kali:~# ltdbtool -h
@@ -119,7 +119,7 @@ Commands:
 
 ### `onnode`
 
-官方给出的调用示例：`onnode --help`
+> 官方示例调用：`onnode --help`
 
 ```text
 root@kali:~# onnode --help
@@ -143,7 +143,7 @@ Usage: onnode [OPTION] ... <NODES> <COMMAND> ...
 
 ### `man`
 
-官方给出的调用示例：`man ping_pong`
+> 官方示例调用：`man ping_pong`
 
 ```text
 root@kali:~# man ping_pong
@@ -196,7 +196,7 @@ ctdb                               08/13/2026                      PING_PONG(1)
 
 ### `ldbadd`
 
-官方给出的调用示例：`ldbadd --help`
+> 官方示例调用：`ldbadd --help`
 
 ```text
 root@kali:~# ldbadd --help
@@ -233,7 +233,7 @@ Help options:
 
 ### `ldbdel`
 
-官方给出的调用示例：`ldbdel --help`
+> 官方示例调用：`ldbdel --help`
 
 ```text
 root@kali:~# ldbdel --help
@@ -270,7 +270,7 @@ Help options:
 
 ### `ldbedit`
 
-官方给出的调用示例：`ldbedit --help`
+> 官方示例调用：`ldbedit --help`
 
 ```text
 root@kali:~# ldbedit --help
@@ -307,7 +307,7 @@ Help options:
 
 ### `ldbmodify`
 
-官方给出的调用示例：`ldbmodify --help`
+> 官方示例调用：`ldbmodify --help`
 
 ```text
 root@kali:~# ldbmodify --help

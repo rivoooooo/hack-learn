@@ -37,7 +37,7 @@ man naabu         # 查看手册
 
 ### `naabu`
 
-官方给出的调用示例：`naabu -h`
+> 官方示例调用：`naabu -h`
 
 ```text
 root@kali:~# naabu -h

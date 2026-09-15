@@ -37,7 +37,7 @@ man hubble         # 查看手册
 
 ### `hubble`
 
-官方给出的调用示例：`hubble -h`
+> 官方示例调用：`hubble -h`
 
 ```text
 root@kali:~# hubble -h

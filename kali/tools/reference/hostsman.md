@@ -37,7 +37,7 @@ man hostsman         # 查看手册
 
 ### `hostsman`
 
-官方给出的调用示例：`hostsman -h`
+> 官方示例调用：`hostsman -h`
 
 ```text
 root@kali:~# hostsman -h

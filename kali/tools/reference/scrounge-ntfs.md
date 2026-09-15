@@ -37,7 +37,7 @@ man scrounge-ntfs         # 查看手册
 
 ### `scrounge-ntfs`
 
-官方给出的调用示例：`scrounge-ntfs --help`
+> 官方示例调用：`scrounge-ntfs --help`
 
 ```text
 root@kali:~# scrounge-ntfs --help

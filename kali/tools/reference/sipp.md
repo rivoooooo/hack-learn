@@ -59,7 +59,7 @@ Warning: open file limit > FD_SETSIZE; limiting max. # of open files to FD_SETSI
 
 ### `sipp`
 
-官方给出的调用示例：`sipp -sn uas`
+> 官方示例调用：`sipp -sn uas`
 
 ```text
 root@kali:~# sipp -sn uas
@@ -82,9 +82,9 @@ Warning: open file limit > FD_SETSIZE; limiting max. # of open files to FD_SETSI
   [   4000ms] Pause              0                             0
 ```
 
-### `sipp（示例）`
+### `sipp -h`
 
-官方给出的调用示例：`sipp -h`
+> 官方示例调用：`sipp -h`
 
 ```text
 root@kali:~# sipp -h

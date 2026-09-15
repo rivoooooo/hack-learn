@@ -42,7 +42,7 @@ root@kali:~# merge-router-config.pl 192.168.1.1 192.168.1.15 private
 
 ### `copy-router-config.pl`
 
-官方给出的调用示例：`copy-router-config.pl 192.168.1.1 192.168.1.15 private`
+> 官方示例调用：`copy-router-config.pl 192.168.1.1 192.168.1.15 private`
 
 ```text
 root@kali:~# copy-router-config.pl 192.168.1.1 192.168.1.15 private
@@ -58,15 +58,15 @@ private
 
 ### `merge-router-config.pl`
 
-官方给出的调用示例：`merge-router-config.pl 192.168.1.1 192.168.1.15 private`
+> 官方示例调用：`merge-router-config.pl 192.168.1.1 192.168.1.15 private`
 
 ```text
 root@kali:~# merge-router-config.pl 192.168.1.1 192.168.1.15 private
 ```
 
-### `copy-router-config.pl（示例）`
+### `copy-router-config.pl -h`
 
-官方给出的调用示例：`copy-router-config.pl -h`
+> 官方示例调用：`copy-router-config.pl -h`
 
 ```text
 root@kali:~# copy-router-config.pl -h
@@ -79,9 +79,9 @@ Usage : ./copy-copy-config.pl <router-ip> <tftp-serverip> <community>
 Make sure a TFTP server is set up, prefferably running from /tmp !
 ```
 
-### `merge-router-config.pl（示例）`
+### `merge-router-config.pl -h`
 
-官方给出的调用示例：`merge-router-config.pl -h`
+> 官方示例调用：`merge-router-config.pl -h`
 
 ```text
 root@kali:~# merge-router-config.pl -h

@@ -37,7 +37,7 @@ man hackrf         # 查看手册
 
 ### `hackrf_biast`
 
-官方给出的调用示例：`hackrf_biast --help`
+> 官方示例调用：`hackrf_biast --help`
 
 ```text
 root@kali:~# hackrf_biast --help
@@ -61,7 +61,7 @@ The -r/-t/-o options support the following mode settings:
 
 ### `hackrf_clock`
 
-官方给出的调用示例：`hackrf_clock -h`
+> 官方示例调用：`hackrf_clock -h`
 
 ```text
 root@kali:~# hackrf_clock -h
@@ -83,7 +83,7 @@ Examples:
 
 ### `hackrf_cpldjtag`
 
-官方给出的调用示例：`hackrf_cpldjtag -h`
+> 官方示例调用：`hackrf_cpldjtag -h`
 
 ```text
 root@kali:~# hackrf_cpldjtag -h
@@ -95,7 +95,7 @@ Usage:
 
 ### `hackrf_debug`
 
-官方给出的调用示例：`hackrf_debug -h`
+> 官方示例调用：`hackrf_debug -h`
 
 ```text
 root@kali:~# hackrf_debug -h
@@ -133,7 +133,7 @@ Examples:
 
 ### `man`
 
-官方给出的调用示例：`man hackrf_info`
+> 官方示例调用：`man hackrf_info`
 
 ```text
 root@kali:~# man hackrf_info
@@ -178,7 +178,7 @@ HACKRF                             2013.07.1                     hackrf_info(1)
 
 ### `hackrf_operacake`
 
-官方给出的调用示例：`hackrf_operacake -h`
+> 官方示例调用：`hackrf_operacake -h`
 
 ```text
 root@kali:~# hackrf_operacake -h
@@ -198,7 +198,7 @@ Usage:
 
 ### `hackrf_spiflash`
 
-官方给出的调用示例：`hackrf_spiflash -h`
+> 官方示例调用：`hackrf_spiflash -h`
 
 ```text
 root@kali:~# hackrf_spiflash -h
@@ -218,7 +218,7 @@ Usage:
 
 ### `hackrf_sweep`
 
-官方给出的调用示例：`hackrf_sweep --help`
+> 官方示例调用：`hackrf_sweep --help`
 
 ```text
 root@kali:~# hackrf_sweep --help
@@ -246,7 +246,7 @@ Output fields:
 
 ### `hackrf_transfer`
 
-官方给出的调用示例：`hackrf_transfer -h`
+> 官方示例调用：`hackrf_transfer -h`
 
 ```text
 root@kali:~# hackrf_transfer -h

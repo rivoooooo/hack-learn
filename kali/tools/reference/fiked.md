@@ -37,7 +37,7 @@ man fiked         # 查看手册
 
 ### `fiked`
 
-官方给出的调用示例：`fiked --help`
+> 官方示例调用：`fiked --help`
 
 ```text
 root@kali:~# fiked --help

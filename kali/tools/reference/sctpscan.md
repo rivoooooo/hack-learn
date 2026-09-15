@@ -41,7 +41,7 @@ Portscanning Frequent Ports on 192.168.1.*.
 
 ### `sctpscan`
 
-官方给出的调用示例：`sctpscan -s -F -r 192.168.1.*`
+> 官方示例调用：`sctpscan -s -F -r 192.168.1.*`
 
 ```text
 root@kali:~# sctpscan -s -F -r 192.168.1.*
@@ -50,9 +50,9 @@ Netscanning with Crc32 checksumed packet
 Portscanning Frequent Ports on 192.168.1.*.
 ```
 
-### `sctpscan（示例）`
+### `sctpscan -h`
 
-官方给出的调用示例：`sctpscan -h`
+> 官方示例调用：`sctpscan -h`
 
 ```text
 root@kali:~# sctpscan -h

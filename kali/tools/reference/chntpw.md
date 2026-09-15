@@ -37,7 +37,7 @@ man chntpw         # 查看手册
 
 ### `chntpw`
 
-官方给出的调用示例：`chntpw -h`
+> 官方示例调用：`chntpw -h`
 
 ```text
 root@kali:~# chntpw -h
@@ -63,7 +63,7 @@ NOTE: This program is somewhat hackish! You are on your own!
 
 ### `reged`
 
-官方给出的调用示例：`reged -h`
+> 官方示例调用：`reged -h`
 
 ```text
 root@kali:~# reged -h
@@ -89,7 +89,7 @@ Options:
 
 ### `sampasswd`
 
-官方给出的调用示例：`sampasswd -h`
+> 官方示例调用：`sampasswd -h`
 
 ```text
 root@kali:~# sampasswd -h
@@ -121,7 +121,7 @@ Options:
 
 ### `samunlock`
 
-官方给出的调用示例：`samunlock -h`
+> 官方示例调用：`samunlock -h`
 
 ```text
 root@kali:~# samunlock -h
@@ -152,7 +152,7 @@ Options:
 
 ### `samusrgrp`
 
-官方给出的调用示例：`samusrgrp -h`
+> 官方示例调用：`samusrgrp -h`
 
 ```text
 root@kali:~# samusrgrp -h

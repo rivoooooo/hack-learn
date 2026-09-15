@@ -37,7 +37,7 @@ man bind9         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man arpaname`
+> 官方示例调用：`man arpaname`
 
 ```text
 root@kali:~# man arpaname
@@ -60,7 +60,7 @@ Copyright
 
 ### `ddns-confgen`
 
-官方给出的调用示例：`ddns-confgen -h`
+> 官方示例调用：`ddns-confgen -h`
 
 ```text
 root@kali:~# ddns-confgen -h
@@ -75,7 +75,7 @@ Usage:
 
 ### `dnssec-importkey`
 
-官方给出的调用示例：`dnssec-importkey -h`
+> 官方示例调用：`dnssec-importkey -h`
 
 ```text
 root@kali:~# dnssec-importkey -h
@@ -99,7 +99,7 @@ Timing options:
 
 ### `named`
 
-官方给出的调用示例：`named -h`
+> 官方示例调用：`named -h`
 
 ```text
 root@kali:~# named -h
@@ -114,7 +114,7 @@ named: unknown option '-h'
 
 ### `named-journalprint`
 
-官方给出的调用示例：`named-journalprint -h`
+> 官方示例调用：`named-journalprint -h`
 
 ```text
 root@kali:~# named-journalprint -h
@@ -122,9 +122,9 @@ named-journalprint: illegal option -- h
 Usage: named-journalprint [-dux] journal
 ```
 
-### `man（示例）`
+### `man named-nzd2nzf`
 
-官方给出的调用示例：`man named-nzd2nzf`
+> 官方示例调用：`man named-nzd2nzf`
 
 ```text
 root@kali:~# man named-nzd2nzf
@@ -153,7 +153,7 @@ Copyright
 
 ### `named-rrchecker`
 
-官方给出的调用示例：`named-rrchecker --help`
+> 官方示例调用：`named-rrchecker --help`
 
 ```text
 root@kali:~# named-rrchecker --help
@@ -170,7 +170,7 @@ usage: named-rrchecker [-o origin] [-hpCPTu]
 
 ### `nsec3hash`
 
-官方给出的调用示例：`nsec3hash -h`
+> 官方示例调用：`nsec3hash -h`
 
 ```text
 root@kali:~# nsec3hash -h
@@ -181,7 +181,7 @@ Usage: nsec3hash salt algorithm iterations domain
 
 ### `tsig-keygen`
 
-官方给出的调用示例：`tsig-keygen -h`
+> 官方示例调用：`tsig-keygen -h`
 
 ```text
 root@kali:~# tsig-keygen -h
@@ -192,7 +192,7 @@ Usage:
 
 ### `delv`
 
-官方给出的调用示例：`delv -h`
+> 官方示例调用：`delv -h`
 
 ```text
 root@kali:~# delv -h

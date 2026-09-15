@@ -37,7 +37,7 @@ man binwalk         # 查看手册
 
 ### `binwalk`
 
-官方给出的调用示例：`binwalk -B ddwrt-linksys-wrt1200ac-webflash.bin`
+> 官方示例调用：`binwalk -B ddwrt-linksys-wrt1200ac-webflash.bin`
 
 ```text
 root@kali:~# binwalk -B ddwrt-linksys-wrt1200ac-webflash.bin
@@ -53,9 +53,9 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 3145756       0x30001C        UBI erase count header, version: 1, EC: 0x0, VID header offset: 0x800, data offset: 0x1000
 ```
 
-### `binwalk（示例）`
+### `binwalk -h`
 
-官方给出的调用示例：`binwalk -h`
+> 官方示例调用：`binwalk -h`
 
 ```text
 root@kali:~# binwalk -h

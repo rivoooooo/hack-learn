@@ -36,7 +36,7 @@ man kubernetes-helm         # 查看手册
 
 ### `helm`
 
-官方给出的调用示例：`helm -h`
+> 官方示例调用：`helm -h`
 
 ```text
 root@kali:~# helm -h

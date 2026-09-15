@@ -37,7 +37,7 @@ man godoh         # 查看手册
 
 ### `godoh`
 
-官方给出的调用示例：`godoh -h`
+> 官方示例调用：`godoh -h`
 
 ```text
 root@kali:~# godoh -h

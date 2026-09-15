@@ -37,7 +37,7 @@ man chaosreader         # 查看手册
 
 ### `chaosreader`
 
-官方给出的调用示例：`chaosreader --help`
+> 官方示例调用：`chaosreader --help`
 
 ```text
 root@kali:~# chaosreader --help

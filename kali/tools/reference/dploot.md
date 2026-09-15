@@ -35,7 +35,7 @@ man python3-dploot         # 查看手册
 
 ### `dploot`
 
-官方给出的调用示例：`dploot -h`
+> 官方示例调用：`dploot -h`
 
 ```text
 root@kali:~# dploot -h

@@ -37,7 +37,7 @@ man h8mail         # 查看手册
 
 ### `h8mail`
 
-官方给出的调用示例：`h8mail -h`
+> 官方示例调用：`h8mail -h`
 
 ```text
 root@kali:~# h8mail -h

@@ -37,15 +37,15 @@ man sakis3g         # 查看手册
 
 ### `sakis3g`
 
-官方给出的调用示例：`sakis3g --interactive "connect"`
+> 官方示例调用：`sakis3g --interactive "connect"`
 
 ```text
 root@kali:~# sakis3g --interactive "connect"
 ```
 
-### `sakis3g（示例）`
+### `sakis3g --help`
 
-官方给出的调用示例：`sakis3g --help`
+> 官方示例调用：`sakis3g --help`
 
 ```text
 root@kali:~# sakis3g --help

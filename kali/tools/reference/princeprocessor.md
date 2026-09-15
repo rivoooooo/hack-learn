@@ -37,7 +37,7 @@ man princeprocessor         # 查看手册
 
 ### `princeprocessor`
 
-官方给出的调用示例：`princeprocessor -h`
+> 官方示例调用：`princeprocessor -h`
 
 ```text
 root@kali:~# princeprocessor -h

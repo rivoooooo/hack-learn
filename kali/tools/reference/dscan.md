@@ -37,7 +37,7 @@ man dscan         # 查看手册
 
 ### `dscan`
 
-官方给出的调用示例：`dscan -h`
+> 官方示例调用：`dscan -h`
 
 ```text
 root@kali:~# dscan -h

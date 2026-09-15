@@ -37,7 +37,7 @@ man 0trace         # 查看手册
 
 ### `0trace.sh`
 
-官方给出的调用示例：`0trace.sh -h`
+> 官方示例调用：`0trace.sh -h`
 
 ```text
 root@kali:~# 0trace.sh -h
@@ -46,7 +46,7 @@ Usage: /usr/bin/0trace.sh iface target_ip [ target_port ]
 
 ### `sendprobe`
 
-官方给出的调用示例：`sendprobe -h`
+> 官方示例调用：`sendprobe -h`
 
 ```text
 root@kali:~# sendprobe -h
@@ -55,7 +55,7 @@ Usage: sendprobe src_ip dst_ip sport dport seq ack
 
 ### `man`
 
-官方给出的调用示例：`man usleep`
+> 官方示例调用：`man usleep`
 
 ```text
 root@kali:~# man usleep

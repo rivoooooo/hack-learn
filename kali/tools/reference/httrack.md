@@ -37,7 +37,7 @@ man httrack         # 查看手册
 
 ### `httrack`
 
-官方给出的调用示例：`httrack -h`
+> 官方示例调用：`httrack -h`
 
 ```text
 root@kali:~# httrack -h
@@ -264,7 +264,7 @@ example: httrack
 
 ### `proxytrack`
 
-官方给出的调用示例：`proxytrack -h`
+> 官方示例调用：`proxytrack -h`
 
 ```text
 root@kali:~# proxytrack -h
@@ -278,7 +278,7 @@ usage: proxytrack --convert <archive-output-path> [ ( <new.zip path> | <new.ndx 
 
 ### `man`
 
-官方给出的调用示例：`man htsserver`
+> 官方示例调用：`man htsserver`
 
 ```text
 root@kali:~# man htsserver
@@ -337,7 +337,7 @@ httrack website copier              Mar 2003                       htsserver(1)
 
 ### `webhttrack`
 
-官方给出的调用示例：`webhttrack -h`
+> 官方示例调用：`webhttrack -h`
 
 ```text
 root@kali:~# webhttrack -h

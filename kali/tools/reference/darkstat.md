@@ -36,7 +36,7 @@ man darkstat         # 查看手册
 
 ### `darkstat`
 
-官方给出的调用示例：`darkstat --help`
+> 官方示例调用：`darkstat --help`
 
 ```text
 root@kali:~# darkstat --help

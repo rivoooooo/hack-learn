@@ -37,7 +37,7 @@ man sqlsus         # 查看手册
 
 ### `sqlsus`
 
-官方给出的调用示例：`sqlsus -g sqlsus.cfg`
+> 官方示例调用：`sqlsus -g sqlsus.cfg`
 
 ```text
 root@kali:~# sqlsus -g sqlsus.cfg
@@ -48,15 +48,15 @@ root@kali:~# sqlsus -g sqlsus.cfg
 
 ### `nano`
 
-官方给出的调用示例：`nano sqlsus.cfg`
+> 官方示例调用：`nano sqlsus.cfg`
 
 ```text
 root@kali:~# nano sqlsus.cfg
 ```
 
-### `sqlsus（示例）`
+### `sqlsus sqlsus.cfg`
 
-官方给出的调用示例：`sqlsus sqlsus.cfg`
+> 官方示例调用：`sqlsus sqlsus.cfg`
 
 ```text
 root@kali:~# sqlsus sqlsus.cfg

@@ -37,7 +37,7 @@ man bruteforce-luks         # 查看手册
 
 ### `bruteforce-luks`
 
-官方给出的调用示例：`bruteforce-luks --help`
+> 官方示例调用：`bruteforce-luks --help`
 
 ```text
 root@kali:~# bruteforce-luks --help

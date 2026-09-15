@@ -74,7 +74,7 @@ Waiting for timeout on 19 connections ...</address>amap v5.4 finished at 2014-05
 
 ### `amap`
 
-官方给出的调用示例：`amap -bqv 192.168.1.15 80`
+> 官方示例调用：`amap -bqv 192.168.1.15 80`
 
 ```text
 root@kali:~# amap -bqv 192.168.1.15 80
@@ -104,9 +104,9 @@ to /index.html not supported.
 Waiting for timeout on 19 connections ...</address>amap v5.4 finished at 2014-05-13 19:07:22
 ```
 
-### `amap（示例）`
+### `amap -h`
 
-官方给出的调用示例：`amap -h`
+> 官方示例调用：`amap -h`
 
 ```text
 root@kali:~# amap -h
@@ -141,9 +141,9 @@ amap is a tool to identify application protocols on target ports.
 Usage hint: Options "-bqv" are recommended, add "-1" for fast/rush checks.
 ```
 
-### `amap（示例）`
+### `amap -h`
 
-官方给出的调用示例：`amap -h`
+> 官方示例调用：`amap -h`
 
 ```text
 root@kali:~# amap -h
@@ -180,7 +180,7 @@ Usage hint: Options "-bqv" are recommended, add "-1" for fast/rush checks.
 
 ### `amap6`
 
-官方给出的调用示例：`amap6 -h`
+> 官方示例调用：`amap6 -h`
 
 ```text
 root@kali:~# amap6 -h
@@ -217,7 +217,7 @@ Usage hint: Options "-bqv" are recommended, add "-1" for fast/rush checks.
 
 ### `amapcrap`
 
-官方给出的调用示例：`amapcrap -h`
+> 官方示例调用：`amapcrap -h`
 
 ```text
 root@kali:~# amapcrap -h

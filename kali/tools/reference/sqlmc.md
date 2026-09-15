@@ -37,7 +37,7 @@ man sqlmc         # 查看手册
 
 ### `sqlmc`
 
-官方给出的调用示例：`sqlmc -h`
+> 官方示例调用：`sqlmc -h`
 
 ```text
 root@kali:~# sqlmc -h

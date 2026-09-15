@@ -37,7 +37,7 @@ man certgraph         # 查看手册
 
 ### `certgraph`
 
-官方给出的调用示例：`certgraph -h`
+> 官方示例调用：`certgraph -h`
 
 ```text
 root@kali:~# certgraph -h

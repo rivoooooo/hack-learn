@@ -47,15 +47,15 @@ Start hostapd-wpe. A wireless AP will appear. Passwords of users connecting and 
 
 ### `apt`
 
-官方给出的调用示例：`apt update`
+> 官方示例调用：`apt update`
 
 ```text
 root@kali:~# apt update
 ```
 
-### `apt（示例）`
+### `apt install hostapd-wpe`
 
-官方给出的调用示例：`apt install hostapd-wpe`
+> 官方示例调用：`apt install hostapd-wpe`
 
 ```text
 root@kali:~# apt install hostapd-wpe
@@ -66,7 +66,7 @@ Once installed, configure AP properties by editing
 
 ### `nano`
 
-官方给出的调用示例：`nano /etc/hostapd-wpe/hostapd-wpe.conf`
+> 官方示例调用：`nano /etc/hostapd-wpe/hostapd-wpe.conf`
 
 ```text
 root@kali:~# nano /etc/hostapd-wpe/hostapd-wpe.conf
@@ -75,7 +75,7 @@ Kill network-manager using airmon-ng
 
 ### `airmon-ng`
 
-官方给出的调用示例：`airmon-ng check kill`
+> 官方示例调用：`airmon-ng check kill`
 
 ```text
 root@kali:~# airmon-ng check kill
@@ -84,7 +84,7 @@ Start hostapd-wpe. A wireless AP will appear. Passwords of users connecting and 
 
 ### `hostapd-wpe`
 
-官方给出的调用示例：`hostapd-wpe /etc/hostapd-wpe/hostapd-wpe.conf`
+> 官方示例调用：`hostapd-wpe /etc/hostapd-wpe/hostapd-wpe.conf`
 
 ```text
 root@kali:~# hostapd-wpe /etc/hostapd-wpe/hostapd-wpe.conf
@@ -120,7 +120,7 @@ Once a challenge and responce are obtained, crack them using asleap, together wi
 
 ### `zcat`
 
-官方给出的调用示例：`zcat /usr/share/wordlists/rockyou.txt.gz | asleap -C 8e:0e:9d:0b:5a:3f:f5:23 -R 34:f8:42:4d:16:c7:2d:69:cc:38:10:d4:cf:71:f7:83:37:68:d8:8a:e9:86:f2:67 -W -`
+> 官方示例调用：`zcat /usr/share/wordlists/rockyou.txt.gz | asleap -C 8e:0e:9d:0b:5a:3f:f5:23 -R 34:f8:42:4d:16:c7:2d:69:cc:38:10:d4:cf:71:f7:83:37:68:d8:8a:e9:86:f2:67 -W -`
 
 ```text
 root@kali:~# zcat /usr/share/wordlists/rockyou.txt.gz | asleap -C 8e:0e:9d:0b:5a:3f:f5:23 -R 34:f8:42:4d:16:c7:2d:69:cc:38:10:d4:cf:71:f7:83:37:68:d8:8a:e9:86:f2:67 -W -
@@ -133,9 +133,9 @@ NT hash: 8846f7eaee8fb117ad06bdd830b7586c
 password: password
 ```
 
-### `hostapd-wpe（示例）`
+### `hostapd-wpe --help`
 
-官方给出的调用示例：`hostapd-wpe --help`
+> 官方示例调用：`hostapd-wpe --help`
 
 ```text
 root@kali:~# hostapd-wpe --help
@@ -182,7 +182,7 @@ WPE options:
 
 ### `hostapd-wpe_cli`
 
-官方给出的调用示例：`hostapd-wpe_cli -h`
+> 官方示例调用：`hostapd-wpe_cli -h`
 
 ```text
 root@kali:~# hostapd-wpe_cli -h

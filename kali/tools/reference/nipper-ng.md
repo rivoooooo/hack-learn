@@ -36,7 +36,7 @@ man nipper-ng         # 查看手册
 
 ### `nipper`
 
-官方给出的调用示例：`nipper --help`
+> 官方示例调用：`nipper --help`
 
 ```text
 root@kali:~# nipper --help

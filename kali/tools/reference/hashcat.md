@@ -73,7 +73,7 @@ Use md5crypt mode (-m 500) to cracking the sample hash (example500.hash) with th
 
 ### `hashcat`
 
-官方给出的调用示例：`hashcat -b`
+> 官方示例调用：`hashcat -b`
 
 ```text
 root@kali:~# hashcat -b
@@ -109,9 +109,9 @@ example500.hash
 ):
 ```
 
-### `hashcat（示例）`
+### `hashcat -m 500 example500.hash /usr/share/wordlists/sqlma…`
 
-官方给出的调用示例：`hashcat -m 500 example500.hash /usr/share/wordlists/sqlmap.txt`
+> 官方示例调用：`hashcat -m 500 example500.hash /usr/share/wordlists/sqlmap.txt`
 
 ```text
 root@kali:~# hashcat -m 500 example500.hash /usr/share/wordlists/sqlmap.txt
@@ -163,9 +163,9 @@ Candidates.#2....: 6104484 -> 61758102mt
 [s]tatus [p]ause [b]ypass [c]heckpoint [q]uit =>
 ```
 
-### `hashcat（示例）`
+### `hashcat -h`
 
-官方给出的调用示例：`hashcat -h`
+> 官方示例调用：`hashcat -h`
 
 ```text
 root@kali:~# hashcat -h

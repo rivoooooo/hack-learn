@@ -37,7 +37,7 @@ man evil-ssdp         # 查看手册
 
 ### `evil-ssdp`
 
-官方给出的调用示例：`evil-ssdp -h`
+> 官方示例调用：`evil-ssdp -h`
 
 ```text
 root@kali:~# evil-ssdp -h

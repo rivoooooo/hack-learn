@@ -42,7 +42,7 @@ reading
 
 ### `tnscmd10g`
 
-官方给出的调用示例：`tnscmd10g version -h 192.168.1.205`
+> 官方示例调用：`tnscmd10g version -h 192.168.1.205`
 
 ```text
 root@kali:~# tnscmd10g version -h 192.168.1.205
@@ -52,9 +52,9 @@ reading
 .M.......6.........-. ..........(DESCRIPTION=(TMP=)(VSNNUM=153092352)(ERR=0)).7........TNSLSNR for 32-bit Windows: Version 9.2.0.1.0 - Production..TNS for 32-bit Windows: Version 9.2.0.1.0 - Production..Windows NT Named Pipes NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production..Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production,,.........@
 ```
 
-### `tnscmd10g（示例）`
+### `tnscmd10g -h`
 
-官方给出的调用示例：`tnscmd10g -h`
+> 官方示例调用：`tnscmd10g -h`
 
 ```text
 root@kali:~# tnscmd10g -h

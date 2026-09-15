@@ -37,7 +37,7 @@ man afflib-tools         # 查看手册
 
 ### `affcat`
 
-官方给出的调用示例：`affcat -h`
+> 官方示例调用：`affcat -h`
 
 ```text
 root@kali:~# affcat -h
@@ -59,7 +59,7 @@ options:
 
 ### `affcompare`
 
-官方给出的调用示例：`affcompare -h`
+> 官方示例调用：`affcompare -h`
 
 ```text
 root@kali:~# affcompare -h
@@ -103,7 +103,7 @@ Options documented above:
 
 ### `affconvert`
 
-官方给出的调用示例：`affconvert -h`
+> 官方示例调用：`affconvert -h`
 
 ```text
 root@kali:~# affconvert -h
@@ -114,7 +114,7 @@ Please, see more info in manpage.
 
 ### `affcopy`
 
-官方给出的调用示例：`affcopy -h`
+> 官方示例调用：`affcopy -h`
 
 ```text
 root@kali:~# affcopy -h
@@ -155,7 +155,7 @@ Examples:
 
 ### `affcrypto`
 
-官方给出的调用示例：`affcrypto -h`
+> 官方示例调用：`affcrypto -h`
 
 ```text
 root@kali:~# affcrypto -h
@@ -196,7 +196,7 @@ AFFLIB_DECRYPTING_PRIVATE_KEYFILE
 
 ### `affdiskprint`
 
-官方给出的调用示例：`affdiskprint -h`
+> 官方示例调用：`affdiskprint -h`
 
 ```text
 root@kali:~# affdiskprint -h
@@ -209,7 +209,7 @@ usage: affdiskprint [options] infile
 
 ### `affinfo`
 
-官方给出的调用示例：`affinfo -h`
+> 官方示例调用：`affinfo -h`
 
 ```text
 root@kali:~# affinfo -h
@@ -245,7 +245,7 @@ Compilation:
 
 ### `affix`
 
-官方给出的调用示例：`affix -h`
+> 官方示例调用：`affix -h`
 
 ```text
 root@kali:~# affix -h
@@ -256,7 +256,7 @@ usage: affix [options] file1 [...]
 
 ### `affrecover`
 
-官方给出的调用示例：`affrecover -h`
+> 官方示例调用：`affrecover -h`
 
 ```text
 root@kali:~# affrecover -h
@@ -265,7 +265,7 @@ usage: affrecover filename
 
 ### `affsegment`
 
-官方给出的调用示例：`affsegment -h`
+> 官方示例调用：`affsegment -h`
 
 ```text
 root@kali:~# affsegment -h

@@ -37,7 +37,7 @@ man phishery         # 查看手册
 
 ### `phishery`
 
-官方给出的调用示例：`phishery -h`
+> 官方示例调用：`phishery -h`
 
 ```text
 root@kali:~# phishery -h

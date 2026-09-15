@@ -37,7 +37,7 @@ man inetsim         # 查看手册
 
 ### `inetsim`
 
-官方给出的调用示例：`inetsim --help`
+> 官方示例调用：`inetsim --help`
 
 ```text
 root@kali:~# inetsim --help

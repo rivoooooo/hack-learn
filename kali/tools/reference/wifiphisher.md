@@ -37,7 +37,7 @@ man wifiphisher         # 查看手册
 
 ### `wifiphisher`
 
-官方给出的调用示例：`wifiphisher -nJ -e "Free Wi-Fi" -T firmware-upgrade`
+> 官方示例调用：`wifiphisher -nJ -e "Free Wi-Fi" -T firmware-upgrade`
 
 ```text
 root@kali:~# wifiphisher -nJ -e "Free Wi-Fi" -T firmware-upgrade
@@ -59,9 +59,9 @@ HTTP requests:
 [*] GET 10.0.0.93
 ```
 
-### `wifiphisher（示例）`
+### `wifiphisher -h`
 
-官方给出的调用示例：`wifiphisher -h`
+> 官方示例调用：`wifiphisher -h`
 
 ```text
 root@kali:~# wifiphisher -h

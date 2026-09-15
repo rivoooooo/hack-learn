@@ -37,7 +37,7 @@ man fping         # 查看手册
 
 ### `fping`
 
-官方给出的调用示例：`fping -h`
+> 官方示例调用：`fping -h`
 
 ```text
 root@kali:~# fping -h
@@ -86,7 +86,7 @@ Output options:
 
 ### `fping6`
 
-官方给出的调用示例：`fping6 -h`
+> 官方示例调用：`fping6 -h`
 
 ```text
 root@kali:~# fping6 -h

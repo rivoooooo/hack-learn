@@ -58,7 +58,7 @@ ___________________
 
 ### `dnsenum`
 
-官方给出的调用示例：`dnsenum --noreverse -o mydomain.xml example.com`
+> 官方示例调用：`dnsenum --noreverse -o mydomain.xml example.com`
 
 ```text
 root@kali:~# dnsenum --noreverse -o mydomain.xml example.com
@@ -75,9 +75,9 @@ Mail (MX) Servers:
 ___________________
 ```
 
-### `dnsenum（示例）`
+### `dnsenum -h`
 
-官方给出的调用示例：`dnsenum -h`
+> 官方示例调用：`dnsenum -h`
 
 ```text
 root@kali:~# dnsenum -h

@@ -37,7 +37,7 @@ man grokevt         # 查看手册
 
 ### `grokevt-addlog`
 
-官方给出的调用示例：`grokevt-addlog -h`
+> 官方示例调用：`grokevt-addlog -h`
 
 ```text
 root@kali:~# grokevt-addlog -h
@@ -50,7 +50,7 @@ See the man page for more details.
 
 ### `grokevt-builddb`
 
-官方给出的调用示例：`grokevt-builddb -h`
+> 官方示例调用：`grokevt-builddb -h`
 
 ```text
 root@kali:~# grokevt-builddb -h
@@ -65,7 +65,7 @@ ERROR: Requires at least 2 arguments.
 
 ### `man`
 
-官方给出的调用示例：`man grokevt-dumpmsgs`
+> 官方示例调用：`man grokevt-dumpmsgs`
 
 ```text
 root@kali:~# man grokevt-dumpmsgs
@@ -114,7 +114,7 @@ File Conversion Utilities         20 June 2011              grokevt-dumpmsgs(1)
 
 ### `grokevt-findlogs`
 
-官方给出的调用示例：`grokevt-findlogs --help`
+> 官方示例调用：`grokevt-findlogs --help`
 
 ```text
 root@kali:~# grokevt-findlogs --help
@@ -128,7 +128,7 @@ Please see the man page for more information.
 
 ### `grokevt-parselog`
 
-官方给出的调用示例：`grokevt-parselog -h`
+> 官方示例调用：`grokevt-parselog -h`
 
 ```text
 root@kali:~# grokevt-parselog -h
@@ -144,7 +144,7 @@ page for more information.
 
 ### `grokevt-ripdll`
 
-官方给出的调用示例：`grokevt-ripdll -h`
+> 官方示例调用：`grokevt-ripdll -h`
 
 ```text
 root@kali:~# grokevt-ripdll -h

@@ -37,7 +37,7 @@ man exiflooter         # 查看手册
 
 ### `exiflooter`
 
-官方给出的调用示例：`exiflooter -h`
+> 官方示例调用：`exiflooter -h`
 
 ```text
 root@kali:~# exiflooter -h

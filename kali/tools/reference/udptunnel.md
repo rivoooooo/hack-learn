@@ -37,7 +37,7 @@ man udptunnel         # 查看手册
 
 ### `udptunnel`
 
-官方给出的调用示例：`udptunnel --help`
+> 官方示例调用：`udptunnel --help`
 
 ```text
 root@kali:~# udptunnel --help

@@ -37,7 +37,7 @@ man syft         # 查看手册
 
 ### `syft`
 
-官方给出的调用示例：`syft -h`
+> 官方示例调用：`syft -h`
 
 ```text
 root@kali:~# syft -h

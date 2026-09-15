@@ -37,7 +37,7 @@ man missidentify         # 查看手册
 
 ### `missidentify`
 
-官方给出的调用示例：`missidentify -h`
+> 官方示例调用：`missidentify -h`
 
 ```text
 root@kali:~# missidentify -h

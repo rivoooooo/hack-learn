@@ -37,7 +37,7 @@ man pspy         # 查看手册
 
 ### `pspy`
 
-官方给出的调用示例：`pspy -h`
+> 官方示例调用：`pspy -h`
 
 ```text
 root@kali:~# pspy -h
@@ -69,7 +69,7 @@ Flags:
 
 ### `pspy-binaries`
 
-官方给出的调用示例：`pspy-binaries -h`
+> 官方示例调用：`pspy-binaries -h`
 
 ```text
 root@kali:~# pspy-binaries -h

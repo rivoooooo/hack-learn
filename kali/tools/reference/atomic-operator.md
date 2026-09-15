@@ -35,7 +35,7 @@ man python3-atomic-operator         # 查看手册
 
 ### `atomic-operator`
 
-官方给出的调用示例：`atomic-operator -h`
+> 官方示例调用：`atomic-operator -h`
 
 ```text
 root@kali:~# atomic-operator -h

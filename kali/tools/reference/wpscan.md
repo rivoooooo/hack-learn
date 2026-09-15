@@ -77,7 +77,7 @@ _______________________________________________________________
 
 ### `wpscan`
 
-官方给出的调用示例：`wpscan --url http://wordpress.local --enumerate p`
+> 官方示例调用：`wpscan --url http://wordpress.local --enumerate p`
 
 ```text
 root@kali:~# wpscan --url http://wordpress.local --enumerate p
@@ -115,9 +115,9 @@ _______________________________________________________________
 [...]
 ```
 
-### `wpscan（示例）`
+### `wpscan -h`
 
-官方给出的调用示例：`wpscan -h`
+> 官方示例调用：`wpscan -h`
 
 ```text
 root@kali:~# wpscan -h

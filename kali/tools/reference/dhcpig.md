@@ -42,7 +42,7 @@ waiting for first DHCP Server response on eth0
 
 ### `pig.py`
 
-官方给出的调用示例：`pig.py eth0`
+> 官方示例调用：`pig.py eth0`
 
 ```text
 root@kali:~# pig.py eth0
@@ -53,7 +53,7 @@ waiting for first DHCP Server response on eth0
 
 ### `dhcpig`
 
-官方给出的调用示例：`dhcpig -h`
+> 官方示例调用：`dhcpig -h`
 
 ```text
 root@kali:~# dhcpig -h

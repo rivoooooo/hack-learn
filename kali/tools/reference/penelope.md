@@ -37,7 +37,7 @@ man penelope         # 查看手册
 
 ### `penelope`
 
-官方给出的调用示例：`penelope -h`
+> 官方示例调用：`penelope -h`
 
 ```text
 root@kali:~# penelope -h

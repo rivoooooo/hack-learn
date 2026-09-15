@@ -37,7 +37,7 @@ man chkrootkit         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man chklastlog`
+> 官方示例调用：`man chklastlog`
 
 ```text
 root@kali:~# man chklastlog
@@ -75,7 +75,7 @@ LIMITATIONS
 
 ### `chkrootkit`
 
-官方给出的调用示例：`chkrootkit -h`
+> 官方示例调用：`chkrootkit -h`
 
 ```text
 root@kali:~# chkrootkit -h
@@ -97,9 +97,9 @@ Options:
         -T FSTYPE         skip mount points of the specified file system type
 ```
 
-### `man（示例）`
+### `man chkrootkit-daily`
 
-官方给出的调用示例：`man chkrootkit-daily`
+> 官方示例调用：`man chkrootkit-daily`
 
 ```text
 root@kali:~# man chkrootkit-daily
@@ -121,9 +121,9 @@ SEE ALSO
                                    2023-02-19               chkrootkit-daily(8)
 ```
 
-### `man（示例）`
+### `man chkwtmp`
 
-官方给出的调用示例：`man chkwtmp`
+> 官方示例调用：`man chkwtmp`
 
 ```text
 root@kali:~# man chkwtmp

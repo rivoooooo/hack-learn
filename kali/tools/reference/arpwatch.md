@@ -37,7 +37,7 @@ man arpwatch         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man arp2ethers`
+> 官方示例调用：`man arp2ethers`
 
 ```text
 root@kali:~# man arp2ethers
@@ -74,7 +74,7 @@ AUTHORS
 
 ### `arpfetch`
 
-官方给出的调用示例：`arpfetch -h`
+> 官方示例调用：`arpfetch -h`
 
 ```text
 root@kali:~# arpfetch -h
@@ -83,7 +83,7 @@ usage: arpfetch host cname
 
 ### `arpsnmp`
 
-官方给出的调用示例：`arpsnmp -h`
+> 官方示例调用：`arpsnmp -h`
 
 ```text
 root@kali:~# arpsnmp -h
@@ -93,7 +93,7 @@ usage: arpsnmp [-d] [-m addr ] [-f datafile] [-s sendmail_path] file [...]
 
 ### `arpwatch`
 
-官方给出的调用示例：`arpwatch -h`
+> 官方示例调用：`arpwatch -h`
 
 ```text
 root@kali:~# arpwatch -h
@@ -103,7 +103,7 @@ usage: arpwatch [-dN] [-f datafile] [-F "filter" ][-i interface] [-n net[/width]
 
 ### `bihourly`
 
-官方给出的调用示例：`bihourly -h`
+> 官方示例调用：`bihourly -h`
 
 ```text
 root@kali:~# bihourly -h
@@ -116,7 +116,7 @@ usage: arpsnmp [-d] [-m addr ] [-f datafile] [-s sendmail_path] file [...]
 
 ### `massagevendor`
 
-官方给出的调用示例：`massagevendor -h`
+> 官方示例调用：`massagevendor -h`
 
 ```text
 root@kali:~# massagevendor -h

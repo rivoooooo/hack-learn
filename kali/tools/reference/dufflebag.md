@@ -37,7 +37,7 @@ man dufflebag         # 查看手册
 
 ### `dufflebag`
 
-官方给出的调用示例：`dufflebag -h`
+> 官方示例调用：`dufflebag -h`
 
 ```text
 root@kali:~# dufflebag -h

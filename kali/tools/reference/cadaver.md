@@ -37,7 +37,7 @@ man cadaver         # 查看手册
 
 ### `cadaver`
 
-官方给出的调用示例：`cadaver -h`
+> 官方示例调用：`cadaver -h`
 
 ```text
 root@kali:~# cadaver -h

@@ -37,7 +37,7 @@ man autopsy         # 查看手册
 
 ### `autopsy`
 
-官方给出的调用示例：`autopsy -h`
+> 官方示例调用：`autopsy -h`
 
 ```text
 root@kali:~# autopsy -h

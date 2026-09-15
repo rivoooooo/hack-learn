@@ -37,7 +37,7 @@ man i2c-tools         # 查看手册
 
 ### `decode-dimms`
 
-官方给出的调用示例：`decode-dimms -h`
+> 官方示例调用：`decode-dimms -h`
 
 ```text
 root@kali:~# decode-dimms -h
@@ -65,7 +65,7 @@ parsed correctly.  It is better to use "hexdump -C", which is not ambiguous.
 
 ### `decode-vaio`
 
-官方给出的调用示例：`decode-vaio -h`
+> 官方示例调用：`decode-vaio -h`
 
 ```text
 root@kali:~# decode-vaio -h
@@ -75,7 +75,7 @@ Vaio EEPROM not found.  Please make sure that the at24 or eeprom module is loade
 
 ### `i2c-stub-from-dump`
 
-官方给出的调用示例：`i2c-stub-from-dump -h`
+> 官方示例调用：`i2c-stub-from-dump -h`
 
 ```text
 root@kali:~# i2c-stub-from-dump -h
@@ -84,7 +84,7 @@ Usage: i2c-stub-from-dump <addr>[,<addr>,...] <dump file> [<dump file> ...]
 
 ### `i2cdetect`
 
-官方给出的调用示例：`i2cdetect -h`
+> 官方示例调用：`i2cdetect -h`
 
 ```text
 root@kali:~# i2cdetect -h
@@ -97,7 +97,7 @@ Usage: i2cdetect [-y] [-a] [-q|-r] I2CBUS [FIRST LAST]
 
 ### `i2cdump`
 
-官方给出的调用示例：`i2cdump -h`
+> 官方示例调用：`i2cdump -h`
 
 ```text
 root@kali:~# i2cdump -h
@@ -115,7 +115,7 @@ Usage: i2cdump [-f] [-y] [-r first-last] [-a] I2CBUS ADDRESS [MODE [BANK [BANKRE
 
 ### `i2cget`
 
-官方给出的调用示例：`i2cget -h`
+> 官方示例调用：`i2cget -h`
 
 ```text
 root@kali:~# i2cget -h
@@ -134,7 +134,7 @@ Usage: i2cget [-f] [-y] [-a] I2CBUS CHIP-ADDRESS [DATA-ADDRESS [MODE [LENGTH]]]
 
 ### `i2cset`
 
-官方给出的调用示例：`i2cset -h`
+> 官方示例调用：`i2cset -h`
 
 ```text
 root@kali:~# i2cset -h
@@ -152,7 +152,7 @@ Usage: i2cset [-f] [-y] [-m MASK] [-r] [-a] I2CBUS CHIP-ADDRESS DATA-ADDRESS [VA
 
 ### `i2ctransfer`
 
-官方给出的调用示例：`i2ctransfer -h`
+> 官方示例调用：`i2ctransfer -h`
 
 ```text
 root@kali:~# i2ctransfer -h

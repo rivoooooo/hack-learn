@@ -50,9 +50,9 @@ idBackSpaceBackSpacels
 whoami
 ```
 
-### `xspy（示例）`
+### `xspy -h`
 
-官方给出的调用示例：`xspy -h`
+> 官方示例调用：`xspy -h`
 
 ```text
 root@kali:~# xspy -h

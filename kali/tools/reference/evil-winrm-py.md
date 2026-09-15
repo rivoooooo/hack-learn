@@ -37,7 +37,7 @@ man evil-winrm-py         # 查看手册
 
 ### `evil-winrm-py`
 
-官方给出的调用示例：`evil-winrm-py -h`
+> 官方示例调用：`evil-winrm-py -h`
 
 ```text
 root@kali:~# evil-winrm-py -h
@@ -82,7 +82,7 @@ For user guide, visit https://github.com/adityatelange/evil-winrm-py/blob/main/d
 
 ### `ewp`
 
-官方给出的调用示例：`ewp -h`
+> 官方示例调用：`ewp -h`
 
 ```text
 root@kali:~# ewp -h

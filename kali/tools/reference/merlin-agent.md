@@ -37,7 +37,7 @@ man merlin-agent         # 查看手册
 
 ### `merlin-agent`
 
-官方给出的调用示例：`merlin-agent -h`
+> 官方示例调用：`merlin-agent -h`
 
 ```text
 root@kali:~# merlin-agent -h

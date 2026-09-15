@@ -37,7 +37,7 @@ man ghidra         # 查看手册
 
 ### `ghidra`
 
-官方给出的调用示例：`ghidra -h`
+> 官方示例调用：`ghidra -h`
 
 ```text
 root@kali:~# ghidra -h

@@ -37,7 +37,7 @@ sqldict
 
 ### `sqldict`
 
-官方给出的调用示例：`sqldict -h`
+> 官方示例调用：`sqldict -h`
 
 ```text
 root@kali:~# sqldict -h

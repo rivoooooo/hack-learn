@@ -37,7 +37,7 @@ man email2phonenumber         # 查看手册
 
 ### `email2phonenumber`
 
-官方给出的调用示例：`email2phonenumber -h`
+> 官方示例调用：`email2phonenumber -h`
 
 ```text
 root@kali:~# email2phonenumber -h

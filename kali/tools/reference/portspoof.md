@@ -37,7 +37,7 @@ man portspoof         # 查看手册
 
 ### `portspoof`
 
-官方给出的调用示例：`portspoof --help`
+> 官方示例调用：`portspoof --help`
 
 ```text
 root@kali:~# portspoof --help
@@ -46,7 +46,7 @@ Try ` portspoof -h' for more information.
 
 ### `portspoof-start`
 
-官方给出的调用示例：`portspoof-start -h`
+> 官方示例调用：`portspoof-start -h`
 
 ```text
 root@kali:~# portspoof-start -h
@@ -56,7 +56,7 @@ root@kali:~# portspoof-start -h
 
 ### `portspoof-stop`
 
-官方给出的调用示例：`portspoof-stop -h`
+> 官方示例调用：`portspoof-stop -h`
 
 ```text
 root@kali:~# portspoof-stop -h

@@ -37,7 +37,7 @@ man exiv2         # 查看手册
 
 ### `exiv2`
 
-官方给出的调用示例：`exiv2 -h`
+> 官方示例调用：`exiv2 -h`
 
 ```text
 root@kali:~# exiv2 -h

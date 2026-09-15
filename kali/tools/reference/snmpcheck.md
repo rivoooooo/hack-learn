@@ -79,7 +79,7 @@ root@kali:~#
 
 ### `snmp-check`
 
-官方给出的调用示例：`snmp-check 192.168.1.2 -c public`
+> 官方示例调用：`snmp-check 192.168.1.2 -c public`
 
 ```text
 root@kali:~# snmp-check 192.168.1.2 -c public
@@ -115,9 +115,9 @@ Copyright (c) 2005-2015 by Matteo Cantoni (www.nothink.org)
 root@kali:~#
 ```
 
-### `snmp-check（示例）`
+### `snmp-check -h`
 
-官方给出的调用示例：`snmp-check -h`
+> 官方示例调用：`snmp-check -h`
 
 ```text
 root@kali:~# snmp-check -h

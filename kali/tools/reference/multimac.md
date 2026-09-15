@@ -37,7 +37,7 @@ man multimac         # 查看手册
 
 ### `multimac`
 
-官方给出的调用示例：`multimac -h`
+> 官方示例调用：`multimac -h`
 
 ```text
 root@kali:~# multimac -h

@@ -37,7 +37,7 @@ man bruteforce-wallet         # 查看手册
 
 ### `bruteforce-wallet`
 
-官方给出的调用示例：`bruteforce-wallet --help`
+> 官方示例调用：`bruteforce-wallet --help`
 
 ```text
 root@kali:~# bruteforce-wallet --help

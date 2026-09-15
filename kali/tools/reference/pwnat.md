@@ -38,16 +38,16 @@ On the client, run in client mode (-c) on local port 8000 (8000), connect to the
 
 ### `pwnat`
 
-官方给出的调用示例：`pwnat -s 8080`
+> 官方示例调用：`pwnat -s 8080`
 
 ```text
 root@kali:~# pwnat -s 8080
 Listening on UDP 0.0.0.0:8080
 ```
 
-### `pwnat（示例）`
+### `pwnat -c 8000 192.168.1.202 8080 google.com 80`
 
-官方给出的调用示例：`pwnat -c 8000 192.168.1.202 8080 google.com 80`
+> 官方示例调用：`pwnat -c 8000 192.168.1.202 8080 google.com 80`
 
 ```text
 root@kali:~# pwnat -c 8000 192.168.1.202 8080 google.com 80
@@ -55,9 +55,9 @@ Listening on TCP 0.0.0.0:8000
 New connection(1): tcp://127.0.0.1:41318 -> udp://192.168.1.202:8080
 ```
 
-### `pwnat（示例）`
+### `pwnat -h`
 
-官方给出的调用示例：`pwnat -h`
+> 官方示例调用：`pwnat -h`
 
 ```text
 root@kali:~# pwnat -h

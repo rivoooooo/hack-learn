@@ -37,7 +37,7 @@ man libsleuthkit-java         # 查看手册
 
 ### `blkcalc`
 
-官方给出的调用示例：`blkcalc --help`
+> 官方示例调用：`blkcalc --help`
 
 ```text
 root@kali:~# blkcalc --help
@@ -61,7 +61,7 @@ Slowly calculates the opposite block number
 
 ### `blkcat`
 
-官方给出的调用示例：`blkcat --help`
+> 官方示例调用：`blkcat --help`
 
 ```text
 root@kali:~# blkcat --help
@@ -87,7 +87,7 @@ usage: blkcat [-ahsvVw] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoff
 
 ### `blkls`
 
-官方给出的调用示例：`blkls --help`
+> 官方示例调用：`blkls --help`
 
 ```text
 root@kali:~# blkls --help
@@ -111,7 +111,7 @@ usage: blkls [-aAelvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffs
 
 ### `blkstat`
 
-官方给出的调用示例：`blkstat --help`
+> 官方示例调用：`blkstat --help`
 
 ```text
 root@kali:~# blkstat --help
@@ -131,7 +131,7 @@ usage: blkstat [-vV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffset
 
 ### `fcat`
 
-官方给出的调用示例：`fcat --help`
+> 官方示例调用：`fcat --help`
 
 ```text
 root@kali:~# fcat --help
@@ -153,7 +153,7 @@ usage: fcat [-hRsvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffset
 
 ### `ffind`
 
-官方给出的调用示例：`ffind --help`
+> 官方示例调用：`ffind --help`
 
 ```text
 root@kali:~# ffind --help
@@ -175,7 +175,7 @@ usage: ffind [-aduvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffse
 
 ### `fiwalk`
 
-官方给出的调用示例：`fiwalk -h`
+> 官方示例调用：`fiwalk -h`
 
 ```text
 root@kali:~# fiwalk -h
@@ -221,7 +221,7 @@ LIBEWF Version:    20140816
 
 ### `fls`
 
-官方给出的调用示例：`fls --help`
+> 官方示例调用：`fls --help`
 
 ```text
 root@kali:~# fls --help
@@ -256,7 +256,7 @@ usage: fls [-adDFlhpruvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-m dir/
 
 ### `fsstat`
 
-官方给出的调用示例：`fsstat --help`
+> 官方示例调用：`fsstat --help`
 
 ```text
 root@kali:~# fsstat --help
@@ -277,7 +277,7 @@ usage: fsstat [-tvV] [-f fstype] [-i imgtype] [-b dev_sector_size] [-o imgoffset
 
 ### `hfind`
 
-官方给出的调用示例：`hfind -h`
+> 官方示例调用：`hfind -h`
 
 ```text
 root@kali:~# hfind -h

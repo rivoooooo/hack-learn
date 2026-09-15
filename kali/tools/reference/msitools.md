@@ -37,7 +37,7 @@ man gir1.2-libmsi-1.0         # 查看手册
 
 ### `msibuild`
 
-官方给出的调用示例：`msibuild -h`
+> 官方示例调用：`msibuild -h`
 
 ```text
 root@kali:~# msibuild -h
@@ -53,7 +53,7 @@ will be created with an empty database.
 
 ### `msidiff`
 
-官方给出的调用示例：`msidiff -h`
+> 官方示例调用：`msidiff -h`
 
 ```text
 root@kali:~# msidiff -h
@@ -77,7 +77,7 @@ Report bugs to <https://gitlab.gnome.org/GNOME/msitools/issues>.
 
 ### `msidump`
 
-官方给出的调用示例：`msidump -h`
+> 官方示例调用：`msidump -h`
 
 ```text
 root@kali:~# msidump -h
@@ -96,7 +96,7 @@ Report bugs to <https://gitlab.gnome.org/GNOME/msitools/issues>.
 
 ### `msiextract`
 
-官方给出的调用示例：`msiextract -h`
+> 官方示例调用：`msiextract -h`
 
 ```text
 root@kali:~# msiextract -h
@@ -112,7 +112,7 @@ Application Options:
 
 ### `msiinfo`
 
-官方给出的调用示例：`msiinfo -h`
+> 官方示例调用：`msiinfo -h`
 
 ```text
 root@kali:~# msiinfo -h
@@ -131,7 +131,7 @@ Available subcommands:
 
 ### `wixl`
 
-官方给出的调用示例：`wixl -h`
+> 官方示例调用：`wixl -h`
 
 ```text
 root@kali:~# wixl -h
@@ -154,7 +154,7 @@ Application Options:
 
 ### `wixl-heat`
 
-官方给出的调用示例：`wixl-heat -h`
+> 官方示例调用：`wixl-heat -h`
 
 ```text
 root@kali:~# wixl-heat -h

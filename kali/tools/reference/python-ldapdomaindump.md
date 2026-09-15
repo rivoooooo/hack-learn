@@ -37,7 +37,7 @@ man python3-ldapdomaindump         # 查看手册
 
 ### `ldapdomaindump`
 
-官方给出的调用示例：`ldapdomaindump -h`
+> 官方示例调用：`ldapdomaindump -h`
 
 ```text
 root@kali:~# ldapdomaindump -h
@@ -82,7 +82,7 @@ Misc options:
 
 ### `ldd2bloodhound`
 
-官方给出的调用示例：`ldd2bloodhound -h`
+> 官方示例调用：`ldd2bloodhound -h`
 
 ```text
 root@kali:~# ldd2bloodhound -h
@@ -99,7 +99,7 @@ options:
 
 ### `ldd2pretty`
 
-官方给出的调用示例：`ldd2pretty -h`
+> 官方示例调用：`ldd2pretty -h`
 
 ```text
 root@kali:~# ldd2pretty -h

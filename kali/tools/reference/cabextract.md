@@ -35,7 +35,7 @@ man cabextract         # 查看手册
 
 ### `cabextract`
 
-官方给出的调用示例：`cabextract -h`
+> 官方示例调用：`cabextract -h`
 
 ```text
 root@kali:~# cabextract -h

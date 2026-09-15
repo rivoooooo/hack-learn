@@ -40,7 +40,7 @@ Device address: 00:19:0E:0E:EA:4B
 
 ### `spooftooph`
 
-官方给出的调用示例：`spooftooph -i hci1 -a 00803789EE76`
+> 官方示例调用：`spooftooph -i hci1 -a 00803789EE76`
 
 ```text
 root@kali:~# spooftooph -i hci1 -a 00803789EE76
@@ -48,9 +48,9 @@ Manufacturer:   Broadcom Corporation (15)
 Device address: 00:19:0E:0E:EA:4B
 ```
 
-### `spooftooph（示例）`
+### `spooftooph -h`
 
-官方给出的调用示例：`spooftooph -h`
+> 官方示例调用：`spooftooph -h`
 
 ```text
 root@kali:~# spooftooph -h

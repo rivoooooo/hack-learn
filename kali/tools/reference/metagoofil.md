@@ -58,7 +58,7 @@ Starting to download 25 of them:
 
 ### `metagoofil`
 
-官方给出的调用示例：`metagoofil -d kali.org -t pdf -l 100 -n 25 -o kalipdf -f kalipdf.html`
+> 官方示例调用：`metagoofil -d kali.org -t pdf -l 100 -n 25 -o kalipdf -f kalipdf.html`
 
 ```text
 root@kali:~# metagoofil -d kali.org -t pdf -l 100 -n 25 -o kalipdf -f kalipdf.html
@@ -81,9 +81,9 @@ Results: 21 files found
 Starting to download 25 of them:
 ```
 
-### `metagoofil（示例）`
+### `metagoofil -h`
 
-官方给出的调用示例：`metagoofil -h`
+> 官方示例调用：`metagoofil -h`
 
 ```text
 root@kali:~# metagoofil -h

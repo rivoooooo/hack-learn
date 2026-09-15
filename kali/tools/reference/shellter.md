@@ -39,7 +39,7 @@ root@kali:~# shellter
 
 ### `dpkg`
 
-官方给出的调用示例：`dpkg --add-architecture i386`
+> 官方示例调用：`dpkg --add-architecture i386`
 
 ```text
 root@kali:~# dpkg --add-architecture i386
@@ -47,7 +47,7 @@ root@kali:~# dpkg --add-architecture i386
 
 ### `apt`
 
-官方给出的调用示例：`apt update && apt install wine32`
+> 官方示例调用：`apt update && apt install wine32`
 
 ```text
 root@kali:~# apt update && apt install wine32
@@ -59,9 +59,9 @@ root@kali:~# apt update && apt install wine32
 root@kali:~# shellter
 ```
 
-### `shellter（示例）`
+### `shellter -h`
 
-官方给出的调用示例：`shellter -h`
+> 官方示例调用：`shellter -h`
 
 ```text
 root@kali:~# shellter -h

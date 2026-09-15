@@ -60,7 +60,7 @@ Range
 
 ### `blueranger`
 
-官方给出的调用示例：`blueranger hci1 20:C9:D0:43:4B:D8`
+> 官方示例调用：`blueranger hci1 20:C9:D0:43:4B:D8`
 
 ```text
 root@kali:~# blueranger hci1 20:C9:D0:43:4B:D8
@@ -80,9 +80,9 @@ Range
 ------------------------------------
 ```
 
-### `blueranger（示例）`
+### `blueranger -h`
 
-官方给出的调用示例：`blueranger -h`
+> 官方示例调用：`blueranger -h`
 
 ```text
 root@kali:~# blueranger -h

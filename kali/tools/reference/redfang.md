@@ -45,7 +45,7 @@ Performing Bluetooth Discovery...
 
 ### `fang`
 
-官方给出的调用示例：`fang -r 00803789EE76-00803789EEff -s`
+> 官方示例调用：`fang -r 00803789EE76-00803789EEff -s`
 
 ```text
 root@kali:~# fang -r 00803789EE76-00803789EEff -s
@@ -65,9 +65,9 @@ Address range 00:80:37:89:ee:76 -> 00:80:37:89:ee:ff
 Performing Bluetooth Discovery...
 ```
 
-### `fang（示例）`
+### `fang -h`
 
-官方给出的调用示例：`fang -h`
+> 官方示例调用：`fang -h`
 
 ```text
 root@kali:~# fang -h

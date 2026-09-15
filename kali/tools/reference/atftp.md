@@ -37,7 +37,7 @@ man atftp         # 查看手册
 
 ### `atftp`
 
-官方给出的调用示例：`atftp -h`
+> 官方示例调用：`atftp -h`
 
 ```text
 root@kali:~# atftp -h
@@ -64,7 +64,7 @@ Usage: tftp [options] [host] [port]
 
 ### `atftpd`
 
-官方给出的调用示例：`atftpd -h`
+> 官方示例调用：`atftpd -h`
 
 ```text
 root@kali:~# atftpd -h
@@ -107,7 +107,7 @@ Usage: tftpd [options] [directory]
 
 ### `in.tftpd`
 
-官方给出的调用示例：`in.tftpd -h`
+> 官方示例调用：`in.tftpd -h`
 
 ```text
 root@kali:~# in.tftpd -h

@@ -37,7 +37,7 @@ man caldera         # 查看手册
 
 ### `caldera`
 
-官方给出的调用示例：`caldera -h`
+> 官方示例调用：`caldera -h`
 
 ```text
 root@kali:~# caldera -h

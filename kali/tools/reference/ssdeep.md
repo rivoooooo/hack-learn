@@ -37,7 +37,7 @@ man libfuzzy-dev         # 查看手册
 
 ### `ssdeep`
 
-官方给出的调用示例：`ssdeep -h`
+> 官方示例调用：`ssdeep -h`
 
 ```text
 root@kali:~# ssdeep -h

@@ -37,7 +37,7 @@ man thc-pptp-bruter         # 查看手册
 
 ### `thc-pptp-bruter`
 
-官方给出的调用示例：`thc-pptp-bruter -h`
+> 官方示例调用：`thc-pptp-bruter -h`
 
 ```text
 root@kali:~# thc-pptp-bruter -h

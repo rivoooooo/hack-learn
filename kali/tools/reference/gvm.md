@@ -36,7 +36,7 @@ Screenshots
 
 ### `gvm-check-setup`
 
-官方给出的调用示例：`gvm-check-setup -h`
+> 官方示例调用：`gvm-check-setup -h`
 
 ```text
 root@kali:~# gvm-check-setup -h
@@ -57,7 +57,7 @@ script again.
 
 ### `gvm-setup`
 
-官方给出的调用示例：`gvm-setup -h`
+> 官方示例调用：`gvm-setup -h`
 
 ```text
 root@kali:~# gvm-setup -h
@@ -88,7 +88,7 @@ Acquired lock on /var/lib/openvas/feed-update.lock
 
 ### `gvm-start`
 
-官方给出的调用示例：`gvm-start -h`
+> 官方示例调用：`gvm-start -h`
 
 ```text
 root@kali:~# gvm-start -h
@@ -101,7 +101,7 @@ root@kali:~# gvm-start -h
 
 ### `gvm-stop`
 
-官方给出的调用示例：`gvm-stop -h`
+> 官方示例调用：`gvm-stop -h`
 
 ```text
 root@kali:~# gvm-stop -h

@@ -36,7 +36,7 @@ man qsreplace         # 查看手册
 
 ### `qsreplace`
 
-官方给出的调用示例：`qsreplace -h`
+> 官方示例调用：`qsreplace -h`
 
 ```text
 root@kali:~# qsreplace -h

@@ -36,7 +36,7 @@ man command-not-found         # 查看手册
 
 ### `command-not-found`
 
-官方给出的调用示例：`command-not-found -h`
+> 官方示例调用：`command-not-found -h`
 
 ```text
 root@kali:~# command-not-found -h
@@ -54,7 +54,7 @@ Options:
 
 ### `man`
 
-官方给出的调用示例：`man update-command-not-found`
+> 官方示例调用：`man update-command-not-found`
 
 ```text
 root@kali:~# man update-command-not-found

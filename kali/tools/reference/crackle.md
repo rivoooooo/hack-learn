@@ -48,7 +48,7 @@ Done, processed 712 total packets, decrypted 3
 
 ### `crackle`
 
-官方给出的调用示例：`crackle -i ltk_exchange.pcap -o ltk-decrypted.pcap`
+> 官方示例调用：`crackle -i ltk_exchange.pcap -o ltk-decrypted.pcap`
 
 ```text
 root@kali:~# crackle -i ltk_exchange.pcap -o ltk-decrypted.pcap
@@ -61,9 +61,9 @@ LTK found: 7f62c053f104a5bbe68b1d896a2ed49c
 Done, processed 712 total packets, decrypted 3
 ```
 
-### `crackle（示例）`
+### `crackle -h`
 
-官方给出的调用示例：`crackle -h`
+> 官方示例调用：`crackle -h`
 
 ```text
 root@kali:~# crackle -h

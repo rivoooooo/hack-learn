@@ -37,7 +37,7 @@ man bsdextrautils         # 查看手册
 
 ### `col`
 
-官方给出的调用示例：`col --help`
+> 官方示例调用：`col --help`
 
 ```text
 root@kali:~# col --help
@@ -58,7 +58,7 @@ For more details see col(1).
 
 ### `colcrt`
 
-官方给出的调用示例：`colcrt -h`
+> 官方示例调用：`colcrt -h`
 
 ```text
 root@kali:~# colcrt -h
@@ -75,7 +75,7 @@ For more details see colcrt(1).
 
 ### `colrm`
 
-官方给出的调用示例：`colrm -h`
+> 官方示例调用：`colrm -h`
 
 ```text
 root@kali:~# colrm -h
@@ -90,7 +90,7 @@ For more details see colrm(1).
 
 ### `column`
 
-官方给出的调用示例：`column -h`
+> 官方示例调用：`column -h`
 
 ```text
 root@kali:~# column -h
@@ -137,7 +137,7 @@ For more details see column(1).
 
 ### `hd`
 
-官方给出的调用示例：`hd -h`
+> 官方示例调用：`hd -h`
 
 ```text
 root@kali:~# hd -h
@@ -169,7 +169,7 @@ For more details see hexdump(1).
 
 ### `hexdump`
 
-官方给出的调用示例：`hexdump -h`
+> 官方示例调用：`hexdump -h`
 
 ```text
 root@kali:~# hexdump -h
@@ -201,7 +201,7 @@ For more details see hexdump(1).
 
 ### `look`
 
-官方给出的调用示例：`look -h`
+> 官方示例调用：`look -h`
 
 ```text
 root@kali:~# look -h
@@ -220,7 +220,7 @@ For more details see look(1).
 
 ### `rev`
 
-官方给出的调用示例：`rev -h`
+> 官方示例调用：`rev -h`
 
 ```text
 root@kali:~# rev -h
@@ -236,7 +236,7 @@ For more details see rev(1).
 
 ### `ul`
 
-官方给出的调用示例：`ul -h`
+> 官方示例调用：`ul -h`
 
 ```text
 root@kali:~# ul -h
@@ -253,7 +253,7 @@ For more details see ul(1).
 
 ### `renice`
 
-官方给出的调用示例：`renice -h`
+> 官方示例调用：`renice -h`
 
 ```text
 root@kali:~# renice -h

@@ -61,7 +61,7 @@ root@kali:~#
 
 ### `tree`
 
-官方给出的调用示例：`tree /usr/share/webshells/`
+> 官方示例调用：`tree /usr/share/webshells/`
 
 ```text
 root@kali:~# tree /usr/share/webshells/
@@ -97,7 +97,7 @@ root@kali:~#
 
 ### `webshells`
 
-官方给出的调用示例：`webshells -h`
+> 官方示例调用：`webshells -h`
 
 ```text
 root@kali:~# webshells -h

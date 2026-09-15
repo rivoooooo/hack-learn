@@ -37,7 +37,7 @@ man tundeep         # 查看手册
 
 ### `tundeep`
 
-官方给出的调用示例：`tundeep -h`
+> 官方示例调用：`tundeep -h`
 
 ```text
 root@kali:~# tundeep -h

@@ -41,7 +41,7 @@ root@kali:~# ridenum 192.168.1.236 500 50000 /tmp/passes.txt
 
 ### `ridenum`
 
-官方给出的调用示例：`ridenum 192.168.1.236 500 50000 /tmp/passes.txt`
+> 官方示例调用：`ridenum 192.168.1.236 500 50000 /tmp/passes.txt`
 
 ```text
 root@kali:~# ridenum 192.168.1.236 500 50000 /tmp/passes.txt
@@ -50,9 +50,9 @@ root@kali:~# ridenum 192.168.1.236 500 50000 /tmp/passes.txt
 [*] Enumerating user accounts.. This could take a little while.
 ```
 
-### `ridenum（示例）`
+### `ridenum -h`
 
-官方给出的调用示例：`ridenum -h`
+> 官方示例调用：`ridenum -h`
 
 ```text
 root@kali:~# ridenum -h

@@ -55,7 +55,7 @@ If stealth is not a requirement, you can attempt to use the autopwn scanner modu
 
 ### `routersploit`
 
-官方给出的调用示例：`routersploit -h`
+> 官方示例调用：`routersploit -h`
 
 ```text
 root@kali:~# routersploit -h
@@ -64,7 +64,7 @@ root@kali:~# routersploit -h
 
 ### `rsf.py`
 
-官方给出的调用示例：`rsf.py -h`
+> 官方示例调用：`rsf.py -h`
 
 ```text
 root@kali:~# rsf.py -h

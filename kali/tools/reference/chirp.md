@@ -37,7 +37,7 @@ man chirp         # 查看手册
 
 ### `chirpc`
 
-官方给出的调用示例：`chirpc -h`
+> 官方示例调用：`chirpc -h`
 
 ```text
 root@kali:~# chirpc -h
@@ -110,7 +110,7 @@ Memory/Channel Options:
 
 ### `chirpw`
 
-官方给出的调用示例：`chirpw -h`
+> 官方示例调用：`chirpw -h`
 
 ```text
 root@kali:~# chirpw -h
@@ -159,7 +159,7 @@ options:
 
 ### `experttune`
 
-官方给出的调用示例：`experttune -h`
+> 官方示例调用：`experttune -h`
 
 ```text
 root@kali:~# experttune -h

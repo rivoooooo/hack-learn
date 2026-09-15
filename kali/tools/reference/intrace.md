@@ -51,7 +51,7 @@ Status: Packets sent #8
 
 ### `intrace`
 
-官方给出的调用示例：`intrace -h www.example.com -p 80 -s 4`
+> 官方示例调用：`intrace -h www.example.com -p 80 -s 4`
 
 ```text
 root@kali:~# intrace -h www.example.com -p 80 -s 4
@@ -69,9 +69,9 @@ Status: Packets sent #8
  8.  [206.223.119.59 ]  [93.184.216.119 ]  [ICMP_TIMXCEED]
 ```
 
-### `intrace（示例）`
+### `intrace -h`
 
-官方给出的调用示例：`intrace -h`
+> 官方示例调用：`intrace -h`
 
 ```text
 root@kali:~# intrace -h

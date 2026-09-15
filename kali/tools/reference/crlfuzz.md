@@ -37,7 +37,7 @@ man crlfuzz         # 查看手册
 
 ### `crlfuzz`
 
-官方给出的调用示例：`crlfuzz -h`
+> 官方示例调用：`crlfuzz -h`
 
 ```text
 root@kali:~# crlfuzz -h

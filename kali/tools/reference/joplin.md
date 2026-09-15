@@ -37,7 +37,7 @@ man joplin         # 查看手册
 
 ### `joplin-cli`
 
-官方给出的调用示例：`joplin-cli -h`
+> 官方示例调用：`joplin-cli -h`
 
 ```text
 root@kali:~# joplin-cli -h

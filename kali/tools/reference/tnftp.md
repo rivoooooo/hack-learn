@@ -37,7 +37,7 @@ man ftp         # 查看手册
 
 ### `tnftp`
 
-官方给出的调用示例：`tnftp -h`
+> 官方示例调用：`tnftp -h`
 
 ```text
 root@kali:~# tnftp -h

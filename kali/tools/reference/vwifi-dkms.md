@@ -37,7 +37,7 @@ man vwifi-dkms         # 查看手册
 
 ### `vwifi-tool`
 
-官方给出的调用示例：`vwifi-tool --help`
+> 官方示例调用：`vwifi-tool --help`
 
 ```text
 root@kali:~# vwifi-tool --help

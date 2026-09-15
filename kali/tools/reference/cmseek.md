@@ -37,7 +37,7 @@ man cmseek         # 查看手册
 
 ### `cmseek`
 
-官方给出的调用示例：`cmseek -h`
+> 官方示例调用：`cmseek -h`
 
 ```text
 root@kali:~# cmseek -h

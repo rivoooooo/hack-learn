@@ -37,7 +37,7 @@ man ffuf         # 查看手册
 
 ### `ffuf`
 
-官方给出的调用示例：`ffuf -h`
+> 官方示例调用：`ffuf -h`
 
 ```text
 root@kali:~# ffuf -h

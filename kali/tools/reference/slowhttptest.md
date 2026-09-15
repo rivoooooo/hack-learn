@@ -37,7 +37,7 @@ Use 1000 connections (-c 1000) with the Slowloris mode (-H), and generate statis
 
 ### `slowhttptest`
 
-官方给出的调用示例：`slowhttptest -c 1000 -H -g -o slowhttp -i 10 -r 200 -t GET -u http://192.168.1.202/index.php -x 24 -p 3`
+> 官方示例调用：`slowhttptest -c 1000 -H -g -o slowhttp -i 10 -r 200 -t GET -u http://192.168.1.202/index.php -x 24 -p 3`
 
 ```text
 root@kali:~# slowhttptest -c 1000 -H -g -o slowhttp -i 10 -r 200 -t GET -u http://192.168.1.202/index.php -x 24 -p 3
@@ -66,9 +66,9 @@ closed:              0
 service available:   YES
 ```
 
-### `slowhttptest（示例）`
+### `slowhttptest -h`
 
-官方给出的调用示例：`slowhttptest -h`
+> 官方示例调用：`slowhttptest -h`
 
 ```text
 root@kali:~# slowhttptest -h

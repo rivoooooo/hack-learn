@@ -37,7 +37,7 @@ man hurl         # 查看手册
 
 ### `hURL`
 
-官方给出的调用示例：`hURL -b "S2FsaSBMaW51eAo="`
+> 官方示例调用：`hURL -b "S2FsaSBMaW51eAo="`
 
 ```text
 root@kali:~# hURL -b "S2FsaSBMaW51eAo="
@@ -45,9 +45,9 @@ Original string       :: S2FsaSBMaW51eAo=
 base64 DEcoded string :: Kali Linux
 ```
 
-### `hURL（示例）`
+### `hURL -h`
 
-官方给出的调用示例：`hURL -h`
+> 官方示例调用：`hURL -h`
 
 ```text
 root@kali:~# hURL -h

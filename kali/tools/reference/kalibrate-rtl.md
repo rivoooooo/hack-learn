@@ -63,7 +63,7 @@ average absolute error: 4.709 ppm
 
 ### `kal`
 
-官方给出的调用示例：`kal -s GSM850`
+> 官方示例调用：`kal -s GSM850`
 
 ```text
 root@kali:~# kal -s GSM850
@@ -78,9 +78,9 @@ GSM-850:
     chan: 143 (872.2MHz - 3.760kHz) power: 56331.63
 ```
 
-### `kal（示例）`
+### `kal -c 128`
 
-官方给出的调用示例：`kal -c 128`
+> 官方示例调用：`kal -c 128`
 
 ```text
 root@kali:~# kal -c 128
@@ -98,9 +98,9 @@ not found: 0
 average absolute error: 4.709 ppm
 ```
 
-### `kal（示例）`
+### `kal -h`
 
-官方给出的调用示例：`kal -h`
+> 官方示例调用：`kal -h`
 
 ```text
 root@kali:~# kal -h

@@ -37,7 +37,7 @@ man pasco         # 查看手册
 
 ### `pasco`
 
-官方给出的调用示例：`pasco -h`
+> 官方示例调用：`pasco -h`
 
 ```text
 root@kali:~# pasco -h

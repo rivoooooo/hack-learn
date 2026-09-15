@@ -37,7 +37,7 @@ man ncurses-hexedit         # 查看手册
 
 ### `hexeditor`
 
-官方给出的调用示例：`hexeditor -h`
+> 官方示例调用：`hexeditor -h`
 
 ```text
 root@kali:~# hexeditor -h

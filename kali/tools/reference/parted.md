@@ -37,7 +37,7 @@ man libparted-dev         # 查看手册
 
 ### `parted`
 
-官方给出的调用示例：`parted -h`
+> 官方示例调用：`parted -h`
 
 ```text
 root@kali:~# parted -h
@@ -87,7 +87,7 @@ Report bugs to
 
 ### `partprobe`
 
-官方给出的调用示例：`partprobe -h`
+> 官方示例调用：`partprobe -h`
 
 ```text
 root@kali:~# partprobe -h

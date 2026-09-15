@@ -37,7 +37,7 @@ man photon         # 查看手册
 
 ### `photon`
 
-官方给出的调用示例：`photon -h`
+> 官方示例调用：`photon -h`
 
 ```text
 root@kali:~# photon -h

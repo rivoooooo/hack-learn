@@ -65,7 +65,7 @@ root@kali:~# cisco-ocs 192.168.99.200 192.168.99.202
 
 ### `cisco-ocs`
 
-官方给出的调用示例：`cisco-ocs 192.168.99.200 192.168.99.202`
+> 官方示例调用：`cisco-ocs 192.168.99.200 192.168.99.202`
 
 ```text
 root@kali:~# cisco-ocs 192.168.99.200 192.168.99.202
@@ -94,9 +94,9 @@ root@kali:~# cisco-ocs 192.168.99.200 192.168.99.202
   |Router not vulnerable.
 ```
 
-### `cisco-ocs（示例）`
+### `cisco-ocs -h`
 
-官方给出的调用示例：`cisco-ocs -h`
+> 官方示例调用：`cisco-ocs -h`
 
 ```text
 root@kali:~# cisco-ocs -h

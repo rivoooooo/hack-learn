@@ -36,7 +36,7 @@ man oclgausscrack         # 查看手册
 
 ### `gausscombinator`
 
-官方给出的调用示例：`gausscombinator -h`
+> 官方示例调用：`gausscombinator -h`
 
 ```text
 root@kali:~# gausscombinator -h
@@ -45,7 +45,7 @@ usage: ./gaussCombinator.bin file1 file2
 
 ### `oclgausscrack`
 
-官方给出的调用示例：`oclgausscrack -h`
+> 官方示例调用：`oclgausscrack -h`
 
 ```text
 root@kali:~# oclgausscrack -h

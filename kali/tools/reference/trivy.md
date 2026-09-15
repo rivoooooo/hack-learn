@@ -37,7 +37,7 @@ man trivy         # 查看手册
 
 ### `trivy`
 
-官方给出的调用示例：`trivy -h`
+> 官方示例调用：`trivy -h`
 
 ```text
 root@kali:~# trivy -h

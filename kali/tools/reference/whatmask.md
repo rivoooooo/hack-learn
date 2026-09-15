@@ -37,7 +37,7 @@ man whatmask         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man whatmask`
+> 官方示例调用：`man whatmask`
 
 ```text
 root@kali:~# man whatmask

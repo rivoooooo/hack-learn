@@ -36,7 +36,7 @@ man impacket-scripts         # 查看手册
 
 ### `impacket-DumpNTLMInfo`
 
-官方给出的调用示例：`impacket-DumpNTLMInfo -h`
+> 官方示例调用：`impacket-DumpNTLMInfo -h`
 
 ```text
 root@kali:~# impacket-DumpNTLMInfo -h
@@ -65,7 +65,7 @@ impacket-Get-GPPPassword
 
 ### `impacket-Get-GPPPassword`
 
-官方给出的调用示例：`impacket-Get-GPPPassword -h`
+> 官方示例调用：`impacket-Get-GPPPassword -h`
 
 ```text
 root@kali:~# impacket-Get-GPPPassword -h
@@ -113,7 +113,7 @@ impacket-GetADComputers
 
 ### `impacket-GetADComputers`
 
-官方给出的调用示例：`impacket-GetADComputers -h`
+> 官方示例调用：`impacket-GetADComputers -h`
 
 ```text
 root@kali:~# impacket-GetADComputers -h
@@ -155,7 +155,7 @@ impacket-GetADUsers
 
 ### `impacket-GetADUsers`
 
-官方给出的调用示例：`impacket-GetADUsers -h`
+> 官方示例调用：`impacket-GetADUsers -h`
 
 ```text
 root@kali:~# impacket-GetADUsers -h
@@ -198,7 +198,7 @@ impacket-GetLAPSPassword
 
 ### `impacket-GetLAPSPassword`
 
-官方给出的调用示例：`impacket-GetLAPSPassword -h`
+> 官方示例调用：`impacket-GetLAPSPassword -h`
 
 ```text
 root@kali:~# impacket-GetLAPSPassword -h
@@ -244,7 +244,7 @@ impacket-GetNPUsers
 
 ### `impacket-GetNPUsers`
 
-官方给出的调用示例：`impacket-GetNPUsers -h`
+> 官方示例调用：`impacket-GetNPUsers -h`
 
 ```text
 root@kali:~# impacket-GetNPUsers -h
@@ -292,7 +292,7 @@ impacket-GetUserSPNs
 
 ### `impacket-GetUserSPNs`
 
-官方给出的调用示例：`impacket-GetUserSPNs -h`
+> 官方示例调用：`impacket-GetUserSPNs -h`
 
 ```text
 root@kali:~# impacket-GetUserSPNs -h
@@ -362,7 +362,7 @@ impacket-addcomputer
 
 ### `impacket-addcomputer`
 
-官方给出的调用示例：`impacket-addcomputer -h`
+> 官方示例调用：`impacket-addcomputer -h`
 
 ```text
 root@kali:~# impacket-addcomputer -h
@@ -429,7 +429,7 @@ impacket-atexec
 
 ### `impacket-atexec`
 
-官方给出的调用示例：`impacket-atexec -h`
+> 官方示例调用：`impacket-atexec -h`
 
 ```text
 root@kali:~# impacket-atexec -h
@@ -475,7 +475,7 @@ impacket-changepasswd
 
 ### `impacket-changepasswd`
 
-官方给出的调用示例：`impacket-changepasswd -h`
+> 官方示例调用：`impacket-changepasswd -h`
 
 ```text
 root@kali:~# impacket-changepasswd -h

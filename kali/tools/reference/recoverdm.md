@@ -37,7 +37,7 @@ man recoverdm         # 查看手册
 
 ### `mergebad`
 
-官方给出的调用示例：`mergebad -h`
+> 官方示例调用：`mergebad -h`
 
 ```text
 root@kali:~# mergebad -h
@@ -54,7 +54,7 @@ root@kali:~# mergebad -h
 
 ### `recoverdm`
 
-官方给出的调用示例：`recoverdm --help`
+> 官方示例调用：`recoverdm --help`
 
 ```text
 root@kali:~# recoverdm --help

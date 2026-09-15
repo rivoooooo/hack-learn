@@ -37,7 +37,7 @@ man tmux         # 查看手册
 
 ### `tmux`
 
-官方给出的调用示例：`tmux -h`
+> 官方示例调用：`tmux -h`
 
 ```text
 root@kali:~# tmux -h

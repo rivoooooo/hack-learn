@@ -37,7 +37,7 @@ man azurehound         # 查看手册
 
 ### `azurehound`
 
-官方给出的调用示例：`azurehound -h`
+> 官方示例调用：`azurehound -h`
 
 ```text
 root@kali:~# azurehound -h

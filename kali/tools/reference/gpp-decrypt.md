@@ -39,7 +39,7 @@ Local*P4ssword!
 
 ### `gpp-decrypt`
 
-官方给出的调用示例：`gpp-decrypt j1Uyj3Vx8TY9LtLZil2uAuZkFQA/4latT76ZwgdHdhw`
+> 官方示例调用：`gpp-decrypt j1Uyj3Vx8TY9LtLZil2uAuZkFQA/4latT76ZwgdHdhw`
 
 ```text
 root@kali:~# gpp-decrypt j1Uyj3Vx8TY9LtLZil2uAuZkFQA/4latT76ZwgdHdhw

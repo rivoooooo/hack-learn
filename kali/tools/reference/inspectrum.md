@@ -37,7 +37,7 @@ man inspectrum         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man inspectrum`
+> 官方示例调用：`man inspectrum`
 
 ```text
 root@kali:~# man inspectrum

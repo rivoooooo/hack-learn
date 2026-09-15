@@ -37,7 +37,7 @@ man coercer         # 查看手册
 
 ### `coercer`
 
-官方给出的调用示例：`coercer -h`
+> 官方示例调用：`coercer -h`
 
 ```text
 root@kali:~# coercer -h

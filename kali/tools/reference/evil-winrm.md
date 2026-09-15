@@ -37,7 +37,7 @@ man evil-winrm         # 查看手册
 
 ### `evil-winrm`
 
-官方给出的调用示例：`evil-winrm -h`
+> 官方示例调用：`evil-winrm -h`
 
 ```text
 root@kali:~# evil-winrm -h

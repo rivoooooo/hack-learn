@@ -37,7 +37,7 @@ man nbtscan         # 查看手册
 
 ### `nbtscan`
 
-官方给出的调用示例：`nbtscan --help`
+> 官方示例调用：`nbtscan --help`
 
 ```text
 root@kali:~# nbtscan --help

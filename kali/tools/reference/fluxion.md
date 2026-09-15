@@ -37,7 +37,7 @@ man fluxion         # 查看手册
 
 ### `fluxion`
 
-官方给出的调用示例：`fluxion -h`
+> 官方示例调用：`fluxion -h`
 
 ```text
 root@kali:~# fluxion -h

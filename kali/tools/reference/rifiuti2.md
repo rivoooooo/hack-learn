@@ -37,7 +37,7 @@ man rifiuti2         # 查看手册
 
 ### `rifiuti-vista`
 
-官方给出的调用示例：`rifiuti-vista -h`
+> 官方示例调用：`rifiuti-vista -h`
 
 ```text
 root@kali:~# rifiuti-vista -h
@@ -60,7 +60,7 @@ More info : https://abelcheung.github.io/rifiuti2/
 
 ### `rifiuti2`
 
-官方给出的调用示例：`rifiuti2 -h`
+> 官方示例调用：`rifiuti2 -h`
 
 ```text
 root@kali:~# rifiuti2 -h

@@ -37,7 +37,7 @@ man autorecon         # 查看手册
 
 ### `autorecon`
 
-官方给出的调用示例：`autorecon -h`
+> 官方示例调用：`autorecon -h`
 
 ```text
 root@kali:~# autorecon -h

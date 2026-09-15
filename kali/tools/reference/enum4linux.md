@@ -54,7 +54,7 @@ Known Usernames .. administrator, guest, krbtgt, domain admins, root, bin, none
 
 ### `enum4linux`
 
-官方给出的调用示例：`enum4linux -U -o 192.168.1.200`
+> 官方示例调用：`enum4linux -U -o 192.168.1.200`
 
 ```text
 root@kali:~# enum4linux -U -o 192.168.1.200
@@ -73,9 +73,9 @@ Known Usernames .. administrator, guest, krbtgt, domain admins, root, bin, none
 [+] Got domain/workgroup name: KALI
 ```
 
-### `enum4linux（示例）`
+### `enum4linux -h`
 
-官方给出的调用示例：`enum4linux -h`
+> 官方示例调用：`enum4linux -h`
 
 ```text
 root@kali:~# enum4linux -h

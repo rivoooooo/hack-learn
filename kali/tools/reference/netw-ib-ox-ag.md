@@ -37,7 +37,7 @@ man netwag         # 查看手册
 
 ### `netwag`
 
-官方给出的调用示例：`netwag -h`
+> 官方示例调用：`netwag -h`
 
 ```text
 root@kali:~# netwag -h
@@ -59,7 +59,7 @@ Error in startup script: can't read "tk_version": no such variable
 
 ### `man`
 
-官方给出的调用示例：`man netwox`
+> 官方示例调用：`man netwox`
 
 ```text
 root@kali:~# man netwox

@@ -37,7 +37,7 @@ man tree         # 查看手册
 
 ### `tree`
 
-官方给出的调用示例：`tree --help`
+> 官方示例调用：`tree --help`
 
 ```text
 root@kali:~# tree --help

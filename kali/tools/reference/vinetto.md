@@ -37,7 +37,7 @@ man vinetto         # 查看手册
 
 ### `vinetto`
 
-官方给出的调用示例：`vinetto -h`
+> 官方示例调用：`vinetto -h`
 
 ```text
 root@kali:~# vinetto -h

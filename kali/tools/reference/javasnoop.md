@@ -36,7 +36,7 @@ javasnoop
 
 ### `javasnoop`
 
-官方给出的调用示例：`javasnoop -h`
+> 官方示例调用：`javasnoop -h`
 
 ```text
 root@kali:~# javasnoop -h

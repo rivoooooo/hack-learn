@@ -37,7 +37,7 @@ man legion         # 查看手册
 
 ### `legion`
 
-官方给出的调用示例：`legion -h`
+> 官方示例调用：`legion -h`
 
 ```text
 root@kali:~# legion -h

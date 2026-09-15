@@ -37,7 +37,7 @@ man hosthunter         # 查看手册
 
 ### `hosthunter`
 
-官方给出的调用示例：`hosthunter -h`
+> 官方示例调用：`hosthunter -h`
 
 ```text
 root@kali:~# hosthunter -h

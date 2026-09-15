@@ -45,7 +45,7 @@ pass0g
 
 ### `maskprocessor`
 
-官方给出的调用示例：`maskprocessor pass?d?l`
+> 官方示例调用：`maskprocessor pass?d?l`
 
 ```text
 root@kali:~# maskprocessor pass?d?l
@@ -60,7 +60,7 @@ pass0g
 
 ### `mp32`
 
-官方给出的调用示例：`mp32 -h`
+> 官方示例调用：`mp32 -h`
 
 ```text
 root@kali:~# mp32 -h
@@ -98,7 +98,7 @@ Usage: mp32 [options]... mask
 
 ### `mp64`
 
-官方给出的调用示例：`mp64 -h`
+> 官方示例调用：`mp64 -h`
 
 ```text
 root@kali:~# mp64 -h

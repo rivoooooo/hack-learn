@@ -51,7 +51,7 @@ Writing output to directory RECOVERED_FILES/
 
 ### `extundelete`
 
-官方给出的调用示例：`extundelete /dev/sda1 --restore-file root/importantfile`
+> 官方示例调用：`extundelete /dev/sda1 --restore-file root/importantfile`
 
 ```text
 root@kali:~# extundelete /dev/sda1 --restore-file root/importantfile
@@ -70,9 +70,9 @@ Loading journal descriptors ... 29495 descriptors loaded.
 Writing output to directory RECOVERED_FILES/
 ```
 
-### `extundelete（示例）`
+### `extundelete --help`
 
-官方给出的调用示例：`extundelete --help`
+> 官方示例调用：`extundelete --help`
 
 ```text
 root@kali:~# extundelete --help

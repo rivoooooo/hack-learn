@@ -37,7 +37,7 @@ man safecopy         # 查看手册
 
 ### `safecopy`
 
-官方给出的调用示例：`safecopy -h`
+> 官方示例调用：`safecopy -h`
 
 ```text
 root@kali:~# safecopy -h

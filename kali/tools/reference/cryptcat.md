@@ -37,23 +37,23 @@ On the server, listen for a connection (-l) on port 4444 (-p 4444) and don’t d
 
 ### `cryptcat`
 
-官方给出的调用示例：`cryptcat -l -p 4444 -n > dataxfer`
+> 官方示例调用：`cryptcat -l -p 4444 -n > dataxfer`
 
 ```text
 root@kali:~# cryptcat -l -p 4444 -n > dataxfer
 ```
 
-### `cryptcat（示例）`
+### `cryptcat 192.168.1.202 4444 < /tmp/juicyinfo`
 
-官方给出的调用示例：`cryptcat 192.168.1.202 4444 < /tmp/juicyinfo`
+> 官方示例调用：`cryptcat 192.168.1.202 4444 < /tmp/juicyinfo`
 
 ```text
 root@kali:~# cryptcat 192.168.1.202 4444 < /tmp/juicyinfo
 ```
 
-### `cryptcat（示例）`
+### `cryptcat -h`
 
-官方给出的调用示例：`cryptcat -h`
+> 官方示例调用：`cryptcat -h`
 
 ```text
 root@kali:~# cryptcat -h

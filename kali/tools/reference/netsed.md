@@ -37,7 +37,7 @@ man netsed         # 查看手册
 
 ### `netsed`
 
-官方给出的调用示例：`netsed -h`
+> 官方示例调用：`netsed -h`
 
 ```text
 root@kali:~# netsed -h

@@ -37,7 +37,7 @@ man dnscat2         # 查看手册
 
 ### `dnscat`
 
-官方给出的调用示例：`dnscat -h`
+> 官方示例调用：`dnscat -h`
 
 ```text
 root@kali:~# dnscat -h
@@ -92,7 +92,7 @@ ERROR: --help requested
 
 ### `dnscat2-server`
 
-官方给出的调用示例：`dnscat2-server --help`
+> 官方示例调用：`dnscat2-server --help`
 
 ```text
 root@kali:~# dnscat2-server --help

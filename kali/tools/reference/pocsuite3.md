@@ -37,7 +37,7 @@ man pocsuite3         # 查看手册
 
 ### `man`
 
-官方给出的调用示例：`man poc-console`
+> 官方示例调用：`man poc-console`
 
 ```text
 root@kali:~# man poc-console
@@ -86,7 +86,7 @@ Manual page for poc-console         Nov 2022                     POC-CONSOLE(1)
 
 ### `pocsuite`
 
-官方给出的调用示例：`pocsuite -h`
+> 官方示例调用：`pocsuite -h`
 
 ```text
 root@kali:~# pocsuite -h

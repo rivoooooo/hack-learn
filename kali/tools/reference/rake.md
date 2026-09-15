@@ -37,7 +37,7 @@ man rake         # 查看手册
 
 ### `rake`
 
-官方给出的调用示例：`rake -h`
+> 官方示例调用：`rake -h`
 
 ```text
 root@kali:~# rake -h

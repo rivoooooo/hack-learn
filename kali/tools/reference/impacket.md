@@ -37,7 +37,7 @@ man python3-impacket         # 查看手册
 
 ### `impacket-netview`
 
-官方给出的调用示例：`impacket-netview -h`
+> 官方示例调用：`impacket-netview -h`
 
 ```text
 root@kali:~# impacket-netview -h
@@ -84,7 +84,7 @@ authentication:
 
 ### `impacket-rpcdump`
 
-官方给出的调用示例：`impacket-rpcdump -h`
+> 官方示例调用：`impacket-rpcdump -h`
 
 ```text
 root@kali:~# impacket-rpcdump -h
@@ -114,7 +114,7 @@ authentication:
 
 ### `impacket-samrdump`
 
-官方给出的调用示例：`impacket-samrdump -h`
+> 官方示例调用：`impacket-samrdump -h`
 
 ```text
 root@kali:~# impacket-samrdump -h
@@ -156,7 +156,7 @@ authentication:
 
 ### `impacket-secretsdump`
 
-官方给出的调用示例：`impacket-secretsdump -h`
+> 官方示例调用：`impacket-secretsdump -h`
 
 ```text
 root@kali:~# impacket-secretsdump -h
@@ -267,7 +267,7 @@ connection:
 
 ### `impacket-wmiexec`
 
-官方给出的调用示例：`impacket-wmiexec -h`
+> 官方示例调用：`impacket-wmiexec -h`
 
 ```text
 root@kali:~# impacket-wmiexec -h

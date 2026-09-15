@@ -75,7 +75,7 @@ In this case we are going to tunnel some traffic from a client behind a perimete
 
 ### `dns2tcpc`
 
-官方给出的调用示例：`dns2tcpc -h`
+> 官方示例调用：`dns2tcpc -h`
 
 ```text
 root@kali:~# dns2tcpc -h
@@ -98,7 +98,7 @@ Usage : dns2tcpc [options] [server]
 
 ### `dns2tcpd`
 
-官方给出的调用示例：`dns2tcpd --help`
+> 官方示例调用：`dns2tcpd --help`
 
 ```text
 root@kali:~# dns2tcpd --help

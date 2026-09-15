@@ -37,7 +37,7 @@ man xmount         # 查看手册
 
 ### `xmount`
 
-官方给出的调用示例：`xmount -h`
+> 官方示例调用：`xmount -h`
 
 ```text
 root@kali:~# xmount -h

@@ -37,7 +37,7 @@ man tiger         # 查看手册
 
 ### `tiger`
 
-官方给出的调用示例：`tiger -h`
+> 官方示例调用：`tiger -h`
 
 ```text
 root@kali:~# tiger -h
@@ -110,7 +110,7 @@ Report bugs at http://savannah.nongnu.org/projects/tiger
 
 ### `tigercron`
 
-官方给出的调用示例：`tigercron -h`
+> 官方示例调用：`tigercron -h`
 
 ```text
 root@kali:~# tigercron -h
@@ -177,7 +177,7 @@ Report bugs at http://savannah.nongnu.org/projects/tiger
 
 ### `tigexp`
 
-官方给出的调用示例：`tigexp --help`
+> 官方示例调用：`tigexp --help`
 
 ```text
 root@kali:~# tigexp --help

@@ -58,7 +58,7 @@ Target domain ............
 
 ### `smtp-user-enum`
 
-官方给出的调用示例：`smtp-user-enum -M VRFY -u root -t 192.168.1.25`
+> 官方示例调用：`smtp-user-enum -M VRFY -u root -t 192.168.1.25`
 
 ```text
 root@kali:~# smtp-user-enum -M VRFY -u root -t 192.168.1.25
@@ -80,9 +80,9 @@ Target domain ............
 1 queries in 1 seconds (1.0 queries / sec)
 ```
 
-### `smtp-user-enum（示例）`
+### `smtp-user-enum -h`
 
-官方给出的调用示例：`smtp-user-enum -h`
+> 官方示例调用：`smtp-user-enum -h`
 
 ```text
 root@kali:~# smtp-user-enum -h

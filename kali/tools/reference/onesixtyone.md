@@ -37,7 +37,7 @@ man onesixtyone         # 查看手册
 
 ### `onesixtyone`
 
-官方给出的调用示例：`onesixtyone -h`
+> 官方示例调用：`onesixtyone -h`
 
 ```text
 root@kali:~# onesixtyone -h

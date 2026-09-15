@@ -37,7 +37,7 @@ man ftester         # 查看手册
 
 ### `freport`
 
-官方给出的调用示例：`freport -h`
+> 官方示例调用：`freport -h`
 
 ```text
 root@kali:~# freport -h
@@ -46,7 +46,7 @@ Usage /usr/bin/freport ftest.log ftestd.log at /usr/bin/freport line 15.
 
 ### `ftest`
 
-官方给出的调用示例：`ftest --help`
+> 官方示例调用：`ftest --help`
 
 ```text
 root@kali:~# ftest --help

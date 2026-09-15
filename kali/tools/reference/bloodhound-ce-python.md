@@ -37,7 +37,7 @@ man bloodhound-ce-python         # 查看手册
 
 ### `bloodhound-ce-python`
 
-官方给出的调用示例：`bloodhound-ce-python -h`
+> 官方示例调用：`bloodhound-ce-python -h`
 
 ```text
 root@kali:~# bloodhound-ce-python -h

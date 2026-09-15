@@ -37,7 +37,7 @@ man mdk4         # 查看手册
 
 ### `mdk4`
 
-官方给出的调用示例：`mdk4 -h`
+> 官方示例调用：`mdk4 -h`
 
 ```text
 root@kali:~# mdk4 -h

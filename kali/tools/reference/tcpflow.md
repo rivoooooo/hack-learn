@@ -37,7 +37,7 @@ man tcpflow         # 查看手册
 
 ### `tcpflow`
 
-官方给出的调用示例：`tcpflow -h`
+> 官方示例调用：`tcpflow -h`
 
 ```text
 root@kali:~# tcpflow -h
@@ -90,9 +90,9 @@ expression: tcpdump-like filtering expression
 See the man page for additional information.
 ```
 
-### `tcpflow（示例）`
+### `tcpflow -h`
 
-官方给出的调用示例：`tcpflow -h`
+> 官方示例调用：`tcpflow -h`
 
 ```text
 root@kali:~# tcpflow -h
@@ -145,9 +145,9 @@ expression: tcpdump-like filtering expression
 See the man page for additional information.
 ```
 
-### `tcpflow（示例）`
+### `tcpflow -h`
 
-官方给出的调用示例：`tcpflow -h`
+> 官方示例调用：`tcpflow -h`
 
 ```text
 root@kali:~# tcpflow -h

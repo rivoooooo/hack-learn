@@ -37,7 +37,7 @@ man heartleech         # 查看手册
 
 ### `heartleech`
 
-官方给出的调用示例：`heartleech -h`
+> 官方示例调用：`heartleech -h`
 
 ```text
 root@kali:~# heartleech -h

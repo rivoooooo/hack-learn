@@ -37,7 +37,7 @@ man stegsnow         # 查看手册
 
 ### `stegsnow`
 
-官方给出的调用示例：`stegsnow -h`
+> 官方示例调用：`stegsnow -h`
 
 ```text
 root@kali:~# stegsnow -h

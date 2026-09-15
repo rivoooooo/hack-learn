@@ -37,7 +37,7 @@ man ngrep         # 查看手册
 
 ### `ngrep`
 
-官方给出的调用示例：`ngrep -h`
+> 官方示例调用：`ngrep -h`
 
 ```text
 root@kali:~# ngrep -h
