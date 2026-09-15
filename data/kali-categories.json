@@ -1,0 +1,2926 @@
+{
+ "source": "https://www.kali.org/tools/",
+ "categories": [
+  {
+   "id": "reconnaissance",
+   "name": "Reconnaissance",
+   "zh": "侦察",
+   "description": "在动手之前尽可能了解目标：主机、身份、网络与 Web 面。",
+   "subcategories": [
+    {
+     "name": "Host Information",
+     "zh": "主机信息",
+     "tools": [
+      {
+       "package": "metagoofil",
+       "command": "metagoofil-1",
+       "url": "https://www.kali.org/tools/metagoofil/#metagoofil-1"
+      },
+      {
+       "package": "spiderfoot",
+       "command": "spiderfoot-1",
+       "url": "https://www.kali.org/tools/spiderfoot/#spiderfoot-1"
+      },
+      {
+       "package": "spiderfoot",
+       "command": "spiderfoot-cli",
+       "url": "https://www.kali.org/tools/spiderfoot/#spiderfoot-cli"
+      }
+     ]
+    },
+    {
+     "name": "Identity Information",
+     "zh": "身份信息",
+     "tools": [
+      {
+       "package": "email2phonenumber",
+       "command": "email2phonenumber-1",
+       "url": "https://www.kali.org/tools/email2phonenumber/#email2phonenumber-1"
+      },
+      {
+       "package": "emailharvester",
+       "command": "emailharvester-1",
+       "url": "https://www.kali.org/tools/emailharvester/#emailharvester-1"
+      },
+      {
+       "package": "instaloader",
+       "command": "instaloader-1",
+       "url": "https://www.kali.org/tools/instaloader/#instaloader-1"
+      },
+      {
+       "package": "linkedin2username",
+       "command": "linkedin2username-1",
+       "url": "https://www.kali.org/tools/linkedin2username/#linkedin2username-1"
+      },
+      {
+       "package": "photon",
+       "command": "photon-1",
+       "url": "https://www.kali.org/tools/photon/#photon-1"
+      },
+      {
+       "package": "sherlock",
+       "command": "sherlock-1",
+       "url": "https://www.kali.org/tools/sherlock/#sherlock-1"
+      },
+      {
+       "package": "tookie-osint",
+       "command": "tookie-osint-1",
+       "url": "https://www.kali.org/tools/tookie-osint/#tookie-osint-1"
+      }
+     ]
+    },
+    {
+     "name": "Network Information",
+     "zh": "网络信息",
+     "tools": [
+      {
+       "package": "amass",
+       "command": "amass-1",
+       "url": "https://www.kali.org/tools/amass/#amass-1"
+      },
+      {
+       "package": "autorecon",
+       "command": "autorecon-1",
+       "url": "https://www.kali.org/tools/autorecon/#autorecon-1"
+      },
+      {
+       "package": "dmitry",
+       "command": "dmitry-1",
+       "url": "https://www.kali.org/tools/dmitry/#dmitry-1"
+      },
+      {
+       "package": "legion",
+       "command": "legion-1",
+       "url": "https://www.kali.org/tools/legion/#legion-1"
+      },
+      {
+       "package": "nmap",
+       "command": "nmap-1",
+       "url": "https://www.kali.org/tools/nmap/#nmap-1"
+      },
+      {
+       "package": "nmap",
+       "command": "zenmap-1",
+       "url": "https://www.kali.org/tools/nmap/#zenmap-1"
+      },
+      {
+       "package": "theharvester",
+       "command": "theharvester-1",
+       "url": "https://www.kali.org/tools/theharvester/#theharvester-1"
+      },
+      {
+       "package": "unicornscan",
+       "command": "unicornscan-1",
+       "url": "https://www.kali.org/tools/unicornscan/#unicornscan-1"
+      }
+     ]
+    },
+    {
+     "name": "Network Information: DNS",
+     "zh": "网络信息：DNS",
+     "tools": [
+      {
+       "package": "dnsmap",
+       "command": "dnsmap-1",
+       "url": "https://www.kali.org/tools/dnsmap/#dnsmap-1"
+      },
+      {
+       "package": "dnsrecon",
+       "command": "dnsrecon-1",
+       "url": "https://www.kali.org/tools/dnsrecon/#dnsrecon-1"
+      },
+      {
+       "package": "dnsenum",
+       "command": "dnsenum-1",
+       "url": "https://www.kali.org/tools/dnsenum/#dnsenum-1"
+      },
+      {
+       "package": "massdns",
+       "command": "massdns-1",
+       "url": "https://www.kali.org/tools/massdns/#massdns-1"
+      },
+      {
+       "package": "dnstracer",
+       "command": "dnstracer-1",
+       "url": "https://www.kali.org/tools/dnstracer/#dnstracer-1"
+      },
+      {
+       "package": "dnswalk",
+       "command": "dnswalk-1",
+       "url": "https://www.kali.org/tools/dnswalk/#dnswalk-1"
+      }
+     ]
+    },
+    {
+     "name": "Web Scanning",
+     "zh": "Web 扫描",
+     "tools": [
+      {
+       "package": "assetfinder",
+       "command": "assetfinder-1",
+       "url": "https://www.kali.org/tools/assetfinder/#assetfinder-1"
+      },
+      {
+       "package": "arjun",
+       "command": "arjun-1",
+       "url": "https://www.kali.org/tools/arjun/#arjun-1"
+      },
+      {
+       "package": "dirb",
+       "command": "dirb-1",
+       "url": "https://www.kali.org/tools/dirb/#dirb-1"
+      },
+      {
+       "package": "dirbuster",
+       "command": "dirbuster-1",
+       "url": "https://www.kali.org/tools/dirbuster/#dirbuster-1"
+      },
+      {
+       "package": "dirsearch",
+       "command": "dirsearch-1",
+       "url": "https://www.kali.org/tools/dirsearch/#dirsearch-1"
+      },
+      {
+       "package": "feroxbuster",
+       "command": "feroxbuster-1",
+       "url": "https://www.kali.org/tools/feroxbuster/#feroxbuster-1"
+      },
+      {
+       "package": "ffuf",
+       "command": "ffuf-1",
+       "url": "https://www.kali.org/tools/ffuf/#ffuf-1"
+      },
+      {
+       "package": "finalrecon",
+       "command": "finalrecon-1",
+       "url": "https://www.kali.org/tools/finalrecon/#finalrecon-1"
+      },
+      {
+       "package": "findomain",
+       "command": "findomain-1",
+       "url": "https://www.kali.org/tools/findomain/#findomain-1"
+      },
+      {
+       "package": "gobuster",
+       "command": "gobuster-1",
+       "url": "https://www.kali.org/tools/gobuster/#gobuster-1"
+      },
+      {
+       "package": "gospider",
+       "command": "gospider-1",
+       "url": "https://www.kali.org/tools/gospider/#gospider-1"
+      },
+      {
+       "package": "lbd",
+       "command": "lbd-1",
+       "url": "https://www.kali.org/tools/lbd/#lbd-1"
+      },
+      {
+       "package": "parsero",
+       "command": "parsero-1",
+       "url": "https://www.kali.org/tools/parsero/#parsero-1"
+      },
+      {
+       "package": "recon-ng",
+       "command": "recon-ng-1",
+       "url": "https://www.kali.org/tools/recon-ng/#recon-ng-1"
+      },
+      {
+       "package": "subfinder",
+       "command": "subfinder-1",
+       "url": "https://www.kali.org/tools/subfinder/#subfinder-1"
+      },
+      {
+       "package": "sublist3r",
+       "command": "sublist3r-1",
+       "url": "https://www.kali.org/tools/sublist3r/#sublist3r-1"
+      },
+      {
+       "package": "uniscan",
+       "command": "uniscan-gui",
+       "url": "https://www.kali.org/tools/uniscan/#uniscan-gui"
+      },
+      {
+       "package": "urlcrazy",
+       "command": "urlcrazy-1",
+       "url": "https://www.kali.org/tools/urlcrazy/#urlcrazy-1"
+      },
+      {
+       "package": "uro",
+       "command": "uro-1",
+       "url": "https://www.kali.org/tools/uro/#uro-1"
+      },
+      {
+       "package": "wfuzz",
+       "command": "wfuzz-1",
+       "url": "https://www.kali.org/tools/wfuzz/#wfuzz-1"
+      },
+      {
+       "package": "wpprobe",
+       "command": "wpprobe-1",
+       "url": "https://www.kali.org/tools/wpprobe/#wpprobe-1"
+      }
+     ]
+    },
+    {
+     "name": "Vulnerability Scanning",
+     "zh": "漏洞扫描",
+     "tools": [
+      {
+       "package": "cisco-auditing-tool",
+       "command": "cat",
+       "url": "https://www.kali.org/tools/cisco-auditing-tool/#cat"
+      },
+      {
+       "package": "gvm",
+       "command": "gvm-start",
+       "url": "https://www.kali.org/tools/gvm/#gvm-start"
+      },
+      {
+       "package": "heartleech",
+       "command": "heartleech-1",
+       "url": "https://www.kali.org/tools/heartleech/#heartleech-1"
+      },
+      {
+       "package": "owasp-mantra-ff",
+       "command": "owasp-mantra-ff-1",
+       "url": "https://www.kali.org/tools/owasp-mantra-ff/#owasp-mantra-ff-1"
+      }
+     ]
+    },
+    {
+     "name": "Web Vulnerability Scanning",
+     "zh": "Web 漏洞扫描",
+     "tools": [
+      {
+       "package": "burpsuite",
+       "command": "burpsuite-1",
+       "url": "https://www.kali.org/tools/burpsuite/#burpsuite-1"
+      },
+      {
+       "package": "caido",
+       "command": "caido-1",
+       "url": "https://www.kali.org/tools/caido/#caido-1"
+      },
+      {
+       "package": "caido-cli",
+       "command": "caido-cli-1",
+       "url": "https://www.kali.org/tools/caido-cli/#caido-cli-1"
+      },
+      {
+       "package": "crlfuzz",
+       "command": "crlfuzz-1",
+       "url": "https://www.kali.org/tools/crlfuzz/#crlfuzz-1"
+      },
+      {
+       "package": "davtest",
+       "command": "davtest-1",
+       "url": "https://www.kali.org/tools/davtest/#davtest-1"
+      },
+      {
+       "package": "joomscan",
+       "command": "joomscan-1",
+       "url": "https://www.kali.org/tools/joomscan/#joomscan-1"
+      },
+      {
+       "package": "nikto",
+       "command": "nikto-1",
+       "url": "https://www.kali.org/tools/nikto/#nikto-1"
+      },
+      {
+       "package": "nuclei",
+       "command": "nuclei-1",
+       "url": "https://www.kali.org/tools/nuclei/#nuclei-1"
+      },
+      {
+       "package": "paros",
+       "command": "paros-1",
+       "url": "https://www.kali.org/tools/paros/#paros-1"
+      },
+      {
+       "package": "skipfish",
+       "command": "skipfish-1",
+       "url": "https://www.kali.org/tools/skipfish/#skipfish-1"
+      },
+      {
+       "package": "sstimap",
+       "command": "sstimap-1",
+       "url": "https://www.kali.org/tools/sstimap/#sstimap-1"
+      },
+      {
+       "package": "subjack",
+       "command": "subjack-1",
+       "url": "https://www.kali.org/tools/subjack/#subjack-1"
+      },
+      {
+       "package": "tinja",
+       "command": "tinja-1",
+       "url": "https://www.kali.org/tools/tinja/#tinja-1"
+      },
+      {
+       "package": "wapiti",
+       "command": "wapiti-1",
+       "url": "https://www.kali.org/tools/wapiti/#wapiti-1"
+      },
+      {
+       "package": "watobo",
+       "command": "watobo-1",
+       "url": "https://www.kali.org/tools/watobo/#watobo-1"
+      },
+      {
+       "package": "web-cache-vulnerability-scanner",
+       "command": "wcvs",
+       "url": "https://www.kali.org/tools/web-cache-vulnerability-scanner/#wcvs"
+      },
+      {
+       "package": "webscarab",
+       "command": "webscarab-1",
+       "url": "https://www.kali.org/tools/webscarab/#webscarab-1"
+      },
+      {
+       "package": "whatweb",
+       "command": "whatweb-1",
+       "url": "https://www.kali.org/tools/whatweb/#whatweb-1"
+      },
+      {
+       "package": "wpscan",
+       "command": "wpscan-1",
+       "url": "https://www.kali.org/tools/wpscan/#wpscan-1"
+      },
+      {
+       "package": "zaproxy",
+       "command": "zaproxy-1",
+       "url": "https://www.kali.org/tools/zaproxy/#zaproxy-1"
+      },
+      {
+       "package": "bettercap",
+       "command": "bettercap-1",
+       "url": "https://www.kali.org/tools/bettercap/#bettercap-1"
+      },
+      {
+       "package": "bluelog",
+       "command": "bluelog-1",
+       "url": "https://www.kali.org/tools/bluelog/#bluelog-1"
+      },
+      {
+       "package": "bluesnarfer",
+       "command": "bluesnarfer-1",
+       "url": "https://www.kali.org/tools/bluesnarfer/#bluesnarfer-1"
+      },
+      {
+       "package": "btscanner",
+       "command": "btscanner-1",
+       "url": "https://www.kali.org/tools/btscanner/#btscanner-1"
+      },
+      {
+       "package": "blueranger",
+       "command": "blueranger-1",
+       "url": "https://www.kali.org/tools/blueranger/#blueranger-1"
+      },
+      {
+       "package": "redfang",
+       "command": "fang",
+       "url": "https://www.kali.org/tools/redfang/#fang"
+      },
+      {
+       "package": "spooftooph",
+       "command": "spooftooph-1",
+       "url": "https://www.kali.org/tools/spooftooph/#spooftooph-1"
+      },
+      {
+       "package": "ubertooth",
+       "command": "ubertooth-util",
+       "url": "https://www.kali.org/tools/ubertooth/#ubertooth-util"
+      },
+      {
+       "package": "asleap",
+       "command": "asleap-1",
+       "url": "https://www.kali.org/tools/asleap/#asleap-1"
+      },
+      {
+       "package": "kismet",
+       "command": "kismet-1",
+       "url": "https://www.kali.org/tools/kismet/#kismet-1"
+      },
+      {
+       "package": "sparrow-wifi",
+       "command": "sparrow-wifi-1",
+       "url": "https://www.kali.org/tools/sparrow-wifi/#sparrow-wifi-1"
+      },
+      {
+       "package": "reaver",
+       "command": "wash",
+       "url": "https://www.kali.org/tools/reaver/#wash"
+      }
+     ]
+    },
+    {
+     "name": "Radio Frequency",
+     "zh": "射频",
+     "tools": [
+      {
+       "package": "hackrf",
+       "command": "hackrf_info",
+       "url": "https://www.kali.org/tools/hackrf/#hackrf_info"
+      },
+      {
+       "package": "gnuradio",
+       "command": "gnuradio",
+       "url": "https://www.kali.org/tools/gnuradio/#gnuradio"
+      },
+      {
+       "package": "gqrx-sdr",
+       "command": "gqrx",
+       "url": "https://www.kali.org/tools/gqrx-sdr/#gqrx"
+      },
+      {
+       "package": "chirp",
+       "command": "chirp",
+       "url": "https://www.kali.org/tools/chirp/#chirp"
+      },
+      {
+       "package": "rfcat",
+       "command": "rfcat-1",
+       "url": "https://www.kali.org/tools/rfcat/#rfcat-1"
+      },
+      {
+       "package": "maltego",
+       "command": "maltego-1",
+       "url": "https://www.kali.org/tools/maltego/#maltego-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resource-development",
+   "name": "Resource Development",
+   "zh": "资源开发",
+   "description": "搭建攻击基础设施：C2 服务器、重定向器、Payload 托管。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "code-oss",
+       "command": "code-oss-1",
+       "url": "https://www.kali.org/tools/code-oss/#code-oss-1"
+      },
+      {
+       "package": "donut-shellcode",
+       "command": "donut-1",
+       "url": "https://www.kali.org/tools/donut-shellcode/#donut-1"
+      },
+      {
+       "package": "sickle-pdk",
+       "command": "sickle-pdk-1",
+       "url": "https://www.kali.org/tools/sickle-pdk/#sickle-pdk-1"
+      },
+      {
+       "package": "msitools",
+       "command": "wixl-1",
+       "url": "https://www.kali.org/tools/msitools/#wixl-1"
+      },
+      {
+       "package": "wmi",
+       "command": "wmic",
+       "url": "https://www.kali.org/tools/wmi/#wmic"
+      },
+      {
+       "package": "wmi",
+       "command": "wmis",
+       "url": "https://www.kali.org/tools/wmi/#wmis"
+      },
+      {
+       "package": "pyinstaller",
+       "command": "pyinstaller-1",
+       "url": "https://www.kali.org/tools/pyinstaller/#pyinstaller-1"
+      },
+      {
+       "package": "oletools",
+       "command": "olevba",
+       "url": "https://www.kali.org/tools/oletools/#olevba"
+      },
+      {
+       "package": "oletools",
+       "command": "olefile",
+       "url": "https://www.kali.org/tools/oletools/#olefile"
+      },
+      {
+       "package": "aflplusplus",
+       "command": "afl-fuzz",
+       "url": "https://www.kali.org/tools/aflplusplus/#afl-fuzz"
+      },
+      {
+       "package": "bed",
+       "command": "bed-1",
+       "url": "https://www.kali.org/tools/bed/#bed-1"
+      },
+      {
+       "package": "spike",
+       "command": "generic_chunked",
+       "url": "https://www.kali.org/tools/spike/#generic_chunked"
+      },
+      {
+       "package": "spike",
+       "command": "generic_listen_tcp",
+       "url": "https://www.kali.org/tools/spike/#generic_listen_tcp"
+      },
+      {
+       "package": "spike",
+       "command": "generic_send_tcp",
+       "url": "https://www.kali.org/tools/spike/#generic_send_tcp"
+      },
+      {
+       "package": "spike",
+       "command": "generic_send_udp",
+       "url": "https://www.kali.org/tools/spike/#generic_send_udp"
+      },
+      {
+       "package": "sfuzz",
+       "command": "sfuzz-1",
+       "url": "https://www.kali.org/tools/sfuzz/#sfuzz-1"
+      },
+      {
+       "package": "metasploit-framework",
+       "command": "msf-nasm_shell",
+       "url": "https://www.kali.org/tools/metasploit-framework/#msf-nasm_shell"
+      },
+      {
+       "package": "metasploit-framework",
+       "command": "msfvenom",
+       "url": "https://www.kali.org/tools/metasploit-framework/#msfvenom"
+      },
+      {
+       "package": "msfpc",
+       "command": "msfpc-1",
+       "url": "https://www.kali.org/tools/msfpc/#msfpc-1"
+      },
+      {
+       "package": "shellnoob",
+       "command": "shellnoob-1",
+       "url": "https://www.kali.org/tools/shellnoob/#shellnoob-1"
+      },
+      {
+       "package": "llvm-defaults",
+       "command": "clang-1",
+       "url": "https://www.kali.org/tools/llvm-defaults/#clang-1"
+      },
+      {
+       "package": "llvm-defaults",
+       "command": "clang-2",
+       "url": "https://www.kali.org/tools/llvm-defaults/#clang-2"
+      },
+      {
+       "package": "edb-debugger",
+       "command": "edb",
+       "url": "https://www.kali.org/tools/edb-debugger/#edb"
+      },
+      {
+       "package": "ollydbg",
+       "command": "ollydbg-1",
+       "url": "https://www.kali.org/tools/ollydbg/#ollydbg-1"
+      },
+      {
+       "package": "gef",
+       "command": "gef-1",
+       "url": "https://www.kali.org/tools/gef/#gef-1"
+      },
+      {
+       "package": "gdb",
+       "command": "gdb-1",
+       "url": "https://www.kali.org/tools/gdb/#gdb-1"
+      },
+      {
+       "package": "capstone",
+       "command": "cstool",
+       "url": "https://www.kali.org/tools/capstone/#cstool"
+      },
+      {
+       "package": "ghidra",
+       "command": "ghidra-1",
+       "url": "https://www.kali.org/tools/ghidra/#ghidra-1"
+      },
+      {
+       "package": "radare2",
+       "command": "radare2-1",
+       "url": "https://www.kali.org/tools/radare2/#radare2-1"
+      },
+      {
+       "package": "rizin",
+       "command": "rizin-1",
+       "url": "https://www.kali.org/tools/rizin/#rizin-1"
+      },
+      {
+       "package": "rizin-cutter",
+       "command": "cutter",
+       "url": "https://www.kali.org/tools/rizin-cutter/#cutter"
+      },
+      {
+       "package": "apktool",
+       "command": "apktool-1",
+       "url": "https://www.kali.org/tools/apktool/#apktool-1"
+      },
+      {
+       "package": "bytecode-viewer",
+       "command": "bytecode-viewer-1",
+       "url": "https://www.kali.org/tools/bytecode-viewer/#bytecode-viewer-1"
+      },
+      {
+       "package": "jadx",
+       "command": "jadx-gui",
+       "url": "https://www.kali.org/tools/jadx/#jadx-gui"
+      },
+      {
+       "package": "javasnoop",
+       "command": "javasnoop-1",
+       "url": "https://www.kali.org/tools/javasnoop/#javasnoop-1"
+      },
+      {
+       "package": "jd-gui",
+       "command": "jd-gui-1",
+       "url": "https://www.kali.org/tools/jd-gui/#jd-gui-1"
+      },
+      {
+       "package": "dex2jar",
+       "command": "d2j-dex2jar",
+       "url": "https://www.kali.org/tools/dex2jar/#d2j-dex2jar"
+      },
+      {
+       "package": "pompem",
+       "command": "pompem-1",
+       "url": "https://www.kali.org/tools/pompem/#pompem-1"
+      },
+      {
+       "package": "exploitdb",
+       "command": "searchsploit",
+       "url": "https://www.kali.org/tools/exploitdb/#searchsploit"
+      },
+      {
+       "package": "exploitdb-papers",
+       "command": "exploitdb-papers-1",
+       "url": "https://www.kali.org/tools/exploitdb-papers/#exploitdb-papers-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "initial-access",
+   "name": "Initial Access",
+   "zh": "初始访问",
+   "description": "打进第一台机器：Web 漏洞、口令、钓鱼、暴露服务。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "rebind",
+       "command": "dns-rebind",
+       "url": "https://www.kali.org/tools/rebind/#dns-rebind"
+      },
+      {
+       "package": "gophish",
+       "command": "gophish-start",
+       "url": "https://www.kali.org/tools/gophish/#gophish-start"
+      },
+      {
+       "package": "set",
+       "command": "setoolkit",
+       "url": "https://www.kali.org/tools/set/#setoolkit"
+      },
+      {
+       "package": "metasploit-framework",
+       "command": "metasploit-framework",
+       "url": "https://www.kali.org/tools/metasploit-framework/#metasploit-framework"
+      },
+      {
+       "package": "sqlmap",
+       "command": "sqlmap-1",
+       "url": "https://www.kali.org/tools/sqlmap/#sqlmap-1"
+      },
+      {
+       "package": "sqlninja",
+       "command": "sqlninja-1",
+       "url": "https://www.kali.org/tools/sqlninja/#sqlninja-1"
+      },
+      {
+       "package": "sqlsus",
+       "command": "sqlsus-1",
+       "url": "https://www.kali.org/tools/sqlsus/#sqlsus-1"
+      },
+      {
+       "package": "jsql",
+       "command": "jsql",
+       "url": "https://www.kali.org/tools/jsql/#jsql"
+      },
+      {
+       "package": "commix",
+       "command": "commix-1",
+       "url": "https://www.kali.org/tools/commix/#commix-1"
+      },
+      {
+       "package": "jboss-autopwn",
+       "command": "jboss-linux",
+       "url": "https://www.kali.org/tools/jboss-autopwn/#jboss-linux"
+      },
+      {
+       "package": "jboss-autopwn",
+       "command": "jboss-win",
+       "url": "https://www.kali.org/tools/jboss-autopwn/#jboss-win"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "execution",
+   "name": "Execution",
+   "zh": "执行",
+   "description": "在目标上运行代码：命令执行、脚本宿主、宏与解释器滥用。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "armitage",
+       "command": "armitage-1",
+       "url": "https://www.kali.org/tools/armitage/#armitage-1"
+      },
+      {
+       "package": "isr-evilgrade",
+       "command": "evilgrade",
+       "url": "https://www.kali.org/tools/isr-evilgrade/#evilgrade"
+      },
+      {
+       "package": "beef-xss",
+       "command": "beef-xss-start",
+       "url": "https://www.kali.org/tools/beef-xss/#beef-xss-start"
+      },
+      {
+       "package": "xsser",
+       "command": "xsser-1",
+       "url": "https://www.kali.org/tools/xsser/#xsser-1"
+      },
+      {
+       "package": "nishang",
+       "command": "nishang-1",
+       "url": "https://www.kali.org/tools/nishang/#nishang-1"
+      },
+      {
+       "package": "powersploit",
+       "command": "powersploit-1",
+       "url": "https://www.kali.org/tools/powersploit/#powersploit-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "persistence",
+   "name": "Persistence",
+   "zh": "持久化",
+   "description": "维持访问：账号、服务、计划任务、后门与 rootkit。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "laudanum",
+       "command": "laudanum-1",
+       "url": "https://www.kali.org/tools/laudanum/#laudanum-1"
+      },
+      {
+       "package": "phpggc",
+       "command": "phpggc-1",
+       "url": "https://www.kali.org/tools/phpggc/#phpggc-1"
+      },
+      {
+       "package": "seclists",
+       "command": "seclists-1",
+       "url": "https://www.kali.org/tools/seclists/#seclists-1"
+      },
+      {
+       "package": "webacoo",
+       "command": "webacoo-1",
+       "url": "https://www.kali.org/tools/webacoo/#webacoo-1"
+      },
+      {
+       "package": "webshells",
+       "command": "webshells-1",
+       "url": "https://www.kali.org/tools/webshells/#webshells-1"
+      },
+      {
+       "package": "weevely",
+       "command": "weevely-1",
+       "url": "https://www.kali.org/tools/weevely/#weevely-1"
+      },
+      {
+       "package": "backdoor-factory",
+       "command": "backdoor-factory-1",
+       "url": "https://www.kali.org/tools/backdoor-factory/#backdoor-factory-1"
+      },
+      {
+       "package": "cymothoa",
+       "command": "cymothoa-1",
+       "url": "https://www.kali.org/tools/cymothoa/#cymothoa-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "privilege-escalation",
+   "name": "Privilege Escalation",
+   "zh": "权限提升",
+   "description": "从普通用户到 root/SYSTEM：内核漏洞、配置错误、令牌滥用。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "lynis",
+       "command": "lynis-1",
+       "url": "https://www.kali.org/tools/lynis/#lynis-1"
+      },
+      {
+       "package": "peass-ng",
+       "command": "peass-1",
+       "url": "https://www.kali.org/tools/peass-ng/#peass-1"
+      },
+      {
+       "package": "peass-ng",
+       "command": "linpeas",
+       "url": "https://www.kali.org/tools/peass-ng/#linpeas"
+      },
+      {
+       "package": "peass-ng",
+       "command": "winpeas",
+       "url": "https://www.kali.org/tools/peass-ng/#winpeas"
+      },
+      {
+       "package": "unix-privesc-check",
+       "command": "unix-privesc-check-1",
+       "url": "https://www.kali.org/tools/unix-privesc-check/#unix-privesc-check-1"
+      },
+      {
+       "package": "bloodyad",
+       "command": "bloodyad-1",
+       "url": "https://www.kali.org/tools/bloodyad/#bloodyad-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "defense-evasion",
+   "name": "Defense Evasion",
+   "zh": "防御规避",
+   "description": "绕过检测：混淆、加壳、日志清除、免杀与白利用。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "crackmapexec",
+       "command": "crackmapexec-1",
+       "url": "https://www.kali.org/tools/crackmapexec/#crackmapexec-1"
+      },
+      {
+       "package": "evil-winrm",
+       "command": "evil-winrm-1",
+       "url": "https://www.kali.org/tools/evil-winrm/#evil-winrm-1"
+      },
+      {
+       "package": "evil-winrm-py",
+       "command": "evil-winrm-py-1",
+       "url": "https://www.kali.org/tools/evil-winrm-py/#evil-winrm-py-1"
+      },
+      {
+       "package": "impacket-scripts",
+       "command": "impacket-scripts",
+       "url": "https://www.kali.org/tools/impacket-scripts/#impacket-scripts"
+      },
+      {
+       "package": "mimikatz",
+       "command": "mimikatz-1",
+       "url": "https://www.kali.org/tools/mimikatz/#mimikatz-1"
+      },
+      {
+       "package": "netexec",
+       "command": "netexec-1",
+       "url": "https://www.kali.org/tools/netexec/#netexec-1"
+      },
+      {
+       "package": "passing-the-hash",
+       "command": "passing-the-hash",
+       "url": "https://www.kali.org/tools/passing-the-hash/#passing-the-hash"
+      },
+      {
+       "package": "rubeus",
+       "command": "rubeus-1",
+       "url": "https://www.kali.org/tools/rubeus/#rubeus-1"
+      },
+      {
+       "package": "smbmap",
+       "command": "smbmap-1",
+       "url": "https://www.kali.org/tools/smbmap/#smbmap-1"
+      },
+      {
+       "package": "freerdp3",
+       "command": "xfreerdp3",
+       "url": "https://www.kali.org/tools/freerdp3/#xfreerdp3"
+      },
+      {
+       "package": "sniffjoke",
+       "command": "sniffjoke-1",
+       "url": "https://www.kali.org/tools/sniffjoke/#sniffjoke-1"
+      },
+      {
+       "package": "ftester",
+       "command": "ftest",
+       "url": "https://www.kali.org/tools/ftester/#ftest"
+      },
+      {
+       "package": "fragrouter",
+       "command": "fragrouter-1",
+       "url": "https://www.kali.org/tools/fragrouter/#fragrouter-1"
+      },
+      {
+       "package": "macchanger",
+       "command": "macchanger-1",
+       "url": "https://www.kali.org/tools/macchanger/#macchanger-1"
+      },
+      {
+       "package": "outguess",
+       "command": "outguess-1",
+       "url": "https://www.kali.org/tools/outguess/#outguess-1"
+      },
+      {
+       "package": "steghide",
+       "command": "steghide-1",
+       "url": "https://www.kali.org/tools/steghide/#steghide-1"
+      },
+      {
+       "package": "stegosuite",
+       "command": "stegosuite-1",
+       "url": "https://www.kali.org/tools/stegosuite/#stegosuite-1"
+      },
+      {
+       "package": "stegsnow",
+       "command": "stegsnow-1",
+       "url": "https://www.kali.org/tools/stegsnow/#stegsnow-1"
+      },
+      {
+       "package": "exe2hexbat",
+       "command": "exe2hex",
+       "url": "https://www.kali.org/tools/exe2hexbat/#exe2hex"
+      },
+      {
+       "package": "shellter",
+       "command": "shellter-1",
+       "url": "https://www.kali.org/tools/shellter/#shellter-1"
+      },
+      {
+       "package": "veil",
+       "command": "veil-1",
+       "url": "https://www.kali.org/tools/veil/#veil-1"
+      },
+      {
+       "package": "ccrypt",
+       "command": "ccrypt-1",
+       "url": "https://www.kali.org/tools/ccrypt/#ccrypt-1"
+      },
+      {
+       "package": "padbuster",
+       "command": "padbuster-1",
+       "url": "https://www.kali.org/tools/padbuster/#padbuster-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "credential-access",
+   "name": "Credential Access",
+   "zh": "凭据访问",
+   "description": "拿凭据：内存转储、哈希、Kerberos 攻击、口令破解。",
+   "subcategories": [
+    {
+     "name": "OS Credential Dumping",
+     "zh": "操作系统凭据转储",
+     "tools": [
+      {
+       "package": "chntpw",
+       "command": "chntpw-1",
+       "url": "https://www.kali.org/tools/chntpw/#chntpw-1"
+      },
+      {
+       "package": "creddump7",
+       "command": "creddump7-1",
+       "url": "https://www.kali.org/tools/creddump7/#creddump7-1"
+      },
+      {
+       "package": "samdump2",
+       "command": "samdump2-1",
+       "url": "https://www.kali.org/tools/samdump2/#samdump2-1"
+      }
+     ]
+    },
+    {
+     "name": "Hash Identification",
+     "zh": "哈希识别",
+     "tools": [
+      {
+       "package": "hashid",
+       "command": "hashid-1",
+       "url": "https://www.kali.org/tools/hashid/#hashid-1"
+      },
+      {
+       "package": "hash-identifier",
+       "command": "hash-identifier-1",
+       "url": "https://www.kali.org/tools/hash-identifier/#hash-identifier-1"
+      }
+     ]
+    },
+    {
+     "name": "Password Profiling & Wordlists",
+     "zh": "口令画像与字典",
+     "tools": [
+      {
+       "package": "bopscrk",
+       "command": "bopscrk-1",
+       "url": "https://www.kali.org/tools/bopscrk/#bopscrk-1"
+      },
+      {
+       "package": "cewl",
+       "command": "cewl-1",
+       "url": "https://www.kali.org/tools/cewl/#cewl-1"
+      },
+      {
+       "package": "crunch",
+       "command": "crunch-1",
+       "url": "https://www.kali.org/tools/crunch/#crunch-1"
+      },
+      {
+       "package": "pack",
+       "command": "maskgen",
+       "url": "https://www.kali.org/tools/pack/#maskgen"
+      },
+      {
+       "package": "pack",
+       "command": "policygen",
+       "url": "https://www.kali.org/tools/pack/#policygen"
+      },
+      {
+       "package": "rsmangler",
+       "command": "rsmangler-1",
+       "url": "https://www.kali.org/tools/rsmangler/#rsmangler-1"
+      },
+      {
+       "package": "pack",
+       "command": "statsgen",
+       "url": "https://www.kali.org/tools/pack/#statsgen"
+      },
+      {
+       "package": "twofi",
+       "command": "twofi-1",
+       "url": "https://www.kali.org/tools/twofi/#twofi-1"
+      },
+      {
+       "package": "wordlists",
+       "command": "wordlists-1",
+       "url": "https://www.kali.org/tools/wordlists/#wordlists-1"
+      }
+     ]
+    },
+    {
+     "name": "Brute Force",
+     "zh": "暴力破解",
+     "tools": [
+      {
+       "package": "crowbar",
+       "command": "crowbar-1",
+       "url": "https://www.kali.org/tools/crowbar/#crowbar-1"
+      },
+      {
+       "package": "hydra",
+       "command": "hydra-1",
+       "url": "https://www.kali.org/tools/hydra/#hydra-1"
+      },
+      {
+       "package": "hydra",
+       "command": "hydra-gtk",
+       "url": "https://www.kali.org/tools/hydra/#hydra-gtk"
+      },
+      {
+       "package": "legba",
+       "command": "legba-1",
+       "url": "https://www.kali.org/tools/legba/#legba-1"
+      },
+      {
+       "package": "medusa",
+       "command": "medusa-1",
+       "url": "https://www.kali.org/tools/medusa/#medusa-1"
+      },
+      {
+       "package": "ncrack",
+       "command": "ncrack-1",
+       "url": "https://www.kali.org/tools/ncrack/#ncrack-1"
+      },
+      {
+       "package": "patator",
+       "command": "patator-1",
+       "url": "https://www.kali.org/tools/patator/#patator-1"
+      },
+      {
+       "package": "sqldict",
+       "command": "sqldict-1",
+       "url": "https://www.kali.org/tools/sqldict/#sqldict-1"
+      },
+      {
+       "package": "thc-pptp-bruter",
+       "command": "thc-pptp-bruter-1",
+       "url": "https://www.kali.org/tools/thc-pptp-bruter/#thc-pptp-bruter-1"
+      }
+     ]
+    },
+    {
+     "name": "Password Cracking",
+     "zh": "口令破解",
+     "tools": [
+      {
+       "package": "cmospwd",
+       "command": "cmospwd-1",
+       "url": "https://www.kali.org/tools/cmospwd/#cmospwd-1"
+      },
+      {
+       "package": "crackle",
+       "command": "crackle-1",
+       "url": "https://www.kali.org/tools/crackle/#crackle-1"
+      },
+      {
+       "package": "fcrackzip",
+       "command": "fcrackzip-1",
+       "url": "https://www.kali.org/tools/fcrackzip/#fcrackzip-1"
+      },
+      {
+       "package": "hashcat",
+       "command": "hashcat-1",
+       "url": "https://www.kali.org/tools/hashcat/#hashcat-1"
+      },
+      {
+       "package": "john",
+       "command": "john-1",
+       "url": "https://www.kali.org/tools/john/#john-1"
+      },
+      {
+       "package": "johnny",
+       "command": "johnny-1",
+       "url": "https://www.kali.org/tools/johnny/#johnny-1"
+      },
+      {
+       "package": "ophcrack",
+       "command": "ophcrack-1",
+       "url": "https://www.kali.org/tools/ophcrack/#ophcrack-1"
+      },
+      {
+       "package": "ophcrack",
+       "command": "ophcrack-cli-1",
+       "url": "https://www.kali.org/tools/ophcrack/#ophcrack-cli-1"
+      },
+      {
+       "package": "rainbowcrack",
+       "command": "rcrack",
+       "url": "https://www.kali.org/tools/rainbowcrack/#rcrack"
+      },
+      {
+       "package": "rcracki-mt",
+       "command": "rcracki_mt",
+       "url": "https://www.kali.org/tools/rcracki-mt/#rcracki_mt"
+      },
+      {
+       "package": "sipcrack",
+       "command": "sipcrack-1",
+       "url": "https://www.kali.org/tools/sipcrack/#sipcrack-1"
+      },
+      {
+       "package": "sucrack",
+       "command": "sucrack-1",
+       "url": "https://www.kali.org/tools/sucrack/#sucrack-1"
+      },
+      {
+       "package": "truecrack",
+       "command": "truecrack-1",
+       "url": "https://www.kali.org/tools/truecrack/#truecrack-1"
+      }
+     ]
+    },
+    {
+     "name": "Unsecured Credentials",
+     "zh": "未受保护的凭据",
+     "tools": [
+      {
+       "package": "gitxray",
+       "command": "gitxray-1",
+       "url": "https://www.kali.org/tools/gitxray/#gitxray-1"
+      },
+      {
+       "package": "trufflehog",
+       "command": "trufflehog-1",
+       "url": "https://www.kali.org/tools/trufflehog/#trufflehog-1"
+      }
+     ]
+    },
+    {
+     "name": "WiFi Credential Access",
+     "zh": "Wi-Fi 凭据获取",
+     "tools": [
+      {
+       "package": "aircrack-ng",
+       "command": "aircrack-ng-1",
+       "url": "https://www.kali.org/tools/aircrack-ng/#aircrack-ng-1"
+      },
+      {
+       "package": "airgeddon",
+       "command": "airgeddon-1",
+       "url": "https://www.kali.org/tools/airgeddon/#airgeddon-1"
+      },
+      {
+       "package": "bully",
+       "command": "bully-1",
+       "url": "https://www.kali.org/tools/bully/#bully-1"
+      },
+      {
+       "package": "cowpatty",
+       "command": "cowpatty-1",
+       "url": "https://www.kali.org/tools/cowpatty/#cowpatty-1"
+      },
+      {
+       "package": "eapmd5pass",
+       "command": "eapmd5pass-1",
+       "url": "https://www.kali.org/tools/eapmd5pass/#eapmd5pass-1"
+      },
+      {
+       "package": "fern-wifi-cracker",
+       "command": "fern-wifi-cracker-1",
+       "url": "https://www.kali.org/tools/fern-wifi-cracker/#fern-wifi-cracker-1"
+      },
+      {
+       "package": "freeradius",
+       "command": "freeradius-1",
+       "url": "https://www.kali.org/tools/freeradius/#freeradius-1"
+      },
+      {
+       "package": "pixiewps",
+       "command": "pixiewps-1",
+       "url": "https://www.kali.org/tools/pixiewps/#pixiewps-1"
+      },
+      {
+       "package": "reaver",
+       "command": "reaver-1",
+       "url": "https://www.kali.org/tools/reaver/#reaver-1"
+      },
+      {
+       "package": "wifi-honey",
+       "command": "wifi-honey-1",
+       "url": "https://www.kali.org/tools/wifi-honey/#wifi-honey-1"
+      },
+      {
+       "package": "wifiphisher",
+       "command": "wifiphisher-1",
+       "url": "https://www.kali.org/tools/wifiphisher/#wifiphisher-1"
+      },
+      {
+       "package": "wifite",
+       "command": "wifite-1",
+       "url": "https://www.kali.org/tools/wifite/#wifite-1"
+      },
+      {
+       "package": "xspy",
+       "command": "xspy-1",
+       "url": "https://www.kali.org/tools/xspy/#xspy-1"
+      }
+     ]
+    },
+    {
+     "name": "VoIP Credential Access",
+     "zh": "VoIP 凭据获取",
+     "tools": [
+      {
+       "package": "sipvicious",
+       "command": "svcrack",
+       "url": "https://www.kali.org/tools/sipvicious/#svcrack"
+      },
+      {
+       "package": "enumiax",
+       "command": "enumiax-1",
+       "url": "https://www.kali.org/tools/enumiax/#enumiax-1"
+      },
+      {
+       "package": "mfcuk",
+       "command": "mfcuk-1",
+       "url": "https://www.kali.org/tools/mfcuk/#mfcuk-1"
+      },
+      {
+       "package": "mfoc",
+       "command": "mfoc-1",
+       "url": "https://www.kali.org/tools/mfoc/#mfoc-1"
+      },
+      {
+       "package": "mfterm",
+       "command": "mfterm-1",
+       "url": "https://www.kali.org/tools/mfterm/#mfterm-1"
+      },
+      {
+       "package": "libfreefare",
+       "command": "mifare-classic-format",
+       "url": "https://www.kali.org/tools/libfreefare/#mifare-classic-format"
+      },
+      {
+       "package": "libnfc",
+       "command": "nfc-list",
+       "url": "https://www.kali.org/tools/libnfc/#nfc-list"
+      },
+      {
+       "package": "libnfc",
+       "command": "nfc-mfclassic",
+       "url": "https://www.kali.org/tools/libnfc/#nfc-mfclassic"
+      },
+      {
+       "package": "kerberoast",
+       "command": "kerberoast-1",
+       "url": "https://www.kali.org/tools/kerberoast/#kerberoast-1"
+      },
+      {
+       "package": "krbrelayx",
+       "command": "krbrelayx-1",
+       "url": "https://www.kali.org/tools/krbrelayx/#krbrelayx-1"
+      },
+      {
+       "package": "responder",
+       "command": "responder-1",
+       "url": "https://www.kali.org/tools/responder/#responder-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "discovery",
+   "name": "Discovery",
+   "zh": "发现",
+   "description": "摸清内网：主机、账户、共享、进程与服务发现。",
+   "subcategories": [
+    {
+     "name": "Network Service Discovery",
+     "zh": "网络服务发现",
+     "tools": [
+      {
+       "package": "masscan",
+       "command": "masscan-1",
+       "url": "https://www.kali.org/tools/masscan/#masscan-1"
+      },
+      {
+       "package": "sctpscan",
+       "command": "sctpscan-1",
+       "url": "https://www.kali.org/tools/sctpscan/#sctpscan-1"
+      },
+      {
+       "package": "ike-scan",
+       "command": "ike-scan-1",
+       "url": "https://www.kali.org/tools/ike-scan/#ike-scan-1"
+      }
+     ]
+    },
+    {
+     "name": "SSL / TLS",
+     "zh": "SSL / TLS 分析",
+     "tools": [
+      {
+       "package": "sslscan",
+       "command": "sslscan-1",
+       "url": "https://www.kali.org/tools/sslscan/#sslscan-1"
+      },
+      {
+       "package": "sslyze",
+       "command": "sslyze-1",
+       "url": "https://www.kali.org/tools/sslyze/#sslyze-1"
+      },
+      {
+       "package": "tlssled",
+       "command": "tlssled-1",
+       "url": "https://www.kali.org/tools/tlssled/#tlssled-1"
+      },
+      {
+       "package": "snmpcheck",
+       "command": "snmp-check",
+       "url": "https://www.kali.org/tools/snmpcheck/#snmp-check"
+      },
+      {
+       "package": "braa",
+       "command": "braa-1",
+       "url": "https://www.kali.org/tools/braa/#braa-1"
+      },
+      {
+       "package": "onesixtyone",
+       "command": "onesixtyone-1",
+       "url": "https://www.kali.org/tools/onesixtyone/#onesixtyone-1"
+      }
+     ]
+    },
+    {
+     "name": "Network Sniffing",
+     "zh": "网络嗅探",
+     "tools": [
+      {
+       "package": "above",
+       "command": "above-1",
+       "url": "https://www.kali.org/tools/above/#above-1"
+      },
+      {
+       "package": "dsniff",
+       "command": "arpspoof",
+       "url": "https://www.kali.org/tools/dsniff/#arpspoof"
+      },
+      {
+       "package": "darkstat",
+       "command": "darkstat-1",
+       "url": "https://www.kali.org/tools/darkstat/#darkstat-1"
+      },
+      {
+       "package": "dnschef",
+       "command": "dnschef-1",
+       "url": "https://www.kali.org/tools/dnschef/#dnschef-1"
+      },
+      {
+       "package": "driftnet",
+       "command": "driftnet-1",
+       "url": "https://www.kali.org/tools/driftnet/#driftnet-1"
+      },
+      {
+       "package": "dsniff",
+       "command": "dsniff-1",
+       "url": "https://www.kali.org/tools/dsniff/#dsniff-1"
+      },
+      {
+       "package": "hexinject",
+       "command": "hexinject-1",
+       "url": "https://www.kali.org/tools/hexinject/#hexinject-1"
+      },
+      {
+       "package": "netsniff-ng",
+       "command": "netsniff-ng-1",
+       "url": "https://www.kali.org/tools/netsniff-ng/#netsniff-ng-1"
+      },
+      {
+       "package": "wireshark",
+       "command": "wireshark-1",
+       "url": "https://www.kali.org/tools/wireshark/#wireshark-1"
+      },
+      {
+       "package": "scapy",
+       "command": "scapy",
+       "url": "https://www.kali.org/tools/scapy/#scapy"
+      },
+      {
+       "package": "tcpdump",
+       "command": "tcpdump-1",
+       "url": "https://www.kali.org/tools/tcpdump/#tcpdump-1"
+      },
+      {
+       "package": "tcpflow",
+       "command": "tcpflow-3",
+       "url": "https://www.kali.org/tools/tcpflow/#tcpflow-3"
+      }
+     ]
+    },
+    {
+     "name": "Remote System Discovery",
+     "zh": "远程系统发现",
+     "tools": [
+      {
+       "package": "arping",
+       "command": "arping-1",
+       "url": "https://www.kali.org/tools/arping/#arping-1"
+      },
+      {
+       "package": "arpwatch",
+       "command": "arpwatch-1",
+       "url": "https://www.kali.org/tools/arpwatch/#arpwatch-1"
+      },
+      {
+       "package": "thc-ipv6",
+       "command": "atk6-thcping6",
+       "url": "https://www.kali.org/tools/thc-ipv6/#atk6-thcping6"
+      },
+      {
+       "package": "fierce",
+       "command": "fierce-1",
+       "url": "https://www.kali.org/tools/fierce/#fierce-1"
+      },
+      {
+       "package": "fping",
+       "command": "fping-1",
+       "url": "https://www.kali.org/tools/fping/#fping-1"
+      },
+      {
+       "package": "hping3",
+       "command": "hping3-1",
+       "url": "https://www.kali.org/tools/hping3/#hping3-1"
+      },
+      {
+       "package": "p0f",
+       "command": "p0f-1",
+       "url": "https://www.kali.org/tools/p0f/#p0f-1"
+      }
+     ]
+    },
+    {
+     "name": "Account Discovery",
+     "zh": "账户发现",
+     "tools": [
+      {
+       "package": "apache-users",
+       "command": "apache-users-1",
+       "url": "https://www.kali.org/tools/apache-users/#apache-users-1"
+      },
+      {
+       "package": "smtp-user-enum",
+       "command": "smtp-user-enum-1",
+       "url": "https://www.kali.org/tools/smtp-user-enum/#smtp-user-enum-1"
+      }
+     ]
+    },
+    {
+     "name": "Network Share Discovery",
+     "zh": "网络共享发现",
+     "tools": [
+      {
+       "package": "enum4linux",
+       "command": "enum4linux-1",
+       "url": "https://www.kali.org/tools/enum4linux/#enum4linux-1"
+      },
+      {
+       "package": "enum4linux-ng",
+       "command": "enum4linux-ng-1",
+       "url": "https://www.kali.org/tools/enum4linux-ng/#enum4linux-ng-1"
+      },
+      {
+       "package": "nbtscan",
+       "command": "nbtscan-1",
+       "url": "https://www.kali.org/tools/nbtscan/#nbtscan-1"
+      },
+      {
+       "package": "samba",
+       "command": "smbclient-1",
+       "url": "https://www.kali.org/tools/samba/#smbclient-1"
+      }
+     ]
+    },
+    {
+     "name": "Process Discovery",
+     "zh": "进程发现",
+     "tools": [
+      {
+       "package": "pspy",
+       "command": "pspy-1",
+       "url": "https://www.kali.org/tools/pspy/#pspy-1"
+      },
+      {
+       "package": "pspy",
+       "command": "pspy-binaries",
+       "url": "https://www.kali.org/tools/pspy/#pspy-binaries"
+      }
+     ]
+    },
+    {
+     "name": "System Network Configuration Discovery",
+     "zh": "系统网络配置发现",
+     "tools": [
+      {
+       "package": "0trace",
+       "command": "0tracesh",
+       "url": "https://www.kali.org/tools/0trace/#0tracesh"
+      },
+      {
+       "package": "irpas",
+       "command": "ass",
+       "url": "https://www.kali.org/tools/irpas/#ass"
+      },
+      {
+       "package": "irpas",
+       "command": "cdp",
+       "url": "https://www.kali.org/tools/irpas/#cdp"
+      },
+      {
+       "package": "intrace",
+       "command": "intrace-1",
+       "url": "https://www.kali.org/tools/intrace/#intrace-1"
+      },
+      {
+       "package": "netdiscover",
+       "command": "netdiscover-1",
+       "url": "https://www.kali.org/tools/netdiscover/#netdiscover-1"
+      },
+      {
+       "package": "netmask",
+       "command": "netmask-1",
+       "url": "https://www.kali.org/tools/netmask/#netmask-1"
+      },
+      {
+       "package": "sara",
+       "command": "sara-1",
+       "url": "https://www.kali.org/tools/sara/#sara-1"
+      },
+      {
+       "package": "yersinia",
+       "command": "yersinia-1",
+       "url": "https://www.kali.org/tools/yersinia/#yersinia-1"
+      }
+     ]
+    },
+    {
+     "name": "Network Security Appliances",
+     "zh": "网络安全设备",
+     "tools": [
+      {
+       "package": "firewalk",
+       "command": "firewalk-1",
+       "url": "https://www.kali.org/tools/firewalk/#firewalk-1"
+      },
+      {
+       "package": "tcpreplay",
+       "command": "tcpreplay-1",
+       "url": "https://www.kali.org/tools/tcpreplay/#tcpreplay-1"
+      },
+      {
+       "package": "wafw00f",
+       "command": "wafw00f-1",
+       "url": "https://www.kali.org/tools/wafw00f/#wafw00f-1"
+      },
+      {
+       "package": "impacket-scripts",
+       "command": "impacket-mssqlclient",
+       "url": "https://www.kali.org/tools/impacket-scripts/#impacket-mssqlclient"
+      },
+      {
+       "package": "mdbtools",
+       "command": "mdb-sql",
+       "url": "https://www.kali.org/tools/mdbtools/#mdb-sql"
+      },
+      {
+       "package": "oscanner",
+       "command": "oscanner-1",
+       "url": "https://www.kali.org/tools/oscanner/#oscanner-1"
+      },
+      {
+       "package": "sidguesser",
+       "command": "sidguess",
+       "url": "https://www.kali.org/tools/sidguesser/#sidguess"
+      },
+      {
+       "package": "sqlitebrowser",
+       "command": "sqlitebrowser-1",
+       "url": "https://www.kali.org/tools/sqlitebrowser/#sqlitebrowser-1"
+      },
+      {
+       "package": "tnscmd10g",
+       "command": "tnscmd10g-1",
+       "url": "https://www.kali.org/tools/tnscmd10g/#tnscmd10g-1"
+      },
+      {
+       "package": "mxcheck",
+       "command": "mxcheck-1",
+       "url": "https://www.kali.org/tools/mxcheck/#mxcheck-1"
+      },
+      {
+       "package": "swaks",
+       "command": "swaks-1",
+       "url": "https://www.kali.org/tools/swaks/#swaks-1"
+      }
+     ]
+    },
+    {
+     "name": "Cisco Tools",
+     "zh": "Cisco 工具",
+     "tools": [
+      {
+       "package": "cisco-global-exploiter",
+       "command": "cgepl",
+       "url": "https://www.kali.org/tools/cisco-global-exploiter/#cgepl"
+      },
+      {
+       "package": "cisco-ocs",
+       "command": "cisco-ocs-1",
+       "url": "https://www.kali.org/tools/cisco-ocs/#cisco-ocs-1"
+      },
+      {
+       "package": "cisco-torch",
+       "command": "cisco-torch-1",
+       "url": "https://www.kali.org/tools/cisco-torch/#cisco-torch-1"
+      },
+      {
+       "package": "copy-router-config",
+       "command": "copy-router-configpl",
+       "url": "https://www.kali.org/tools/copy-router-config/#copy-router-configpl"
+      },
+      {
+       "package": "copy-router-config",
+       "command": "merge-router-configpl",
+       "url": "https://www.kali.org/tools/copy-router-config/#merge-router-configpl"
+      }
+     ]
+    },
+    {
+     "name": "Active Directory",
+     "zh": "活动目录",
+     "tools": [
+      {
+       "package": "azurehound",
+       "command": "azurehound-1",
+       "url": "https://www.kali.org/tools/azurehound/#azurehound-1"
+      },
+      {
+       "package": "bloodhound",
+       "command": "bloodhound-1",
+       "url": "https://www.kali.org/tools/bloodhound/#bloodhound-1"
+      },
+      {
+       "package": "bloodhound.py",
+       "command": "bloodhound-python",
+       "url": "https://www.kali.org/tools/bloodhound.py/#bloodhound-python"
+      },
+      {
+       "package": "bloodhound-ce-python",
+       "command": "bloodhound-ce-python-1",
+       "url": "https://www.kali.org/tools/bloodhound-ce-python/#bloodhound-ce-python-1"
+      },
+      {
+       "package": "ldeep",
+       "command": "ldeep-1",
+       "url": "https://www.kali.org/tools/ldeep/#ldeep-1"
+      },
+      {
+       "package": "sharphound",
+       "command": "sharphound-1",
+       "url": "https://www.kali.org/tools/sharphound/#sharphound-1"
+      },
+      {
+       "package": "protos-sip",
+       "command": "protos-sip-1",
+       "url": "https://www.kali.org/tools/protos-sip/#protos-sip-1"
+      },
+      {
+       "package": "rtpbreak",
+       "command": "rtpbreak-1",
+       "url": "https://www.kali.org/tools/rtpbreak/#rtpbreak-1"
+      },
+      {
+       "package": "rtpinsertsound",
+       "command": "rtpinsertsound-1",
+       "url": "https://www.kali.org/tools/rtpinsertsound/#rtpinsertsound-1"
+      },
+      {
+       "package": "rtpmixsound",
+       "command": "rtpmixsound-1",
+       "url": "https://www.kali.org/tools/rtpmixsound/#rtpmixsound-1"
+      },
+      {
+       "package": "siparmyknife",
+       "command": "siparmyknife-1",
+       "url": "https://www.kali.org/tools/siparmyknife/#siparmyknife-1"
+      },
+      {
+       "package": "sipp",
+       "command": "sipp-1",
+       "url": "https://www.kali.org/tools/sipp/#sipp-1"
+      },
+      {
+       "package": "sippts",
+       "command": "sippts-1",
+       "url": "https://www.kali.org/tools/sippts/#sippts-1"
+      },
+      {
+       "package": "sipsak",
+       "command": "sipsak-1",
+       "url": "https://www.kali.org/tools/sipsak/#sipsak-1"
+      },
+      {
+       "package": "sipvicious",
+       "command": "svcrash",
+       "url": "https://www.kali.org/tools/sipvicious/#svcrash"
+      },
+      {
+       "package": "sipvicious",
+       "command": "svmap",
+       "url": "https://www.kali.org/tools/sipvicious/#svmap"
+      },
+      {
+       "package": "sipvicious",
+       "command": "svreport",
+       "url": "https://www.kali.org/tools/sipvicious/#svreport"
+      },
+      {
+       "package": "sipvicious",
+       "command": "svwar",
+       "url": "https://www.kali.org/tools/sipvicious/#svwar"
+      },
+      {
+       "package": "voiphopper",
+       "command": "voiphopper-1",
+       "url": "https://www.kali.org/tools/voiphopper/#voiphopper-1"
+      },
+      {
+       "package": "ohrwurm",
+       "command": "ohrwurm-1",
+       "url": "https://www.kali.org/tools/ohrwurm/#ohrwurm-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lateral-movement",
+   "name": "Lateral Movement",
+   "zh": "横向移动",
+   "description": "横向扩散：远程执行、凭据复用、协议隧道。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "impacket-scripts",
+       "command": "impacket-smbexec",
+       "url": "https://www.kali.org/tools/impacket-scripts/#impacket-smbexec"
+      },
+      {
+       "package": "impacket-scripts",
+       "command": "impacket-psexec",
+       "url": "https://www.kali.org/tools/impacket-scripts/#impacket-psexec"
+      },
+      {
+       "package": "rdesktop",
+       "command": "rdesktop-1",
+       "url": "https://www.kali.org/tools/rdesktop/#rdesktop-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "collection",
+   "name": "Collection",
+   "zh": "收集",
+   "description": "收集高价值数据：文件、屏幕、键盘、邮件与数据库。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "httrack",
+       "command": "httrack-1",
+       "url": "https://www.kali.org/tools/httrack/#httrack-1"
+      },
+      {
+       "package": "ettercap",
+       "command": "ettercap-text-only",
+       "url": "https://www.kali.org/tools/ettercap/#ettercap-text-only"
+      },
+      {
+       "package": "ettercap",
+       "command": "ettercap-1",
+       "url": "https://www.kali.org/tools/ettercap/#ettercap-1"
+      },
+      {
+       "package": "evilginx2",
+       "command": "evilginx2-1",
+       "url": "https://www.kali.org/tools/evilginx2/#evilginx2-1"
+      },
+      {
+       "package": "fiked",
+       "command": "fiked-1",
+       "url": "https://www.kali.org/tools/fiked/#fiked-1"
+      },
+      {
+       "package": "fluxion",
+       "command": "fluxion-1",
+       "url": "https://www.kali.org/tools/fluxion/#fluxion-1"
+      },
+      {
+       "package": "mitmproxy",
+       "command": "mitmproxy-1",
+       "url": "https://www.kali.org/tools/mitmproxy/#mitmproxy-1"
+      },
+      {
+       "package": "mitm6",
+       "command": "mitm6-1",
+       "url": "https://www.kali.org/tools/mitm6/#mitm6-1"
+      },
+      {
+       "package": "ssldump",
+       "command": "ssldump-1",
+       "url": "https://www.kali.org/tools/ssldump/#ssldump-1"
+      },
+      {
+       "package": "sslsplit",
+       "command": "sslsplit-1",
+       "url": "https://www.kali.org/tools/sslsplit/#sslsplit-1"
+      },
+      {
+       "package": "sslsniff",
+       "command": "sslsniff-1",
+       "url": "https://www.kali.org/tools/sslsniff/#sslsniff-1"
+      },
+      {
+       "package": "wifipumpkin3",
+       "command": "wifipumpkin3-1",
+       "url": "https://www.kali.org/tools/wifipumpkin3/#wifipumpkin3-1"
+      },
+      {
+       "package": "ferret-sidejack",
+       "command": "ferret-sidejack-1",
+       "url": "https://www.kali.org/tools/ferret-sidejack/#ferret-sidejack-1"
+      },
+      {
+       "package": "hamster-sidejack",
+       "command": "hamster-sidejack-1",
+       "url": "https://www.kali.org/tools/hamster-sidejack/#hamster-sidejack-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "command-and-control",
+   "name": "Command And Control",
+   "zh": "命令与控制",
+   "description": "建立稳定通道：C2 框架、隧道、隐蔽协议。",
+   "subcategories": [
+    {
+     "name": "Application Layer Protocol",
+     "zh": "应用层协议",
+     "tools": [
+      {
+       "package": "cadaver",
+       "command": "cadaver-1",
+       "url": "https://www.kali.org/tools/cadaver/#cadaver-1"
+      },
+      {
+       "package": "minicom",
+       "command": "minicom-1",
+       "url": "https://www.kali.org/tools/minicom/#minicom-1"
+      }
+     ]
+    },
+    {
+     "name": "Non-Application Layer Protocol",
+     "zh": "非应用层协议",
+     "tools": [
+      {
+       "package": "dbd",
+       "command": "dbd-1",
+       "url": "https://www.kali.org/tools/dbd/#dbd-1"
+      },
+      {
+       "package": "nmap",
+       "command": "ncat-1",
+       "url": "https://www.kali.org/tools/nmap/#ncat-1"
+      },
+      {
+       "package": "penelope",
+       "command": "penelope-1",
+       "url": "https://www.kali.org/tools/penelope/#penelope-1"
+      },
+      {
+       "package": "powercat",
+       "command": "powercat-1",
+       "url": "https://www.kali.org/tools/powercat/#powercat-1"
+      },
+      {
+       "package": "sbd",
+       "command": "sbd-1",
+       "url": "https://www.kali.org/tools/sbd/#sbd-1"
+      },
+      {
+       "package": "socat",
+       "command": "socat-1",
+       "url": "https://www.kali.org/tools/socat/#socat-1"
+      },
+      {
+       "package": "termineter",
+       "command": "termineter-1",
+       "url": "https://www.kali.org/tools/termineter/#termineter-1"
+      }
+     ]
+    },
+    {
+     "name": "Protocol Tunneling",
+     "zh": "协议隧道",
+     "tools": [
+      {
+       "package": "chisel",
+       "command": "chisel-1",
+       "url": "https://www.kali.org/tools/chisel/#chisel-1"
+      },
+      {
+       "package": "chisel-common-binaries",
+       "command": "chisel-common-binaries-1",
+       "url": "https://www.kali.org/tools/chisel-common-binaries/#chisel-common-binaries-1"
+      },
+      {
+       "package": "dns2tcp",
+       "command": "dns2tcpc",
+       "url": "https://www.kali.org/tools/dns2tcp/#dns2tcpc"
+      },
+      {
+       "package": "dns2tcp",
+       "command": "dns2tcpd",
+       "url": "https://www.kali.org/tools/dns2tcp/#dns2tcpd"
+      },
+      {
+       "package": "dnscat2",
+       "command": "dnscat",
+       "url": "https://www.kali.org/tools/dnscat2/#dnscat"
+      },
+      {
+       "package": "iodine",
+       "command": "iodine-client-start",
+       "url": "https://www.kali.org/tools/iodine/#iodine-client-start"
+      },
+      {
+       "package": "ligolo-ng",
+       "command": "ligolo-agent",
+       "url": "https://www.kali.org/tools/ligolo-ng/#ligolo-agent"
+      },
+      {
+       "package": "ligolo-ng",
+       "command": "ligolo-proxy",
+       "url": "https://www.kali.org/tools/ligolo-ng/#ligolo-proxy"
+      },
+      {
+       "package": "ligolo-mp",
+       "command": "ligolo-mp-1",
+       "url": "https://www.kali.org/tools/ligolo-mp/#ligolo-mp-1"
+      },
+      {
+       "package": "ligolo-mp",
+       "command": "ligolo-mp-client",
+       "url": "https://www.kali.org/tools/ligolo-mp/#ligolo-mp-client"
+      },
+      {
+       "package": "ligolo-ng-common-binaries",
+       "command": "ligolo-ng-common-binaries-1",
+       "url": "https://www.kali.org/tools/ligolo-ng-common-binaries/#ligolo-ng-common-binaries-1"
+      },
+      {
+       "package": "miredo",
+       "command": "miredo-1",
+       "url": "https://www.kali.org/tools/miredo/#miredo-1"
+      },
+      {
+       "package": "proxychains-ng",
+       "command": "proxychains4-1",
+       "url": "https://www.kali.org/tools/proxychains-ng/#proxychains4-1"
+      },
+      {
+       "package": "proxytunnel",
+       "command": "proxytunnel-1",
+       "url": "https://www.kali.org/tools/proxytunnel/#proxytunnel-1"
+      },
+      {
+       "package": "ptunnel",
+       "command": "ptunnel-1",
+       "url": "https://www.kali.org/tools/ptunnel/#ptunnel-1"
+      },
+      {
+       "package": "pwnat",
+       "command": "pwnat-1",
+       "url": "https://www.kali.org/tools/pwnat/#pwnat-1"
+      },
+      {
+       "package": "sshuttle",
+       "command": "sshuttle-1",
+       "url": "https://www.kali.org/tools/sshuttle/#sshuttle-1"
+      },
+      {
+       "package": "sslh",
+       "command": "sslh-1",
+       "url": "https://www.kali.org/tools/sslh/#sslh-1"
+      },
+      {
+       "package": "stunnel4",
+       "command": "stunnel4-1",
+       "url": "https://www.kali.org/tools/stunnel4/#stunnel4-1"
+      },
+      {
+       "package": "udptunnel",
+       "command": "udptunnel-1",
+       "url": "https://www.kali.org/tools/udptunnel/#udptunnel-1"
+      },
+      {
+       "package": "adaptixc2",
+       "command": "adaptixclient",
+       "url": "https://www.kali.org/tools/adaptixc2/#adaptixclient"
+      },
+      {
+       "package": "adaptixc2",
+       "command": "adaptixserver",
+       "url": "https://www.kali.org/tools/adaptixc2/#adaptixserver"
+      },
+      {
+       "package": "havoc",
+       "command": "havoc-1",
+       "url": "https://www.kali.org/tools/havoc/#havoc-1"
+      },
+      {
+       "package": "hoaxshell",
+       "command": "hoaxshell-1",
+       "url": "https://www.kali.org/tools/hoaxshell/#hoaxshell-1"
+      },
+      {
+       "package": "koadic",
+       "command": "koadic-1",
+       "url": "https://www.kali.org/tools/koadic/#koadic-1"
+      },
+      {
+       "package": "powershell-empire",
+       "command": "powershell-empire-1",
+       "url": "https://www.kali.org/tools/powershell-empire/#powershell-empire-1"
+      },
+      {
+       "package": "powershell-empire",
+       "command": "starkiller-start",
+       "url": "https://www.kali.org/tools/powershell-empire/#starkiller-start"
+      },
+      {
+       "package": "villain",
+       "command": "villain-1",
+       "url": "https://www.kali.org/tools/villain/#villain-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "exfiltration",
+   "name": "Exfiltration",
+   "zh": "数据外泄",
+   "description": "把数据带出去：通道选择、分块与伪装。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "impacket-scripts",
+       "command": "impacket-smbserver",
+       "url": "https://www.kali.org/tools/impacket-scripts/#impacket-smbserver"
+      },
+      {
+       "package": "goshs",
+       "command": "goshs-1",
+       "url": "https://www.kali.org/tools/goshs/#goshs-1"
+      },
+      {
+       "package": "raven",
+       "command": "raven-1",
+       "url": "https://www.kali.org/tools/raven/#raven-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "name": "Impact",
+   "zh": "影响",
+   "description": "造成影响：破坏、加密（勒索）、服务中断与擦除（红队演练中仅作演示）。",
+   "subcategories": [
+    {
+     "name": "(direct)",
+     "zh": "本类直属工具",
+     "tools": [
+      {
+       "package": "dhcpig",
+       "command": "dhcpig-1",
+       "url": "https://www.kali.org/tools/dhcpig/#dhcpig-1"
+      },
+      {
+       "package": "goldeneye",
+       "command": "goldeneye-1",
+       "url": "https://www.kali.org/tools/goldeneye/#goldeneye-1"
+      },
+      {
+       "package": "iaxflood",
+       "command": "iaxflood-1",
+       "url": "https://www.kali.org/tools/iaxflood/#iaxflood-1"
+      },
+      {
+       "package": "inviteflood",
+       "command": "inviteflood-1",
+       "url": "https://www.kali.org/tools/inviteflood/#inviteflood-1"
+      },
+      {
+       "package": "mdk3",
+       "command": "mdk3-1",
+       "url": "https://www.kali.org/tools/mdk3/#mdk3-1"
+      },
+      {
+       "package": "rtpflood",
+       "command": "rtpflood-1",
+       "url": "https://www.kali.org/tools/rtpflood/#rtpflood-1"
+      },
+      {
+       "package": "siege",
+       "command": "siege-1",
+       "url": "https://www.kali.org/tools/siege/#siege-1"
+      },
+      {
+       "package": "slowhttptest",
+       "command": "slowhttptest-1",
+       "url": "https://www.kali.org/tools/slowhttptest/#slowhttptest-1"
+      },
+      {
+       "package": "t50",
+       "command": "t50-1",
+       "url": "https://www.kali.org/tools/t50/#t50-1"
+      },
+      {
+       "package": "thc-ssl-dos",
+       "command": "thc-ssl-dos-1",
+       "url": "https://www.kali.org/tools/thc-ssl-dos/#thc-ssl-dos-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "forensics",
+   "name": "Forensics",
+   "zh": "数字取证",
+   "description": "事后取证：镜像、雕复、时间线、内存与日志分析。",
+   "subcategories": [
+    {
+     "name": "Digital Forensics",
+     "zh": "数字取证",
+     "tools": [
+      {
+       "package": "dc3dd",
+       "command": "dc3dd-1",
+       "url": "https://www.kali.org/tools/dc3dd/#dc3dd-1"
+      },
+      {
+       "package": "dcfldd",
+       "command": "dcfldd-1",
+       "url": "https://www.kali.org/tools/dcfldd/#dcfldd-1"
+      },
+      {
+       "package": "hexwalk",
+       "command": "hexwalk-1",
+       "url": "https://www.kali.org/tools/hexwalk/#hexwalk-1"
+      },
+      {
+       "package": "missidentify",
+       "command": "missidentify-1",
+       "url": "https://www.kali.org/tools/missidentify/#missidentify-1"
+      },
+      {
+       "package": "libpst",
+       "command": "readpst",
+       "url": "https://www.kali.org/tools/libpst/#readpst"
+      },
+      {
+       "package": "reglookup",
+       "command": "reglookup-1",
+       "url": "https://www.kali.org/tools/reglookup/#reglookup-1"
+      },
+      {
+       "package": "regripper",
+       "command": "regripper-1",
+       "url": "https://www.kali.org/tools/regripper/#regripper-1"
+      },
+      {
+       "package": "undbx",
+       "command": "undbx-1",
+       "url": "https://www.kali.org/tools/undbx/#undbx-1"
+      },
+      {
+       "package": "vinetto",
+       "command": "vinetto-1",
+       "url": "https://www.kali.org/tools/vinetto/#vinetto-1"
+      }
+     ]
+    },
+    {
+     "name": "Forensic Carving Tools",
+     "zh": "取证雕复工具",
+     "tools": [
+      {
+       "package": "ext3grep",
+       "command": "ext3grep-1",
+       "url": "https://www.kali.org/tools/ext3grep/#ext3grep-1"
+      },
+      {
+       "package": "ext4magic",
+       "command": "ext4magic-1",
+       "url": "https://www.kali.org/tools/ext4magic/#ext4magic-1"
+      },
+      {
+       "package": "extundelete",
+       "command": "extundelete-1",
+       "url": "https://www.kali.org/tools/extundelete/#extundelete-1"
+      },
+      {
+       "package": "foremost",
+       "command": "foremost-1",
+       "url": "https://www.kali.org/tools/foremost/#foremost-1"
+      },
+      {
+       "package": "magicrescue",
+       "command": "magicrescue-1",
+       "url": "https://www.kali.org/tools/magicrescue/#magicrescue-1"
+      },
+      {
+       "package": "myrescue",
+       "command": "myrescue-1",
+       "url": "https://www.kali.org/tools/myrescue/#myrescue-1"
+      },
+      {
+       "package": "pasco",
+       "command": "pasco-1",
+       "url": "https://www.kali.org/tools/pasco/#pasco-1"
+      },
+      {
+       "package": "testdisk",
+       "command": "photorec-1",
+       "url": "https://www.kali.org/tools/testdisk/#photorec-1"
+      },
+      {
+       "package": "pev",
+       "command": "readpe",
+       "url": "https://www.kali.org/tools/pev/#readpe"
+      },
+      {
+       "package": "recoverdm",
+       "command": "recoverdm-1",
+       "url": "https://www.kali.org/tools/recoverdm/#recoverdm-1"
+      },
+      {
+       "package": "recoverjpeg",
+       "command": "recoverjpeg-1",
+       "url": "https://www.kali.org/tools/recoverjpeg/#recoverjpeg-1"
+      },
+      {
+       "package": "rifiuti",
+       "command": "rifiuti-1",
+       "url": "https://www.kali.org/tools/rifiuti/#rifiuti-1"
+      },
+      {
+       "package": "rifiuti2",
+       "command": "rifiuti2-1",
+       "url": "https://www.kali.org/tools/rifiuti2/#rifiuti2-1"
+      },
+      {
+       "package": "safecopy",
+       "command": "safecopy-1",
+       "url": "https://www.kali.org/tools/safecopy/#safecopy-1"
+      },
+      {
+       "package": "scalpel",
+       "command": "scalpel-1",
+       "url": "https://www.kali.org/tools/scalpel/#scalpel-1"
+      },
+      {
+       "package": "scrounge-ntfs",
+       "command": "scrounge-ntfs-1",
+       "url": "https://www.kali.org/tools/scrounge-ntfs/#scrounge-ntfs-1"
+      },
+      {
+       "package": "testdisk",
+       "command": "testdisk-1",
+       "url": "https://www.kali.org/tools/testdisk/#testdisk-1"
+      }
+     ]
+    },
+    {
+     "name": "Forensic Imaging Tools",
+     "zh": "取证镜像工具",
+     "tools": [
+      {
+       "package": "afflib",
+       "command": "affcat",
+       "url": "https://www.kali.org/tools/afflib/#affcat"
+      },
+      {
+       "package": "ddrescue",
+       "command": "dd_rescue",
+       "url": "https://www.kali.org/tools/ddrescue/#dd_rescue"
+      },
+      {
+       "package": "libewf",
+       "command": "ewfacquire",
+       "url": "https://www.kali.org/tools/libewf/#ewfacquire"
+      },
+      {
+       "package": "guymager",
+       "command": "guymager-1",
+       "url": "https://www.kali.org/tools/guymager/#guymager-1"
+      }
+     ]
+    },
+    {
+     "name": "PDF Forensics Tools",
+     "zh": "PDF 取证工具",
+     "tools": [
+      {
+       "package": "pdfid",
+       "command": "pdfid-1",
+       "url": "https://www.kali.org/tools/pdfid/#pdfid-1"
+      },
+      {
+       "package": "pdf-parser",
+       "command": "pdf-parser-1",
+       "url": "https://www.kali.org/tools/pdf-parser/#pdf-parser-1"
+      }
+     ]
+    },
+    {
+     "name": "Sleuth Kit Suite",
+     "zh": "Sleuth Kit 套件",
+     "tools": [
+      {
+       "package": "autopsy",
+       "command": "autopsy-1",
+       "url": "https://www.kali.org/tools/autopsy/#autopsy-1"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "blkcalc",
+       "url": "https://www.kali.org/tools/sleuthkit/#blkcalc"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "blkcat",
+       "url": "https://www.kali.org/tools/sleuthkit/#blkcat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "blkls",
+       "url": "https://www.kali.org/tools/sleuthkit/#blkls"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "blkstat",
+       "url": "https://www.kali.org/tools/sleuthkit/#blkstat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "ffind",
+       "url": "https://www.kali.org/tools/sleuthkit/#ffind"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "fls",
+       "url": "https://www.kali.org/tools/sleuthkit/#fls"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "fsstat",
+       "url": "https://www.kali.org/tools/sleuthkit/#fsstat"
+      },
+      {
+       "package": "grokevt",
+       "command": "grokevt-addlog",
+       "url": "https://www.kali.org/tools/grokevt/#grokevt-addlog"
+      },
+      {
+       "package": "grokevt",
+       "command": "grokevt-builddb",
+       "url": "https://www.kali.org/tools/grokevt/#grokevt-builddb"
+      },
+      {
+       "package": "grokevt",
+       "command": "grokevt-findlogs",
+       "url": "https://www.kali.org/tools/grokevt/#grokevt-findlogs"
+      },
+      {
+       "package": "grokevt",
+       "command": "grokevt-parselog",
+       "url": "https://www.kali.org/tools/grokevt/#grokevt-parselog"
+      },
+      {
+       "package": "grokevt",
+       "command": "grokevt-ripdll",
+       "url": "https://www.kali.org/tools/grokevt/#grokevt-ripdll"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "hfind",
+       "url": "https://www.kali.org/tools/sleuthkit/#hfind"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "icat",
+       "url": "https://www.kali.org/tools/sleuthkit/#icat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "ifind",
+       "url": "https://www.kali.org/tools/sleuthkit/#ifind"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "ils",
+       "url": "https://www.kali.org/tools/sleuthkit/#ils"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "img_cat",
+       "url": "https://www.kali.org/tools/sleuthkit/#img_cat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "img_stat",
+       "url": "https://www.kali.org/tools/sleuthkit/#img_stat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "istat",
+       "url": "https://www.kali.org/tools/sleuthkit/#istat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "jcat",
+       "url": "https://www.kali.org/tools/sleuthkit/#jcat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "jls",
+       "url": "https://www.kali.org/tools/sleuthkit/#jls"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "mactime",
+       "url": "https://www.kali.org/tools/sleuthkit/#mactime"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "mmcat",
+       "url": "https://www.kali.org/tools/sleuthkit/#mmcat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "mmls",
+       "url": "https://www.kali.org/tools/sleuthkit/#mmls"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "mmstat",
+       "url": "https://www.kali.org/tools/sleuthkit/#mmstat"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "sigfind",
+       "url": "https://www.kali.org/tools/sleuthkit/#sigfind"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "sorter",
+       "url": "https://www.kali.org/tools/sleuthkit/#sorter"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "srch_strings",
+       "url": "https://www.kali.org/tools/sleuthkit/#srch_strings"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "tsk_comparedir",
+       "url": "https://www.kali.org/tools/sleuthkit/#tsk_comparedir"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "tsk_gettimes",
+       "url": "https://www.kali.org/tools/sleuthkit/#tsk_gettimes"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "tsk_loaddb",
+       "url": "https://www.kali.org/tools/sleuthkit/#tsk_loaddb"
+      },
+      {
+       "package": "sleuthkit",
+       "command": "tsk_recover",
+       "url": "https://www.kali.org/tools/sleuthkit/#tsk_recover"
+      },
+      {
+       "package": "binwalk",
+       "command": "binwalk-1",
+       "url": "https://www.kali.org/tools/binwalk/#binwalk-1"
+      },
+      {
+       "package": "binwalk3",
+       "command": "binwalk3-1",
+       "url": "https://www.kali.org/tools/binwalk3/#binwalk3-1"
+      },
+      {
+       "package": "bulk-extractor",
+       "command": "bulk_extractor",
+       "url": "https://www.kali.org/tools/bulk-extractor/#bulk_extractor"
+      },
+      {
+       "package": "chkrootkit",
+       "command": "chkrootkit-1",
+       "url": "https://www.kali.org/tools/chkrootkit/#chkrootkit-1"
+      },
+      {
+       "package": "galleta",
+       "command": "galleta-1",
+       "url": "https://www.kali.org/tools/galleta/#galleta-1"
+      },
+      {
+       "package": "hashdeep",
+       "command": "hashdeep-1",
+       "url": "https://www.kali.org/tools/hashdeep/#hashdeep-1"
+      },
+      {
+       "package": "rkhunter",
+       "command": "rkhunter-1",
+       "url": "https://www.kali.org/tools/rkhunter/#rkhunter-1"
+      },
+      {
+       "package": "ssdeep",
+       "command": "ssdeep-1",
+       "url": "https://www.kali.org/tools/ssdeep/#ssdeep-1"
+      },
+      {
+       "package": "unhide",
+       "command": "unhide-1",
+       "url": "https://www.kali.org/tools/unhide/#unhide-1"
+      },
+      {
+       "package": "xplico",
+       "command": "xplico-webui-start",
+       "url": "https://www.kali.org/tools/xplico/#xplico-webui-start"
+      },
+      {
+       "package": "yara",
+       "command": "yara-1",
+       "url": "https://www.kali.org/tools/yara/#yara-1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "services-and-other-tools",
+   "name": "Services And Other Tools",
+   "zh": "服务与其它工具",
+   "description": "系统服务、开发与通用工具。",
+   "subcategories": [
+    {
+     "name": "Reporting Tools",
+     "zh": "报告工具",
+     "tools": [
+      {
+       "package": "cherrytree",
+       "command": "cherrytree-1",
+       "url": "https://www.kali.org/tools/cherrytree/#cherrytree-1"
+      },
+      {
+       "package": "dradis",
+       "command": "dradis-start",
+       "url": "https://www.kali.org/tools/dradis/#dradis-start"
+      },
+      {
+       "package": "python-faraday",
+       "command": "faraday-start",
+       "url": "https://www.kali.org/tools/python-faraday/#faraday-start"
+      },
+      {
+       "package": "obsidian",
+       "command": "obsidian-1",
+       "url": "https://www.kali.org/tools/obsidian/#obsidian-1"
+      },
+      {
+       "package": "pipal",
+       "command": "pipal-1",
+       "url": "https://www.kali.org/tools/pipal/#pipal-1"
+      },
+      {
+       "package": "recordmydesktop",
+       "command": "recordmydesktop-1",
+       "url": "https://www.kali.org/tools/recordmydesktop/#recordmydesktop-1"
+      },
+      {
+       "package": "redeye",
+       "command": "redeye-start",
+       "url": "https://www.kali.org/tools/redeye/#redeye-start"
+      },
+      {
+       "package": "cutycapt",
+       "command": "cutycapt-1",
+       "url": "https://www.kali.org/tools/cutycapt/#cutycapt-1"
+      },
+      {
+       "package": "eyewitness",
+       "command": "eyewitness-1",
+       "url": "https://www.kali.org/tools/eyewitness/#eyewitness-1"
+      },
+      {
+       "package": "witnessme",
+       "command": "witnessme-1",
+       "url": "https://www.kali.org/tools/witnessme/#witnessme-1"
+      },
+      {
+       "package": "juice-shop",
+       "command": "juice-shop-start",
+       "url": "https://www.kali.org/tools/juice-shop/#juice-shop-start"
+      },
+      {
+       "package": "dvwa",
+       "command": "dvwa-start",
+       "url": "https://www.kali.org/tools/dvwa/#dvwa-start"
+      }
+     ]
+    },
+    {
+     "name": "System Services",
+     "zh": "系统服务",
+     "tools": [
+      {
+       "package": "beef-xss",
+       "command": "beef-xss-stop",
+       "url": "https://www.kali.org/tools/beef-xss/#beef-xss-stop"
+      },
+      {
+       "package": "defectdojo",
+       "command": "defectdojo-start",
+       "url": "https://www.kali.org/tools/defectdojo/#defectdojo-start"
+      },
+      {
+       "package": "defectdojo",
+       "command": "defectdojo-stop",
+       "url": "https://www.kali.org/tools/defectdojo/#defectdojo-stop"
+      },
+      {
+       "package": "dradis",
+       "command": "dradis-stop",
+       "url": "https://www.kali.org/tools/dradis/#dradis-stop"
+      },
+      {
+       "package": "dvwa",
+       "command": "dvwa-stop",
+       "url": "https://www.kali.org/tools/dvwa/#dvwa-stop"
+      },
+      {
+       "package": "python-faraday",
+       "command": "faraday-stop",
+       "url": "https://www.kali.org/tools/python-faraday/#faraday-stop"
+      },
+      {
+       "package": "gophish",
+       "command": "gophish-stop",
+       "url": "https://www.kali.org/tools/gophish/#gophish-stop"
+      },
+      {
+       "package": "gvm",
+       "command": "gvm-check-setup",
+       "url": "https://www.kali.org/tools/gvm/#gvm-check-setup"
+      },
+      {
+       "package": "gvm",
+       "command": "gvm-setup",
+       "url": "https://www.kali.org/tools/gvm/#gvm-setup"
+      },
+      {
+       "package": "gvm",
+       "command": "gvm-stop",
+       "url": "https://www.kali.org/tools/gvm/#gvm-stop"
+      },
+      {
+       "package": "juice-shop",
+       "command": "juice-shop-stop",
+       "url": "https://www.kali.org/tools/juice-shop/#juice-shop-stop"
+      },
+      {
+       "package": "portspoof",
+       "command": "portspoof-start",
+       "url": "https://www.kali.org/tools/portspoof/#portspoof-start"
+      },
+      {
+       "package": "portspoof",
+       "command": "portspoof-stop",
+       "url": "https://www.kali.org/tools/portspoof/#portspoof-stop"
+      },
+      {
+       "package": "redeye",
+       "command": "redeye-stop",
+       "url": "https://www.kali.org/tools/redeye/#redeye-stop"
+      },
+      {
+       "package": "powershell-empire",
+       "command": "starkiller-stop",
+       "url": "https://www.kali.org/tools/powershell-empire/#starkiller-stop"
+      },
+      {
+       "package": "xplico",
+       "command": "xplico-webui-stop",
+       "url": "https://www.kali.org/tools/xplico/#xplico-webui-stop"
+      },
+      {
+       "package": "arsenal-ng",
+       "command": "arsenal-ng-1",
+       "url": "https://www.kali.org/tools/arsenal-ng/#arsenal-ng-1"
+      },
+      {
+       "package": "gemini-cli",
+       "command": "gemini-cli-1",
+       "url": "https://www.kali.org/tools/gemini-cli/#gemini-cli-1"
+      },
+      {
+       "package": "hexstrike-ai",
+       "command": "hexstrike_server",
+       "url": "https://www.kali.org/tools/hexstrike-ai/#hexstrike_server"
+      },
+      {
+       "package": "kali-tweaks",
+       "command": "kali-tweaks-1",
+       "url": "https://www.kali.org/tools/kali-tweaks/#kali-tweaks-1"
+      },
+      {
+       "package": "powershell",
+       "command": "pwsh-1",
+       "url": "https://www.kali.org/tools/powershell/#pwsh-1"
+      },
+      {
+       "package": "shell-gpt",
+       "command": "shell-gpt",
+       "url": "https://www.kali.org/tools/shell-gpt/#shell-gpt"
+      },
+      {
+       "package": "tailscale",
+       "command": "tailscale-1",
+       "url": "https://www.kali.org/tools/tailscale/#tailscale-1"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "categories": 16,
+  "subcategories": 47,
+  "command_entries": 501,
+  "unique_packages": 418
+ }
+}

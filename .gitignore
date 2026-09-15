@@ -1,0 +1,29 @@
+# Linux 内核源码（2 GB+，可用 scripts/fetch_linux_kernel.sh 重新拉取）
+kernel/src/linux/
+
+# 编译产物
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.order
+*.symvers
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 抓取脚本的临时产物
+*.tmp
+/tmp/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
